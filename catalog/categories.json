@@ -1,0 +1,34 @@
+[
+  {
+    "id": "daily-routines",
+    "name": "Daily routines"
+  },
+  {
+    "id": "communication",
+    "name": "Communication"
+  },
+  {
+    "id": "feelings-and-regulation",
+    "name": "Feelings and regulation"
+  },
+  {
+    "id": "schedules-and-transitions",
+    "name": "Schedules and transitions"
+  },
+  {
+    "id": "social-situations",
+    "name": "Social situations"
+  },
+  {
+    "id": "learning-and-tasks",
+    "name": "Learning and tasks"
+  },
+  {
+    "id": "self-care-and-independence",
+    "name": "Self-care and independence"
+  },
+  {
+    "id": "safety-and-community",
+    "name": "Safety and community"
+  }
+]
