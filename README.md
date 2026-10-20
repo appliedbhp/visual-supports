@@ -14,7 +14,7 @@ Age is a starting filter. Allow children and caregivers to choose other age stra
 
 ## Current contents
 
-This starter contains 24 planned entries, one per category per age strand. **Artwork has not been generated yet.** Planned entries are ideas, not downloadable supports.
+The library contains 24 planned starter entries plus seven teen morning-routine PNG visuals. The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries are ideas, not downloadable supports.
 
 - `catalog/age-strands.json`: age definitions
 - `catalog/categories.json`: shared categories
@@ -39,3 +39,33 @@ Search includes planned entries and clearly labels their status. A future browsi
 ## Next milestone
 
 Choose an illustration style and create the same communication support (for example, “I need help”) for all three age strands. Review those together before expanding the library.
+
+## Morning routine: teen series
+
+### 1. Wake up
+
+![Wake up](visuals/12-18/daily-routines/morning-routine/01-wake-up.png)
+
+### 2. Use the toilet
+
+![Use the toilet](visuals/12-18/daily-routines/morning-routine/02-use-toilet.png)
+
+### 3. Wash hands
+
+![Wash hands](visuals/12-18/daily-routines/morning-routine/03-wash-hands.png)
+
+### 4. Brush teeth
+
+![Brush teeth](visuals/12-18/daily-routines/morning-routine/04-brush-teeth.png)
+
+### 5. Get dressed
+
+![Get dressed](visuals/12-18/daily-routines/morning-routine/05-get-dressed.png)
+
+### 6. Eat breakfast
+
+![Eat breakfast](visuals/12-18/daily-routines/morning-routine/06-eat-breakfast.png)
+
+### 7. Pack a bag
+
+![Pack a bag](visuals/12-18/daily-routines/morning-routine/07-pack-bag.png)
