@@ -14,7 +14,7 @@ Age is a starting filter. Allow children and caregivers to choose other age stra
 
 ## Current contents
 
-The library contains 24 planned starter entries plus seven teen morning-routine PNG visuals. The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries are ideas, not downloadable supports.
+The library contains 21 planned starter entries and ten PNG visuals. The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
 
 - `catalog/age-strands.json`: age definitions
 - `catalog/categories.json`: shared categories
@@ -36,9 +36,21 @@ python3 search.py --status ready
 
 Search includes planned entries and clearly labels their status. A future browsing website can use the same catalog. No child profiles or personal information are needed to filter by age.
 
-## Next milestone
+## Communication: I need help
 
-Choose an illustration style and create the same communication support (for example, “I need help”) for all three age strands. Review those together before expanding the library.
+Each image shows a request for help in a different everyday situation. Choose the scene that is most recognizable to the person using it.
+
+### Ages 0–5
+
+![A preschooler holds up a closed snack container and asks a caregiver for help.](visuals/0-5/communication/i-need-help.png)
+
+### Ages 6–11
+
+![A school-age child points to their backpack zipper and asks an adult for help.](visuals/6-11/communication/i-need-help.png)
+
+### Ages 12–18
+
+![A teen points to an open notebook and asks a peer for help.](visuals/12-18/communication/i-need-help.png)
 
 ## Morning routine: teen series
 

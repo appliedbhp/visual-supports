@@ -25,13 +25,20 @@
     "category": "communication",
     "keywords": [
       "communication",
-      "i need help"
+      "i need help",
+      "ask for help",
+      "request assistance",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/communication/i-need-help.png"
+    ],
+    "alt_text": "A preschooler holds up a closed snack container and asks a caregiver for help.",
+    "generation_prompt": "One square text-free visual support PNG, genuine transparent background. Attached image is solely a style and palette reference. Two abstract white figures with opaque white skin, dark ink contours, minimal facial features, simple flat fills of teal, lavender and blue. Editorial hand-drawn illustration, calm and age-respectful, clear expressive body language, uncluttered silhouette and generous margins. Show the request for assistance in progress. No text, speech bubbles, question marks, logos, backdrop, or shadow. A preschooler holds out a clearly closed teal snack container toward a seated caregiver, looking toward them with mouth slightly open as they request help. The caregiver turns attentively with open empty hands, while the child still holds the container.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository’s Pack a bag visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   },
   {
     "id": "0-5-feelings-and-regulation-001",
@@ -161,13 +168,20 @@
     "category": "communication",
     "keywords": [
       "communication",
-      "i need help"
+      "i need help",
+      "ask for help",
+      "request assistance",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/communication/i-need-help.png"
+    ],
+    "alt_text": "A school-age child points to their backpack zipper and asks an adult for help.",
+    "generation_prompt": "One square text-free visual support PNG, genuine transparent background. Attached image is solely a style and palette reference. Two abstract white figures with opaque white skin, dark ink contours, minimal facial features, simple flat fills of teal, lavender and blue. Editorial hand-drawn illustration, calm and age-respectful, clear expressive body language, uncluttered silhouette and generous margins. Show the request for assistance in progress. No text, speech bubbles, question marks, logos, backdrop, or shadow. An elementary-school child looks toward an adult and points at a stubborn zipper on a teal backpack held in their own lap, mouth slightly open asking for help. The adult looks toward the child, listening with relaxed hands.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository’s Pack a bag visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   },
   {
     "id": "6-11-feelings-and-regulation-001",
@@ -297,13 +311,20 @@
     "category": "communication",
     "keywords": [
       "communication",
-      "i need help"
+      "i need help",
+      "ask for help",
+      "request assistance",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/communication/i-need-help.png"
+    ],
+    "alt_text": "A teen points to an open notebook and asks a peer for help.",
+    "generation_prompt": "One square text-free visual support PNG, genuine transparent background. Attached image is solely a style and palette reference. Two abstract white figures with opaque white skin, dark ink contours, minimal facial features, simple flat fills of teal, lavender and blue. Editorial hand-drawn illustration, calm and age-respectful, clear expressive body language, uncluttered silhouette and generous margins. Show the request for assistance in progress. No text, speech bubbles, question marks, logos, backdrop, or shadow. A teen at a small table points at their open notebook and turns toward a seated peer with a small open mouth asking for help. The peer looks at the teen attentively. Show only simple blank pages and a pencil, no marks.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository’s Pack a bag visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   },
   {
     "id": "12-18-feelings-and-regulation-001",
