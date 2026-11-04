@@ -124,13 +124,20 @@
     "category": "self-care-and-independence",
     "keywords": [
       "self care and independence",
-      "wash hands"
+      "wash hands",
+      "handwashing",
+      "soap",
+      "hygiene"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/wash-hands.png"
+    ],
+    "alt_text": "A preschooler stands on a step stool and washes soapy hands at a sink.",
+    "generation_prompt": "One square transparent PNG visual support. Match the reference's clean editorial line art, abstract opaque white figures, dark outlines, flat teal, blue and lavender. Show one person washing hands with visible white suds, rubbing palms together over a compact sink with a running faucet and simple soap pump. Make hands, bubbles and faucet readable at small size. Calm expression, profile or three-quarter view, uncluttered. No letters, numbers, labels, backdrop, shadow, or border. All essential parts inside generous margins. Preschool child on a sturdy teal step stool at a home sink, with both feet flat on the stool.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   },
   {
     "id": "0-5-safety-and-community-001",
@@ -274,13 +281,20 @@
     "category": "self-care-and-independence",
     "keywords": [
       "self care and independence",
-      "wash hands"
+      "wash hands",
+      "handwashing",
+      "soap",
+      "hygiene"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/wash-hands.png"
+    ],
+    "alt_text": "A school-age child rubs soapy hands together at a school sink.",
+    "generation_prompt": "One square transparent PNG visual support. Match the reference's clean editorial line art, abstract opaque white figures, dark outlines, flat teal, blue and lavender. Show one person washing hands with visible white suds, rubbing palms together over a compact sink with a running faucet and simple soap pump. Make hands, bubbles and faucet readable at small size. Calm expression, profile or three-quarter view, uncluttered. No letters, numbers, labels, backdrop, shadow, or border. All essential parts inside generous margins. Elementary-school child standing at a small school sink, casual long-sleeve shirt with sleeves rolled up.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   },
   {
     "id": "6-11-safety-and-community-001",
@@ -424,13 +438,20 @@
     "category": "self-care-and-independence",
     "keywords": [
       "self care and independence",
-      "wash hands"
+      "wash hands",
+      "handwashing",
+      "soap",
+      "hygiene"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/wash-hands.png"
+    ],
+    "alt_text": "A teen washes soapy hands at a wall-mounted sink.",
+    "generation_prompt": "One square transparent PNG visual support. Match the reference's clean editorial line art, abstract opaque white figures, dark outlines, flat teal, blue and lavender. Show one person washing hands with visible white suds, rubbing palms together over a compact sink with a running faucet and simple soap pump. Make hands, bubbles and faucet readable at small size. Calm expression, profile or three-quarter view, uncluttered. No letters, numbers, labels, backdrop, shadow, or border. All essential parts inside generous margins. Teen with mature proportions at a simple wall-mounted restroom sink, lavender overshirt with sleeves rolled back.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   },
   {
     "id": "12-18-safety-and-community-001",

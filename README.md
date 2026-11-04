@@ -14,7 +14,7 @@ Age is a starting filter. Allow children and caregivers to choose other age stra
 
 ## Current contents
 
-The library contains 18 planned starter entries and 13 PNG visuals. The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
+The library contains 15 planned starter entries and 16 PNG visuals. The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
 
 - `catalog/age-strands.json`: age definitions
 - `catalog/categories.json`: shared categories
@@ -67,6 +67,20 @@ Use these visuals to ask for a pause during play, a group activity, or studying.
 ### Ages 12–18
 
 ![A teen asks a peer to pause while studying together.](visuals/12-18/feelings-and-regulation/i-need-a-break.png)
+
+## Self-care and independence: Wash hands
+
+### Ages 0–5
+
+![A preschooler stands on a step stool and washes soapy hands at a sink.](visuals/0-5/self-care-and-independence/wash-hands.png)
+
+### Ages 6–11
+
+![A school-age child rubs soapy hands together at a school sink.](visuals/6-11/self-care-and-independence/wash-hands.png)
+
+### Ages 12–18
+
+![A teen washes soapy hands at a wall-mounted sink.](visuals/12-18/self-care-and-independence/wash-hands.png)
 
 ## Morning routine: teen series
 
