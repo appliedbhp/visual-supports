@@ -49,13 +49,20 @@
     "category": "feelings-and-regulation",
     "keywords": [
       "feelings and regulation",
-      "i need a break"
+      "i need a break",
+      "request a pause",
+      "take a break",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/feelings-and-regulation/i-need-a-break.png"
+    ],
+    "alt_text": "A preschooler pauses block play and gestures to a caregiver near a floor cushion.",
+    "generation_prompt": "Create a single square text-free visual-support PNG with a truly transparent background. Use reference solely for the clean hand-drawn editorial style, abstract white figures, dark ink contours and flat teal, lavender and blue. Natural age-respectful proportions and calm faces. Use clear gestures, few props and generous margins. The young person is choosing to pause an activity and the other person is listening. No lettering, marks, labels, bubbles, arrows, scene backdrop or shadows. A preschool child pauses putting blocks together and takes one step toward a cozy floor cushion, looking back and holding one hand palm outward at chest height toward a seated caregiver who acknowledges them warmly.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   },
   {
     "id": "0-5-schedules-and-transitions-001",
@@ -192,13 +199,20 @@
     "category": "feelings-and-regulation",
     "keywords": [
       "feelings and regulation",
-      "i need a break"
+      "i need a break",
+      "request a pause",
+      "take a break",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/feelings-and-regulation/i-need-a-break.png"
+    ],
+    "alt_text": "A child asks an adult for a pause during a tabletop activity.",
+    "generation_prompt": "Create a single square text-free visual-support PNG with a truly transparent background. Use reference solely for the clean hand-drawn editorial style, abstract white figures, dark ink contours and flat teal, lavender and blue. Natural age-respectful proportions and calm faces. Use clear gestures, few props and generous margins. The young person is choosing to pause an activity and the other person is listening. No lettering, marks, labels, bubbles, arrows, scene backdrop or shadows. An elementary school child at a group activity table sets a pencil down and gestures toward a nearby quiet chair, looking at an attentive adult and speaking calmly to ask for a short pause. A blank worksheet stays on the table.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   },
   {
     "id": "6-11-schedules-and-transitions-001",
@@ -335,13 +349,20 @@
     "category": "feelings-and-regulation",
     "keywords": [
       "feelings and regulation",
-      "i need a break"
+      "i need a break",
+      "request a pause",
+      "take a break",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/feelings-and-regulation/i-need-a-break.png"
+    ],
+    "alt_text": "A teen asks a peer to pause while studying together.",
+    "generation_prompt": "Create a single square text-free visual-support PNG with a truly transparent background. Use reference solely for the clean hand-drawn editorial style, abstract white figures, dark ink contours and flat teal, lavender and blue. Natural age-respectful proportions and calm faces. Use clear gestures, few props and generous margins. The young person is choosing to pause an activity and the other person is listening. No lettering, marks, labels, bubbles, arrows, scene backdrop or shadows. A teen at a small shared study table lifts an open hand at chest height and calmly speaks to their attentive peer while sliding their own notebook slightly away, asking to pause the work. A simple empty chair beside the table suggests a place to take a breather.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   },
   {
     "id": "12-18-schedules-and-transitions-001",

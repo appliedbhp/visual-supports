@@ -14,7 +14,7 @@ Age is a starting filter. Allow children and caregivers to choose other age stra
 
 ## Current contents
 
-The library contains 21 planned starter entries and ten PNG visuals. The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
+The library contains 18 planned starter entries and 13 PNG visuals. The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
 
 - `catalog/age-strands.json`: age definitions
 - `catalog/categories.json`: shared categories
@@ -51,6 +51,22 @@ Each image shows a request for help in a different everyday situation. Choose th
 ### Ages 12–18
 
 ![A teen points to an open notebook and asks a peer for help.](visuals/12-18/communication/i-need-help.png)
+
+## Feelings and regulation: I need a break
+
+Use these visuals to ask for a pause during play, a group activity, or studying.
+
+### Ages 0–5
+
+![A preschooler pauses block play and gestures to a caregiver near a floor cushion.](visuals/0-5/feelings-and-regulation/i-need-a-break.png)
+
+### Ages 6–11
+
+![A child asks an adult for a pause during a tabletop activity.](visuals/6-11/feelings-and-regulation/i-need-a-break.png)
+
+### Ages 12–18
+
+![A teen asks a peer to pause while studying together.](visuals/12-18/feelings-and-regulation/i-need-a-break.png)
 
 ## Morning routine: teen series
 
