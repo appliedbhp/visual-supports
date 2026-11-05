@@ -88,3 +88,7 @@ Each age strand now has the same ten steps. New images are marked `draft` in the
 | Leave home | [PNG](visuals/0-5/daily-routines/morning-routine/10-leave-home.png) | [PNG](visuals/6-11/daily-routines/morning-routine/10-leave-home.png) | [PNG](visuals/12-18/daily-routines/morning-routine/10-leave-home.png) |
 
 Drafts can be found with `python3 search.py --status draft`.
+
+## Learning and planning
+
+[Review 19 new draft visuals](LEARNING-AND-PLANNING-REVIEW.md): writing in a journal and planning with a calendar in all three age strands, plus shared calendar, notebook, folder, pencils, pens, markers, crayons, glue, tape, scissors, binder, book, and library images. Shared objects are indexed for ages 0–18 and stored once under `visuals/shared/learning-and-tasks/`.

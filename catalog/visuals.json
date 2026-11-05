@@ -1006,5 +1006,416 @@
     ],
     "alt_text": "Abstract white figure: leave home.",
     "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Colored Notionists-inspired teen editorial style: thin confident slightly irregular ink lines, small oval head, long lean limbs, understated expression with angular line nose, natural asymmetry, lavender loose top and blue trousers. Mature age-respectful proportions. Action: Leaving home: full-body figure wearing a teal backpack stepping outward through a simple open door frame, one hand on open door handle. Show figure walking OUT, away from doorway, calm ready expression. Only door and character, no room scenery."
+  },
+  {
+    "id": "0-5-learning-write-in-journal",
+    "title": "Write In Journal",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "write",
+      "in",
+      "journal",
+      "learning",
+      "action",
+      "planning"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/write-in-journal.png"
+    ],
+    "alt_text": "Abstract white figure: write in journal.",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. STYLE REFERENCE ONLY attached. Same abstract gender-neutral race-neutral bald opaque WHITE figure with minimal face; no skin tones, hair or demographic accessories. Dylan-inspired preschool: very chunky rounded contours, large round head, short soft limbs, tiny dot eyes and gentle smile, teal shirt blue bottoms. ACTION: Seated at a small simple desk actively writing in an open personal journal with a blue pen, pen tip visibly on page, other hand holds page. Pages have only a few nonlinguistic short wavy strokes, no letters or words. Journal clear focal object."
+  },
+  {
+    "id": "0-5-learning-plan-with-calendar",
+    "title": "Plan With Calendar",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "plan",
+      "with",
+      "calendar",
+      "learning",
+      "action",
+      "planning"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/plan-with-calendar.png"
+    ],
+    "alt_text": "Abstract white figure: plan with calendar.",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. STYLE REFERENCE ONLY attached. Same abstract gender-neutral race-neutral bald opaque WHITE figure with minimal face; no skin tones, hair or demographic accessories. Dylan-inspired preschool: very chunky rounded contours, large round head, short soft limbs, tiny dot eyes and gentle smile, teal shirt blue bottoms. ACTION: Seated at simple desk planning with a standing desk calendar: one hand points to an empty calendar grid square while other holds a blue pen near the calendar. Calendar has blank 7-column grid, a few colored dot stickers, no date numbers, words or writing. Clear deliberate planning action."
+  },
+  {
+    "id": "6-11-learning-write-in-journal",
+    "title": "Write In Journal",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "write",
+      "in",
+      "journal",
+      "learning",
+      "action",
+      "planning"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/write-in-journal.png"
+    ],
+    "alt_text": "Abstract white figure: write in journal.",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. STYLE REFERENCE ONLY attached. Same abstract gender-neutral race-neutral bald opaque WHITE figure with minimal face; no skin tones, hair or demographic accessories. Colored Lorelei-inspired: expressive minimal hand-drawn fine ink contours, lean school-age proportions, oval head, blue shirt with teal trim and dark bottoms. ACTION: Seated at a small simple desk actively writing in an open personal journal with a blue pen, pen tip visibly on page, other hand holds page. Pages have only a few nonlinguistic short wavy strokes, no letters or words. Journal clear focal object."
+  },
+  {
+    "id": "6-11-learning-plan-with-calendar",
+    "title": "Plan With Calendar",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "plan",
+      "with",
+      "calendar",
+      "learning",
+      "action",
+      "planning"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/plan-with-calendar.png"
+    ],
+    "alt_text": "Abstract white figure: plan with calendar.",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. STYLE REFERENCE ONLY attached. Same abstract gender-neutral race-neutral bald opaque WHITE figure with minimal face; no skin tones, hair or demographic accessories. Colored Lorelei-inspired: expressive minimal hand-drawn fine ink contours, lean school-age proportions, oval head, blue shirt with teal trim and dark bottoms. ACTION: Seated at simple desk planning with a standing desk calendar: one hand points to an empty calendar grid square while other holds a blue pen near the calendar. Calendar has blank 7-column grid, a few colored dot stickers, no date numbers, words or writing. Clear deliberate planning action."
+  },
+  {
+    "id": "12-18-learning-write-in-journal",
+    "title": "Write In Journal",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "write",
+      "in",
+      "journal",
+      "learning",
+      "action",
+      "planning"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/write-in-journal.png"
+    ],
+    "alt_text": "Abstract white figure: write in journal.",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. STYLE REFERENCE ONLY attached. Same abstract gender-neutral race-neutral bald opaque WHITE figure with minimal face; no skin tones, hair or demographic accessories. Colored Notionists-inspired: mature editorial hand-drawn fine irregular contours, long lean limbs, small oval head, tiny eyes and angular line nose, lavender loose top blue trousers, relaxed asymmetry. ACTION: Seated at a small simple desk actively writing in an open personal journal with a blue pen, pen tip visibly on page, other hand holds page. Pages have only a few nonlinguistic short wavy strokes, no letters or words. Journal clear focal object."
+  },
+  {
+    "id": "12-18-learning-plan-with-calendar",
+    "title": "Plan With Calendar",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "plan",
+      "with",
+      "calendar",
+      "learning",
+      "action",
+      "planning"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/plan-with-calendar.png"
+    ],
+    "alt_text": "Abstract white figure: plan with calendar.",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. STYLE REFERENCE ONLY attached. Same abstract gender-neutral race-neutral bald opaque WHITE figure with minimal face; no skin tones, hair or demographic accessories. Colored Notionists-inspired: mature editorial hand-drawn fine irregular contours, long lean limbs, small oval head, tiny eyes and angular line nose, lavender loose top blue trousers, relaxed asymmetry. ACTION: Seated at simple desk planning with a standing desk calendar: one hand points to an empty calendar grid square while other holds a blue pen near the calendar. Calendar has blank 7-column grid, a few colored dot stickers, no date numbers, words or writing. Clear deliberate planning action."
+  },
+  {
+    "id": "shared-learning-calendar",
+    "title": "Calendar",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "calendar",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/calendar.png"
+    ],
+    "alt_text": "Calendar",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: One standing desktop calendar with binding rings, blank seven-column grid, a few colored circle marks, no numbers or words."
+  },
+  {
+    "id": "shared-learning-notebook",
+    "title": "Notebook",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "notebook",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/notebook.png"
+    ],
+    "alt_text": "Notebook",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: One closed blue spiral-bound notebook, white paper edges and teal elastic band, blank cover, clearly visible side spiral."
+  },
+  {
+    "id": "shared-learning-folder",
+    "title": "Folder",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "folder",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/folder.png"
+    ],
+    "alt_text": "Folder",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: One slightly open yellow tabbed document folder containing two blank white sheets; simple folder silhouette."
+  },
+  {
+    "id": "shared-learning-pencils",
+    "title": "Pencils",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "pencils",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/pencils.png"
+    ],
+    "alt_text": "Pencils",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: Three sharpened graphite pencils slightly fanned, yellow, blue and teal bodies with coral erasers, white sharpened wood and ink tips. No colored lead."
+  },
+  {
+    "id": "shared-learning-pens",
+    "title": "Pens",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "pens",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/pens.png"
+    ],
+    "alt_text": "Pens",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: Three ballpoint pens slightly fanned, clear narrow ink nibs, pocket clips and blue teal lavender bodies. Distinct from markers."
+  },
+  {
+    "id": "shared-learning-markers",
+    "title": "Markers",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "markers",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/markers.png"
+    ],
+    "alt_text": "Markers",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: Three broad felt-tip markers with thick barrels and colored cap ends; one uncapped showing broad chisel nib, blue teal coral."
+  },
+  {
+    "id": "shared-learning-crayons",
+    "title": "Crayons",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "crayons",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/crayons.png"
+    ],
+    "alt_text": "Crayons",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: Four short chunky wax crayons with pointed wax tips and simple paper wrapper bands, coral blue teal yellow. No wrapper text."
+  },
+  {
+    "id": "shared-learning-glue",
+    "title": "Glue",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "glue",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/glue.png"
+    ],
+    "alt_text": "Glue",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: One white school glue squeeze bottle with coral pointed nozzle and blank blue label rectangle. No text."
+  },
+  {
+    "id": "shared-learning-tape",
+    "title": "Tape",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "tape",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/tape.png"
+    ],
+    "alt_text": "Tape",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: One roll of clear adhesive tape with a short curled strip peeled away; white and blue ring with teal accent. Make hole in roll clearly visible."
+  },
+  {
+    "id": "shared-learning-scissors",
+    "title": "Scissors",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "scissors",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/scissors.png"
+    ],
+    "alt_text": "Scissors",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: One pair of classroom scissors, teal rounded finger loops, white metal blades with ink contours, slightly open, clear pivot dot."
+  },
+  {
+    "id": "shared-learning-binder",
+    "title": "Binder",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "binder",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/binder.png"
+    ],
+    "alt_text": "Binder",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: One open blue three-ring binder, three visible metal rings on central spine and a few blank white sheets, clearly different from notebook."
+  },
+  {
+    "id": "shared-learning-book",
+    "title": "Book",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "book",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/book.png"
+    ],
+    "alt_text": "Book",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: One open hardcover book with teal cover, white pages with no writing, blue bookmark ribbon."
+  },
+  {
+    "id": "shared-learning-library",
+    "title": "Library",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "library",
+      "learning",
+      "object",
+      "supplies"
+    ],
+    "status": "draft",
+    "style": "shared-flat-outline",
+    "assets": [
+      "visuals/shared/learning-and-tasks/library.png"
+    ],
+    "alt_text": "Library",
+    "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: A small library vignette: two short bookcases filled with upright colorful books and a simple reading chair with an open book on a small table between them. No people, signs or text, no whole room background. Recognizable place icon rather than single book."
   }
 ]
