@@ -187,3 +187,31 @@ Use these visuals to cue attention to a single action in a longer task.
 ![A teen folds one T-shirt at a table.](visuals/12-18/learning-and-tasks/one-step-at-a-time.png)
 
 [Girl version](visuals/12-18/learning-and-tasks/one-step-at-a-time-girl.png)
+
+## Put materials away
+
+### Ages 0–5
+
+![A preschooler puts a toy truck into a toy bin.](visuals/0-5/schedules-and-transitions/put-materials-away.png)
+
+### Ages 6–11
+
+![A school-age child returns a pencil to a classroom supply tray.](visuals/6-11/schedules-and-transitions/put-materials-away.png)
+
+### Ages 12–18
+
+![A teen puts a notebook on a shelf above a study desk.](visuals/12-18/schedules-and-transitions/put-materials-away.png)
+
+## Stop at the curb
+
+### Ages 0–5
+
+![A preschooler holds a caregiver’s hand while waiting at the curb by a crosswalk.](visuals/0-5/safety-and-community/stop-at-the-curb.png)
+
+### Ages 6–11
+
+![A school-age child with a backpack pauses at the curb by a crosswalk.](visuals/6-11/safety-and-community/stop-at-the-curb.png)
+
+### Ages 12–18
+
+![A teen pauses at the curb by a crosswalk.](visuals/12-18/safety-and-community/stop-at-the-curb.png)

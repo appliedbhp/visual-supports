@@ -909,5 +909,149 @@
         "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
       }
     ]
+  },
+  {
+    "id": "0-5-put-materials-away",
+    "title": "Put materials away",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "cleanup",
+      "clean up",
+      "tidy",
+      "put away",
+      "transition"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/schedules-and-transitions/put-materials-away.png"
+    ],
+    "alt_text": "A preschooler puts a toy truck into a toy bin.",
+    "generation_prompt": "Create ONE square transparent PNG educational visual support for Put materials away. A preschool child aged 4 places a toy truck into a low open toy bin. Make age readable through proportions and props. All characters are explicitly gender ambiguous and entirely bald with smooth heads, minimal dot eyes, simple noses, no eyelashes, makeup, facial hair, jewelry or gender-coded anatomy. Opaque white abstract skin, plain relaxed crewneck long-sleeve tops, straight-leg trousers, simple sneakers, no patterns. Calm editorial pen-and-ink illustration, fine slightly irregular ink #24243B lines, flat limited accent palette lavender #A78BFA, teal #2CC6B0, blue #4C8DFF and pale yellow #FFD447. Clear gesture readable at small size. Frame the whole action with generous margin. Only the characters and essential props, true transparent alpha outside, no floor except essential curb and crosswalk cue, no shadows. No text, letters, logos, border, or arrows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-put-materials-away",
+    "title": "Put materials away",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "cleanup",
+      "clean up",
+      "tidy",
+      "put away",
+      "transition"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/schedules-and-transitions/put-materials-away.png"
+    ],
+    "alt_text": "A school-age child returns a pencil to a classroom supply tray.",
+    "generation_prompt": "Create ONE square transparent PNG educational visual support for Put materials away. A school-age child aged 9 places a colored pencil into an open classroom supply tray. Make age readable through proportions and props. All characters are explicitly gender ambiguous and entirely bald with smooth heads, minimal dot eyes, simple noses, no eyelashes, makeup, facial hair, jewelry or gender-coded anatomy. Opaque white abstract skin, plain relaxed crewneck long-sleeve tops, straight-leg trousers, simple sneakers, no patterns. Calm editorial pen-and-ink illustration, fine slightly irregular ink #24243B lines, flat limited accent palette lavender #A78BFA, teal #2CC6B0, blue #4C8DFF and pale yellow #FFD447. Clear gesture readable at small size. Frame the whole action with generous margin. Only the characters and essential props, true transparent alpha outside, no floor except essential curb and crosswalk cue, no shadows. No text, letters, logos, border, or arrows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-put-materials-away",
+    "title": "Put materials away",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "cleanup",
+      "clean up",
+      "tidy",
+      "put away",
+      "transition"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/schedules-and-transitions/put-materials-away.png"
+    ],
+    "alt_text": "A teen puts a notebook on a shelf above a study desk.",
+    "generation_prompt": "Create ONE square transparent PNG educational visual support for Put materials away. A teen aged 15 slides a closed notebook onto a shelf above a study desk. Make age readable through proportions and props. All characters are explicitly gender ambiguous and entirely bald with smooth heads, minimal dot eyes, simple noses, no eyelashes, makeup, facial hair, jewelry or gender-coded anatomy. Opaque white abstract skin, plain relaxed crewneck long-sleeve tops, straight-leg trousers, simple sneakers, no patterns. Calm editorial pen-and-ink illustration, fine slightly irregular ink #24243B lines, flat limited accent palette lavender #A78BFA, teal #2CC6B0, blue #4C8DFF and pale yellow #FFD447. Clear gesture readable at small size. Frame the whole action with generous margin. Only the characters and essential props, true transparent alpha outside, no floor except essential curb and crosswalk cue, no shadows. No text, letters, logos, border, or arrows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-stop-at-the-curb",
+    "title": "Stop at the curb",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "safety-and-community",
+    "keywords": [
+      "street safety",
+      "pedestrian",
+      "crosswalk",
+      "wait",
+      "curb"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/safety-and-community/stop-at-the-curb.png"
+    ],
+    "alt_text": "A preschooler holds a caregiver’s hand while waiting at the curb by a crosswalk.",
+    "generation_prompt": "Create ONE square transparent PNG educational visual support for Stop at the curb. A preschool child aged 4 waits just behind the edge of a curb with a taller caregiver, both looking left, with two broad crosswalk stripes starting at the curb. Make age readable through proportions and props. All characters are explicitly gender ambiguous and entirely bald with smooth heads, minimal dot eyes, simple noses, no eyelashes, makeup, facial hair, jewelry or gender-coded anatomy. Opaque white abstract skin, plain relaxed crewneck long-sleeve tops, straight-leg trousers, simple sneakers, no patterns. Calm editorial pen-and-ink illustration, fine slightly irregular ink #24243B lines, flat limited accent palette lavender #A78BFA, teal #2CC6B0, blue #4C8DFF and pale yellow #FFD447. Clear gesture readable at small size. Frame the whole action with generous margin. Only the characters and essential props, true transparent alpha outside, no floor except essential curb and crosswalk cue, no shadows. No text, letters, logos, border, or arrows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-stop-at-the-curb",
+    "title": "Stop at the curb",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "safety-and-community",
+    "keywords": [
+      "street safety",
+      "pedestrian",
+      "crosswalk",
+      "wait",
+      "curb"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/safety-and-community/stop-at-the-curb.png"
+    ],
+    "alt_text": "A school-age child with a backpack pauses at the curb by a crosswalk.",
+    "generation_prompt": "Create ONE square transparent PNG educational visual support for Stop at the curb. A school-age child aged 9 waits just behind the edge of a curb and looks left, with two broad crosswalk stripes starting at the curb. Make age readable through proportions and props. All characters are explicitly gender ambiguous and entirely bald with smooth heads, minimal dot eyes, simple noses, no eyelashes, makeup, facial hair, jewelry or gender-coded anatomy. Opaque white abstract skin, plain relaxed crewneck long-sleeve tops, straight-leg trousers, simple sneakers, no patterns. Calm editorial pen-and-ink illustration, fine slightly irregular ink #24243B lines, flat limited accent palette lavender #A78BFA, teal #2CC6B0, blue #4C8DFF and pale yellow #FFD447. Clear gesture readable at small size. Frame the whole action with generous margin. Only the characters and essential props, true transparent alpha outside, no floor except essential curb and crosswalk cue, no shadows. No text, letters, logos, border, or arrows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-stop-at-the-curb",
+    "title": "Stop at the curb",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "safety-and-community",
+    "keywords": [
+      "street safety",
+      "pedestrian",
+      "crosswalk",
+      "wait",
+      "curb"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/safety-and-community/stop-at-the-curb.png"
+    ],
+    "alt_text": "A teen pauses at the curb by a crosswalk.",
+    "generation_prompt": "Create ONE square transparent PNG educational visual support for Stop at the curb. A teen aged 15 waits just behind the edge of a curb and looks left, with two broad crosswalk stripes starting at the curb. Make age readable through proportions and props. All characters are explicitly gender ambiguous and entirely bald with smooth heads, minimal dot eyes, simple noses, no eyelashes, makeup, facial hair, jewelry or gender-coded anatomy. Opaque white abstract skin, plain relaxed crewneck long-sleeve tops, straight-leg trousers, simple sneakers, no patterns. Calm editorial pen-and-ink illustration, fine slightly irregular ink #24243B lines, flat limited accent palette lavender #A78BFA, teal #2CC6B0, blue #4C8DFF and pale yellow #FFD447. Clear gesture readable at small size. Frame the whole action with generous margin. Only the characters and essential props, true transparent alpha outside, no floor except essential curb and crosswalk cue, no shadows. No text, letters, logos, border, or arrows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   }
 ]
