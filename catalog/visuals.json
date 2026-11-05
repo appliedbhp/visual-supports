@@ -150,13 +150,30 @@
     "category": "learning-and-tasks",
     "keywords": [
       "learning and tasks",
-      "one step at a time"
+      "one step at a time",
+      "break down tasks",
+      "focus on one step"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/one-step-at-a-time.png",
+      "visuals/0-5/learning-and-tasks/one-step-at-a-time-girl.png"
+    ],
+    "alt_text": "A preschooler puts one block into a toy bin.",
+    "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 0-5. Show a single preschooler, gender-neutral abstract bald figure. Scene: a preschooler places one large teal block into a low open toy bin. Two other blocks rest to the side. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/0-5/learning-and-tasks/one-step-at-a-time-girl.png",
+        "alt_text": "A preschooler depicted as a girl puts one block into a toy bin.",
+        "generation_prompt": "Generate ONE square 1:1 transparent PNG visual support. Match attached style reference: white abstract skin, smooth dark ink outlines, editorial illustration, solid flat color. A preschool girl with short curly bob kneels to place one teal block into a lavender toy bin, two spare yellow blocks to the side. Show whole figure and props isolated. No text. The background must be pure empty transparency, no glow, shadows, aura, haze or colored pixels outside the silhouettes. Preserve opaque white inside the figure.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "0-5-self-care-and-independence-001",
@@ -362,13 +379,30 @@
     "category": "learning-and-tasks",
     "keywords": [
       "learning and tasks",
-      "one step at a time"
+      "one step at a time",
+      "break down tasks",
+      "focus on one step"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/one-step-at-a-time.png",
+      "visuals/6-11/learning-and-tasks/one-step-at-a-time-girl.png"
+    ],
+    "alt_text": "A school-age child attaches one wing to a model airplane.",
+    "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 6-11. Show a single school-age child, gender-neutral abstract bald figure. Scene: a child assembles a three-piece simple model airplane at a desk, connecting one wing to the plane body, with the other wing waiting on the desk. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/6-11/learning-and-tasks/one-step-at-a-time-girl.png",
+        "alt_text": "A school-age child depicted as a girl attaches one wing to a model airplane.",
+        "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 6-11. Show a single school-age child, a girl with two braids. Scene: a child assembles a three-piece simple model airplane at a desk, connecting one wing to the plane body, with the other wing waiting on the desk. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "6-11-self-care-and-independence-001",
@@ -574,13 +608,30 @@
     "category": "learning-and-tasks",
     "keywords": [
       "learning and tasks",
-      "one step at a time"
+      "one step at a time",
+      "break down tasks",
+      "focus on one step"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/one-step-at-a-time.png",
+      "visuals/12-18/learning-and-tasks/one-step-at-a-time-girl.png"
+    ],
+    "alt_text": "A teen folds one T-shirt at a table.",
+    "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 12-18. Show a single teen, gender-neutral abstract bald figure. Scene: a teen folds one teal T-shirt on a table, with a small stack of other shirts off to the side. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/learning-and-tasks/one-step-at-a-time-girl.png",
+        "alt_text": "A teen depicted as a girl folds one T-shirt at a table.",
+        "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 12-18. Show a single teen, a girl with low ponytail. Scene: a teen folds one teal T-shirt on a table, with a small stack of other shirts off to the side. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-self-care-and-independence-001",

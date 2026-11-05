@@ -14,7 +14,7 @@ Age is a starting filter. Allow children and caregivers to choose other age stra
 
 ## Current contents
 
-The library contains 12 planned starter entries and 38 PNG visuals (19 original illustrations and 19 companion versions featuring girls). The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
+The library contains 9 planned starter entries and 44 PNG visuals (22 original illustrations and 22 companion versions featuring girls). The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
 
 - `catalog/age-strands.json`: age definitions
 - `catalog/categories.json`: shared categories
@@ -165,3 +165,25 @@ Each pair shows one person handing a shared object to someone else for their tur
 ![A teen hands a game controller to another teen.](visuals/12-18/social-situations/taking-turns.png)
 
 [Girl version](visuals/12-18/social-situations/taking-turns-girl.png)
+
+## Learning and tasks: One step at a time
+
+Use these visuals to cue attention to a single action in a longer task.
+
+### Ages 0–5
+
+![A preschooler puts one block into a toy bin.](visuals/0-5/learning-and-tasks/one-step-at-a-time.png)
+
+[Girl version](visuals/0-5/learning-and-tasks/one-step-at-a-time-girl.png)
+
+### Ages 6–11
+
+![A school-age child attaches one wing to a model airplane.](visuals/6-11/learning-and-tasks/one-step-at-a-time.png)
+
+[Girl version](visuals/6-11/learning-and-tasks/one-step-at-a-time-girl.png)
+
+### Ages 12–18
+
+![A teen folds one T-shirt at a table.](visuals/12-18/learning-and-tasks/one-step-at-a-time.png)
+
+[Girl version](visuals/12-18/learning-and-tasks/one-step-at-a-time-girl.png)
