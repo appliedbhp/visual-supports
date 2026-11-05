@@ -14,7 +14,7 @@ Age is a starting filter. Allow children and caregivers to choose other age stra
 
 ## Current contents
 
-The library contains 15 planned starter entries and 32 PNG visuals (16 original illustrations and 16 companion versions featuring girls). The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
+The library contains 12 planned starter entries and 38 PNG visuals (19 original illustrations and 19 companion versions featuring girls). The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
 
 - `catalog/age-strands.json`: age definitions
 - `catalog/categories.json`: shared categories
@@ -143,3 +143,25 @@ Use these visuals to ask for a pause during play, a group activity, or studying.
 ![Pack a bag](visuals/12-18/daily-routines/morning-routine/07-pack-bag.png)
 
 [Girl version](visuals/12-18/daily-routines/morning-routine/07-pack-bag-girl.png)
+
+## Social situations: Taking turns
+
+Each pair shows one person handing a shared object to someone else for their turn.
+
+### Ages 0–5
+
+![A preschooler passes a toy car to another child.](visuals/0-5/social-situations/taking-turns.png)
+
+[Girl version](visuals/0-5/social-situations/taking-turns-girl.png)
+
+### Ages 6–11
+
+![A school-age child passes a die to another child during a board game.](visuals/6-11/social-situations/taking-turns.png)
+
+[Girl version](visuals/6-11/social-situations/taking-turns-girl.png)
+
+### Ages 12–18
+
+![A teen hands a game controller to another teen.](visuals/12-18/social-situations/taking-turns.png)
+
+[Girl version](visuals/12-18/social-situations/taking-turns-girl.png)

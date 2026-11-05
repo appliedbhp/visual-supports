@@ -38,7 +38,7 @@
     ],
     "alt_text": "A preschooler holds up a closed snack container and asks a caregiver for help.",
     "generation_prompt": "One square text-free visual support PNG, genuine transparent background. Attached image is solely a style and palette reference. Two abstract white figures with opaque white skin, dark ink contours, minimal facial features, simple flat fills of teal, lavender and blue. Editorial hand-drawn illustration, calm and age-respectful, clear expressive body language, uncluttered silhouette and generous margins. Show the request for assistance in progress. No text, speech bubbles, question marks, logos, backdrop, or shadow. A preschooler holds out a clearly closed teal snack container toward a seated caregiver, looking toward them with mouth slightly open as they request help. The caregiver turns attentively with open empty hands, while the child still holds the container.",
-    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository’s Pack a bag visual as a style reference.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository\u2019s Pack a bag visual as a style reference.",
     "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
     "variants": [
       {
@@ -114,13 +114,32 @@
     "category": "social-situations",
     "keywords": [
       "social situations",
-      "taking turns"
+      "taking turns",
+      "my turn",
+      "your turn",
+      "turn taking",
+      "sharing"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/social-situations/taking-turns.png",
+      "visuals/0-5/social-situations/taking-turns-girl.png"
+    ],
+    "alt_text": "A preschooler passes a toy car to another child.",
+    "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 0-5. Show two preschoolers at a low table passing one small toy car from one child\u2019s open hand to the other\u2019s open hand. Use the reference only for character and ink style. Main character is a preschool child with the same bald gender-neutral abstract design as the reference. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/0-5/social-situations/taking-turns-girl.png",
+        "alt_text": "A preschooler depicted as a girl passes a toy car to another child.",
+        "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 0-5. Show two preschoolers at a low table passing one small toy car from one child\u2019s open hand to the other\u2019s open hand. Use the reference only for character and ink style. Main character is a preschool child presented as a girl with a curly bob. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "0-5-learning-and-tasks-001",
@@ -231,7 +250,7 @@
     ],
     "alt_text": "A school-age child points to their backpack zipper and asks an adult for help.",
     "generation_prompt": "One square text-free visual support PNG, genuine transparent background. Attached image is solely a style and palette reference. Two abstract white figures with opaque white skin, dark ink contours, minimal facial features, simple flat fills of teal, lavender and blue. Editorial hand-drawn illustration, calm and age-respectful, clear expressive body language, uncluttered silhouette and generous margins. Show the request for assistance in progress. No text, speech bubbles, question marks, logos, backdrop, or shadow. An elementary-school child looks toward an adult and points at a stubborn zipper on a teal backpack held in their own lap, mouth slightly open asking for help. The adult looks toward the child, listening with relaxed hands.",
-    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository’s Pack a bag visual as a style reference.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository\u2019s Pack a bag visual as a style reference.",
     "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
     "variants": [
       {
@@ -307,13 +326,32 @@
     "category": "social-situations",
     "keywords": [
       "social situations",
-      "taking turns"
+      "taking turns",
+      "my turn",
+      "your turn",
+      "turn taking",
+      "sharing"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/social-situations/taking-turns.png",
+      "visuals/6-11/social-situations/taking-turns-girl.png"
+    ],
+    "alt_text": "A school-age child passes a die to another child during a board game.",
+    "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 6-11. Show two school-age children across a small table, passing a single large yellow die over a simple board game. Use the reference only for character and ink style. Main character is an elementary-school child with the same bald gender-neutral abstract design as the reference. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/6-11/social-situations/taking-turns-girl.png",
+        "alt_text": "A school-age child depicted as a girl passes a die to another child during a board game.",
+        "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 6-11. Show two school-age children across a small table, passing a single large yellow die over a simple board game. Use the reference only for character and ink style. Main character is an elementary-school child presented as a girl with two braids. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "6-11-learning-and-tasks-001",
@@ -424,7 +462,7 @@
     ],
     "alt_text": "A teen points to an open notebook and asks a peer for help.",
     "generation_prompt": "One square text-free visual support PNG, genuine transparent background. Attached image is solely a style and palette reference. Two abstract white figures with opaque white skin, dark ink contours, minimal facial features, simple flat fills of teal, lavender and blue. Editorial hand-drawn illustration, calm and age-respectful, clear expressive body language, uncluttered silhouette and generous margins. Show the request for assistance in progress. No text, speech bubbles, question marks, logos, backdrop, or shadow. A teen at a small table points at their open notebook and turns toward a seated peer with a small open mouth asking for help. The peer looks at the teen attentively. Show only simple blank pages and a pencil, no marks.",
-    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository’s Pack a bag visual as a style reference.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository\u2019s Pack a bag visual as a style reference.",
     "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
     "variants": [
       {
@@ -500,13 +538,32 @@
     "category": "social-situations",
     "keywords": [
       "social situations",
-      "taking turns"
+      "taking turns",
+      "my turn",
+      "your turn",
+      "turn taking",
+      "sharing"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/social-situations/taking-turns.png",
+      "visuals/12-18/social-situations/taking-turns-girl.png"
+    ],
+    "alt_text": "A teen hands a game controller to another teen.",
+    "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 12-18. Show two teenagers at a community center table, passing a single game controller with a clear handoff, both comfortably seated. Use the reference only for character and ink style. Main character is a teenager with the same bald gender-neutral abstract design as the reference. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/social-situations/taking-turns-girl.png",
+        "alt_text": "A teen depicted as a girl hands a game controller to another teen.",
+        "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 12-18. Show two teenagers at a community center table, passing a single game controller with a clear handoff, both comfortably seated. Use the reference only for character and ink style. Main character is a teenager presented as a girl with a low ponytail. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-learning-and-tasks-001",
