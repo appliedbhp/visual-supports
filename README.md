@@ -226,3 +226,15 @@ Use these visuals to cue attention to a single action in a longer task.
 | Feed the cat | [View](visuals/0-5/self-care-and-independence/feed-the-cat.png) | [View](visuals/6-11/self-care-and-independence/feed-the-cat.png) | [View](visuals/12-18/self-care-and-independence/feed-the-cat.png) |
 | Take out the trash | [View](visuals/0-5/self-care-and-independence/take-out-the-trash.png) | [View](visuals/6-11/self-care-and-independence/take-out-the-trash.png) | [View](visuals/12-18/self-care-and-independence/take-out-the-trash.png) |
 | Wipe the counter | [View](visuals/0-5/self-care-and-independence/wipe-the-counter.png) | [View](visuals/6-11/self-care-and-independence/wipe-the-counter.png) | [View](visuals/12-18/self-care-and-independence/wipe-the-counter.png) |
+
+## More everyday routines
+
+| Situation | Ages 0–5 | Ages 6–11 | Ages 12–18 |
+|---|---|---|---|
+| Flush the toilet | [View](visuals/0-5/self-care-and-independence/flush-the-toilet.png) | [View](visuals/6-11/self-care-and-independence/flush-the-toilet.png) | [View](visuals/12-18/self-care-and-independence/flush-the-toilet.png) |
+| Wipe the mirror | [View](visuals/0-5/self-care-and-independence/wipe-the-mirror.png) | [View](visuals/6-11/self-care-and-independence/wipe-the-mirror.png) | [View](visuals/12-18/self-care-and-independence/wipe-the-mirror.png) |
+| Make the bed | [View](visuals/0-5/daily-routines/make-the-bed.png) | [View](visuals/6-11/daily-routines/make-the-bed.png) | [View](visuals/12-18/daily-routines/make-the-bed.png) |
+| Put books away | [View](visuals/0-5/learning-and-tasks/put-books-away.png) | [View](visuals/6-11/learning-and-tasks/put-books-away.png) | [View](visuals/12-18/learning-and-tasks/put-books-away.png) |
+| Do homework | [View](visuals/0-5/learning-and-tasks/do-homework.png) | [View](visuals/6-11/learning-and-tasks/do-homework.png) | [View](visuals/12-18/learning-and-tasks/do-homework.png) |
+| Put computer away | [View](visuals/0-5/daily-routines/put-computer-away.png) | [View](visuals/6-11/daily-routines/put-computer-away.png) | [View](visuals/12-18/daily-routines/put-computer-away.png) |
+| Turn off TV | [View](visuals/0-5/daily-routines/turn-off-tv.png) | [View](visuals/6-11/daily-routines/turn-off-tv.png) | [View](visuals/12-18/daily-routines/turn-off-tv.png) |

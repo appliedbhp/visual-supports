@@ -1411,5 +1411,467 @@
     "generation_prompt": "Make ONE square text-free visual support for “Wipe the counter” from the supplied reference. Retain the drawing style, palette and core action while redrawing the character with distinctly age-appropriate proportions and adapting the scale of props. A teen aged 15 with longer limbs and smaller head relative to body wipes a full-height kitchen counter with a damp cloth. Gender-ambiguous abstract character with entirely bald head, opaque white skin, minimal features, plain loose lavender crewneck, straight blue trousers, plain sneakers, no accessories except essential activity props. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Completely remove the baked-in checkerboard including interior negative spaces. True alpha transparency outside artwork, no checkerboard or scenery, opaque white face, hands and props. Center whole action, generous margins, no lettering, labels, watermark or frame.",
     "source": "AI-generated for Visual Supports using the user-supplied illustration as a reference.",
     "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-flush-the-toilet",
+    "title": "Flush the toilet",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "flush the toilet",
+      "flush the toilet",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/flush-the-toilet.png"
+    ],
+    "alt_text": "A preschooler presses the flush lever on a closed toilet.",
+    "generation_prompt": "Create ONE square educational visual support for “Flush the toilet.” A preschool child aged 4 with short limbs presses the flush lever on a closed toilet. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  The character is fully clothed, standing beside the toilet.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-flush-the-toilet",
+    "title": "Flush the toilet",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "flush the toilet",
+      "flush the toilet",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/flush-the-toilet.png"
+    ],
+    "alt_text": "A school-age child presses the flush lever on a closed toilet.",
+    "generation_prompt": "Create ONE square educational visual support for “Flush the toilet.” A school-age child aged 9 with middle-childhood proportions presses the flush lever on a closed toilet. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  The character is fully clothed, standing beside the toilet.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-flush-the-toilet",
+    "title": "Flush the toilet",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "flush the toilet",
+      "flush the toilet",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/flush-the-toilet.png"
+    ],
+    "alt_text": "A teen presses the flush button on the tank of a closed toilet.",
+    "generation_prompt": "Create ONE square educational visual support for “Flush the toilet.” A teen aged 15 with longer limbs and smaller head relative to body presses the flush button on the tank of a closed toilet. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  The character is fully clothed, standing beside the toilet.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-wipe-the-mirror",
+    "title": "Wipe the mirror",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "wipe the mirror",
+      "wipe the mirror",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/wipe-the-mirror.png"
+    ],
+    "alt_text": "A preschooler wipes a low bathroom mirror with a damp cloth.",
+    "generation_prompt": "Create ONE square educational visual support for “Wipe the mirror.” A preschool child aged 4 with short limbs wipes a low bathroom mirror with a damp cloth. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites. Show the mirror by a pale blue pane with two simple diagonal glints; omit any reflection of the person. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-wipe-the-mirror",
+    "title": "Wipe the mirror",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "wipe the mirror",
+      "wipe the mirror",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/wipe-the-mirror.png"
+    ],
+    "alt_text": "A school-age child wipes a bathroom mirror with a cloth.",
+    "generation_prompt": "Create ONE square educational visual support for “Wipe the mirror.” A school-age child aged 9 with middle-childhood proportions wipes a bathroom mirror with a cloth. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites. Show the mirror by a pale blue pane with two simple diagonal glints; omit any reflection of the person. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-wipe-the-mirror",
+    "title": "Wipe the mirror",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "wipe the mirror",
+      "wipe the mirror",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/wipe-the-mirror.png"
+    ],
+    "alt_text": "A teen wipes a bathroom mirror over a sink with a cloth.",
+    "generation_prompt": "Create ONE square educational visual support for “Wipe the mirror.” A teen aged 15 with longer limbs and smaller head relative to body wipes a bathroom mirror over a sink with a cloth. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites. Show the mirror by a pale blue pane with two simple diagonal glints; omit any reflection of the person. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-make-the-bed",
+    "title": "Make the bed",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "make the bed",
+      "make the bed",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/make-the-bed.png"
+    ],
+    "alt_text": "A preschooler pulls a blanket smooth on a low bed.",
+    "generation_prompt": "Create ONE square educational visual support for “Make the bed.” A preschool child aged 4 with short limbs pulls a blanket smooth on a low bed. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.   Final correction: Remove every trace of the gray checkerboard and any haze or shadow outside the character and bed. Use fully transparent alpha outside the artwork. Preserve solid opaque white skin, pillow and sheet.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-make-the-bed",
+    "title": "Make the bed",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "make the bed",
+      "make the bed",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/make-the-bed.png"
+    ],
+    "alt_text": "A school-age child straightens a blanket on a single bed.",
+    "generation_prompt": "Create ONE square educational visual support for “Make the bed.” A school-age child aged 9 with middle-childhood proportions straightens a blanket on a single bed. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-make-the-bed",
+    "title": "Make the bed",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "make the bed",
+      "make the bed",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/make-the-bed.png"
+    ],
+    "alt_text": "A teen pulls a plain duvet flat on a full-size bed.",
+    "generation_prompt": "Create ONE square educational visual support for “Make the bed.” A teen aged 15 with longer limbs and smaller head relative to body pulls a plain duvet flat on a full-size bed. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-put-books-away",
+    "title": "Put books away",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "put books away",
+      "put books away",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/put-books-away.png"
+    ],
+    "alt_text": "A preschooler puts a picture book upright on a low shelf.",
+    "generation_prompt": "Create ONE square educational visual support for “Put books away.” A preschool child aged 4 with short limbs puts a picture book upright on a low shelf. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-put-books-away",
+    "title": "Put books away",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "put books away",
+      "put books away",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/put-books-away.png"
+    ],
+    "alt_text": "A school-age child slides a book into a row of books on a shelf.",
+    "generation_prompt": "Create ONE square educational visual support for “Put books away.” A school-age child aged 9 with middle-childhood proportions slides a book into a row of books on a shelf. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-put-books-away",
+    "title": "Put books away",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "put books away",
+      "put books away",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/put-books-away.png"
+    ],
+    "alt_text": "A teen slides a textbook upright into a bookcase.",
+    "generation_prompt": "Create ONE square educational visual support for “Put books away.” A teen aged 15 with longer limbs and smaller head relative to body slides a textbook upright into a bookcase. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-do-homework",
+    "title": "Do homework",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "do homework",
+      "do homework",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/do-homework.png"
+    ],
+    "alt_text": "A preschooler uses a pencil to match simple shapes on a take-home activity sheet at a low table.",
+    "generation_prompt": "Create ONE square educational visual support for “Do homework.” A preschool child aged 4 with short limbs uses a pencil to match simple shapes on a take-home activity sheet at a low table. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.   Final correction: Fill the entire bald head, face, neck and hands with fully opaque white, retaining dark facial lines. Keep true alpha transparency outside the drawing.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-do-homework",
+    "title": "Do homework",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "do homework",
+      "do homework",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/do-homework.png"
+    ],
+    "alt_text": "A school-age child writes with a pencil on a homework sheet at a desk.",
+    "generation_prompt": "Create ONE square educational visual support for “Do homework.” A school-age child aged 9 with middle-childhood proportions writes with a pencil on a homework sheet at a desk. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-do-homework",
+    "title": "Do homework",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "do homework",
+      "do homework",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/do-homework.png"
+    ],
+    "alt_text": "A teen works through an assignment with an open textbook and notebook at a desk.",
+    "generation_prompt": "Create ONE square educational visual support for “Do homework.” A teen aged 15 with longer limbs and smaller head relative to body works through an assignment with an open textbook and notebook at a desk. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-put-computer-away",
+    "title": "Put computer away",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "put computer away",
+      "put computer away",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/put-computer-away.png"
+    ],
+    "alt_text": "A preschooler places a closed small laptop onto a low cubby shelf.",
+    "generation_prompt": "Create ONE square educational visual support for “Put computer away.” A preschool child aged 4 with short limbs places a closed small laptop onto a low cubby shelf. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-put-computer-away",
+    "title": "Put computer away",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "put computer away",
+      "put computer away",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/put-computer-away.png"
+    ],
+    "alt_text": "A school-age child slides a closed Chromebook into a padded sleeve.",
+    "generation_prompt": "Create ONE square educational visual support for “Put computer away.” A school-age child aged 9 with middle-childhood proportions slides a closed Chromebook into a padded sleeve. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-put-computer-away",
+    "title": "Put computer away",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "put computer away",
+      "put computer away",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/put-computer-away.png"
+    ],
+    "alt_text": "A teen puts a closed laptop into a padded backpack compartment.",
+    "generation_prompt": "Create ONE square educational visual support for “Put computer away.” A teen aged 15 with longer limbs and smaller head relative to body puts a closed laptop into a padded backpack compartment. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-turn-off-tv",
+    "title": "Turn off TV",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "turn off tv",
+      "turn off tv",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/turn-off-tv.png"
+    ],
+    "alt_text": "A preschooler presses a remote’s power button, pointing toward a dark blank TV.",
+    "generation_prompt": "Create ONE square educational visual support for “Turn off TV.” A preschool child aged 4 with short limbs presses a remote’s power button, pointing toward a dark blank TV. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.  ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-turn-off-tv",
+    "title": "Turn off TV",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "turn off tv",
+      "turn off tv",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/turn-off-tv.png"
+    ],
+    "alt_text": "A school-age child presses a remote’s power button, pointing toward a dark blank TV.",
+    "generation_prompt": "Create ONE square educational visual support for “Turn off TV.” A school-age child aged 9 with middle-childhood proportions presses a remote’s power button, pointing toward a dark blank TV. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.   Final correction: Make the entire TV display a uniform solid opaque near-black, clearly powered off, removing all blurry white patches. Keep everything else and external transparency unchanged.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-turn-off-tv",
+    "title": "Turn off TV",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "turn off tv",
+      "turn off tv",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/turn-off-tv.png"
+    ],
+    "alt_text": "A teen presses a remote’s power button, pointing toward a dark blank TV.",
+    "generation_prompt": "Create ONE square educational visual support for “Turn off TV.” A teen aged 15 with longer limbs and smaller head relative to body presses a remote’s power button, pointing toward a dark blank TV. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.   Final correction: Make the entire TV display a uniform solid opaque near-black, clearly powered off, removing all blurry white patches. Keep everything else and external transparency unchanged.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   }
 ]
