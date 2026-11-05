@@ -857,7 +857,8 @@
     "style": "notionists-inspired",
     "assets": [
       "visuals/12-18/daily-routines/morning-routine/05-get-dressed.png",
-      "visuals/12-18/daily-routines/morning-routine/05-get-dressed-girl.png"
+      "visuals/12-18/daily-routines/morning-routine/05-get-dressed-girl.png",
+      "visuals/12-18/self-care-and-independence/get-dressed-bald.png"
     ],
     "alt_text": "Abstract white figure: get dressed.",
     "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Get dressed: figure in process of pulling a loose lavender crewneck shirt down over white undershirt, head fully visible, hands gripping shirt hem, plain blue trousers. Entirely clothed, no nudity. Clear dressing action.",
@@ -869,6 +870,14 @@
         "source_asset": "visuals/12-18/daily-routines/morning-routine/05-get-dressed.png",
         "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
         "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      },
+      {
+        "presentation": "gender-ambiguous",
+        "asset": "visuals/12-18/self-care-and-independence/get-dressed-bald.png",
+        "alt_text": "A teen pulls a lavender crewneck down over a plain undershirt, fully clothed with head visible.",
+        "generation_prompt": "Create ONE square text-free educational visual support for Get dressed. Main character is a teen aged 15, long limbs and smaller head relative to body who pulls a lavender crewneck down over a plain undershirt, fully clothed with head visible. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+        "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
         "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
       }
     ]
@@ -1871,6 +1880,776 @@
     ],
     "alt_text": "A teen presses a remote’s power button, pointing toward a dark blank TV.",
     "generation_prompt": "Create ONE square educational visual support for “Turn off TV.” A teen aged 15 with longer limbs and smaller head relative to body presses a remote’s power button, pointing toward a dark blank TV. Make the action clear at small size. Single bald abstract gender-ambiguous character, opaque white skin, neutral minimal facial features, no lashes or accessories. Plain loose lavender crewneck, blue straight-leg pants, simple sneakers. Clean dark navy contours, flat editorial illustration with teal and yellow accents. Match the supplied reference's overall style, use only the requested scene. No lettering, numbers, labels, framing, shadows, checkerboard or scenery. True alpha transparency outside essential props and character. Generous margins, opaque whites.   Final correction: Make the entire TV display a uniform solid opaque near-black, clearly powered off, removing all blurry white patches. Keep everything else and external transparency unchanged.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-play",
+    "title": "Play",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "play",
+      "play",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/play.png"
+    ],
+    "alt_text": "A preschooler rolls a toy car along a simple curved toy track.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Play. Main character is a preschool child aged 4, short limbs and larger head relative to body who rolls a toy car along a simple curved toy track. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-play",
+    "title": "Play",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "play",
+      "play",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/play.png"
+    ],
+    "alt_text": "A school-age child plays a tabletop board game with another bald child in neutral clothing.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Play. Main character is a school-age child aged 9, middle-childhood proportions who plays a tabletop board game with another bald child in neutral clothing. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-play",
+    "title": "Play",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "play",
+      "play",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/play.png"
+    ],
+    "alt_text": "A teen plays a tabletop board game with another bald teen in neutral clothing.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Play. Main character is a teen aged 15, long limbs and smaller head relative to body who plays a tabletop board game with another bald teen in neutral clothing. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-free-time",
+    "title": "Free time",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "free time",
+      "free time",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/free-time.png"
+    ],
+    "alt_text": "A preschooler stands beside a low shelf with a ball, toy car and picture book, reaching toward a choice.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Free time. Main character is a preschool child aged 4, short limbs and larger head relative to body who stands beside a low shelf with a ball, toy car and picture book, reaching toward a choice. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-free-time",
+    "title": "Free time",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "free time",
+      "free time",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/free-time.png"
+    ],
+    "alt_text": "A school-age child chooses between a ball, sketchbook and puzzle on a shelf.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Free time. Main character is a school-age child aged 9, middle-childhood proportions who chooses between a ball, sketchbook and puzzle on a shelf. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-free-time",
+    "title": "Free time",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "free time",
+      "free time",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/free-time.png"
+    ],
+    "alt_text": "A teen chooses between headphones, a book and a sketchbook on a shelf.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Free time. Main character is a teen aged 15, long limbs and smaller head relative to body who chooses between headphones, a book and a sketchbook on a shelf. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-resting",
+    "title": "Resting",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "resting",
+      "resting",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/feelings-and-regulation/resting.png"
+    ],
+    "alt_text": "A preschooler reclines calmly on a floor cushion with eyes closed.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Resting. Main character is a preschool child aged 4, short limbs and larger head relative to body who reclines calmly on a floor cushion with eyes closed. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-resting",
+    "title": "Resting",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "resting",
+      "resting",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/feelings-and-regulation/resting.png"
+    ],
+    "alt_text": "A school-age child rests with eyes closed on a sofa.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Resting. Main character is a school-age child aged 9, middle-childhood proportions who rests with eyes closed on a sofa. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque.  Final correction: Replace the blurry white patch on the teal sofa back with smooth solid teal matching the surrounding upholstery. Preserve the resting character.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-resting",
+    "title": "Resting",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "resting",
+      "resting",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/feelings-and-regulation/resting.png"
+    ],
+    "alt_text": "A teen rests with eyes closed on a sofa.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Resting. Main character is a teen aged 15, long limbs and smaller head relative to body who rests with eyes closed on a sofa. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-put-socks-on",
+    "title": "Put socks on",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "put socks on",
+      "put socks on",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/put-socks-on.png"
+    ],
+    "alt_text": "A preschooler sits on a low bench pulling a plain sock over one foot.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Put socks on. Main character is a preschool child aged 4, short limbs and larger head relative to body who sits on a low bench pulling a plain sock over one foot. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque.  Final correction: Fill the entire bald head, face, neck, both hands and visible bare skin with fully OPAQUE white. Preserve all dark facial features and outlines. White socks, undershirt and sneakers should also be fully opaque. Final correction removed sneaker details from the foot receiving the sock.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-put-socks-on",
+    "title": "Put socks on",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "put socks on",
+      "put socks on",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/put-socks-on.png"
+    ],
+    "alt_text": "A school-age child sits on a bench pulling a plain sock over one foot.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Put socks on. Main character is a school-age child aged 9, middle-childhood proportions who sits on a bench pulling a plain sock over one foot. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-put-socks-on",
+    "title": "Put socks on",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "put socks on",
+      "put socks on",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/put-socks-on.png"
+    ],
+    "alt_text": "A teen sits on a bench pulling a plain sock over one foot.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Put socks on. Main character is a teen aged 15, long limbs and smaller head relative to body who sits on a bench pulling a plain sock over one foot. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque.  Final correction: Fill the entire bald head, face, neck, both hands and visible bare skin with fully OPAQUE white. Preserve all dark facial features and outlines. White socks, undershirt and sneakers should also be fully opaque.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-walk-up-stairs",
+    "title": "Walk up stairs",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "safety-and-community",
+    "keywords": [
+      "walk up stairs",
+      "walk up stairs",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/safety-and-community/walk-up-stairs.png"
+    ],
+    "alt_text": "A preschooler steps upward on three stairs with hand firmly on rail, facing uphill.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Walk up stairs. Main character is a preschool child aged 4, short limbs and larger head relative to body who steps upward on three stairs with hand firmly on rail, facing uphill. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. Side view of stairs, visible clear step direction through raised foot and body orientation; all rail and stair parts inside frame.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-walk-up-stairs",
+    "title": "Walk up stairs",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "safety-and-community",
+    "keywords": [
+      "walk up stairs",
+      "walk up stairs",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/safety-and-community/walk-up-stairs.png"
+    ],
+    "alt_text": "A school-age child steps upward on three stairs with hand on rail, facing uphill.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Walk up stairs. Main character is a school-age child aged 9, middle-childhood proportions who steps upward on three stairs with hand on rail, facing uphill. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. Side view of stairs, visible clear step direction through raised foot and body orientation; all rail and stair parts inside frame.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-walk-up-stairs",
+    "title": "Walk up stairs",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "safety-and-community",
+    "keywords": [
+      "walk up stairs",
+      "walk up stairs",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/safety-and-community/walk-up-stairs.png"
+    ],
+    "alt_text": "A teen steps upward on three stairs with hand on rail, facing uphill.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Walk up stairs. Main character is a teen aged 15, long limbs and smaller head relative to body who steps upward on three stairs with hand on rail, facing uphill. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. Side view of stairs, visible clear step direction through raised foot and body orientation; all rail and stair parts inside frame.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-walk-down-stairs",
+    "title": "Walk down stairs",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "safety-and-community",
+    "keywords": [
+      "walk down stairs",
+      "walk down stairs",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/safety-and-community/walk-down-stairs.png"
+    ],
+    "alt_text": "A preschooler steps downward on three stairs holding rail, facing downhill.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Walk down stairs. Main character is a preschool child aged 4, short limbs and larger head relative to body who steps downward on three stairs holding rail, facing downhill. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. Side view of stairs, visible clear step direction through raised foot and body orientation; all rail and stair parts inside frame.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-walk-down-stairs",
+    "title": "Walk down stairs",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "safety-and-community",
+    "keywords": [
+      "walk down stairs",
+      "walk down stairs",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/safety-and-community/walk-down-stairs.png"
+    ],
+    "alt_text": "A school-age child steps downward on three stairs holding rail, facing downhill.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Walk down stairs. Main character is a school-age child aged 9, middle-childhood proportions who steps downward on three stairs holding rail, facing downhill. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. Side view of stairs, visible clear step direction through raised foot and body orientation; all rail and stair parts inside frame.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-walk-down-stairs",
+    "title": "Walk down stairs",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "safety-and-community",
+    "keywords": [
+      "walk down stairs",
+      "walk down stairs",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/safety-and-community/walk-down-stairs.png"
+    ],
+    "alt_text": "A teen steps downward on three stairs holding rail, facing downhill.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Walk down stairs. Main character is a teen aged 15, long limbs and smaller head relative to body who steps downward on three stairs holding rail, facing downhill. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. Side view of stairs, visible clear step direction through raised foot and body orientation; all rail and stair parts inside frame.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-get-dressed",
+    "title": "Get dressed",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "get dressed",
+      "get dressed",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/get-dressed.png"
+    ],
+    "alt_text": "A preschooler pulls a lavender crewneck down over a plain undershirt, fully clothed with head visible.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Get dressed. Main character is a preschool child aged 4, short limbs and larger head relative to body who pulls a lavender crewneck down over a plain undershirt, fully clothed with head visible. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque.  Final correction: Fill the entire bald head, face, neck, both hands and visible bare skin with fully OPAQUE white. Preserve all dark facial features and outlines. White socks, undershirt and sneakers should also be fully opaque.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-get-dressed",
+    "title": "Get dressed",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "get dressed",
+      "get dressed",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/get-dressed.png"
+    ],
+    "alt_text": "A school-age child pulls a lavender crewneck down over a plain undershirt, fully clothed with head visible.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Get dressed. Main character is a school-age child aged 9, middle-childhood proportions who pulls a lavender crewneck down over a plain undershirt, fully clothed with head visible. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-put-on-shoes",
+    "title": "Put on shoes",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "put on shoes",
+      "put on shoes",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/put-on-shoes.png"
+    ],
+    "alt_text": "A preschooler sits on a low bench sliding a foot into a simple sneaker.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Put on shoes. Main character is a preschool child aged 4, short limbs and larger head relative to body who sits on a low bench sliding a foot into a simple sneaker. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-put-on-shoes",
+    "title": "Put on shoes",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "put on shoes",
+      "put on shoes",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/put-on-shoes.png"
+    ],
+    "alt_text": "A school-age child sits on a bench sliding a foot into a simple sneaker.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Put on shoes. Main character is a school-age child aged 9, middle-childhood proportions who sits on a bench sliding a foot into a simple sneaker. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-put-on-shoes",
+    "title": "Put on shoes",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "put on shoes",
+      "put on shoes",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/put-on-shoes.png"
+    ],
+    "alt_text": "A teen sits on a bench sliding a foot into a simple sneaker.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Put on shoes. Main character is a teen aged 15, long limbs and smaller head relative to body who sits on a bench sliding a foot into a simple sneaker. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-draw",
+    "title": "Draw",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "draw",
+      "draw",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/draw.png"
+    ],
+    "alt_text": "A preschooler draws simple shapes using a crayon on paper at a low table.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Draw. Main character is a preschool child aged 4, short limbs and larger head relative to body who draws simple shapes using a crayon on paper at a low table. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-draw",
+    "title": "Draw",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "draw",
+      "draw",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/draw.png"
+    ],
+    "alt_text": "A school-age child draws a simple landscape in a sketchbook with a pencil at a desk.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Draw. Main character is a school-age child aged 9, middle-childhood proportions who draws a simple landscape in a sketchbook with a pencil at a desk. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-draw",
+    "title": "Draw",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "draw",
+      "draw",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/draw.png"
+    ],
+    "alt_text": "A teen draws a still-life object in a sketchbook with a pencil at a desk.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Draw. Main character is a teen aged 15, long limbs and smaller head relative to body who draws a still-life object in a sketchbook with a pencil at a desk. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-read-a-book",
+    "title": "Read a book",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "read a book",
+      "read a book",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/read-a-book.png"
+    ],
+    "alt_text": "A preschooler sits on a floor cushion reading a picture book.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Read a book. Main character is a preschool child aged 4, short limbs and larger head relative to body who sits on a floor cushion reading a picture book. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-read-a-book",
+    "title": "Read a book",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "read a book",
+      "read a book",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/read-a-book.png"
+    ],
+    "alt_text": "A school-age child sits in a chair reading an open book.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Read a book. Main character is a school-age child aged 9, middle-childhood proportions who sits in a chair reading an open book. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-read-a-book",
+    "title": "Read a book",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "read a book",
+      "read a book",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/read-a-book.png"
+    ],
+    "alt_text": "A teen sits in a chair reading an open book.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Read a book. Main character is a teen aged 15, long limbs and smaller head relative to body who sits in a chair reading an open book. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-stack-blocks",
+    "title": "Stack blocks",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "stack blocks",
+      "stack blocks",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/stack-blocks.png"
+    ],
+    "alt_text": "A preschooler sits on the floor stacking large colorful blocks into a small tower.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Stack blocks. Main character is a preschool child aged 4, short limbs and larger head relative to body who sits on the floor stacking large colorful blocks into a small tower. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-stack-blocks",
+    "title": "Stack blocks",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "stack blocks",
+      "stack blocks",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/stack-blocks.png"
+    ],
+    "alt_text": "A school-age child sits at a table building a small arch from wooden blocks.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Stack blocks. Main character is a school-age child aged 9, middle-childhood proportions who sits at a table building a small arch from wooden blocks. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-stack-blocks",
+    "title": "Stack blocks",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "stack blocks",
+      "stack blocks",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/stack-blocks.png"
+    ],
+    "alt_text": "A teen sits at a desk carefully balancing wooden blocks into a geometric structure.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Stack blocks. Main character is a teen aged 15, long limbs and smaller head relative to body who sits at a desk carefully balancing wooden blocks into a geometric structure. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "0-5-listen-to-music",
+    "title": "Listen to music",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "listen to music",
+      "listen to music",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/listen-to-music.png"
+    ],
+    "alt_text": "A preschooler sits comfortably listening to music from a small speaker with two small musical notes nearby.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Listen to music. Main character is a preschool child aged 4, short limbs and larger head relative to body who sits comfortably listening to music from a small speaker with two small musical notes nearby. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "6-11-listen-to-music",
+    "title": "Listen to music",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "listen to music",
+      "listen to music",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/listen-to-music.png"
+    ],
+    "alt_text": "A school-age child listens to music through over-ear headphones, with two small musical notes nearby.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Listen to music. Main character is a school-age child aged 9, middle-childhood proportions who listens to music through over-ear headphones, with two small musical notes nearby. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque.  Final correction: Fill the entire bald head, face, neck, both hands and visible bare skin with fully OPAQUE white. Preserve all dark facial features and outlines. White socks, undershirt and sneakers should also be fully opaque.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+  },
+  {
+    "id": "12-18-listen-to-music",
+    "title": "Listen to music",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "listen to music",
+      "listen to music",
+      "everyday activities"
+    ],
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/listen-to-music.png"
+    ],
+    "alt_text": "A teen listens to music through over-ear headphones, with two small musical notes nearby.",
+    "generation_prompt": "Create ONE square text-free educational visual support for Listen to music. Main character is a teen aged 15, long limbs and smaller head relative to body who listens to music through over-ear headphones, with two small musical notes nearby. Entirely bald and as gender ambiguous as possible, opaque white abstract skin, minimal facial features, plain loose lavender crewneck and straight blue trousers, plain sneakers unless activity concerns socks or shoes. All other characters bald and neutral clothing too. Clean dark navy outlines, flat lavender, teal, blue and yellow accents. Match reference cartoon illustration style. Clear single action, generous margins, only essential props, no scenery, no shadows, no lettering, no numbers or labels. TRUE transparent alpha background, no checkerboard pattern anywhere. Head, skin, white clothing and white props remain fully opaque. ",
     "source": "AI-generated for Visual Supports using OpenAI image generation with a user-supplied style reference.",
     "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
   }

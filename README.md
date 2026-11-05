@@ -238,3 +238,20 @@ Use these visuals to cue attention to a single action in a longer task.
 | Do homework | [View](visuals/0-5/learning-and-tasks/do-homework.png) | [View](visuals/6-11/learning-and-tasks/do-homework.png) | [View](visuals/12-18/learning-and-tasks/do-homework.png) |
 | Put computer away | [View](visuals/0-5/daily-routines/put-computer-away.png) | [View](visuals/6-11/daily-routines/put-computer-away.png) | [View](visuals/12-18/daily-routines/put-computer-away.png) |
 | Turn off TV | [View](visuals/0-5/daily-routines/turn-off-tv.png) | [View](visuals/6-11/daily-routines/turn-off-tv.png) | [View](visuals/12-18/daily-routines/turn-off-tv.png) |
+
+## Play, leisure and independence
+
+| Situation | Ages 0–5 | Ages 6–11 | Ages 12–18 |
+|---|---|---|---|
+| Play | [View](visuals/0-5/daily-routines/play.png) | [View](visuals/6-11/daily-routines/play.png) | [View](visuals/12-18/daily-routines/play.png) |
+| Free time | [View](visuals/0-5/daily-routines/free-time.png) | [View](visuals/6-11/daily-routines/free-time.png) | [View](visuals/12-18/daily-routines/free-time.png) |
+| Resting | [View](visuals/0-5/feelings-and-regulation/resting.png) | [View](visuals/6-11/feelings-and-regulation/resting.png) | [View](visuals/12-18/feelings-and-regulation/resting.png) |
+| Put socks on | [View](visuals/0-5/self-care-and-independence/put-socks-on.png) | [View](visuals/6-11/self-care-and-independence/put-socks-on.png) | [View](visuals/12-18/self-care-and-independence/put-socks-on.png) |
+| Walk up stairs | [View](visuals/0-5/safety-and-community/walk-up-stairs.png) | [View](visuals/6-11/safety-and-community/walk-up-stairs.png) | [View](visuals/12-18/safety-and-community/walk-up-stairs.png) |
+| Walk down stairs | [View](visuals/0-5/safety-and-community/walk-down-stairs.png) | [View](visuals/6-11/safety-and-community/walk-down-stairs.png) | [View](visuals/12-18/safety-and-community/walk-down-stairs.png) |
+| Get dressed | [View](visuals/0-5/self-care-and-independence/get-dressed.png) | [View](visuals/6-11/self-care-and-independence/get-dressed.png) | [View](visuals/12-18/self-care-and-independence/get-dressed-bald.png) |
+| Put on shoes | [View](visuals/0-5/self-care-and-independence/put-on-shoes.png) | [View](visuals/6-11/self-care-and-independence/put-on-shoes.png) | [View](visuals/12-18/self-care-and-independence/put-on-shoes.png) |
+| Draw | [View](visuals/0-5/learning-and-tasks/draw.png) | [View](visuals/6-11/learning-and-tasks/draw.png) | [View](visuals/12-18/learning-and-tasks/draw.png) |
+| Read a book | [View](visuals/0-5/learning-and-tasks/read-a-book.png) | [View](visuals/6-11/learning-and-tasks/read-a-book.png) | [View](visuals/12-18/learning-and-tasks/read-a-book.png) |
+| Stack blocks | [View](visuals/0-5/learning-and-tasks/stack-blocks.png) | [View](visuals/6-11/learning-and-tasks/stack-blocks.png) | [View](visuals/12-18/learning-and-tasks/stack-blocks.png) |
+| Listen to music | [View](visuals/0-5/daily-routines/listen-to-music.png) | [View](visuals/6-11/daily-routines/listen-to-music.png) | [View](visuals/12-18/daily-routines/listen-to-music.png) |
