@@ -8,7 +8,7 @@ A growing library of visual supports for ages 0–18, organized by age, category
 - **6–11** — Childhood
 - **12–18** — Adolescence
 
-Every age strand uses the same eight categories: daily routines, communication, feelings and regulation, schedules and transitions, social situations, learning and tasks, self-care and independence, and safety and community.
+Every age strand uses the same categories: daily routines, communication, feelings and regulation, schedules and transitions, social situations, learning and tasks, self-care and independence, and safety and community, and recreation.
 
 Age is a starting filter. Allow children and caregivers to choose other age strands and styles according to preference and support needs. Use age-respectful artwork at every level of communication or reading ability.
 
@@ -92,3 +92,7 @@ Drafts can be found with `python3 search.py --status draft`.
 ## Learning and planning
 
 [Review 19 new draft visuals](LEARNING-AND-PLANNING-REVIEW.md): writing in a journal and planning with a calendar in all three age strands, plus shared calendar, notebook, folder, pencils, pens, markers, crayons, glue, tape, scissors, binder, book, and library images. Shared objects are indexed for ages 0–18 and stored once under `visuals/shared/learning-and-tasks/`.
+
+## Activities and sports
+
+[Review 30 new draft action visuals](ACTIVITIES-AND-SPORTS-REVIEW.md): walking the dog, checking the mail, swimming, basketball, soccer, tennis, ice hockey, baseball, dance lessons, and gymnastics. Every age strand contains all ten actions. Sports and lessons use the shared Recreation category; dog walking and checking mail use Daily routines.

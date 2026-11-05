@@ -1417,5 +1417,704 @@
     ],
     "alt_text": "Library",
     "generation_prompt": "Use case: illustration-story. ONE square standalone transparent alpha PNG visual support. Flat clean SVG-like closed shapes, exactly 5 to 8 main solid colors using ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clear dark outlines and simple readable silhouettes. NO gradients, shading, shadows, textures, 3D, background, border, card. No text, letters, numbers, words, captions, logos, or watermarks ANYWHERE, including on pages, packaging and calendar. White surfaces stay opaque; surrounding canvas genuinely transparent. Centered with 10% safe margin. Shared all-age object library. Match a friendly clean flat outlined educational icon family; medium rounded ink contours, economical shapes. No faces or anthropomorphism, no people or extra decorative items. SUBJECT: A small library vignette: two short bookcases filled with upright colorful books and a simple reading chair with an open book on a small table between them. No people, signs or text, no whole room background. Recognizable place icon rather than single book."
+  },
+  {
+    "id": "0-5-activities-walk-the-dog",
+    "title": "Walk The Dog",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "walk",
+      "the",
+      "dog",
+      "action",
+      "community",
+      "routine",
+      "pet",
+      "leash"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/activities-and-sports/walk-the-dog.png"
+    ],
+    "alt_text": "Abstract white figure: walk the dog.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Walking a friendly small dog: full body figure walking forward holding a loose leash attached clearly to dog's teal harness. Dog walking beside figure, four sensible legs, simple white dog with blue patch. No background."
+  },
+  {
+    "id": "0-5-activities-check-the-mail",
+    "title": "Check The Mail",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "check",
+      "the",
+      "mail",
+      "action",
+      "community",
+      "routine"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/activities-and-sports/check-the-mail.png"
+    ],
+    "alt_text": "Abstract white figure: check the mail.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Checking mail: figure reaching into an open simple freestanding mailbox to retrieve a blank white envelope. Envelope has only flap outline, no writing or stamps with symbols. Mailbox blue with teal door, figure hand visibly holds envelope."
+  },
+  {
+    "id": "0-5-activities-swimming",
+    "title": "Swimming",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "recreation",
+    "keywords": [
+      "swimming",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/recreation/activities-and-sports/swimming.png"
+    ],
+    "alt_text": "Abstract white figure: swimming.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Swimming: figure doing a calm front-crawl stroke, one arm reaching forward and face above a short patch of stylized blue water ripples. Simple teal swim cap and goggles, modest blue swim top. Just swimmer and small isolated water patch, transparent outside."
+  },
+  {
+    "id": "0-5-activities-playing-basketball",
+    "title": "Playing Basketball",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "basketball",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/recreation/activities-and-sports/playing-basketball.png"
+    ],
+    "alt_text": "Abstract white figure: playing basketball.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Playing basketball: full body athletic figure dribbling a coral basketball with clear curved seam lines using one hand, knees bent, eyes on ball; a simple small hoop and backboard behind to reinforce sport. No court scenery."
+  },
+  {
+    "id": "0-5-activities-playing-soccer",
+    "title": "Playing Soccer",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "soccer",
+      "action",
+      "sport",
+      "recreation",
+      "exercise",
+      "football"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/recreation/activities-and-sports/playing-soccer.png"
+    ],
+    "alt_text": "Abstract white figure: playing soccer.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Playing soccer: full body figure kicking a white soccer ball with dark pentagon patches, one foot planted and other foot touching ball; small simple net behind, athletic clothes and shoes."
+  },
+  {
+    "id": "0-5-activities-playing-tennis",
+    "title": "Playing Tennis",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "tennis",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/recreation/activities-and-sports/playing-tennis.png"
+    ],
+    "alt_text": "Abstract white figure: playing tennis.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Playing tennis: figure swinging an oval stringed blue tennis racket with a clearly visible crossed string grid toward a yellow tennis ball. Balanced athletic stance, both legs visible, correct racket grip. No net or court needed."
+  },
+  {
+    "id": "0-5-activities-playing-hockey",
+    "title": "Playing Hockey",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "hockey",
+      "action",
+      "sport",
+      "recreation",
+      "exercise",
+      "ice",
+      "hockey"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/recreation/activities-and-sports/playing-hockey.png"
+    ],
+    "alt_text": "Abstract white figure: playing hockey.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Playing ice hockey: figure in teal protective helmet with simple face cage, blue padded jersey, gloves and visible ice skates with blades, both hands gripping hockey stick guiding a black puck. No contact or collision, no text on uniform."
+  },
+  {
+    "id": "0-5-activities-playing-baseball",
+    "title": "Playing Baseball",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "baseball",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/recreation/activities-and-sports/playing-baseball.png"
+    ],
+    "alt_text": "Abstract white figure: playing baseball.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Playing baseball: figure wearing plain teal batting helmet, blue jersey, both hands gripping a yellow baseball bat preparing to hit one white baseball with coral curved seam marks. No letters or jersey numbers."
+  },
+  {
+    "id": "0-5-activities-dance-lessons",
+    "title": "Dance Lessons",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "recreation",
+    "keywords": [
+      "dance",
+      "lessons",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/recreation/activities-and-sports/dance-lessons.png"
+    ],
+    "alt_text": "Abstract white figure: dance lessons.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Dance lesson: two abstract white figures, main learner and a slightly taller instructor, mirror a simple dance pose with one arm curved overhead and one extended sideways; feet grounded and visible. Plain blue/teal/lavender dance clothes and soft shoes, no gendered outfits, no musical-note symbols, no stage."
+  },
+  {
+    "id": "0-5-activities-gymnastics",
+    "title": "Gymnastics",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "recreation",
+    "keywords": [
+      "gymnastics",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/recreation/activities-and-sports/gymnastics.png"
+    ],
+    "alt_text": "Abstract white figure: gymnastics.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Cute Dylan-inspired: huge round head, short soft limbs, bold chunky rounded outlines, tiny dot eyes and gentle smile, simple teal and blue clothing, minimal detail. ACTION: Gymnastics: one figure balancing on a very low padded blue balance beam with short sturdy supports, arms extended sideways, one foot on beam and other leg raised slightly back. Modest teal gym shirt and blue leggings, soft footwear. Clear easy balance pose, no acrobatics or risky height."
+  },
+  {
+    "id": "6-11-activities-walk-the-dog",
+    "title": "Walk The Dog",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "walk",
+      "the",
+      "dog",
+      "action",
+      "community",
+      "routine",
+      "pet",
+      "leash"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/activities-and-sports/walk-the-dog.png"
+    ],
+    "alt_text": "Abstract white figure: walk the dog.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Walking a friendly small dog: full body figure walking forward holding a loose leash attached clearly to dog's teal harness. Dog walking beside figure, four sensible legs, simple white dog with blue patch. No background."
+  },
+  {
+    "id": "6-11-activities-check-the-mail",
+    "title": "Check The Mail",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "check",
+      "the",
+      "mail",
+      "action",
+      "community",
+      "routine"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/activities-and-sports/check-the-mail.png"
+    ],
+    "alt_text": "Abstract white figure: check the mail.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Checking mail: figure reaching into an open simple freestanding mailbox to retrieve a blank white envelope. Envelope has only flap outline, no writing or stamps with symbols. Mailbox blue with teal door, figure hand visibly holds envelope."
+  },
+  {
+    "id": "6-11-activities-swimming",
+    "title": "Swimming",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "recreation",
+    "keywords": [
+      "swimming",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/recreation/activities-and-sports/swimming.png"
+    ],
+    "alt_text": "Abstract white figure: swimming.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Swimming: figure doing a calm front-crawl stroke, one arm reaching forward and face above a short patch of stylized blue water ripples. Simple teal swim cap and goggles, modest blue swim top. Just swimmer and small isolated water patch, transparent outside."
+  },
+  {
+    "id": "6-11-activities-playing-basketball",
+    "title": "Playing Basketball",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "basketball",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/recreation/activities-and-sports/playing-basketball.png"
+    ],
+    "alt_text": "Abstract white figure: playing basketball.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Playing basketball: full body athletic figure dribbling a coral basketball with clear curved seam lines using one hand, knees bent, eyes on ball; a simple small hoop and backboard behind to reinforce sport. No court scenery."
+  },
+  {
+    "id": "6-11-activities-playing-soccer",
+    "title": "Playing Soccer",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "soccer",
+      "action",
+      "sport",
+      "recreation",
+      "exercise",
+      "football"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/recreation/activities-and-sports/playing-soccer.png"
+    ],
+    "alt_text": "Abstract white figure: playing soccer.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Playing soccer: full body figure kicking a white soccer ball with dark pentagon patches, one foot planted and other foot touching ball; small simple net behind, athletic clothes and shoes."
+  },
+  {
+    "id": "6-11-activities-playing-tennis",
+    "title": "Playing Tennis",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "tennis",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/recreation/activities-and-sports/playing-tennis.png"
+    ],
+    "alt_text": "Abstract white figure: playing tennis.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Playing tennis: figure swinging an oval stringed blue tennis racket with a clearly visible crossed string grid toward a yellow tennis ball. Balanced athletic stance, both legs visible, correct racket grip. No net or court needed."
+  },
+  {
+    "id": "6-11-activities-playing-hockey",
+    "title": "Playing Hockey",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "hockey",
+      "action",
+      "sport",
+      "recreation",
+      "exercise",
+      "ice",
+      "hockey"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/recreation/activities-and-sports/playing-hockey.png"
+    ],
+    "alt_text": "Abstract white figure: playing hockey.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Playing ice hockey: figure in teal protective helmet with simple face cage, blue padded jersey, gloves and visible ice skates with blades, both hands gripping hockey stick guiding a black puck. No contact or collision, no text on uniform."
+  },
+  {
+    "id": "6-11-activities-playing-baseball",
+    "title": "Playing Baseball",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "baseball",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/recreation/activities-and-sports/playing-baseball.png"
+    ],
+    "alt_text": "Abstract white figure: playing baseball.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Playing baseball: figure wearing plain teal batting helmet, blue jersey, both hands gripping a yellow baseball bat preparing to hit one white baseball with coral curved seam marks. No letters or jersey numbers."
+  },
+  {
+    "id": "6-11-activities-dance-lessons",
+    "title": "Dance Lessons",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "recreation",
+    "keywords": [
+      "dance",
+      "lessons",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/recreation/activities-and-sports/dance-lessons.png"
+    ],
+    "alt_text": "Abstract white figure: dance lessons.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Dance lesson: two abstract white figures, main learner and a slightly taller instructor, mirror a simple dance pose with one arm curved overhead and one extended sideways; feet grounded and visible. Plain blue/teal/lavender dance clothes and soft shoes, no gendered outfits, no musical-note symbols, no stage."
+  },
+  {
+    "id": "6-11-activities-gymnastics",
+    "title": "Gymnastics",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "recreation",
+    "keywords": [
+      "gymnastics",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/recreation/activities-and-sports/gymnastics.png"
+    ],
+    "alt_text": "Abstract white figure: gymnastics.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Lorelei-inspired: expressive light hand-drawn ink linework, finer outlines, lean school-age limbs and oval head, blue clothes with teal trim, minimal eyes and eyebrows. ACTION: Gymnastics: one figure balancing on a very low padded blue balance beam with short sturdy supports, arms extended sideways, one foot on beam and other leg raised slightly back. Modest teal gym shirt and blue leggings, soft footwear. Clear easy balance pose, no acrobatics or risky height."
+  },
+  {
+    "id": "12-18-activities-walk-the-dog",
+    "title": "Walk The Dog",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "walk",
+      "the",
+      "dog",
+      "action",
+      "community",
+      "routine",
+      "pet",
+      "leash"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/activities-and-sports/walk-the-dog.png"
+    ],
+    "alt_text": "Abstract white figure: walk the dog.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Walking a friendly small dog: full body figure walking forward holding a loose leash attached clearly to dog's teal harness. Dog walking beside figure, four sensible legs, simple white dog with blue patch. No background."
+  },
+  {
+    "id": "12-18-activities-check-the-mail",
+    "title": "Check The Mail",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "check",
+      "the",
+      "mail",
+      "action",
+      "community",
+      "routine"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/activities-and-sports/check-the-mail.png"
+    ],
+    "alt_text": "Abstract white figure: check the mail.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Checking mail: figure reaching into an open simple freestanding mailbox to retrieve a blank white envelope. Envelope has only flap outline, no writing or stamps with symbols. Mailbox blue with teal door, figure hand visibly holds envelope."
+  },
+  {
+    "id": "12-18-activities-swimming",
+    "title": "Swimming",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "swimming",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/recreation/activities-and-sports/swimming.png"
+    ],
+    "alt_text": "Abstract white figure: swimming.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Swimming: figure doing a calm front-crawl stroke, one arm reaching forward and face above a short patch of stylized blue water ripples. Simple teal swim cap and goggles, modest blue swim top. Just swimmer and small isolated water patch, transparent outside."
+  },
+  {
+    "id": "12-18-activities-playing-basketball",
+    "title": "Playing Basketball",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "basketball",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/recreation/activities-and-sports/playing-basketball.png"
+    ],
+    "alt_text": "Abstract white figure: playing basketball.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Playing basketball: full body athletic figure dribbling a coral basketball with clear curved seam lines using one hand, knees bent, eyes on ball; a simple small hoop and backboard behind to reinforce sport. No court scenery."
+  },
+  {
+    "id": "12-18-activities-playing-soccer",
+    "title": "Playing Soccer",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "soccer",
+      "action",
+      "sport",
+      "recreation",
+      "exercise",
+      "football"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/recreation/activities-and-sports/playing-soccer.png"
+    ],
+    "alt_text": "Abstract white figure: playing soccer.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Playing soccer: full body figure kicking a white soccer ball with dark pentagon patches, one foot planted and other foot touching ball; small simple net behind, athletic clothes and shoes."
+  },
+  {
+    "id": "12-18-activities-playing-tennis",
+    "title": "Playing Tennis",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "tennis",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/recreation/activities-and-sports/playing-tennis.png"
+    ],
+    "alt_text": "Abstract white figure: playing tennis.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Playing tennis: figure swinging an oval stringed blue tennis racket with a clearly visible crossed string grid toward a yellow tennis ball. Balanced athletic stance, both legs visible, correct racket grip. No net or court needed."
+  },
+  {
+    "id": "12-18-activities-playing-hockey",
+    "title": "Playing Hockey",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "hockey",
+      "action",
+      "sport",
+      "recreation",
+      "exercise",
+      "ice",
+      "hockey"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/recreation/activities-and-sports/playing-hockey.png"
+    ],
+    "alt_text": "Abstract white figure: playing hockey.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Playing ice hockey: figure in teal protective helmet with simple face cage, blue padded jersey, gloves and visible ice skates with blades, both hands gripping hockey stick guiding a black puck. No contact or collision, no text on uniform."
+  },
+  {
+    "id": "12-18-activities-playing-baseball",
+    "title": "Playing Baseball",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "playing",
+      "baseball",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/recreation/activities-and-sports/playing-baseball.png"
+    ],
+    "alt_text": "Abstract white figure: playing baseball.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Playing baseball: figure wearing plain teal batting helmet, blue jersey, both hands gripping a yellow baseball bat preparing to hit one white baseball with coral curved seam marks. No letters or jersey numbers."
+  },
+  {
+    "id": "12-18-activities-dance-lessons",
+    "title": "Dance Lessons",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "dance",
+      "lessons",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/recreation/activities-and-sports/dance-lessons.png"
+    ],
+    "alt_text": "Abstract white figure: dance lessons.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Dance lesson: two abstract white figures, main learner and a slightly taller instructor, mirror a simple dance pose with one arm curved overhead and one extended sideways; feet grounded and visible. Plain blue/teal/lavender dance clothes and soft shoes, no gendered outfits, no musical-note symbols, no stage."
+  },
+  {
+    "id": "12-18-activities-gymnastics",
+    "title": "Gymnastics",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "gymnastics",
+      "action",
+      "sport",
+      "recreation",
+      "exercise"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/recreation/activities-and-sports/gymnastics.png"
+    ],
+    "alt_text": "Abstract white figure: gymnastics.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square transparent alpha PNG visual support. Attached image is style and abstract character reference only, replace its entire action and props. Same race-neutral gender-neutral bald opaque WHITE figure with no skin tones, no hair or demographic/cultural features. Opaque white faces/hands; transparent everywhere outside essential figures/props. Use only 5–8 flat solid colors: dark ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. Clean simple SVG-like closed shapes and readable silhouettes. NO gradients, shading, gloss, texture, 3D, scenery, drop shadows, ground planes, frames. NO TEXT, words, letters, numbers, captions, logos or watermarks anywhere including clothing and equipment. Center full action with generous safe margins, no cropped equipment or body parts. Equipment must distinguish the sport.  STYLE: Colored Notionists-inspired: mature editorial thin irregular pen contours, small oval head, elongated lean limbs, angular line nose, understated face, lavender blue teal clothing and relaxed asymmetry. ACTION: Gymnastics: one figure balancing on a very low padded blue balance beam with short sturdy supports, arms extended sideways, one foot on beam and other leg raised slightly back. Modest teal gym shirt and blue leggings, soft footwear. Clear easy balance pose, no acrobatics or risky height."
   }
 ]
