@@ -96,3 +96,7 @@ Drafts can be found with `python3 search.py --status draft`.
 ## Activities and sports
 
 [Review 30 new draft action visuals](ACTIVITIES-AND-SPORTS-REVIEW.md): walking the dog, checking the mail, swimming, basketball, soccer, tennis, ice hockey, baseball, dance lessons, and gymnastics. Every age strand contains all ten actions. Sports and lessons use the shared Recreation category; dog walking and checking mail use Daily routines.
+
+## Character expressions
+
+[Review seven facial expressions on all three characters](CHARACTER-EXPRESSIONS-REVIEW.md). Six transparent comparison sheets contain 21 expression variants, saved as drafts.
