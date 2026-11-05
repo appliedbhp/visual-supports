@@ -25,13 +25,32 @@
     "category": "communication",
     "keywords": [
       "communication",
-      "i need help"
+      "i need help",
+      "ask for help",
+      "request assistance",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/communication/i-need-help.png",
+      "visuals/0-5/communication/i-need-help-girl.png"
+    ],
+    "alt_text": "A preschooler holds up a closed snack container and asks a caregiver for help.",
+    "generation_prompt": "One square text-free visual support PNG, genuine transparent background. Attached image is solely a style and palette reference. Two abstract white figures with opaque white skin, dark ink contours, minimal facial features, simple flat fills of teal, lavender and blue. Editorial hand-drawn illustration, calm and age-respectful, clear expressive body language, uncluttered silhouette and generous margins. Show the request for assistance in progress. No text, speech bubbles, question marks, logos, backdrop, or shadow. A preschooler holds out a clearly closed teal snack container toward a seated caregiver, looking toward them with mouth slightly open as they request help. The caregiver turns attentively with open empty hands, while the child still holds the container.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository\u2019s Pack a bag visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/0-5/communication/i-need-help-girl.png",
+        "alt_text": "Girl variant of i need help (ages 0-5).",
+        "source_asset": "visuals/0-5/communication/i-need-help.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a preschool girl with short curly bob. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "0-5-feelings-and-regulation-001",
@@ -42,13 +61,32 @@
     "category": "feelings-and-regulation",
     "keywords": [
       "feelings and regulation",
-      "i need a break"
+      "i need a break",
+      "request a pause",
+      "take a break",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/feelings-and-regulation/i-need-a-break.png",
+      "visuals/0-5/feelings-and-regulation/i-need-a-break-girl.png"
+    ],
+    "alt_text": "A preschooler pauses block play and gestures to a caregiver near a floor cushion.",
+    "generation_prompt": "Create a single square text-free visual-support PNG with a truly transparent background. Use reference solely for the clean hand-drawn editorial style, abstract white figures, dark ink contours and flat teal, lavender and blue. Natural age-respectful proportions and calm faces. Use clear gestures, few props and generous margins. The young person is choosing to pause an activity and the other person is listening. No lettering, marks, labels, bubbles, arrows, scene backdrop or shadows. A preschool child pauses putting blocks together and takes one step toward a cozy floor cushion, looking back and holding one hand palm outward at chest height toward a seated caregiver who acknowledges them warmly.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/0-5/feelings-and-regulation/i-need-a-break-girl.png",
+        "alt_text": "Girl variant of i need a break (ages 0-5).",
+        "source_asset": "visuals/0-5/feelings-and-regulation/i-need-a-break.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a preschool girl with short curly bob. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "0-5-schedules-and-transitions-001",
@@ -76,13 +114,32 @@
     "category": "social-situations",
     "keywords": [
       "social situations",
-      "taking turns"
+      "taking turns",
+      "my turn",
+      "your turn",
+      "turn taking",
+      "sharing"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/social-situations/taking-turns.png",
+      "visuals/0-5/social-situations/taking-turns-girl.png"
+    ],
+    "alt_text": "A preschooler passes a toy car to another child.",
+    "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 0-5. Show two preschoolers at a low table passing one small toy car from one child\u2019s open hand to the other\u2019s open hand. Use the reference only for character and ink style. Main character is a preschool child with the same bald gender-neutral abstract design as the reference. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/0-5/social-situations/taking-turns-girl.png",
+        "alt_text": "A preschooler depicted as a girl passes a toy car to another child.",
+        "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 0-5. Show two preschoolers at a low table passing one small toy car from one child\u2019s open hand to the other\u2019s open hand. Use the reference only for character and ink style. Main character is a preschool child presented as a girl with a curly bob. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "0-5-learning-and-tasks-001",
@@ -93,13 +150,30 @@
     "category": "learning-and-tasks",
     "keywords": [
       "learning and tasks",
-      "one step at a time"
+      "one step at a time",
+      "break down tasks",
+      "focus on one step"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/one-step-at-a-time.png",
+      "visuals/0-5/learning-and-tasks/one-step-at-a-time-girl.png"
+    ],
+    "alt_text": "A preschooler puts one block into a toy bin.",
+    "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 0-5. Show a single preschooler, gender-neutral abstract bald figure. Scene: a preschooler places one large teal block into a low open toy bin. Two other blocks rest to the side. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/0-5/learning-and-tasks/one-step-at-a-time-girl.png",
+        "alt_text": "A preschooler depicted as a girl puts one block into a toy bin.",
+        "generation_prompt": "Generate ONE square 1:1 transparent PNG visual support. Match attached style reference: white abstract skin, smooth dark ink outlines, editorial illustration, solid flat color. A preschool girl with short curly bob kneels to place one teal block into a lavender toy bin, two spare yellow blocks to the side. Show whole figure and props isolated. No text. The background must be pure empty transparency, no glow, shadows, aura, haze or colored pixels outside the silhouettes. Preserve opaque white inside the figure.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "0-5-self-care-and-independence-001",
@@ -110,13 +184,32 @@
     "category": "self-care-and-independence",
     "keywords": [
       "self care and independence",
-      "wash hands"
+      "wash hands",
+      "handwashing",
+      "soap",
+      "hygiene"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/wash-hands.png",
+      "visuals/0-5/self-care-and-independence/wash-hands-girl.png"
+    ],
+    "alt_text": "A preschooler stands on a step stool and washes soapy hands at a sink.",
+    "generation_prompt": "One square transparent PNG visual support. Match the reference's clean editorial line art, abstract opaque white figures, dark outlines, flat teal, blue and lavender. Show one person washing hands with visible white suds, rubbing palms together over a compact sink with a running faucet and simple soap pump. Make hands, bubbles and faucet readable at small size. Calm expression, profile or three-quarter view, uncluttered. No letters, numbers, labels, backdrop, shadow, or border. All essential parts inside generous margins. Preschool child on a sturdy teal step stool at a home sink, with both feet flat on the stool.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/0-5/self-care-and-independence/wash-hands-girl.png",
+        "alt_text": "Girl variant of wash hands (ages 0-5).",
+        "source_asset": "visuals/0-5/self-care-and-independence/wash-hands.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a preschool girl with short curly bob. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "0-5-safety-and-community-001",
@@ -161,13 +254,32 @@
     "category": "communication",
     "keywords": [
       "communication",
-      "i need help"
+      "i need help",
+      "ask for help",
+      "request assistance",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/communication/i-need-help.png",
+      "visuals/6-11/communication/i-need-help-girl.png"
+    ],
+    "alt_text": "A school-age child points to their backpack zipper and asks an adult for help.",
+    "generation_prompt": "One square text-free visual support PNG, genuine transparent background. Attached image is solely a style and palette reference. Two abstract white figures with opaque white skin, dark ink contours, minimal facial features, simple flat fills of teal, lavender and blue. Editorial hand-drawn illustration, calm and age-respectful, clear expressive body language, uncluttered silhouette and generous margins. Show the request for assistance in progress. No text, speech bubbles, question marks, logos, backdrop, or shadow. An elementary-school child looks toward an adult and points at a stubborn zipper on a teal backpack held in their own lap, mouth slightly open asking for help. The adult looks toward the child, listening with relaxed hands.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository\u2019s Pack a bag visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/6-11/communication/i-need-help-girl.png",
+        "alt_text": "Girl variant of i need help (ages 6-11).",
+        "source_asset": "visuals/6-11/communication/i-need-help.png",
+        "generation_prompt": "Edit ONLY the small school-age child on the RIGHT, the person holding the teal backpack. Give this child two small dark braids so she reads as an elementary-school girl. The taller seated adult on the LEFT must stay bald and completely unchanged. Preserve positions, facial expressions, backpack, stuck zipper and hand gestures. Text-free square PNG with true transparent background, same exact composition and line art.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "6-11-feelings-and-regulation-001",
@@ -178,13 +290,32 @@
     "category": "feelings-and-regulation",
     "keywords": [
       "feelings and regulation",
-      "i need a break"
+      "i need a break",
+      "request a pause",
+      "take a break",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/feelings-and-regulation/i-need-a-break.png",
+      "visuals/6-11/feelings-and-regulation/i-need-a-break-girl.png"
+    ],
+    "alt_text": "A child asks an adult for a pause during a tabletop activity.",
+    "generation_prompt": "Create a single square text-free visual-support PNG with a truly transparent background. Use reference solely for the clean hand-drawn editorial style, abstract white figures, dark ink contours and flat teal, lavender and blue. Natural age-respectful proportions and calm faces. Use clear gestures, few props and generous margins. The young person is choosing to pause an activity and the other person is listening. No lettering, marks, labels, bubbles, arrows, scene backdrop or shadows. An elementary school child at a group activity table sets a pencil down and gestures toward a nearby quiet chair, looking at an attentive adult and speaking calmly to ask for a short pause. A blank worksheet stays on the table.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/6-11/feelings-and-regulation/i-need-a-break-girl.png",
+        "alt_text": "Girl variant of i need a break (ages 6-11).",
+        "source_asset": "visuals/6-11/feelings-and-regulation/i-need-a-break.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a elementary school girl with two simple braids. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "6-11-schedules-and-transitions-001",
@@ -212,13 +343,32 @@
     "category": "social-situations",
     "keywords": [
       "social situations",
-      "taking turns"
+      "taking turns",
+      "my turn",
+      "your turn",
+      "turn taking",
+      "sharing"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/social-situations/taking-turns.png",
+      "visuals/6-11/social-situations/taking-turns-girl.png"
+    ],
+    "alt_text": "A school-age child passes a die to another child during a board game.",
+    "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 6-11. Show two school-age children across a small table, passing a single large yellow die over a simple board game. Use the reference only for character and ink style. Main character is an elementary-school child with the same bald gender-neutral abstract design as the reference. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/6-11/social-situations/taking-turns-girl.png",
+        "alt_text": "A school-age child depicted as a girl passes a die to another child during a board game.",
+        "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 6-11. Show two school-age children across a small table, passing a single large yellow die over a simple board game. Use the reference only for character and ink style. Main character is an elementary-school child presented as a girl with two braids. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "6-11-learning-and-tasks-001",
@@ -229,13 +379,30 @@
     "category": "learning-and-tasks",
     "keywords": [
       "learning and tasks",
-      "one step at a time"
+      "one step at a time",
+      "break down tasks",
+      "focus on one step"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/one-step-at-a-time.png",
+      "visuals/6-11/learning-and-tasks/one-step-at-a-time-girl.png"
+    ],
+    "alt_text": "A school-age child attaches one wing to a model airplane.",
+    "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 6-11. Show a single school-age child, gender-neutral abstract bald figure. Scene: a child assembles a three-piece simple model airplane at a desk, connecting one wing to the plane body, with the other wing waiting on the desk. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/6-11/learning-and-tasks/one-step-at-a-time-girl.png",
+        "alt_text": "A school-age child depicted as a girl attaches one wing to a model airplane.",
+        "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 6-11. Show a single school-age child, a girl with two braids. Scene: a child assembles a three-piece simple model airplane at a desk, connecting one wing to the plane body, with the other wing waiting on the desk. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "6-11-self-care-and-independence-001",
@@ -246,13 +413,32 @@
     "category": "self-care-and-independence",
     "keywords": [
       "self care and independence",
-      "wash hands"
+      "wash hands",
+      "handwashing",
+      "soap",
+      "hygiene"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/wash-hands.png",
+      "visuals/6-11/self-care-and-independence/wash-hands-girl.png"
+    ],
+    "alt_text": "A school-age child rubs soapy hands together at a school sink.",
+    "generation_prompt": "One square transparent PNG visual support. Match the reference's clean editorial line art, abstract opaque white figures, dark outlines, flat teal, blue and lavender. Show one person washing hands with visible white suds, rubbing palms together over a compact sink with a running faucet and simple soap pump. Make hands, bubbles and faucet readable at small size. Calm expression, profile or three-quarter view, uncluttered. No letters, numbers, labels, backdrop, shadow, or border. All essential parts inside generous margins. Elementary-school child standing at a small school sink, casual long-sleeve shirt with sleeves rolled up.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/6-11/self-care-and-independence/wash-hands-girl.png",
+        "alt_text": "Girl variant of wash hands (ages 6-11).",
+        "source_asset": "visuals/6-11/self-care-and-independence/wash-hands.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a elementary school girl with two simple braids. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "6-11-safety-and-community-001",
@@ -297,13 +483,32 @@
     "category": "communication",
     "keywords": [
       "communication",
-      "i need help"
+      "i need help",
+      "ask for help",
+      "request assistance",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/communication/i-need-help.png",
+      "visuals/12-18/communication/i-need-help-girl.png"
+    ],
+    "alt_text": "A teen points to an open notebook and asks a peer for help.",
+    "generation_prompt": "One square text-free visual support PNG, genuine transparent background. Attached image is solely a style and palette reference. Two abstract white figures with opaque white skin, dark ink contours, minimal facial features, simple flat fills of teal, lavender and blue. Editorial hand-drawn illustration, calm and age-respectful, clear expressive body language, uncluttered silhouette and generous margins. Show the request for assistance in progress. No text, speech bubbles, question marks, logos, backdrop, or shadow. A teen at a small table points at their open notebook and turns toward a seated peer with a small open mouth asking for help. The peer looks at the teen attentively. Show only simple blank pages and a pencil, no marks.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the repository\u2019s Pack a bag visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/communication/i-need-help-girl.png",
+        "alt_text": "Girl variant of i need help (ages 12-18).",
+        "source_asset": "visuals/12-18/communication/i-need-help.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-feelings-and-regulation-001",
@@ -314,13 +519,32 @@
     "category": "feelings-and-regulation",
     "keywords": [
       "feelings and regulation",
-      "i need a break"
+      "i need a break",
+      "request a pause",
+      "take a break",
+      "self advocacy"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/feelings-and-regulation/i-need-a-break.png",
+      "visuals/12-18/feelings-and-regulation/i-need-a-break-girl.png"
+    ],
+    "alt_text": "A teen asks a peer to pause while studying together.",
+    "generation_prompt": "Create a single square text-free visual-support PNG with a truly transparent background. Use reference solely for the clean hand-drawn editorial style, abstract white figures, dark ink contours and flat teal, lavender and blue. Natural age-respectful proportions and calm faces. Use clear gestures, few props and generous margins. The young person is choosing to pause an activity and the other person is listening. No lettering, marks, labels, bubbles, arrows, scene backdrop or shadows. A teen at a small shared study table lifts an open hand at chest height and calmly speaks to their attentive peer while sliding their own notebook slightly away, asking to pause the work. A simple empty chair beside the table suggests a place to take a breather.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/feelings-and-regulation/i-need-a-break-girl.png",
+        "alt_text": "Girl variant of i need a break (ages 12-18).",
+        "source_asset": "visuals/12-18/feelings-and-regulation/i-need-a-break.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-schedules-and-transitions-001",
@@ -348,13 +572,32 @@
     "category": "social-situations",
     "keywords": [
       "social situations",
-      "taking turns"
+      "taking turns",
+      "my turn",
+      "your turn",
+      "turn taking",
+      "sharing"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/social-situations/taking-turns.png",
+      "visuals/12-18/social-situations/taking-turns-girl.png"
+    ],
+    "alt_text": "A teen hands a game controller to another teen.",
+    "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 12-18. Show two teenagers at a community center table, passing a single game controller with a clear handoff, both comfortably seated. Use the reference only for character and ink style. Main character is a teenager with the same bald gender-neutral abstract design as the reference. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/social-situations/taking-turns-girl.png",
+        "alt_text": "A teen depicted as a girl hands a game controller to another teen.",
+        "generation_prompt": "Create one standalone square transparent PNG visual support for Taking turns, ages 12-18. Show two teenagers at a community center table, passing a single game controller with a clear handoff, both comfortably seated. Use the reference only for character and ink style. Main character is a teenager presented as a girl with a low ponytail. Secondary character gender-neutral. Both characters have opaque white abstract faces and hands. Calm editorial linework, thin dark ink contours, minimal expressions, flat lavender, teal and sunny yellow accents. Make the single handoff and shared object immediately legible at small scale. No text, no arrows, no borders, no background, no shadows. Entire action in frame with margins. True transparent alpha outside figures and essential props.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-learning-and-tasks-001",
@@ -365,13 +608,30 @@
     "category": "learning-and-tasks",
     "keywords": [
       "learning and tasks",
-      "one step at a time"
+      "one step at a time",
+      "break down tasks",
+      "focus on one step"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/one-step-at-a-time.png",
+      "visuals/12-18/learning-and-tasks/one-step-at-a-time-girl.png"
+    ],
+    "alt_text": "A teen folds one T-shirt at a table.",
+    "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 12-18. Show a single teen, gender-neutral abstract bald figure. Scene: a teen folds one teal T-shirt on a table, with a small stack of other shirts off to the side. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/learning-and-tasks/one-step-at-a-time-girl.png",
+        "alt_text": "A teen depicted as a girl folds one T-shirt at a table.",
+        "generation_prompt": "One square text-free transparent PNG visual support for One step at a time, ages 12-18. Show a single teen, a girl with low ponytail. Scene: a teen folds one teal T-shirt on a table, with a small stack of other shirts off to the side. Show hands actively completing this one step, keep waiting items clearly separate. Use attached image only as ink, palette and character reference. Opaque white abstract skin, dark thin editorial ink outlines, flat teal, lavender and yellow accents, relaxed expression, simple clothing. Frame full essential action with generous margins. Transparent alpha outside the person, furniture and essential props. No backdrop, text, symbols, diagrams, border, panels, extra people or shadows.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation, with the age-matched I need help artwork as a style reference.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-self-care-and-independence-001",
@@ -382,13 +642,32 @@
     "category": "self-care-and-independence",
     "keywords": [
       "self care and independence",
-      "wash hands"
+      "wash hands",
+      "handwashing",
+      "soap",
+      "hygiene"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "ready",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/wash-hands.png",
+      "visuals/12-18/self-care-and-independence/wash-hands-girl.png"
+    ],
+    "alt_text": "A teen washes soapy hands at a wall-mounted sink.",
+    "generation_prompt": "One square transparent PNG visual support. Match the reference's clean editorial line art, abstract opaque white figures, dark outlines, flat teal, blue and lavender. Show one person washing hands with visible white suds, rubbing palms together over a compact sink with a running faucet and simple soap pump. Make hands, bubbles and faucet readable at small size. Calm expression, profile or three-quarter view, uncluttered. No letters, numbers, labels, backdrop, shadow, or border. All essential parts inside generous margins. Teen with mature proportions at a simple wall-mounted restroom sink, lavender overshirt with sleeves rolled back.",
+    "source": "AI-generated for Visual Supports using OpenAI image generation, with the matching I need help visual as a style reference.",
+    "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/self-care-and-independence/wash-hands-girl.png",
+        "alt_text": "Girl variant of wash hands (ages 12-18).",
+        "source_asset": "visuals/12-18/self-care-and-independence/wash-hands.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-safety-and-community-001",
@@ -422,10 +701,22 @@
     "status": "ready",
     "style": "notionists-inspired",
     "assets": [
-      "visuals/12-18/daily-routines/morning-routine/01-wake-up.png"
+      "visuals/12-18/daily-routines/morning-routine/01-wake-up.png",
+      "visuals/12-18/daily-routines/morning-routine/01-wake-up-girl.png"
     ],
     "alt_text": "Abstract white figure: wake up.",
-    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Wake up: figure sits upright on edge of a simple bed, stretching both arms with a calm awake expression; pillow and folded-back teal blanket make waking up clear."
+    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Wake up: figure sits upright on edge of a simple bed, stretching both arms with a calm awake expression; pillow and folded-back teal blanket make waking up clear.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/daily-routines/morning-routine/01-wake-up-girl.png",
+        "alt_text": "Girl variant of wake up (ages 12-18).",
+        "source_asset": "visuals/12-18/daily-routines/morning-routine/01-wake-up.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-morning-02-use-toilet",
@@ -442,10 +733,22 @@
     "status": "ready",
     "style": "notionists-inspired",
     "assets": [
-      "visuals/12-18/daily-routines/morning-routine/02-use-toilet.png"
+      "visuals/12-18/daily-routines/morning-routine/02-use-toilet.png",
+      "visuals/12-18/daily-routines/morning-routine/02-use-toilet-girl.png"
     ],
     "alt_text": "Abstract white figure: use the toilet.",
-    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Use the toilet: discreet side view of figure seated on a recognizable white toilet with tank, lap entirely covered by long lavender shirt. No nudity, no visible anatomy, no waste. Simple tasteful everyday self-care pictogram."
+    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Use the toilet: discreet side view of figure seated on a recognizable white toilet with tank, lap entirely covered by long lavender shirt. No nudity, no visible anatomy, no waste. Simple tasteful everyday self-care pictogram.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/daily-routines/morning-routine/02-use-toilet-girl.png",
+        "alt_text": "Girl variant of use the toilet (ages 12-18).",
+        "source_asset": "visuals/12-18/daily-routines/morning-routine/02-use-toilet.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-morning-03-wash-hands",
@@ -462,10 +765,22 @@
     "status": "ready",
     "style": "notionists-inspired",
     "assets": [
-      "visuals/12-18/daily-routines/morning-routine/03-wash-hands.png"
+      "visuals/12-18/daily-routines/morning-routine/03-wash-hands.png",
+      "visuals/12-18/daily-routines/morning-routine/03-wash-hands-girl.png"
     ],
     "alt_text": "Abstract white figure: wash hands.",
-    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Wash hands: waist-up figure rubbing BOTH hands together directly beneath a running faucet over a small sink, with a few simple white soap bubbles and blue water drops. Hands clearly in basin."
+    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Wash hands: waist-up figure rubbing BOTH hands together directly beneath a running faucet over a small sink, with a few simple white soap bubbles and blue water drops. Hands clearly in basin.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/daily-routines/morning-routine/03-wash-hands-girl.png",
+        "alt_text": "Girl variant of wash hands (ages 12-18).",
+        "source_asset": "visuals/12-18/daily-routines/morning-routine/03-wash-hands.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-morning-04-brush-teeth",
@@ -482,10 +797,22 @@
     "status": "ready",
     "style": "notionists-inspired",
     "assets": [
-      "visuals/12-18/daily-routines/morning-routine/04-brush-teeth.png"
+      "visuals/12-18/daily-routines/morning-routine/04-brush-teeth.png",
+      "visuals/12-18/daily-routines/morning-routine/04-brush-teeth-girl.png"
     ],
     "alt_text": "Abstract white figure: brush teeth.",
-    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Brush teeth: waist-up figure actively brushing their teeth, toothbrush bristles visibly touch mouth, one hand holds blue toothbrush, a tiny white toothpaste foam at mouth, other hand holds simple teal cup."
+    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Brush teeth: waist-up figure actively brushing their teeth, toothbrush bristles visibly touch mouth, one hand holds blue toothbrush, a tiny white toothpaste foam at mouth, other hand holds simple teal cup.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/daily-routines/morning-routine/04-brush-teeth-girl.png",
+        "alt_text": "Girl variant of brush teeth (ages 12-18).",
+        "source_asset": "visuals/12-18/daily-routines/morning-routine/04-brush-teeth.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-morning-05-get-dressed",
@@ -502,10 +829,22 @@
     "status": "ready",
     "style": "notionists-inspired",
     "assets": [
-      "visuals/12-18/daily-routines/morning-routine/05-get-dressed.png"
+      "visuals/12-18/daily-routines/morning-routine/05-get-dressed.png",
+      "visuals/12-18/daily-routines/morning-routine/05-get-dressed-girl.png"
     ],
     "alt_text": "Abstract white figure: get dressed.",
-    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Get dressed: figure in process of pulling a loose lavender crewneck shirt down over white undershirt, head fully visible, hands gripping shirt hem, plain blue trousers. Entirely clothed, no nudity. Clear dressing action."
+    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Get dressed: figure in process of pulling a loose lavender crewneck shirt down over white undershirt, head fully visible, hands gripping shirt hem, plain blue trousers. Entirely clothed, no nudity. Clear dressing action.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/daily-routines/morning-routine/05-get-dressed-girl.png",
+        "alt_text": "Girl variant of get dressed (ages 12-18).",
+        "source_asset": "visuals/12-18/daily-routines/morning-routine/05-get-dressed.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-morning-06-eat-breakfast",
@@ -522,10 +861,22 @@
     "status": "ready",
     "style": "notionists-inspired",
     "assets": [
-      "visuals/12-18/daily-routines/morning-routine/06-eat-breakfast.png"
+      "visuals/12-18/daily-routines/morning-routine/06-eat-breakfast.png",
+      "visuals/12-18/daily-routines/morning-routine/06-eat-breakfast-girl.png"
     ],
     "alt_text": "Abstract white figure: eat breakfast.",
-    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Eat breakfast: figure seated at a simple small table, spoon held near mouth, bowl of breakfast cereal with a few yellow cereal shapes and a teal water cup. Simple culturally nonspecific everyday meal."
+    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Eat breakfast: figure seated at a simple small table, spoon held near mouth, bowl of breakfast cereal with a few yellow cereal shapes and a teal water cup. Simple culturally nonspecific everyday meal.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/daily-routines/morning-routine/06-eat-breakfast-girl.png",
+        "alt_text": "Girl variant of eat breakfast (ages 12-18).",
+        "source_asset": "visuals/12-18/daily-routines/morning-routine/06-eat-breakfast.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   },
   {
     "id": "12-18-morning-07-pack-bag",
@@ -542,9 +893,21 @@
     "status": "ready",
     "style": "notionists-inspired",
     "assets": [
-      "visuals/12-18/daily-routines/morning-routine/07-pack-bag.png"
+      "visuals/12-18/daily-routines/morning-routine/07-pack-bag.png",
+      "visuals/12-18/daily-routines/morning-routine/07-pack-bag-girl.png"
     ],
     "alt_text": "Abstract white figure: pack a bag.",
-    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Pack a bag: waist-up figure visibly placing a closed plain blue notebook into open teal backpack on a small table, other hand holds bag open. No branding, no writing."
+    "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Pack a bag: waist-up figure visibly placing a closed plain blue notebook into open teal backpack on a small table, other hand holds bag open. No branding, no writing.",
+    "variants": [
+      {
+        "presentation": "girl",
+        "asset": "visuals/12-18/daily-routines/morning-routine/07-pack-bag-girl.png",
+        "alt_text": "Girl variant of pack a bag (ages 12-18).",
+        "source_asset": "visuals/12-18/daily-routines/morning-routine/07-pack-bag.png",
+        "generation_prompt": "Edit this existing visual support to create a companion variant. Depict the main young person performing the action as a teenage girl with a low ponytail. Keep the same age, activity, pose, props, composition, palette, understated clothing, abstract opaque white skin, calm editorial ink drawing, and any secondary character unchanged. Preserve modest framing and clothing. Keep the image square, text-free, and fully transparent outside the figure and props. No new symbols, labels, background, or decoration.",
+        "source": "AI-generated for Visual Supports using OpenAI image generation.",
+        "usage_rights": "Use of generated output is subject to applicable OpenAI terms and any third-party rights."
+      }
+    ]
   }
 ]

@@ -14,7 +14,7 @@ Age is a starting filter. Allow children and caregivers to choose other age stra
 
 ## Current contents
 
-The library contains 24 planned starter entries plus seven teen morning-routine PNG visuals. The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries are ideas, not downloadable supports.
+The library contains 9 planned starter entries and 44 PNG visuals (22 original illustrations and 22 companion versions featuring girls). The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries describe supports that are still in development.
 
 - `catalog/age-strands.json`: age definitions
 - `catalog/categories.json`: shared categories
@@ -36,9 +36,69 @@ python3 search.py --status ready
 
 Search includes planned entries and clearly labels their status. A future browsing website can use the same catalog. No child profiles or personal information are needed to filter by age.
 
-## Next milestone
+## Communication: I need help
 
-Choose an illustration style and create the same communication support (for example, “I need help”) for all three age strands. Review those together before expanding the library.
+Each image shows a request for help in a different everyday situation. Choose the scene that is most recognizable to the person using it.
+
+### Ages 0–5
+
+![A preschooler holds up a closed snack container and asks a caregiver for help.](visuals/0-5/communication/i-need-help.png)
+
+[Girl version](visuals/0-5/communication/i-need-help-girl.png)
+
+### Ages 6–11
+
+![A school-age child points to their backpack zipper and asks an adult for help.](visuals/6-11/communication/i-need-help.png)
+
+[Girl version](visuals/6-11/communication/i-need-help-girl.png)
+
+### Ages 12–18
+
+![A teen points to an open notebook and asks a peer for help.](visuals/12-18/communication/i-need-help.png)
+
+[Girl version](visuals/12-18/communication/i-need-help-girl.png)
+
+## Feelings and regulation: I need a break
+
+Use these visuals to ask for a pause during play, a group activity, or studying.
+
+### Ages 0–5
+
+![A preschooler pauses block play and gestures to a caregiver near a floor cushion.](visuals/0-5/feelings-and-regulation/i-need-a-break.png)
+
+[Girl version](visuals/0-5/feelings-and-regulation/i-need-a-break-girl.png)
+
+### Ages 6–11
+
+![A child asks an adult for a pause during a tabletop activity.](visuals/6-11/feelings-and-regulation/i-need-a-break.png)
+
+[Girl version](visuals/6-11/feelings-and-regulation/i-need-a-break-girl.png)
+
+### Ages 12–18
+
+![A teen asks a peer to pause while studying together.](visuals/12-18/feelings-and-regulation/i-need-a-break.png)
+
+[Girl version](visuals/12-18/feelings-and-regulation/i-need-a-break-girl.png)
+
+## Self-care and independence: Wash hands
+
+### Ages 0–5
+
+![A preschooler stands on a step stool and washes soapy hands at a sink.](visuals/0-5/self-care-and-independence/wash-hands.png)
+
+[Girl version](visuals/0-5/self-care-and-independence/wash-hands-girl.png)
+
+### Ages 6–11
+
+![A school-age child rubs soapy hands together at a school sink.](visuals/6-11/self-care-and-independence/wash-hands.png)
+
+[Girl version](visuals/6-11/self-care-and-independence/wash-hands-girl.png)
+
+### Ages 12–18
+
+![A teen washes soapy hands at a wall-mounted sink.](visuals/12-18/self-care-and-independence/wash-hands.png)
+
+[Girl version](visuals/12-18/self-care-and-independence/wash-hands-girl.png)
 
 ## Morning routine: teen series
 
@@ -46,26 +106,84 @@ Choose an illustration style and create the same communication support (for exam
 
 ![Wake up](visuals/12-18/daily-routines/morning-routine/01-wake-up.png)
 
+[Girl version](visuals/12-18/daily-routines/morning-routine/01-wake-up-girl.png)
+
 ### 2. Use the toilet
 
 ![Use the toilet](visuals/12-18/daily-routines/morning-routine/02-use-toilet.png)
+
+[Girl version](visuals/12-18/daily-routines/morning-routine/02-use-toilet-girl.png)
 
 ### 3. Wash hands
 
 ![Wash hands](visuals/12-18/daily-routines/morning-routine/03-wash-hands.png)
 
+[Girl version](visuals/12-18/daily-routines/morning-routine/03-wash-hands-girl.png)
+
 ### 4. Brush teeth
 
 ![Brush teeth](visuals/12-18/daily-routines/morning-routine/04-brush-teeth.png)
+
+[Girl version](visuals/12-18/daily-routines/morning-routine/04-brush-teeth-girl.png)
 
 ### 5. Get dressed
 
 ![Get dressed](visuals/12-18/daily-routines/morning-routine/05-get-dressed.png)
 
+[Girl version](visuals/12-18/daily-routines/morning-routine/05-get-dressed-girl.png)
+
 ### 6. Eat breakfast
 
 ![Eat breakfast](visuals/12-18/daily-routines/morning-routine/06-eat-breakfast.png)
 
+[Girl version](visuals/12-18/daily-routines/morning-routine/06-eat-breakfast-girl.png)
+
 ### 7. Pack a bag
 
 ![Pack a bag](visuals/12-18/daily-routines/morning-routine/07-pack-bag.png)
+
+[Girl version](visuals/12-18/daily-routines/morning-routine/07-pack-bag-girl.png)
+
+## Social situations: Taking turns
+
+Each pair shows one person handing a shared object to someone else for their turn.
+
+### Ages 0–5
+
+![A preschooler passes a toy car to another child.](visuals/0-5/social-situations/taking-turns.png)
+
+[Girl version](visuals/0-5/social-situations/taking-turns-girl.png)
+
+### Ages 6–11
+
+![A school-age child passes a die to another child during a board game.](visuals/6-11/social-situations/taking-turns.png)
+
+[Girl version](visuals/6-11/social-situations/taking-turns-girl.png)
+
+### Ages 12–18
+
+![A teen hands a game controller to another teen.](visuals/12-18/social-situations/taking-turns.png)
+
+[Girl version](visuals/12-18/social-situations/taking-turns-girl.png)
+
+## Learning and tasks: One step at a time
+
+Use these visuals to cue attention to a single action in a longer task.
+
+### Ages 0–5
+
+![A preschooler puts one block into a toy bin.](visuals/0-5/learning-and-tasks/one-step-at-a-time.png)
+
+[Girl version](visuals/0-5/learning-and-tasks/one-step-at-a-time-girl.png)
+
+### Ages 6–11
+
+![A school-age child attaches one wing to a model airplane.](visuals/6-11/learning-and-tasks/one-step-at-a-time.png)
+
+[Girl version](visuals/6-11/learning-and-tasks/one-step-at-a-time-girl.png)
+
+### Ages 12–18
+
+![A teen folds one T-shirt at a table.](visuals/12-18/learning-and-tasks/one-step-at-a-time.png)
+
+[Girl version](visuals/12-18/learning-and-tasks/one-step-at-a-time-girl.png)
