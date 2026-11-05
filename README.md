@@ -215,3 +215,14 @@ Use these visuals to cue attention to a single action in a longer task.
 ### Ages 12–18
 
 ![A teen pauses at the curb by a crosswalk.](visuals/12-18/safety-and-community/stop-at-the-curb.png)
+
+## Everyday routines and chores
+
+| Situation | Ages 0–5 | Ages 6–11 | Ages 12–18 |
+|---|---|---|---|
+| Pack a bag | [View](visuals/0-5/daily-routines/pack-a-bag.png) | [View](visuals/6-11/daily-routines/pack-a-bag.png) | [View](visuals/12-18/daily-routines/morning-routine/07-pack-bag-bald.png) |
+| Wash hands | [View](visuals/0-5/self-care-and-independence/wash-hands-bald.png) | [View](visuals/6-11/self-care-and-independence/wash-hands-bald.png) | [View](visuals/12-18/self-care-and-independence/wash-hands-bald.png) |
+| Feed the dog | [View](visuals/0-5/self-care-and-independence/feed-the-dog.png) | [View](visuals/6-11/self-care-and-independence/feed-the-dog.png) | [View](visuals/12-18/self-care-and-independence/feed-the-dog.png) |
+| Feed the cat | [View](visuals/0-5/self-care-and-independence/feed-the-cat.png) | [View](visuals/6-11/self-care-and-independence/feed-the-cat.png) | [View](visuals/12-18/self-care-and-independence/feed-the-cat.png) |
+| Take out the trash | [View](visuals/0-5/self-care-and-independence/take-out-the-trash.png) | [View](visuals/6-11/self-care-and-independence/take-out-the-trash.png) | [View](visuals/12-18/self-care-and-independence/take-out-the-trash.png) |
+| Wipe the counter | [View](visuals/0-5/self-care-and-independence/wipe-the-counter.png) | [View](visuals/6-11/self-care-and-independence/wipe-the-counter.png) | [View](visuals/12-18/self-care-and-independence/wipe-the-counter.png) |
