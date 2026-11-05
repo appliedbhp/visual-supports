@@ -14,7 +14,7 @@ Age is a starting filter. Allow children and caregivers to choose other age stra
 
 ## Current contents
 
-The library contains 24 planned starter entries plus seven teen morning-routine PNG visuals. The morning-routine set is available under `visuals/12-18/daily-routines/morning-routine/`. All routine images are square, transparent, and text-free. Planned entries are ideas, not downloadable supports.
+The library contains 24 planned starter entries plus 30 morning-routine PNG visuals across three age strands. The morning-routine sets are available under `visuals/<age-strand>/daily-routines/morning-routine/`. The 23 newer images are drafts awaiting review. All routine images are square, transparent, and text-free. Planned entries are ideas, not downloadable supports.
 
 - `catalog/age-strands.json`: age definitions
 - `catalog/categories.json`: shared categories
@@ -69,3 +69,22 @@ Choose an illustration style and create the same communication support (for exam
 ### 7. Pack a bag
 
 ![Pack a bag](visuals/12-18/daily-routines/morning-routine/07-pack-bag.png)
+
+## Morning routine sets
+
+Each age strand now has the same ten steps. New images are marked `draft` in the catalog; the original teen set remains `ready`. Labels below are separate from the PNG artwork.
+
+| Step | Ages 0–5 | Ages 6–11 | Ages 12–18 |
+|---|---|---|---|
+| Wake up | [PNG](visuals/0-5/daily-routines/morning-routine/01-wake-up.png) | [PNG](visuals/6-11/daily-routines/morning-routine/01-wake-up.png) | [PNG](visuals/12-18/daily-routines/morning-routine/01-wake-up.png) |
+| Use the toilet | [PNG](visuals/0-5/daily-routines/morning-routine/02-use-toilet.png) | [PNG](visuals/6-11/daily-routines/morning-routine/02-use-toilet.png) | [PNG](visuals/12-18/daily-routines/morning-routine/02-use-toilet.png) |
+| Wash hands | [PNG](visuals/0-5/daily-routines/morning-routine/03-wash-hands.png) | [PNG](visuals/6-11/daily-routines/morning-routine/03-wash-hands.png) | [PNG](visuals/12-18/daily-routines/morning-routine/03-wash-hands.png) |
+| Brush teeth | [PNG](visuals/0-5/daily-routines/morning-routine/04-brush-teeth.png) | [PNG](visuals/6-11/daily-routines/morning-routine/04-brush-teeth.png) | [PNG](visuals/12-18/daily-routines/morning-routine/04-brush-teeth.png) |
+| Get dressed | [PNG](visuals/0-5/daily-routines/morning-routine/05-get-dressed.png) | [PNG](visuals/6-11/daily-routines/morning-routine/05-get-dressed.png) | [PNG](visuals/12-18/daily-routines/morning-routine/05-get-dressed.png) |
+| Eat breakfast | [PNG](visuals/0-5/daily-routines/morning-routine/06-eat-breakfast.png) | [PNG](visuals/6-11/daily-routines/morning-routine/06-eat-breakfast.png) | [PNG](visuals/12-18/daily-routines/morning-routine/06-eat-breakfast.png) |
+| Pack a bag | [PNG](visuals/0-5/daily-routines/morning-routine/07-pack-bag.png) | [PNG](visuals/6-11/daily-routines/morning-routine/07-pack-bag.png) | [PNG](visuals/12-18/daily-routines/morning-routine/07-pack-bag.png) |
+| Wash face | [PNG](visuals/0-5/daily-routines/morning-routine/08-wash-face.png) | [PNG](visuals/6-11/daily-routines/morning-routine/08-wash-face.png) | [PNG](visuals/12-18/daily-routines/morning-routine/08-wash-face.png) |
+| Put on shoes | [PNG](visuals/0-5/daily-routines/morning-routine/09-put-on-shoes.png) | [PNG](visuals/6-11/daily-routines/morning-routine/09-put-on-shoes.png) | [PNG](visuals/12-18/daily-routines/morning-routine/09-put-on-shoes.png) |
+| Leave home | [PNG](visuals/0-5/daily-routines/morning-routine/10-leave-home.png) | [PNG](visuals/6-11/daily-routines/morning-routine/10-leave-home.png) | [PNG](visuals/12-18/daily-routines/morning-routine/10-leave-home.png) |
+
+Drafts can be found with `python3 search.py --status draft`.

@@ -546,5 +546,465 @@
     ],
     "alt_text": "Abstract white figure: pack a bag.",
     "generation_prompt": "Create ONE standalone square transparent-background PNG visual-support illustration. Use attached image ONLY as illustration style and abstract character reference, not as a layout template. Retain the approved mature Notionists-like editorial pen-and-ink style: thin confident slightly irregular dark contours, small irregular oval head relative to torso, long lean limbs, asymmetric natural pose, minimal eyes and eyebrows, small understated mouth, simple angular line nose, relaxed everyday clothing with a few economical folds. SAME race-neutral gender-neutral abstract bald WHITE figure in all assets, no natural skin tones, no hair or demographic accessories. This is for the teen age strand. Flat SVG-like solid color shapes. Palette restricted to 7 main colors: ink #24243B, white #FFFFFF, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, pale yellow #FFD447, coral #FF6B6B; only use colors needed. No gradients, shadows, texture or realistic lighting. Genuinely transparent alpha outside the figure and essential props; white figure and white objects remain opaque. No scene background, no border, no card, no checkerboard. Center whole action with 10 percent margins, all props fully inside square, prioritize clarity at small size. ABSOLUTELY NO TEXT, LETTERS, NUMBERS, captions, speech bubbles, question marks, age labels, or logos anywhere. Remove all lettering from the reference. Original figure should feel mature and editorial, never babyish or a thick outlined sticker. Action for this image: Pack a bag: waist-up figure visibly placing a closed plain blue notebook into open teal backpack on a small table, other hand holds bag open. No branding, no writing."
+  },
+  {
+    "id": "0-5-morning-01-wake-up",
+    "title": "Wake up",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "wake up"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/01-wake-up.png"
+    ],
+    "alt_text": "Abstract white figure: wake up.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 0-5. Dylan-inspired: bold chunky outlines, very rounded simple geometry, oversized round head, tiny dot eyes and gentle small smile, short soft limbs, cute and colorful. Teal shirt, blue bottoms, yellow accent. Use only a few shapes, almost no clothing folds. Action: Wake up: sit on edge of simple bed with pillow and folded-back teal blanket, stretching arms after waking."
+  },
+  {
+    "id": "0-5-morning-02-use-toilet",
+    "title": "Use the toilet",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "use the toilet"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/02-use-toilet.png"
+    ],
+    "alt_text": "Abstract white figure: use the toilet.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 0-5. Dylan-inspired: bold chunky outlines, very rounded simple geometry, oversized round head, tiny dot eyes and gentle small smile, short soft limbs, cute and colorful. Teal shirt, blue bottoms, yellow accent. Use only a few shapes, almost no clothing folds. Action: Use the toilet: discreet side view seated on a simple white toilet, long shirt fully covers lap. Pants lowered around ankles, no visible private anatomy, no waste, respectful simple hygiene pictogram."
+  },
+  {
+    "id": "0-5-morning-03-wash-hands",
+    "title": "Wash hands",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "wash hands"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/03-wash-hands.png"
+    ],
+    "alt_text": "Abstract white figure: wash hands.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 0-5. Dylan-inspired: bold chunky outlines, very rounded simple geometry, oversized round head, tiny dot eyes and gentle small smile, short soft limbs, cute and colorful. Teal shirt, blue bottoms, yellow accent. Use only a few shapes, almost no clothing folds. Action: Wash hands: rub both soapy hands together beneath a running faucet over a simple white sink, blue water and few white bubbles."
+  },
+  {
+    "id": "0-5-morning-04-brush-teeth",
+    "title": "Brush teeth",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "brush teeth"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/04-brush-teeth.png"
+    ],
+    "alt_text": "Abstract white figure: brush teeth.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 0-5. Dylan-inspired: bold chunky outlines, very rounded simple geometry, oversized round head, tiny dot eyes and gentle small smile, short soft limbs, cute and colorful. Teal shirt, blue bottoms, yellow accent. Use only a few shapes, almost no clothing folds. Action: Brush teeth: toothbrush bristles touching mouth with tiny white toothpaste foam; one hand holds blue toothbrush, other a teal cup."
+  },
+  {
+    "id": "0-5-morning-05-get-dressed",
+    "title": "Get dressed",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "get dressed"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/05-get-dressed.png"
+    ],
+    "alt_text": "Abstract white figure: get dressed.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 0-5. Dylan-inspired: bold chunky outlines, very rounded simple geometry, oversized round head, tiny dot eyes and gentle small smile, short soft limbs, cute and colorful. Teal shirt, blue bottoms, yellow accent. Use only a few shapes, almost no clothing folds. Action: Get dressed: pulling lavender or teal shirt down over white undershirt, hands gripping shirt hem, head visible, blue trousers; fully clothed."
+  },
+  {
+    "id": "0-5-morning-06-eat-breakfast",
+    "title": "Eat breakfast",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "eat breakfast"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/06-eat-breakfast.png"
+    ],
+    "alt_text": "Abstract white figure: eat breakfast.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 0-5. Dylan-inspired: bold chunky outlines, very rounded simple geometry, oversized round head, tiny dot eyes and gentle small smile, short soft limbs, cute and colorful. Teal shirt, blue bottoms, yellow accent. Use only a few shapes, almost no clothing folds. Action: Eat breakfast: seated at small table with bowl and spoon bringing yellow cereal toward mouth; simple teal water cup."
+  },
+  {
+    "id": "0-5-morning-07-pack-bag",
+    "title": "Pack a bag",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "pack a bag"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/07-pack-bag.png"
+    ],
+    "alt_text": "Abstract white figure: pack a bag.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 0-5. Dylan-inspired: bold chunky outlines, very rounded simple geometry, oversized round head, tiny dot eyes and gentle small smile, short soft limbs, cute and colorful. Teal shirt, blue bottoms, yellow accent. Use only a few shapes, almost no clothing folds. Action: Pack a bag: placing plain blue notebook into an open teal backpack, other hand holds bag open, bag on simple surface."
+  },
+  {
+    "id": "6-11-morning-01-wake-up",
+    "title": "Wake up",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "wake up"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/01-wake-up.png"
+    ],
+    "alt_text": "Abstract white figure: wake up.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 6-11. Colored Lorelei-inspired: fine hand-drawn ink contours, lively minimal expressive eyes and eyebrows, light playful doodle linework, school-age lean proportions, small oval head, simple sketched shirt collar. Blue shirt with teal accents, lavender or ink trousers. Avoid chunky babyish forms; make outline clearly thinner than preschool version. Action: Wake up: sit on edge of simple bed with pillow and folded-back teal blanket, stretching arms after waking."
+  },
+  {
+    "id": "6-11-morning-02-use-toilet",
+    "title": "Use the toilet",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "use the toilet"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/02-use-toilet.png"
+    ],
+    "alt_text": "Abstract white figure: use the toilet.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 6-11. Colored Lorelei-inspired: fine hand-drawn ink contours, lively minimal expressive eyes and eyebrows, light playful doodle linework, school-age lean proportions, small oval head, simple sketched shirt collar. Blue shirt with teal accents, lavender or ink trousers. Avoid chunky babyish forms; make outline clearly thinner than preschool version. Action: Use the toilet: discreet side view seated on a simple white toilet, long shirt fully covers lap. Pants lowered around ankles, no visible private anatomy, no waste, respectful simple hygiene pictogram."
+  },
+  {
+    "id": "6-11-morning-03-wash-hands",
+    "title": "Wash hands",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "wash hands"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/03-wash-hands.png"
+    ],
+    "alt_text": "Abstract white figure: wash hands.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 6-11. Colored Lorelei-inspired: fine hand-drawn ink contours, lively minimal expressive eyes and eyebrows, light playful doodle linework, school-age lean proportions, small oval head, simple sketched shirt collar. Blue shirt with teal accents, lavender or ink trousers. Avoid chunky babyish forms; make outline clearly thinner than preschool version. Action: Wash hands: rub both soapy hands together beneath a running faucet over a simple white sink, blue water and few white bubbles."
+  },
+  {
+    "id": "6-11-morning-04-brush-teeth",
+    "title": "Brush teeth",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "brush teeth"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/04-brush-teeth.png"
+    ],
+    "alt_text": "Abstract white figure: brush teeth.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 6-11. Colored Lorelei-inspired: fine hand-drawn ink contours, lively minimal expressive eyes and eyebrows, light playful doodle linework, school-age lean proportions, small oval head, simple sketched shirt collar. Blue shirt with teal accents, lavender or ink trousers. Avoid chunky babyish forms; make outline clearly thinner than preschool version. Action: Brush teeth: toothbrush bristles touching mouth with tiny white toothpaste foam; one hand holds blue toothbrush, other a teal cup."
+  },
+  {
+    "id": "6-11-morning-05-get-dressed",
+    "title": "Get dressed",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "get dressed"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/05-get-dressed.png"
+    ],
+    "alt_text": "Abstract white figure: get dressed.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 6-11. Colored Lorelei-inspired: fine hand-drawn ink contours, lively minimal expressive eyes and eyebrows, light playful doodle linework, school-age lean proportions, small oval head, simple sketched shirt collar. Blue shirt with teal accents, lavender or ink trousers. Avoid chunky babyish forms; make outline clearly thinner than preschool version. Action: Get dressed: pulling lavender or teal shirt down over white undershirt, hands gripping shirt hem, head visible, blue trousers; fully clothed."
+  },
+  {
+    "id": "6-11-morning-06-eat-breakfast",
+    "title": "Eat breakfast",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "eat breakfast"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/06-eat-breakfast.png"
+    ],
+    "alt_text": "Abstract white figure: eat breakfast.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 6-11. Colored Lorelei-inspired: fine hand-drawn ink contours, lively minimal expressive eyes and eyebrows, light playful doodle linework, school-age lean proportions, small oval head, simple sketched shirt collar. Blue shirt with teal accents, lavender or ink trousers. Avoid chunky babyish forms; make outline clearly thinner than preschool version. Action: Eat breakfast: seated at small table with bowl and spoon bringing yellow cereal toward mouth; simple teal water cup."
+  },
+  {
+    "id": "6-11-morning-07-pack-bag",
+    "title": "Pack a bag",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "pack a bag"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/07-pack-bag.png"
+    ],
+    "alt_text": "Abstract white figure: pack a bag.",
+    "generation_prompt": "Use case: illustration-story. ONE standalone square PNG with genuine transparent alpha background. Attached image is a reference for an abstract white race-neutral gender-neutral figure; remove ALL text, question marks and bubbles from it. Create a new morning-routine action. Abstract bald opaque WHITE head and hands, minimal face, no skin tones, no hair, no demographic features or cultural accessories. Flat SVG-like solid shapes, only 5–8 colors from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, yellow #FFD447, coral #FF6B6B, lavender #A78BFA. NO gradients, shading, texture, 3D, shadows. Transparent outside essential props and character, no frame, no scenery. All content centered with safe margin, readable at small icon size. NO TEXT, letters, numbers, labels, logos, speech bubbles, or decorative marks.  Age strand 6-11. Colored Lorelei-inspired: fine hand-drawn ink contours, lively minimal expressive eyes and eyebrows, light playful doodle linework, school-age lean proportions, small oval head, simple sketched shirt collar. Blue shirt with teal accents, lavender or ink trousers. Avoid chunky babyish forms; make outline clearly thinner than preschool version. Action: Pack a bag: placing plain blue notebook into an open teal backpack, other hand holds bag open, bag on simple surface."
+  },
+  {
+    "id": "0-5-morning-08-wash-face",
+    "title": "Wash face",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "wash face"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/08-wash-face.png"
+    ],
+    "alt_text": "Abstract white figure: wash face.",
+    "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Dylan-inspired preschool style: cute round oversized bald head, very thick rounded ink outlines, tiny dot eyes, short simple limbs, teal shirt and blue bottoms, yellow shoes. Action: Washing face: figure gently holds a small teal wet washcloth to one cheek, eyes closed, at a simple white sink with blue water droplets. Cloth must be on face, not hands."
+  },
+  {
+    "id": "0-5-morning-09-put-on-shoes",
+    "title": "Put on shoes",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "put on shoes"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/09-put-on-shoes.png"
+    ],
+    "alt_text": "Abstract white figure: put on shoes.",
+    "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Dylan-inspired preschool style: cute round oversized bald head, very thick rounded ink outlines, tiny dot eyes, short simple limbs, teal shirt and blue bottoms, yellow shoes. Action: Putting on shoes: seated on simple low stool, leaning forward, both hands visibly fastening the strap of one shoe on a raised foot. Other foot already in matching shoe. Clear dressing action, all limbs anatomically sensible."
+  },
+  {
+    "id": "0-5-morning-10-leave-home",
+    "title": "Leave home",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "leave home"
+    ],
+    "status": "draft",
+    "style": "dylan-inspired",
+    "assets": [
+      "visuals/0-5/daily-routines/morning-routine/10-leave-home.png"
+    ],
+    "alt_text": "Abstract white figure: leave home.",
+    "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Dylan-inspired preschool style: cute round oversized bald head, very thick rounded ink outlines, tiny dot eyes, short simple limbs, teal shirt and blue bottoms, yellow shoes. Action: Leaving home: full-body figure wearing a teal backpack stepping outward through a simple open door frame, one hand on open door handle. Show figure walking OUT, away from doorway, calm ready expression. Only door and character, no room scenery."
+  },
+  {
+    "id": "6-11-morning-08-wash-face",
+    "title": "Wash face",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "wash face"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/08-wash-face.png"
+    ],
+    "alt_text": "Abstract white figure: wash face.",
+    "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Colored Lorelei-inspired school-age style: light expressive hand-drawn linework, finer contours than preschool, leaner limbs, oval bald head, simple eyes and eyebrows, blue shirt with teal trim, dark ink trousers and teal shoes. Action: Washing face: figure gently holds a small teal wet washcloth to one cheek, eyes closed, at a simple white sink with blue water droplets. Cloth must be on face, not hands."
+  },
+  {
+    "id": "6-11-morning-09-put-on-shoes",
+    "title": "Put on shoes",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "put on shoes"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/09-put-on-shoes.png"
+    ],
+    "alt_text": "Abstract white figure: put on shoes.",
+    "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Colored Lorelei-inspired school-age style: light expressive hand-drawn linework, finer contours than preschool, leaner limbs, oval bald head, simple eyes and eyebrows, blue shirt with teal trim, dark ink trousers and teal shoes. Action: Putting on shoes: seated on simple low stool, leaning forward, both hands visibly fastening the strap of one shoe on a raised foot. Other foot already in matching shoe. Clear dressing action, all limbs anatomically sensible."
+  },
+  {
+    "id": "6-11-morning-10-leave-home",
+    "title": "Leave home",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "leave home"
+    ],
+    "status": "draft",
+    "style": "lorelei-inspired",
+    "assets": [
+      "visuals/6-11/daily-routines/morning-routine/10-leave-home.png"
+    ],
+    "alt_text": "Abstract white figure: leave home.",
+    "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Colored Lorelei-inspired school-age style: light expressive hand-drawn linework, finer contours than preschool, leaner limbs, oval bald head, simple eyes and eyebrows, blue shirt with teal trim, dark ink trousers and teal shoes. Action: Leaving home: full-body figure wearing a teal backpack stepping outward through a simple open door frame, one hand on open door handle. Show figure walking OUT, away from doorway, calm ready expression. Only door and character, no room scenery."
+  },
+  {
+    "id": "12-18-morning-08-wash-face",
+    "title": "Wash face",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "wash face"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/morning-routine/08-wash-face.png"
+    ],
+    "alt_text": "Abstract white figure: wash face.",
+    "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Colored Notionists-inspired teen editorial style: thin confident slightly irregular ink lines, small oval head, long lean limbs, understated expression with angular line nose, natural asymmetry, lavender loose top and blue trousers. Mature age-respectful proportions. Action: Washing face: figure gently holds a small teal wet washcloth to one cheek, eyes closed, at a simple white sink with blue water droplets. Cloth must be on face, not hands."
+  },
+  {
+    "id": "12-18-morning-09-put-on-shoes",
+    "title": "Put on shoes",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "put on shoes"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/morning-routine/09-put-on-shoes.png"
+    ],
+    "alt_text": "Abstract white figure: put on shoes.",
+    "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Colored Notionists-inspired teen editorial style: thin confident slightly irregular ink lines, small oval head, long lean limbs, understated expression with angular line nose, natural asymmetry, lavender loose top and blue trousers. Mature age-respectful proportions. Action: Putting on shoes: seated on simple low stool, leaning forward, both hands visibly fastening the strap of one shoe on a raised foot. Other foot already in matching shoe. Clear dressing action, all limbs anatomically sensible."
+  },
+  {
+    "id": "12-18-morning-10-leave-home",
+    "title": "Leave home",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "morning",
+      "routine",
+      "leave home"
+    ],
+    "status": "draft",
+    "style": "notionists-inspired",
+    "assets": [
+      "visuals/12-18/daily-routines/morning-routine/10-leave-home.png"
+    ],
+    "alt_text": "Abstract white figure: leave home.",
+    "generation_prompt": "Use case: illustration-story. Generate ONE standalone square PNG with genuinely transparent alpha background. Reference image is STYLE and CHARACTER reference only. Keep matching abstract gender-neutral race-neutral bald opaque WHITE figure, no natural skin tones, no hair or culturally specific features. Simple flat SVG-like closed shapes, 5–8 solid colors only from ink #24243B, white #FFFFFF, teal #2CC6B0, blue #4C8DFF, lavender #A78BFA, yellow #FFD447, coral #FF6B6B. STRICTLY NO gradients, shading, shadows, texture, 3D. No text, letters, numbers, captions, logos, speech bubbles, or symbols standing for text. Transparent outside character and essential props, opaque white within head/hands/white objects. Center scene with 10 percent safe margins. Readable action at small size, no clutter. Colored Notionists-inspired teen editorial style: thin confident slightly irregular ink lines, small oval head, long lean limbs, understated expression with angular line nose, natural asymmetry, lavender loose top and blue trousers. Mature age-respectful proportions. Action: Leaving home: full-body figure wearing a teal backpack stepping outward through a simple open door frame, one hand on open door handle. Show figure walking OUT, away from doorway, calm ready expression. Only door and character, no room scenery."
   }
 ]

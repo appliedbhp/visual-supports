@@ -7,7 +7,7 @@ parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument("--age", type=int)
 parser.add_argument("--category")
 parser.add_argument("--query", default="")
-parser.add_argument("--status", choices=["planned", "ready"])
+parser.add_argument("--status", choices=["planned", "draft", "ready"])
 args = parser.parse_args()
 if args.age is not None and not 0 <= args.age <= 18:
     parser.error("age must be between 0 and 18")
