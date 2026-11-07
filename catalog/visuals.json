@@ -12332,12 +12332,12 @@
     "assets": [
       "visuals/12-18/learning-and-tasks/doing-homework.svg"
     ],
-    "alt_text": "A person hunches over a desk and writes in an open notebook with a pencil, with a closed schoolbook nearby.",
-    "generation_prompt": "Draw the established wiry-haired comic character hunched over a desk writing in an open notebook with a pencil. Use an exaggerated expression of concentration, bold irregular ink outlines, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is writing in a notebook at home beside a textbook.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character writing in a notebook at home beside a textbook, brow furrowed in concentration. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "shared-learning-parrot",
@@ -12381,12 +12381,12 @@
     "assets": [
       "visuals/12-18/daily-routines/doing-laundry.svg"
     ],
-    "alt_text": "A grinning person puts a coral shirt into an open front-loading washing machine beside a basket of clothes.",
-    "generation_prompt": "Draw the established wiry-haired comic character loading a bright shirt into an open front-loading washing machine with a laundry basket close by. Use an exaggerated grin, bold irregular outlines, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is loading a coral shirt into an open front-loading washer.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character loading a coral shirt into an open front-loading washer, pleased half-smile. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "shared-learning-dog",
@@ -12812,12 +12812,12 @@
     "assets": [
       "visuals/12-18/daily-routines/grocery-shopping.svg"
     ],
-    "alt_text": "A grinning shopper puts a red apple into a grocery cart with bread, greens, and a milk carton.",
-    "generation_prompt": "Draw the established wiry-haired comic character putting a red apple into a grocery cart filled with bread, greens, and milk. Use exaggerated expressions, bold irregular ink, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is placing an apple in a cart with a baguette and greens.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character placing an apple in a cart with a baguette and greens, delighted grin. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "0-5-daily-routines-assortment-of-vegetables-realism-v1",
@@ -13124,19 +13124,21 @@
       "make the bed",
       "bed",
       "bedding",
-      "bedroom chore"
+      "bedroom chore",
+      "making bed",
+      "bedroom"
     ],
     "status": "draft",
     "style": "Scruffy ’90s comic illustration",
     "assets": [
       "visuals/12-18/daily-routines/make-the-bed.svg"
     ],
-    "alt_text": "A comic character is pulling a blue blanket flat across a bed, pillow visible.",
-    "generation_prompt": "Show the established wiry-haired comic character pulling a blue blanket flat across a bed, pillow visible. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is pulling a blue blanket smooth over a mattress beside a pillow.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character pulling a blue blanket smooth over a mattress beside a pillow, satisfied smile. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "12-18-daily-routines-take-out-the-trash-comic-v1",
@@ -13149,19 +13151,20 @@
       "take out the trash",
       "trash",
       "garbage",
-      "rubbish"
+      "rubbish",
+      "taking out the trash"
     ],
     "status": "draft",
     "style": "Scruffy ’90s comic illustration",
     "assets": [
       "visuals/12-18/daily-routines/take-out-the-trash.svg"
     ],
-    "alt_text": "A comic character is lowering a tied black trash bag into an outdoor gray trash bin with open lid.",
-    "generation_prompt": "Show the established wiry-haired comic character lowering a tied black trash bag into an outdoor gray trash bin with open lid. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is lowering a tied trash bag into an open outdoor bin.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character lowering a tied trash bag into an open outdoor bin, nose wrinkled. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "12-18-daily-routines-sort-recycling-comic-v1",
@@ -13191,7 +13194,7 @@
   },
   {
     "id": "12-18-daily-routines-vacuum-the-floor-comic-v1",
-    "title": "Vacuum the floor",
+    "title": "Vacuum the rug",
     "age_strand": "12-18",
     "min_age": 12,
     "max_age": 18,
@@ -13200,19 +13203,22 @@
       "vacuum the floor",
       "vacuum",
       "cleaning",
-      "floor"
+      "floor",
+      "vacuum the rug",
+      "vacuuming the rug",
+      "carpet"
     ],
     "status": "draft",
     "style": "Scruffy ’90s comic illustration",
     "assets": [
       "visuals/12-18/daily-routines/vacuum-the-floor.svg"
     ],
-    "alt_text": "A comic character is pushing an upright vacuum cleaner over a small rug, one hand on the handle.",
-    "generation_prompt": "Show the established wiry-haired comic character pushing an upright vacuum cleaner over a small rug, one hand on the handle. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is pushing a vacuum head across a patterned rug.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character pushing a vacuum head across a patterned rug, a determined gritted smile, show head and handle clearly. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "12-18-daily-routines-wipe-the-counter-comic-v1",
@@ -13275,19 +13281,21 @@
       "water the plants",
       "watering",
       "plants",
-      "watering can"
+      "watering can",
+      "watering plants",
+      "plant care"
     ],
     "status": "draft",
     "style": "Scruffy ’90s comic illustration",
     "assets": [
       "visuals/12-18/daily-routines/water-the-plants.svg"
     ],
-    "alt_text": "A comic character is tilting a blue watering can so its stream falls into the soil of a leafy potted plant.",
-    "generation_prompt": "Show the established wiry-haired comic character tilting a blue watering can so its stream falls into the soil of a leafy potted plant. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is watering a leafy potted plant with a small blue watering can.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character watering a leafy potted plant with a small blue watering can, gentle smile. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "12-18-daily-routines-fold-a-towel-comic-v1",
@@ -13350,23 +13358,25 @@
       "turn in an assignment",
       "assignment",
       "submit work",
-      "turn in work"
+      "turn in work",
+      "turning in school work",
+      "submit assignment"
     ],
     "status": "draft",
     "style": "Scruffy ’90s comic illustration",
     "assets": [
       "visuals/12-18/learning-and-tasks/turn-in-an-assignment.svg"
     ],
-    "alt_text": "A comic character is sliding a loose sheet into a stackable classroom paper tray on a desk, holding a plain folder in the other hand.",
-    "generation_prompt": "Show the established wiry-haired comic character sliding a loose sheet into a stackable classroom paper tray on a desk, holding a plain folder in the other hand. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is placing a loose worksheet into an open classroom assignment tray.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character placing a loose worksheet into an open classroom assignment tray, relieved smile. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "12-18-daily-routines-use-a-school-locker-comic-v1",
-    "title": "Use a school locker",
+    "title": "Put things away in a locker",
     "age_strand": "12-18",
     "min_age": 12,
     "max_age": 18,
@@ -13375,19 +13385,23 @@
       "use a school locker",
       "locker",
       "school",
-      "textbook"
+      "textbook",
+      "put things away in a locker",
+      "putting things away in locker",
+      "school locker",
+      "put away books"
     ],
     "status": "draft",
     "style": "Scruffy ’90s comic illustration",
     "assets": [
       "visuals/12-18/daily-routines/use-a-school-locker.svg"
     ],
-    "alt_text": "A comic character is placing a textbook onto the shelf inside an open tall school locker with horizontal door vents and a small backpack inside.",
-    "generation_prompt": "Show the established wiry-haired comic character placing a textbook onto the shelf inside an open tall school locker with horizontal door vents and a small backpack inside. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is sliding a textbook onto a shelf inside an open school locker with vents and a backpack.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character sliding a textbook onto a shelf inside an open school locker with vents and a backpack, content focused expression. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "12-18-learning-and-tasks-measure-with-a-ruler-comic-v1",
@@ -13400,19 +13414,21 @@
       "measure with a ruler",
       "ruler",
       "measure",
-      "measurement"
+      "measurement",
+      "measuring with a ruler",
+      "marking"
     ],
     "status": "draft",
     "style": "Scruffy ’90s comic illustration",
     "assets": [
       "visuals/12-18/learning-and-tasks/measure-with-a-ruler.svg"
     ],
-    "alt_text": "A comic character is holding a ruler with tick marks along the edge of a paper strip on a desk, making a pencil mark at one end.",
-    "generation_prompt": "Show the established wiry-haired comic character holding a ruler with tick marks along the edge of a paper strip on a desk, making a pencil mark at one end. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is holding a straight ruler with tick marks flat along a paper edge.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character holding a straight ruler with tick marks flat along a paper edge, marking the endpoint with a pencil, one eye squinted in concentration. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "12-18-learning-and-tasks-work-with-a-partner-comic-v1",
@@ -13441,7 +13457,7 @@
   },
   {
     "id": "12-18-learning-and-tasks-do-a-science-experiment-comic-v1",
-    "title": "Do a science experiment",
+    "title": "Do chemistry work",
     "age_strand": "12-18",
     "min_age": 12,
     "max_age": 18,
@@ -13450,19 +13466,23 @@
       "do a science experiment",
       "science",
       "experiment",
-      "lab"
+      "lab",
+      "do chemistry work",
+      "doing chemistry work",
+      "chemistry",
+      "science experiment"
     ],
     "status": "draft",
     "style": "Scruffy ’90s comic illustration",
     "assets": [
       "visuals/12-18/learning-and-tasks/do-a-science-experiment.svg"
     ],
-    "alt_text": "A comic character is wearing safety goggles and carefully pouring bright blue liquid from a small graduated cylinder into a conical flask on a lab bench.",
-    "generation_prompt": "Show the established wiry-haired comic character wearing safety goggles and carefully pouring bright blue liquid from a small graduated cylinder into a conical flask on a lab bench. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
-    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "alt_text": "A comic character is wearing properly fitted safety goggles.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character wearing properly fitted safety goggles, carefully pouring blue liquid from a graduated cylinder into a conical flask on a lab bench, intent expression. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Transparent background and editable vector paths verified."
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   },
   {
     "id": "12-18-learning-and-tasks-give-a-class-presentation-comic-v1",
@@ -18263,5 +18283,182 @@
     "image_sha256": "24765944c6cd9706ec674abcc58d02e0997f0c4ecf6958a12873fb0299327263",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-clear-the-table-comic-v1",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "status": "draft",
+    "created_at": "2026-11-07",
+    "title": "Clear the table",
+    "keywords": [
+      "clear the table",
+      "clearing the table",
+      "dishes",
+      "after dinner"
+    ],
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/clear-the-table.svg"
+    ],
+    "alt_text": "A comic character is lifting two used plates off a dining table beside a glass and crumbs.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character lifting two used plates off a dining table beside a glass and crumbs, purposeful calm. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
+  },
+  {
+    "id": "12-18-daily-routines-take-out-the-recycling-comic-v1",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "status": "draft",
+    "created_at": "2026-11-07",
+    "title": "Take out the recycling",
+    "keywords": [
+      "take out the recycling",
+      "taking out the recycling",
+      "recycling",
+      "cardboard",
+      "bottles"
+    ],
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/take-out-the-recycling.svg"
+    ],
+    "alt_text": "A comic character is tipping a small carrier of clean bottles and cardboard into an outdoor blue recycling bin with a recycling icon.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character tipping a small carrier of clean bottles and cardboard into an outdoor blue recycling bin with a recycling icon, upbeat. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
+  },
+  {
+    "id": "12-18-daily-routines-fold-clothes-comic-v1",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "status": "draft",
+    "created_at": "2026-11-07",
+    "title": "Fold clothes",
+    "keywords": [
+      "fold clothes",
+      "folding clothes",
+      "laundry",
+      "folding laundry"
+    ],
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/fold-clothes.svg"
+    ],
+    "alt_text": "A comic character is folding a bright T-shirt on a table next to a stack of folded clothing.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character folding a bright T-shirt on a table next to a stack of folded clothing, focused. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
+  },
+  {
+    "id": "12-18-learning-and-tasks-do-schoolwork-comic-v1",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "status": "draft",
+    "created_at": "2026-11-07",
+    "title": "Do schoolwork",
+    "keywords": [
+      "do schoolwork",
+      "doing school work",
+      "schoolwork",
+      "classwork",
+      "worksheet"
+    ],
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/do-schoolwork.svg"
+    ],
+    "alt_text": "A comic character is working at a classroom desk with pencil and an open worksheet showing simple geometric shapes.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character working at a classroom desk with pencil and an open worksheet showing simple geometric shapes, quietly attentive. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
+  },
+  {
+    "id": "12-18-daily-routines-wipe-the-table-comic-v1",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "status": "draft",
+    "created_at": "2026-11-07",
+    "title": "Wipe the table",
+    "keywords": [
+      "wipe the table",
+      "cleaning and wiping the table",
+      "clean table",
+      "wipe down"
+    ],
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/wipe-the-table.svg"
+    ],
+    "alt_text": "A comic character is wiping a dining table with a teal cloth.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character wiping a dining table with a teal cloth, with a plain spray bottle nearby and crumbs being swept together, determined. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
+  },
+  {
+    "id": "12-18-social-situations-play-a-game-with-a-friend-comic-v1",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "social-situations",
+    "status": "draft",
+    "created_at": "2026-11-07",
+    "title": "Play a game with a friend",
+    "keywords": [
+      "play a game with a friend",
+      "playing game with a friend",
+      "board game",
+      "turn taking"
+    ],
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/social-situations/play-a-game-with-a-friend.svg"
+    ],
+    "alt_text": "A comic character is sharing a small board game with a friend.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character sharing a small board game with a friend, moving a pawn while the friend smiles and waits, playful excitement. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
+  },
+  {
+    "id": "12-18-learning-and-tasks-make-a-choice-comic-v1",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "status": "draft",
+    "created_at": "2026-11-07",
+    "title": "Make a choice",
+    "keywords": [
+      "make a choice",
+      "making choices",
+      "decision making",
+      "choose"
+    ],
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/make-a-choice.svg"
+    ],
+    "alt_text": "A comic character is deciding between two distinct snack choices.",
+    "generation_prompt": "Use the supplied dishwashing comic as the character and ink reference. Show the character deciding between two distinct snack choices, an apple and a banana, pointing clearly to the chosen apple, thoughtful raised brow. Keep the face and hands prominent, with a transparent background and no lettering.",
+    "source": "Generated with OpenAI image_gen using the supplied dishwashing illustration as the direct reference for this scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "review_notes": "Draft. Action, expression, transparent background, and editable vector paths reviewed."
   }
 ]
