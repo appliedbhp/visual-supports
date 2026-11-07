@@ -9449,5 +9449,75 @@
     "image_sha256": "16ee961f6ddfd37bcfbb689a9b65bc7d126131c78dade6057537accf03c85ec7",
     "created_at": "2026-11-07",
     "review_notes": "Draft pending owner review. Action, complete framing and transparent alpha checked. Some subtle tonal variation remains despite the flat-fill prompt; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "0-5-learning-and-tasks-circle-time-male",
+    "title": "Circle time at school — 5-year-old male focal character",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "circle time",
+      "school",
+      "preschool",
+      "kindergarten",
+      "sitting in a circle",
+      "group",
+      "classmates",
+      "male",
+      "age 5"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/circle-time-male.png"
+    ],
+    "alt_text": "Five children around age 5 sit cross-legged in a circle, facing each other, with a blue-shirted boy as the foreground focal character.",
+    "generation_prompt": "Create ONE standalone square AAC-style pictogram of circle time at school: FIVE children approximately 5 years old sitting cross-legged on the floor in a clearly visible open oval circle, facing inward toward each other. Focal character in foreground three-quarter side view is a boy with short dark hair, wearing primary blue #1769AA T-shirt and gray trousers. Four other preschool children, boys and girls with varied simple dark hairstyles, sit around the same circle wearing simple blue, orange and neutral clothes. Leave a clear empty center so the circle arrangement is immediately understandable; all five separate seated bodies and bent legs visible, no overlapping bodies, natural child anatomy. No teacher or older children. Use attached homework illustration as STYLE REFERENCE ONLY: friendly large eyes, simple smiles, smooth bold #202020 contours, rounded cartoon forms, large preschool heads with short rounded limbs, opaque white faces and hands. Depict a small uncluttered group, no classroom furniture, no books or objects in center, no individual activity. Flat solid fully opaque fills, restricted palette outlines #202020, blue #1769AA, orange #F28C28, white #FFFFFF and neutral gray/dark hair. Uniform fills, crisp boundaries, strong contrast. No gradients, shadows, highlights, haze, textures, pastel treatment, photographic lighting or glow. Genuinely transparent background outside the five figures including the open center; opaque white skin and clothing stay opaque. No visible floor plane, rug, scenery, border, checkerboard, text, letters, numbers, logos or watermark. Center whole group with generous margins; all heads, hands and feet inside frame. Clear enough to recognize circle-time group arrangement at small size.",
+    "source": "Generated using the built-in OpenAI image generation tool, using the approved homework illustration as style reference; that illustration was based on the user-supplied feed-cats-6.png reference.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Share and adapt, including commercially, with attribution, a license link, indication of changes, and ShareAlike for adaptations. Third-party materials retain their original licenses and attribution. Reference character credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), https://www.dicebear.com/styles/adventurer/. Changes: action artwork adapted with AI; hairstyles, age proportions, palette and cereal-making scene customized.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "96e0519bf5b7fa0b3436b328bb3dea2ce2365cde6fd889f46f4f1cc7d096dbc9",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Five seated children, clear circle arrangement, complete framing and transparent background checked. Some subtle tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "0-5-learning-and-tasks-circle-time-female",
+    "title": "Circle time at school — 5-year-old female focal character",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "circle time",
+      "school",
+      "preschool",
+      "kindergarten",
+      "sitting in a circle",
+      "group",
+      "classmates",
+      "female",
+      "age 5"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/circle-time-female.png"
+    ],
+    "alt_text": "Five children around age 5 sit cross-legged in a circle, facing each other, with a blue-shirted girl as the foreground focal character.",
+    "generation_prompt": "Create ONE standalone square AAC-style pictogram of circle time at school: FIVE children approximately 5 years old sitting cross-legged on the floor in a clearly visible open oval circle, facing inward toward each other. Focal character in foreground three-quarter side view is a girl with dark bobbed hair, wearing primary blue #1769AA T-shirt and gray trousers. Four other preschool children, boys and girls with varied simple dark hairstyles, sit around the same circle wearing simple blue, orange and neutral clothes. Leave a clear empty center so the circle arrangement is immediately understandable; all five separate seated bodies and bent legs visible, no overlapping bodies, natural child anatomy. No teacher or older children. Use attached homework illustration as STYLE REFERENCE ONLY: friendly large eyes, simple smiles, smooth bold #202020 contours, rounded cartoon forms, large preschool heads with short rounded limbs, opaque white faces and hands. Depict a small uncluttered group, no classroom furniture, no books or objects in center, no individual activity. Flat solid fully opaque fills, restricted palette outlines #202020, blue #1769AA, orange #F28C28, white #FFFFFF and neutral gray/dark hair. Uniform fills, crisp boundaries, strong contrast. No gradients, shadows, highlights, haze, textures, pastel treatment, photographic lighting or glow. Genuinely transparent background outside the five figures including the open center; opaque white skin and clothing stay opaque. No visible floor plane, rug, scenery, border, checkerboard, text, letters, numbers, logos or watermark. Center whole group with generous margins; all heads, hands and feet inside frame. Clear enough to recognize circle-time group arrangement at small size.",
+    "source": "Generated using the built-in OpenAI image generation tool, using the approved homework illustration as style reference; that illustration was based on the user-supplied feed-cats-6.png reference.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Share and adapt, including commercially, with attribution, a license link, indication of changes, and ShareAlike for adaptations. Third-party materials retain their original licenses and attribution. Reference character credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), https://www.dicebear.com/styles/adventurer/. Changes: action artwork adapted with AI; hairstyles, age proportions, palette and cereal-making scene customized.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "034ed95834a0359834c79ef730c386194a32b66b9a7a12550702ceb76cd12868",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Five seated children, clear circle arrangement, complete framing and transparent background checked. Some subtle tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
   }
 ]
