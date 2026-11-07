@@ -1,0 +1,56 @@
+{
+  "id": "admin-3302dcf4-651e-435a-8b0d-986d55e30ca4",
+  "title": "laughing",
+  "age_strand": "6-11",
+  "min_age": 6,
+  "max_age": 11,
+  "category": "daily-routines",
+  "keywords": [
+    "laugh",
+    "laughing",
+    "funny",
+    "joke",
+    "ROFL",
+    "LOL"
+  ],
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/6-11/daily-routines/laughing-3302dcf4-651e-435a-8b0d-986d55e30ca4.png"
+  ],
+  "alt_text": "laughing",
+  "generation_prompt": "Use the attached Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape, dark contour weight, facial proportions, mouth variant02, eyes variant24, and eyebrows variant10. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Preserve these exact face features and white skin across every age strand. Extend the reference into the full action and essential props, with consistent clean, flat illustration and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not reproduce the avatar as a floating portrait or add text, labels, borders, gradients, or shadows. If the requested concept is an object without a person, preserve the same clean contours and palette. Requested visual: Create one standalone square visual support. Action: laughing Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: default. Use mouth variant02, eyes variant24, and eyebrows variant10. Adapt proportions and context respectfully for ages 6-11.",
+  "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+  "usage_rights": "Use on routines.getadhd.care only Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "character_reference": {
+    "id": "dicebear-adventurer-default-v1",
+    "style": "adventurer",
+    "version": "10.x",
+    "source": "https://www.dicebear.com/styles/adventurer/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "Lisa Wischofsky",
+    "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "options": {
+      "seed": "abhp-visual-supports-v1",
+      "size": "512",
+      "hairProbability": "0",
+      "glassesProbability": "0",
+      "earringsProbability": "0",
+      "detailsProbability": "0",
+      "mouthVariant": "variant02",
+      "eyesVariant": "variant24",
+      "eyebrowsVariant": "variant10",
+      "mouthProbability": "100",
+      "eyesProbability": "100",
+      "eyebrowsProbability": "100",
+      "skinColor": "ffffff",
+      "inkColor": "24243b"
+    },
+    "asset": "references/dicebear-adventurer-default-v1.png"
+  },
+  "image_sha256": "37650d6368043ebdf3115478bf3862426d7bf4ae29a6639cfdfe3c5f3c9d01a0",
+  "created_at": "2026-11-07T04:49:40.492Z"
+}
