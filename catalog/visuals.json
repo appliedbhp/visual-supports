@@ -15919,5 +15919,1769 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "shared-adhd-pick-one-thing",
+    "title": "Pick one thing",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "get started",
+      "choose",
+      "prioritize"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/pick-one-thing-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/pick-one-thing-text.svg"
+    ],
+    "alt_text": "Cue card reading “Pick one thing.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-whats-the-first-step",
+    "title": "What’s the first step?",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "get started",
+      "first step",
+      "task initiation"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/whats-the-first-step-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/whats-the-first-step-text.svg"
+    ],
+    "alt_text": "Cue card reading “What’s the first step?.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-set-out-what-you-need",
+    "title": "Set out what you need",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "get started"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/set-out-what-you-need-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/set-out-what-you-need-text.svg"
+    ],
+    "alt_text": "Cue card reading “Set out what you need.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-start-a-short-timer",
+    "title": "Start a short timer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "get started"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/start-a-short-timer-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/start-a-short-timer-text.svg"
+    ],
+    "alt_text": "Cue card reading “Start a short timer.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-try-one-step",
+    "title": "Try one step",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "get started"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/try-one-step-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/try-one-step-text.svg"
+    ],
+    "alt_text": "Cue card reading “Try one step.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-doing-now",
+    "title": "Doing now",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "keep your place"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/doing-now-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/doing-now-text.svg"
+    ],
+    "alt_text": "Cue card reading “Doing now.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-up-next",
+    "title": "Up next",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "keep your place"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/up-next-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/up-next-text.svg"
+    ],
+    "alt_text": "Cue card reading “Up next.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-done",
+    "title": "Done",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "keep your place"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/done-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/done-text.svg"
+    ],
+    "alt_text": "Cue card reading “Done.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-where-i-left-off",
+    "title": "Where I left off",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "keep your place",
+      "resume",
+      "bookmark"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/where-i-left-off-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/where-i-left-off-text.svg"
+    ],
+    "alt_text": "Cue card reading “Where I left off.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-park-an-idea",
+    "title": "Park an idea",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "keep your place",
+      "idea parking lot",
+      "brain dump"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/park-an-idea-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/park-an-idea-text.svg"
+    ],
+    "alt_text": "Cue card reading “Park an idea.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-write-a-reminder",
+    "title": "Write a reminder",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "keep your place"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/write-a-reminder-icon.svg",
+      "visuals/shared/learning-and-tasks/adhd-supports/write-a-reminder-text.svg"
+    ],
+    "alt_text": "Cue card reading “Write a reminder.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-first",
+    "title": "First",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/first-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/first-text.svg"
+    ],
+    "alt_text": "Cue card reading “First.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-then",
+    "title": "Then",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/then-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/then-text.svg"
+    ],
+    "alt_text": "Cue card reading “Then.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-wait",
+    "title": "Wait",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/wait-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/wait-text.svg"
+    ],
+    "alt_text": "Cue card reading “Wait.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-five-more-minutes",
+    "title": "Five more minutes",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/five-more-minutes-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/five-more-minutes-text.svg"
+    ],
+    "alt_text": "Cue card reading “Five more minutes.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-time-to-leave",
+    "title": "Time to leave",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/time-to-leave-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/time-to-leave-text.svg"
+    ],
+    "alt_text": "Cue card reading “Time to leave.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-check-the-time",
+    "title": "Check the time",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/check-the-time-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/check-the-time-text.svg"
+    ],
+    "alt_text": "Cue card reading “Check the time.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-save-your-place",
+    "title": "Save your place",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "switch or restart"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/save-your-place-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/save-your-place-text.svg"
+    ],
+    "alt_text": "Cue card reading “Save your place.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-finish-later",
+    "title": "Finish later",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "switch or restart"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/finish-later-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/finish-later-text.svg"
+    ],
+    "alt_text": "Cue card reading “Finish later.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-plans-changed",
+    "title": "Plans changed",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "switch or restart"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/plans-changed-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/plans-changed-text.svg"
+    ],
+    "alt_text": "Cue card reading “Plans changed.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-back-from-break",
+    "title": "Back from break",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "switch or restart"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/back-from-break-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/back-from-break-text.svg"
+    ],
+    "alt_text": "Cue card reading “Back from break.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-choose-the-next-step",
+    "title": "Choose the next step",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "switch or restart"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/choose-the-next-step-icon.svg",
+      "visuals/shared/schedules-and-transitions/adhd-supports/choose-the-next-step-text.svg"
+    ],
+    "alt_text": "Cue card reading “Choose the next step.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-backpack",
+    "title": "Backpack",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/backpack-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/backpack-text.svg"
+    ],
+    "alt_text": "Cue card reading “Backpack.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-keys",
+    "title": "Keys",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/keys-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/keys-text.svg"
+    ],
+    "alt_text": "Cue card reading “Keys.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-phone",
+    "title": "Phone",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/phone-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/phone-text.svg"
+    ],
+    "alt_text": "Cue card reading “Phone.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-id",
+    "title": "ID",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/id-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/id-text.svg"
+    ],
+    "alt_text": "Cue card reading “ID.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-charger",
+    "title": "Charger",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/charger-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/charger-text.svg"
+    ],
+    "alt_text": "Cue card reading “Charger.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-water-bottle",
+    "title": "Water bottle",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/water-bottle-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/water-bottle-text.svg"
+    ],
+    "alt_text": "Cue card reading “Water bottle.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-forms",
+    "title": "Forms",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/forms-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/forms-text.svg"
+    ],
+    "alt_text": "Cue card reading “Forms.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-lunch",
+    "title": "Lunch",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/lunch-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/lunch-text.svg"
+    ],
+    "alt_text": "Cue card reading “Lunch.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sports-gear",
+    "title": "Sports gear",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/sports-gear-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/sports-gear-text.svg"
+    ],
+    "alt_text": "Cue card reading “Sports gear.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-travel-documents",
+    "title": "Travel documents",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/travel-documents-icon.svg",
+      "visuals/shared/self-care-and-independence/adhd-supports/travel-documents-text.svg"
+    ],
+    "alt_text": "Cue card reading “Travel documents.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-take-a-movement-break",
+    "title": "Take a movement break",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "manage energy and distractions"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/feelings-and-regulation/adhd-supports/take-a-movement-break-icon.svg",
+      "visuals/shared/feelings-and-regulation/adhd-supports/take-a-movement-break-text.svg"
+    ],
+    "alt_text": "Cue card reading “Take a movement break.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-find-a-quieter-spot",
+    "title": "Find a quieter spot",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "manage energy and distractions",
+      "noise",
+      "quiet",
+      "sensory break"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/feelings-and-regulation/adhd-supports/find-a-quieter-spot-icon.svg",
+      "visuals/shared/feelings-and-regulation/adhd-supports/find-a-quieter-spot-text.svg"
+    ],
+    "alt_text": "Cue card reading “Find a quieter spot.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-put-on-headphones",
+    "title": "Put on headphones",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "manage energy and distractions"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/feelings-and-regulation/adhd-supports/put-on-headphones-icon.svg",
+      "visuals/shared/feelings-and-regulation/adhd-supports/put-on-headphones-text.svg"
+    ],
+    "alt_text": "Cue card reading “Put on headphones.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-silence-notifications",
+    "title": "Silence notifications",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "manage energy and distractions",
+      "focus",
+      "phone",
+      "distractions"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/feelings-and-regulation/adhd-supports/silence-notifications-icon.svg",
+      "visuals/shared/feelings-and-regulation/adhd-supports/silence-notifications-text.svg"
+    ],
+    "alt_text": "Cue card reading “Silence notifications.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-get-water",
+    "title": "Get water",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "manage energy and distractions"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/feelings-and-regulation/adhd-supports/get-water-icon.svg",
+      "visuals/shared/feelings-and-regulation/adhd-supports/get-water-text.svg"
+    ],
+    "alt_text": "Cue card reading “Get water.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-help-me-break-this-down",
+    "title": "Help me break this down",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "manage energy and distractions",
+      "ask for help",
+      "chunking"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/feelings-and-regulation/adhd-supports/help-me-break-this-down-icon.svg",
+      "visuals/shared/feelings-and-regulation/adhd-supports/help-me-break-this-down-text.svg"
+    ],
+    "alt_text": "Cue card reading “Help me break this down.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-get-groceries",
+    "title": "Get groceries",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/get-groceries-icon.svg",
+      "visuals/shared/daily-routines/adhd-supports/get-groceries-text.svg"
+    ],
+    "alt_text": "Cue card reading “Get groceries.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-do-laundry",
+    "title": "Do laundry",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/do-laundry-icon.svg",
+      "visuals/shared/daily-routines/adhd-supports/do-laundry-text.svg"
+    ],
+    "alt_text": "Cue card reading “Do laundry.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-prep-a-meal",
+    "title": "Prep a meal",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/prep-a-meal-icon.svg",
+      "visuals/shared/daily-routines/adhd-supports/prep-a-meal-text.svg"
+    ],
+    "alt_text": "Cue card reading “Prep a meal.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-pay-a-bill",
+    "title": "Pay a bill",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/pay-a-bill-icon.svg",
+      "visuals/shared/daily-routines/adhd-supports/pay-a-bill-text.svg"
+    ],
+    "alt_text": "Cue card reading “Pay a bill.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-send-an-email",
+    "title": "Send an email",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/send-an-email-icon.svg",
+      "visuals/shared/daily-routines/adhd-supports/send-an-email-text.svg"
+    ],
+    "alt_text": "Cue card reading “Send an email.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-get-ready-for-an-appointment",
+    "title": "Get ready for an appointment",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/get-ready-for-an-appointment-icon.svg",
+      "visuals/shared/daily-routines/adhd-supports/get-ready-for-an-appointment-text.svg"
+    ],
+    "alt_text": "Cue card reading “Get ready for an appointment.” Available with a simple symbol or as text only.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-start-homework",
+    "title": "Start homework sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "get started",
+      "visual sequence",
+      "three steps",
+      "homework"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/sequence-start-homework.svg"
+    ],
+    "alt_text": "Put the assignment in front of you. Find the first question. Try that question.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-start-work",
+    "title": "Open a work task sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "get started",
+      "visual sequence",
+      "three steps",
+      "work task"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/sequence-start-work.svg"
+    ],
+    "alt_text": "Open the file or message. Write down the next action. Do that one action.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-start-laundry",
+    "title": "Start laundry sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "get started",
+      "visual sequence",
+      "three steps",
+      "laundry"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/sequence-start-laundry.svg"
+    ],
+    "alt_text": "Put clothes in the basket. Bring it to the washer. Load the washer.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-get-ready-to-leave",
+    "title": "Get ready to leave sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time",
+      "visual sequence",
+      "three steps",
+      "departure"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/sequence-get-ready-to-leave.svg"
+    ],
+    "alt_text": "Check your departure time. Gather your bag and essentials. Put on shoes and head out.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-get-groceries",
+    "title": "Get groceries sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities",
+      "visual sequence",
+      "three steps",
+      "shopping"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/sequence-get-groceries.svg"
+    ],
+    "alt_text": "Make a short list. Bring bags and a way to pay. Check off each item.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-do-laundry",
+    "title": "Do laundry sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities",
+      "visual sequence",
+      "three steps",
+      "laundry"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/sequence-do-laundry.svg"
+    ],
+    "alt_text": "Wash the load. Move it to the dryer or hang it up. Put clean clothes away.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-prep-meal",
+    "title": "Prep a meal sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities",
+      "visual sequence",
+      "three steps",
+      "cooking"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/sequence-prep-meal.svg"
+    ],
+    "alt_text": "Choose what to make. Gather ingredients and tools. Follow the recipe one step at a time.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-pay-bill",
+    "title": "Pay a bill sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities",
+      "visual sequence",
+      "three steps",
+      "bill payment"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/sequence-pay-bill.svg"
+    ],
+    "alt_text": "Check the amount and due date. Pay using the method you choose. Save the confirmation.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-send-email",
+    "title": "Send an email sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities",
+      "visual sequence",
+      "three steps",
+      "email"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/sequence-send-email.svg"
+    ],
+    "alt_text": "Write the main point. Check the recipient and attachments. Send.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-appointment",
+    "title": "Get ready for an appointment sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "handle everyday responsibilities",
+      "visual sequence",
+      "three steps",
+      "appointment"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/daily-routines/adhd-supports/sequence-appointment.svg"
+    ],
+    "alt_text": "Check the time and address. Pack what you need to bring. Set a time to leave.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-child-morning",
+    "title": "Child · start the morning sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "switch or restart",
+      "visual sequence",
+      "three steps",
+      "child"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/sequence-child-morning.svg"
+    ],
+    "alt_text": "Check the morning picture strip. Pick the first card. Move it to Done after that step.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-teen-homework",
+    "title": "Teen · return to homework sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "switch or restart",
+      "visual sequence",
+      "three steps",
+      "teen"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/sequence-teen-homework.svg"
+    ],
+    "alt_text": "Check the note you left before practice. Open to the marked question. Work on that question first.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-sequence-adult-resume",
+    "title": "Adult · resume after an interruption sequence",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "switch or restart",
+      "visual sequence",
+      "three steps",
+      "adult"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/sequence-adult-resume.svg"
+    ],
+    "alt_text": "Read your Where I left off note. Reopen the file or message. Do the next action you wrote down.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-packing-school",
+    "title": "Pack for school",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring",
+      "picture checklist",
+      "packing list",
+      "school",
+      "backpack",
+      "lunch",
+      "water bottle",
+      "forms"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/packing-school.svg"
+    ],
+    "alt_text": "Picture checklist for school. Backpack, Lunch, Water bottle, Forms.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-packing-work",
+    "title": "Pack for work",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring",
+      "picture checklist",
+      "packing list",
+      "work",
+      "keys",
+      "phone",
+      "id",
+      "charger"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/packing-work.svg"
+    ],
+    "alt_text": "Picture checklist for work. Keys, Phone, ID, Charger.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-packing-sports",
+    "title": "Pack for sports",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring",
+      "picture checklist",
+      "packing list",
+      "sports",
+      "sports gear",
+      "water bottle",
+      "backpack"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/packing-sports.svg"
+    ],
+    "alt_text": "Picture checklist for sports. Sports gear, Water bottle, Backpack.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-packing-errands",
+    "title": "Pack for errands",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring",
+      "picture checklist",
+      "packing list",
+      "errands",
+      "keys",
+      "phone",
+      "id",
+      "forms"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/packing-errands.svg"
+    ],
+    "alt_text": "Picture checklist for errands. Keys, Phone, ID, Forms.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-packing-travel",
+    "title": "Pack for travel",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "remember what to bring",
+      "picture checklist",
+      "packing list",
+      "travel",
+      "travel documents",
+      "id",
+      "charger",
+      "water bottle"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/self-care-and-independence/adhd-supports/packing-travel.svg"
+    ],
+    "alt_text": "Picture checklist for travel. Travel documents, ID, Charger, Water bottle.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-now-next-done-board",
+    "title": "Doing now / up next / done board",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "keep your place",
+      "task board",
+      "now next done",
+      "visual schedule"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/now-next-done-board.svg"
+    ],
+    "alt_text": "Three columns labeled Doing now, Up next, and Done, with space for cards.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-where-i-left-off-note",
+    "title": "Where I left off note",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "keep your place",
+      "resume",
+      "bookmark"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/where-i-left-off-note.svg"
+    ],
+    "alt_text": "Write the last thing you did and the next action.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-idea-parking-board",
+    "title": "Park an idea or reminder",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "keep your place",
+      "brain dump",
+      "reminders"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/idea-parking-board.svg"
+    ],
+    "alt_text": "Write it down here and come back to it when you’re ready.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-countdown-strip",
+    "title": "Countdown strip",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time",
+      "countdown",
+      "time left",
+      "transition"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/countdown-strip.svg"
+    ],
+    "alt_text": "Six numbered boxes count down from five to zero.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-visual-timer",
+    "title": "Visual timer card",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time",
+      "timer",
+      "elapsed time",
+      "time intervals"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/visual-timer.svg"
+    ],
+    "alt_text": "Printable timer card with six segments to mark as intervals pass.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-time-block-board",
+    "title": "Time-block cards",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time",
+      "time blocking",
+      "schedule",
+      "planner"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/time-block-board.svg"
+    ],
+    "alt_text": "Four blank rows with columns for start, stop, and task.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-first-then-template",
+    "title": "First / then template",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "see time",
+      "first then",
+      "blank template",
+      "sequence"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/adhd-supports/first-then-template.svg"
+    ],
+    "alt_text": "A blank board with three spaces labeled First, Then, and Next, if needed.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "shared-adhd-blank-cue-cards",
+    "title": "Blank cue cards",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "adhd",
+      "visual support",
+      "get started",
+      "blank template",
+      "custom cards"
+    ],
+    "status": "draft",
+    "style": "High-contrast labeled vector visual support",
+    "assets": [
+      "visuals/shared/learning-and-tasks/adhd-supports/blank-cue-cards.svg"
+    ],
+    "alt_text": "Four blank cards with a space for a picture and a line for a label.",
+    "source": "Created with OpenAI as editable SVG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
   }
 ]

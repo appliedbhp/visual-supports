@@ -9,8 +9,8 @@ parser.add_argument("--category")
 parser.add_argument("--query", default="")
 parser.add_argument("--status", choices=["planned", "draft", "ready"])
 args = parser.parse_args()
-if args.age is not None and not 0 <= args.age <= 18:
-    parser.error("age must be between 0 and 18")
+if args.age is not None and args.age < 0:
+    parser.error("age must be nonnegative")
 root = Path(__file__).resolve().parent
 categories = json.loads((root / "catalog/categories.json").read_text())
 if args.category and args.category not in {c["id"] for c in categories}:
