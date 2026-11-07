@@ -14467,5 +14467,667 @@
     "generation_prompt": "One square transparent PNG AAC pictogram of a clear drinking glass three quarters full of opaque orange juice, with one small whole orange with green leaf beside its lower right. Center both with generous margins, slightly elevated front view, bold rounded #202020 outlines, flat opaque fills, transparent outside objects only. No ice, straw, people, text, gradients, glare, texture or scenery. Teen: naturalistic glass proportions, thin double elliptical rim, thick faceted cool-gray base, natural rich opaque yellow-orange juice and dark orange side facet, real citrus shape with tiny calyx and restrained leaf. Uniform fills, hard-edged facets and no glossy highlights.",
     "source": "Built-in OpenAI image generation using the saved AAC prompt.",
     "created_at": "2026-11-07"
+  },
+  {
+    "id": "shared-recreation-basketball",
+    "title": "Basketball",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "basketball",
+      "sports and activities",
+      "hoops",
+      "basketball practice",
+      "ball"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/basketball.png"
+    ],
+    "alt_text": "Illustration of basketball with dark seams.",
+    "generation_prompt": "Draw basketball with dark seams as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-soccer-ball",
+    "title": "Soccer ball",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "soccer ball",
+      "sports and activities",
+      "football",
+      "soccer practice",
+      "ball"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/soccer-ball.png"
+    ],
+    "alt_text": "Illustration of soccer ball with black and white panels.",
+    "generation_prompt": "Draw soccer ball with black and white panels as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-volleyball",
+    "title": "Volleyball",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "volleyball",
+      "sports and activities",
+      "volleyball practice",
+      "beach volleyball",
+      "ball"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/volleyball.png"
+    ],
+    "alt_text": "Illustration of volleyball with blue, yellow, and white panels.",
+    "generation_prompt": "Draw volleyball with blue, yellow, and white panels as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-football",
+    "title": "Football",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "football",
+      "sports and activities",
+      "American football",
+      "gridiron",
+      "ball"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/football.png"
+    ],
+    "alt_text": "Illustration of an American football with white laces.",
+    "generation_prompt": "Draw an American football with white laces as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-rugby-ball",
+    "title": "Rugby ball",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "rugby ball",
+      "sports and activities",
+      "rugby",
+      "rugby practice",
+      "ball"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/rugby-ball.png"
+    ],
+    "alt_text": "Illustration of rugby ball with blue stripes.",
+    "generation_prompt": "Draw rugby ball with blue stripes as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-baseball-glove",
+    "title": "Baseball glove",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "baseball glove",
+      "sports and activities",
+      "baseball",
+      "mitt",
+      "catch",
+      "softball"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/baseball-glove.png"
+    ],
+    "alt_text": "Illustration of baseball glove made of brown leather.",
+    "generation_prompt": "Draw baseball glove made of brown leather as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-tennis-racket",
+    "title": "Tennis racket",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "tennis racket",
+      "sports and activities",
+      "tennis",
+      "racquet",
+      "tennis practice"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/tennis-racket.png"
+    ],
+    "alt_text": "Illustration of tennis racket with a blue frame and woven strings.",
+    "generation_prompt": "Draw tennis racket with a blue frame and woven strings as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-badminton-shuttlecock",
+    "title": "Badminton shuttlecock",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "badminton shuttlecock",
+      "sports and activities",
+      "badminton",
+      "birdie",
+      "shuttlecock"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/badminton-shuttlecock.png"
+    ],
+    "alt_text": "Illustration of badminton shuttlecock with white feathers and a green band.",
+    "generation_prompt": "Draw badminton shuttlecock with white feathers and a green band as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-table-tennis-paddle",
+    "title": "Table tennis paddle",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "table tennis paddle",
+      "sports and activities",
+      "ping pong",
+      "table tennis",
+      "paddle",
+      "racket"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/table-tennis-paddle.png"
+    ],
+    "alt_text": "Illustration of table tennis paddle with a red face and wooden handle.",
+    "generation_prompt": "Draw table tennis paddle with a red face and wooden handle as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-hockey-stick",
+    "title": "Hockey stick",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "hockey stick",
+      "sports and activities",
+      "ice hockey",
+      "stick",
+      "hockey practice"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/hockey-stick.png"
+    ],
+    "alt_text": "Illustration of hockey stick with a taped blade.",
+    "generation_prompt": "Draw hockey stick with a taped blade as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-swim-goggles",
+    "title": "Swim goggles",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "swim goggles",
+      "sports and activities",
+      "swimming",
+      "pool",
+      "goggles",
+      "swim practice"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/swim-goggles.png"
+    ],
+    "alt_text": "Illustration of swim goggles with blue lenses.",
+    "generation_prompt": "Draw swim goggles with blue lenses as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-ice-skate",
+    "title": "Ice skate",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "ice skate",
+      "sports and activities",
+      "ice skating",
+      "skating",
+      "figure skating"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/ice-skate.png"
+    ],
+    "alt_text": "Illustration of ice skate with a white boot and steel blade.",
+    "generation_prompt": "Draw ice skate with a white boot and steel blade as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-roller-skate",
+    "title": "Roller skate",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "roller skate",
+      "sports and activities",
+      "roller skating",
+      "quad skate",
+      "skating"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/roller-skate.png"
+    ],
+    "alt_text": "Illustration of roller skate with pink wheels.",
+    "generation_prompt": "Draw roller skate with pink wheels as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-skateboard",
+    "title": "Skateboard",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "skateboard",
+      "sports and activities",
+      "skateboarding",
+      "board",
+      "skate park"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/skateboard.png"
+    ],
+    "alt_text": "Illustration of skateboard with black grip tape and cream wheels.",
+    "generation_prompt": "Draw skateboard with black grip tape and cream wheels as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-bicycle-helmet",
+    "title": "Bicycle helmet",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "bicycle helmet",
+      "sports and activities",
+      "biking",
+      "cycling",
+      "bike helmet",
+      "protective gear"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/bicycle-helmet.png"
+    ],
+    "alt_text": "Illustration of bicycle helmet with a yellow shell and chin strap.",
+    "generation_prompt": "Draw bicycle helmet with a yellow shell and chin strap as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-jump-rope",
+    "title": "Jump rope",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "jump rope",
+      "sports and activities",
+      "skipping rope",
+      "exercise",
+      "jumping",
+      "fitness"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/jump-rope.png"
+    ],
+    "alt_text": "Illustration of jump rope with a coiled red rope and dark handles.",
+    "generation_prompt": "Draw jump rope with a coiled red rope and dark handles as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-dumbbell",
+    "title": "Dumbbell",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "dumbbell",
+      "sports and activities",
+      "weights",
+      "strength training",
+      "exercise",
+      "fitness"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/dumbbell.png"
+    ],
+    "alt_text": "Illustration of dumbbell with black hexagonal ends.",
+    "generation_prompt": "Draw dumbbell with black hexagonal ends as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-yoga-mat",
+    "title": "Yoga mat",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "yoga mat",
+      "sports and activities",
+      "yoga",
+      "stretching",
+      "exercise mat",
+      "fitness"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/yoga-mat.png"
+    ],
+    "alt_text": "Illustration of yoga mat partly rolled, in teal.",
+    "generation_prompt": "Draw yoga mat partly rolled, in teal as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-boxing-glove",
+    "title": "Boxing glove",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "boxing glove",
+      "sports and activities",
+      "boxing",
+      "training",
+      "protective gear"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/boxing-glove.png"
+    ],
+    "alt_text": "Illustration of boxing glove made of red leather.",
+    "generation_prompt": "Draw boxing glove made of red leather as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-bowling-pin",
+    "title": "Bowling pin",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "bowling pin",
+      "sports and activities",
+      "bowling",
+      "tenpin",
+      "pin"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/bowling-pin.png"
+    ],
+    "alt_text": "Illustration of bowling pin with two red stripes.",
+    "generation_prompt": "Draw bowling pin with two red stripes as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-ballet-slipper",
+    "title": "Ballet slipper",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "ballet slipper",
+      "sports and activities",
+      "ballet",
+      "dance",
+      "dance shoe",
+      "slipper"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/ballet-slipper.png"
+    ],
+    "alt_text": "Illustration of ballet slipper with pale pink fabric and crossed straps.",
+    "generation_prompt": "Draw ballet slipper with pale pink fabric and crossed straps as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-flying-disc",
+    "title": "Flying disc",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "flying disc",
+      "sports and activities",
+      "frisbee",
+      "disc golf",
+      "outdoor play",
+      "throwing"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/flying-disc.png"
+    ],
+    "alt_text": "Illustration of flying disc shown at an angle, in orange.",
+    "generation_prompt": "Draw flying disc shown at an angle, in orange as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-binoculars",
+    "title": "Binoculars",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "binoculars",
+      "sports and activities",
+      "birdwatching",
+      "hiking",
+      "nature",
+      "outdoor activity"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/binoculars.png"
+    ],
+    "alt_text": "Illustration of binoculars with dark barrels and green lenses.",
+    "generation_prompt": "Draw binoculars with dark barrels and green lenses as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-fishing-rod",
+    "title": "Fishing rod",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "fishing rod",
+      "sports and activities",
+      "fishing",
+      "angling",
+      "reel",
+      "outdoor activity"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/fishing-rod.png"
+    ],
+    "alt_text": "Illustration of fishing rod with a reel and line guides.",
+    "generation_prompt": "Draw fishing rod with a reel and line guides as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-recreation-acoustic-guitar",
+    "title": "Acoustic guitar",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "recreation",
+    "keywords": [
+      "acoustic guitar",
+      "sports and activities",
+      "guitar",
+      "music",
+      "instrument",
+      "strumming"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache illustration",
+    "assets": [
+      "visuals/shared/recreation/acoustic-guitar.png"
+    ],
+    "alt_text": "Illustration of acoustic guitar with a wooden body and dark fretboard.",
+    "generation_prompt": "Draw acoustic guitar with a wooden body and dark fretboard as an isolated naturalistic ink-and-gouache illustration, with a recognizable silhouette, representative colors, believable proportions and material cues, subtle shading, and a transparent background. Keep it readable at card size.",
+    "source": "Generated with OpenAI image generation and prepared as an individual transparent PNG.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
   }
 ]
