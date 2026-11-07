@@ -39,3 +39,9 @@ Use believable colors and material distinctions appropriate to the subject. Choo
 The final set must show a distinct progression in both form and color. Do not reuse the same cartoon drawing and merely add shadows or change its fill.
 
 Workflow preference: For each new scene supplied in this chat, generate three separate versions, then upload them to https://github.com/appliedbhp/visual-supports. Preserve earlier versions unless replacement is requested.
+
+Search metadata for every new scene
+
+- Choose a short title and lowercase keyword tags covering the subject, action, visible objects, common synonyms, and relevant category terms. Include multiword phrases people are likely to search for.
+- Add those keywords to all three age variants in catalog/visuals.json when uploading. Save them as catalog metadata, separate from the artwork. Keep the pictograms text-free.
+- Before calling the upload complete, verify that the catalog search finds each age variant by a scene name and a common alternate phrase, and that each result links to the uploaded image.
