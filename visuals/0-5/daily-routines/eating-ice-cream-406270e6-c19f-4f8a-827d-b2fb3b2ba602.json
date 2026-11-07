@@ -1,0 +1,53 @@
+{
+  "id": "admin-406270e6-c19f-4f8a-827d-b2fb3b2ba602",
+  "title": "eating ice cream",
+  "age_strand": "0-5",
+  "min_age": 0,
+  "max_age": 5,
+  "category": "daily-routines",
+  "keywords": [
+    "ice cream"
+  ],
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/0-5/daily-routines/eating-ice-cream-406270e6-c19f-4f8a-827d-b2fb3b2ba602.png"
+  ],
+  "alt_text": "eating ice cream · female · Tan (#AD704E)",
+  "generation_prompt": "Use the attached Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape, dark contour weight, facial proportions, mouth variant02, eyes variant24, and eyebrows variant10. Default to a bald character with no glasses or accessories and opaque white (#FFFFFF) skin unless the requested visual specifies a hairstyle, skin tone or outfit. Explicit appearance selections override these defaults; keep selected skin opaque and consistent. Preserve these exact face features and the selected appearance across every age strand. Extend the reference into the full action and essential props, with consistent clean, flat illustration and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and selected skin opaque. Do not reproduce the avatar as a floating portrait or add text, labels, borders, gradients, or shadows. If the requested concept is an object without a person, preserve the same clean contours and palette. Requested visual: Character appearance: Bob; opaque skin tone Tan (#AD704E). These appearance choices override the bald, white-skin reference defaults; preserve the reference illustration style and requested face version. Keep hairstyle and outfit consistent across the set; use the skin tone specified for each individual variant. No logos or text on clothing. Create one standalone square visual support. Action: eating ice cream Age strand: 0-5. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, and no glasses.  Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Character version: female. Depict an age-appropriate female character, without sexualization or stereotyped activities. Skin tone: Tan (#AD704E). Preserve this skin tone across all visible skin. Face version: default. Use mouth variant02, eyes variant24, and eyebrows variant10. Adapt proportions and context respectfully for ages 0-5.",
+  "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+  "usage_rights": "Original ABHP artwork is for use on Applied Behavioral Health Practice websites only. Other use requires written permission from Applied Behavioral Health Practice. Third-party source materials retain their original licenses and required attribution. Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+  "gender_variant": "female",
+  "skin_tone": "Tan (#AD704E)",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "character_reference": {
+    "id": "dicebear-adventurer-default-v1",
+    "style": "adventurer",
+    "version": "10.x",
+    "source": "https://www.dicebear.com/styles/adventurer/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "Lisa Wischofsky",
+    "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "options": {
+      "seed": "abhp-visual-supports-v1",
+      "size": "512",
+      "hairProbability": "0",
+      "glassesProbability": "0",
+      "earringsProbability": "0",
+      "detailsProbability": "0",
+      "mouthVariant": "variant02",
+      "eyesVariant": "variant24",
+      "eyebrowsVariant": "variant10",
+      "mouthProbability": "100",
+      "eyesProbability": "100",
+      "eyebrowsProbability": "100",
+      "skinColor": "ffffff",
+      "inkColor": "24243b"
+    },
+    "asset": "references/dicebear-adventurer-default-v1.png"
+  },
+  "image_sha256": "0be43bc2fc7b9b00d5d2af4d2b3fae323321a31c4822d950cc3358b88ff04e55",
+  "created_at": "2026-11-07T05:35:19.589Z"
+}
