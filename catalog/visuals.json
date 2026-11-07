@@ -12731,5 +12731,80 @@
     "generation_prompt": "Create ONE clear AAC-style pictogram depicting FRUIT IN A BOWL. A single simple round bowl holding exactly one apple at left, one orange at front-right, and one curved banana arching behind. Fruit visibly rests inside bowl, upper portions visible above rim. Front three-quarter slightly elevated view, entire arrangement centered on square transparent background with consistent generous 10% margins. Same composition and fruit across series. Bold rounded #202020 outlines, fully opaque solid fills, strong contrast, no text, labels, people, table, scenery, decorative marks, watermark, gradients, highlights, haze, paper texture, photographic surface texture. No cut fruit or extra objects. TEEN: naturalistic mature educational pictogram, accurate real-world fruit proportions and construction. One subtly asymmetrical deep red apple at left with natural recessed stem and small olive-green leaf, one naturally round orange at front-right with small calyx dimple, one ripe golden-yellow banana arching behind with realistic curvature, narrow brown stem and dark tapered tip. Natural color regions, restrained muted red/orange/gold rather than neon, bowl warm off-white ceramic with a natural elliptical rim, plausible wall thickness and shallow curved profile. Fruit correctly nestled inside bowl, not floating. Controlled bold hand-drawn #202020 outlines, selective structural detail. Volume described with a few realistically placed HARD-EDGED SOLID UNIFORM darker color shadow shapes only, including overlaps and bowl interior. Flat opaque fills; no gradients, no smooth shading, no glossy patches, no fruit skin texture or stippling. Clearly more natural anatomy and material colors than simplified cartoon.",
     "source": "Built-in OpenAI image generation using the saved AAC prompt.",
     "created_at": "2026-11-07"
+  },
+  {
+    "id": "0-5-daily-routines-glass-of-water-with-ice-realism-v1",
+    "title": "Glass of water with ice",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "water",
+      "drink",
+      "glass",
+      "ice",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/glass-of-water-with-ice.png"
+    ],
+    "alt_text": "A drinking glass filled with blue-tinted water and three ice cubes at the waterline.",
+    "generation_prompt": "Create ONE square transparent PNG AAC pictogram of a single clear drinking glass three quarters full of water, with three ice cubes visible at the waterline. Slightly elevated front view, full glass centered with generous margins, bold rounded #202020 outlines. No text, people, table, props, gradients, glare or photographic textures. Transparent background outside glass; use distinct pale blue and near-white solid fills inside for readability. Age 5: simple chunky tumbler and three oversized rounded square ice shapes, saturated blue #1769AA water and opaque white ice, minimal lines, flat fills without shadows.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
+  },
+  {
+    "id": "6-11-daily-routines-glass-of-water-with-ice-realism-v1",
+    "title": "Glass of water with ice",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "water",
+      "drink",
+      "glass",
+      "ice",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/glass-of-water-with-ice.png"
+    ],
+    "alt_text": "A drinking glass filled with blue-tinted water and three ice cubes at the waterline.",
+    "generation_prompt": "Create ONE square transparent PNG AAC pictogram of a single clear drinking glass three quarters full of water, with three ice cubes visible at the waterline. Slightly elevated front view, full glass centered with generous margins, bold rounded #202020 outlines. No text, people, table, props, gradients, glare or photographic textures. Transparent background outside glass; use distinct pale blue and near-white solid fills inside for readability. Age 10: moderately realistic tapered tumbler, elliptical rim and clear waterline, three recognizable angular ice cubes at varied angles. Use restrained pale blue water and opaque icy whites with a few flat solid facets.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
+  },
+  {
+    "id": "12-18-daily-routines-glass-of-water-with-ice-realism-v1",
+    "title": "Glass of water with ice",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "water",
+      "drink",
+      "glass",
+      "ice",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/glass-of-water-with-ice.png"
+    ],
+    "alt_text": "A drinking glass filled with blue-tinted water and three ice cubes at the waterline.",
+    "generation_prompt": "Create ONE square transparent PNG AAC pictogram of a single clear drinking glass three quarters full of water, with three ice cubes visible at the waterline. Slightly elevated front view, full glass centered with generous margins, bold rounded #202020 outlines. No text, people, table, props, gradients, glare or photographic textures. Transparent background outside glass; use distinct pale blue and near-white solid fills inside for readability. Teen: naturalistic drinking glass with believable wall thickness, elliptical rim and waterline, thicker glass base, three proportionate ice cubes partly submerged. Use subtle near-clear blue-gray, muted cool white, and flat solid ice facets and water bands to convey transparent materials. No specular reflections or soft shading. Keep water and ice immediately recognizable.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
   }
 ]
