@@ -2794,5 +2794,111 @@
     },
     "image_sha256": "d943e9c4229ec94322f783c13860619a109b64e4a6a38a90aa1c94a26bf5680b",
     "created_at": "2026-11-07T04:32:29.575Z"
+  },
+  {
+    "id": "admin-f2748b48-2973-418d-ba2b-58a6192389db",
+    "title": "waiting at the crosswalk",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "crosswalk",
+      "wait",
+      "red light"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/0-5/daily-routines/waiting-at-the-crosswalk-f2748b48-2973-418d-ba2b-58a6192389db.png"
+    ],
+    "alt_text": "waiting at the crosswalk, walk sign is red",
+    "generation_prompt": "Use the attached Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape, dark contour weight, facial proportions, mouth variant02, eyes variant24, and eyebrows variant10. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Preserve these exact face features and white skin across every age strand. Extend the reference into the full action and essential props, with consistent clean, flat illustration and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not reproduce the avatar as a floating portrait or add text, labels, borders, gradients, or shadows. If the requested concept is an object without a person, preserve the same clean contours and palette. Requested visual: Create one standalone square visual support. Action: waiting at the crosswalk, walk sign is red Age strand: 0-5. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: default. Use mouth variant02, eyes variant24, and eyebrows variant10. Adapt proportions and context respectfully for ages 0-5.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Use on routines.getadhd.care only Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "default",
+    "character_reference": {
+      "id": "dicebear-adventurer-default-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "100",
+        "eyesProbability": "100",
+        "eyebrowsProbability": "100",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-default-v1.png"
+    },
+    "image_sha256": "ba99b5178dfed88b82f46ae7571996e3455f4ddf5fd7ae9e0906e2e18e5e0b0c",
+    "created_at": "2026-11-07T04:36:29.024Z"
+  },
+  {
+    "id": "admin-e7beb6f6-ac5a-4a85-838d-b878eea5b8ab",
+    "title": "waiting at the crosswalk",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "crosswalk",
+      "wait",
+      "red light"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/0-5/daily-routines/waiting-at-the-crosswalk-e7beb6f6-ac5a-4a85-838d-b878eea5b8ab.png"
+    ],
+    "alt_text": "waiting at the crosswalk, walk sign is red",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Create one standalone square visual support. Action: waiting at the crosswalk, walk sign is red Age strand: 0-5. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 0-5.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Use on routines.getadhd.care only Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "36196359b85f9eafda1dbae7d1fe1dd857fcdcf8e4c8b8cd5df37e4f4760b973",
+    "created_at": "2026-11-07T04:36:30.247Z"
   }
 ]
