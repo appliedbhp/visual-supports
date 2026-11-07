@@ -17683,5 +17683,197 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Designed as a standalone visual support for kids, teens, and adults."
+  },
+  {
+    "id": "0-5-daily-routines-put-clothes-in-drawers-male",
+    "title": "Put clothes in drawers — 5-year-old boy",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "put clothes in drawers",
+      "put away clothes",
+      "dresser",
+      "laundry",
+      "chores",
+      "male"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/put-clothes-in-drawers-male.png"
+    ],
+    "alt_text": "A 5-year-old boy puts a folded orange shirt into an open dresser drawer.",
+    "generation_prompt": "Create one square transparent AAC pictogram of a 5-year-old boy putting folded clothes into a dresser drawer. Show a clear three-quarter view with the whole boy beside a compact gray dresser with three drawers. The top drawer is pulled open toward the viewer and clearly shows the inside, with a folded blue garment already there. The character uses both hands to lower a folded bright orange shirt just inside the open drawer, visibly overlapping the front lip. The two lower drawers are closed and have simple knobs. Make this readable at small icon size. Use small child proportions with large head and short limbs. Match the attached homework pictogram's line weight, rounded contours, large expressive eyes and simple smile. Outlines #202020, shirt #1769AA, folded garment #F28C28, neutral gray furniture and pants, opaque white skin and shoes. Strict solid uniform fully opaque fills, crisp lines, genuine transparent alpha background, safe even margins. No gradients, shadows, highlights, texture, text, arrows, room or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "c196ac4d371852def752b4e6f25c518de1b8e11df967cfae22d4a64c2e5a5094",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-put-clothes-in-drawers-female",
+    "title": "Put clothes in drawers — 5-year-old girl",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "put clothes in drawers",
+      "put away clothes",
+      "dresser",
+      "laundry",
+      "chores",
+      "female"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/put-clothes-in-drawers-female.png"
+    ],
+    "alt_text": "A 5-year-old girl puts a folded orange shirt into an open dresser drawer.",
+    "generation_prompt": "Create one square transparent AAC pictogram of a 5-year-old girl putting folded clothes into a dresser drawer. Show a clear three-quarter view with the whole girl beside a compact gray dresser with three drawers. The top drawer is pulled open toward the viewer and clearly shows the inside, with a folded blue garment already there. The character uses both hands to lower a folded bright orange shirt just inside the open drawer, visibly overlapping the front lip. The two lower drawers are closed and have simple knobs. Make this readable at small icon size. Use small child proportions with large head and short limbs. Match the attached homework pictogram's line weight, rounded contours, large expressive eyes and simple smile. Outlines #202020, shirt #1769AA, folded garment #F28C28, neutral gray furniture and pants, opaque white skin and shoes. Strict solid uniform fully opaque fills, crisp lines, genuine transparent alpha background, safe even margins. No gradients, shadows, highlights, texture, text, arrows, room or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "50856f202c6d6c2827fdb013e995ee061df2205aaca517000f104ec5d0ae865a",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-put-clothes-in-drawers-male",
+    "title": "Put clothes in drawers — 10-year-old boy",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "put clothes in drawers",
+      "put away clothes",
+      "dresser",
+      "laundry",
+      "chores",
+      "male"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/put-clothes-in-drawers-male.png"
+    ],
+    "alt_text": "A 10-year-old boy puts a folded orange shirt into an open dresser drawer.",
+    "generation_prompt": "Create one square transparent AAC pictogram of a 10-year-old boy putting folded clothes into a dresser drawer. Show a clear three-quarter view with the whole boy beside a compact gray dresser with three drawers. The top drawer is pulled open toward the viewer and clearly shows the inside, with a folded blue garment already there. The character uses both hands to lower a folded bright orange shirt just inside the open drawer, visibly overlapping the front lip. The two lower drawers are closed and have simple knobs. Make this readable at small icon size. Use school-age proportions. Match the attached homework pictogram's line weight, rounded contours, large expressive eyes and simple smile. Outlines #202020, shirt #1769AA, folded garment #F28C28, neutral gray furniture and pants, opaque white skin and shoes. Strict solid uniform fully opaque fills, crisp lines, genuine transparent alpha background, safe even margins. No gradients, shadows, highlights, texture, text, arrows, room or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "5045f983bc56627f112575aa231f2f3f099fc52170975d70714c0b5de20597d9",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-put-clothes-in-drawers-female",
+    "title": "Put clothes in drawers — 10-year-old girl",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "put clothes in drawers",
+      "put away clothes",
+      "dresser",
+      "laundry",
+      "chores",
+      "female"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/put-clothes-in-drawers-female.png"
+    ],
+    "alt_text": "A 10-year-old girl puts a folded orange shirt into an open dresser drawer.",
+    "generation_prompt": "Create one square transparent AAC pictogram of a 10-year-old girl putting folded clothes into a dresser drawer. Show a clear three-quarter view with the whole girl beside a compact gray dresser with three drawers. The top drawer is pulled open toward the viewer and clearly shows the inside, with a folded blue garment already there. The character uses both hands to lower a folded bright orange shirt just inside the open drawer, visibly overlapping the front lip. The two lower drawers are closed and have simple knobs. Make this readable at small icon size. Use school-age proportions. Match the attached homework pictogram's line weight, rounded contours, large expressive eyes and simple smile. Outlines #202020, shirt #1769AA, folded garment #F28C28, neutral gray furniture and pants, opaque white skin and shoes. Strict solid uniform fully opaque fills, crisp lines, genuine transparent alpha background, safe even margins. No gradients, shadows, highlights, texture, text, arrows, room or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "92f8e4bec6069985282bb20ea2f8461574b91d386fcdc3b96eb8f3baf2da2ccf",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-put-clothes-in-drawers-male",
+    "title": "Put clothes in drawers — teen boy",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "put clothes in drawers",
+      "put away clothes",
+      "dresser",
+      "laundry",
+      "chores",
+      "male"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/put-clothes-in-drawers-male.png"
+    ],
+    "alt_text": "A teenage boy puts a folded orange shirt into an open dresser drawer.",
+    "generation_prompt": "Create one square transparent AAC pictogram of a teenage boy putting folded clothes into a dresser drawer. Show a clear three-quarter view with the whole boy beside a compact gray dresser with three drawers. The top drawer is pulled open toward the viewer and clearly shows the inside, with a folded blue garment already there. The character uses both hands to lower a folded bright orange shirt just inside the open drawer, visibly overlapping the front lip. The two lower drawers are closed and have simple knobs. Make this readable at small icon size. Use teen proportions with longer limbs. Match the attached homework pictogram's line weight, rounded contours, large expressive eyes and simple smile. Outlines #202020, shirt #1769AA, folded garment #F28C28, neutral gray furniture and pants, opaque white skin and shoes. Strict solid uniform fully opaque fills, crisp lines, genuine transparent alpha background, safe even margins. No gradients, shadows, highlights, texture, text, arrows, room or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "926c1b70614946319cadf45193109eb28b37722116e737e8702c3c2503beb7c3",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-put-clothes-in-drawers-female",
+    "title": "Put clothes in drawers — teen girl",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "put clothes in drawers",
+      "put away clothes",
+      "dresser",
+      "laundry",
+      "chores",
+      "female"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/put-clothes-in-drawers-female.png"
+    ],
+    "alt_text": "A teenage girl puts a folded orange shirt into an open dresser drawer.",
+    "generation_prompt": "Create one square transparent AAC pictogram of a teenage girl putting folded clothes into a dresser drawer. Show a clear three-quarter view with the whole girl beside a compact gray dresser with three drawers. The top drawer is pulled open toward the viewer and clearly shows the inside, with a folded blue garment already there. The character uses both hands to lower a folded bright orange shirt just inside the open drawer, visibly overlapping the front lip. The two lower drawers are closed and have simple knobs. Make this readable at small icon size. Use teen proportions with longer limbs. Match the attached homework pictogram's line weight, rounded contours, large expressive eyes and simple smile. Outlines #202020, shirt #1769AA, folded garment #F28C28, neutral gray furniture and pants, opaque white skin and shoes. Strict solid uniform fully opaque fills, crisp lines, genuine transparent alpha background, safe even margins. No gradients, shadows, highlights, texture, text, arrows, room or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "945ddbed21cd87ecaa0db7673fb55415a53da588e37ceac590fdbea943c0e02c",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
