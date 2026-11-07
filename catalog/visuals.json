@@ -15351,5 +15351,197 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "0-5-daily-routines-fold-clothes-male",
+    "title": "Fold clothes — 5-year-old boy",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "fold clothes",
+      "fold laundry",
+      "shirt",
+      "laundry",
+      "chores",
+      "male"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/fold-clothes-male.png"
+    ],
+    "alt_text": "A 5-year-old boy folds an orange shirt on a table beside a stack of folded clothes.",
+    "generation_prompt": "One square transparent AAC pictogram of a 5-year-old boy folding clothes, standing behind a gray table. A bright orange T-shirt is lying flat on the table directly in front of the character, with one side visibly folded inward over the center and the other sleeve still extended. One hand guides the lifted fabric edge inward while the other hand flattens the folded section. On the far right is a small neat stack of two fully folded blue and orange clothes. Focus on the two hands folding the same shirt on the tabletop. Entire child and table fully in frame. Match the attached homework pictogram's bold smooth #202020 contours, large friendly eyes, simple smile, white opaque skin and shoes, #1769AA blue top, dark gray trousers, and #F28C28 accents. Use age-appropriate proportions, large head and short limbs. Flat solid fills with crisp outlines and transparent alpha outside character and furniture. No gradients, shadows, text, labels, arrows, scenery or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "788746c5e22a05e173b3cc19724fe4cbec3979c3e5767a0066bee44d717d8876",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-fold-clothes-female",
+    "title": "Fold clothes — 5-year-old girl",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "fold clothes",
+      "fold laundry",
+      "shirt",
+      "laundry",
+      "chores",
+      "female"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/fold-clothes-female.png"
+    ],
+    "alt_text": "A 5-year-old girl folds an orange shirt on a table beside a stack of folded clothes.",
+    "generation_prompt": "One square transparent AAC pictogram of a 5-year-old girl folding clothes, standing behind a gray table. A bright orange T-shirt is lying flat on the table directly in front of the character, with one side visibly folded inward over the center and the other sleeve still extended. One hand guides the lifted fabric edge inward while the other hand flattens the folded section. On the far right is a small neat stack of two fully folded blue and orange clothes. Focus on the two hands folding the same shirt on the tabletop. Entire child and table fully in frame. Match the attached homework pictogram's bold smooth #202020 contours, large friendly eyes, simple smile, white opaque skin and shoes, #1769AA blue top, dark gray trousers, and #F28C28 accents. Use age-appropriate proportions, large head and short limbs. Flat solid fills with crisp outlines and transparent alpha outside character and furniture. No gradients, shadows, text, labels, arrows, scenery or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "7fcb185751aff517efbb7005e6b8b33959d698677d41470a42c57925b2567391",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-fold-clothes-male",
+    "title": "Fold clothes — 10-year-old boy",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "fold clothes",
+      "fold laundry",
+      "shirt",
+      "laundry",
+      "chores",
+      "male"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/fold-clothes-male.png"
+    ],
+    "alt_text": "A 10-year-old boy folds an orange shirt on a table beside a stack of folded clothes.",
+    "generation_prompt": "One square transparent AAC pictogram of a 10-year-old boy folding clothes, standing behind a gray table. A bright orange T-shirt is lying flat on the table directly in front of the character, with one side visibly folded inward over the center and the other sleeve still extended. One hand guides the lifted fabric edge inward while the other hand flattens the folded section. On the far right is a small neat stack of two fully folded blue and orange clothes. Focus on the two hands folding the same shirt on the tabletop. Entire child and table fully in frame. Match the attached homework pictogram's bold smooth #202020 contours, large friendly eyes, simple smile, white opaque skin and shoes, #1769AA blue top, dark gray trousers, and #F28C28 accents. Use age-appropriate proportions, moderate head size and longer limbs. Flat solid fills with crisp outlines and transparent alpha outside character and furniture. No gradients, shadows, text, labels, arrows, scenery or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "2f4fa6372c9de6a2078afe404c2e540c214b387168e0997241314cbf18369275",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-fold-clothes-female",
+    "title": "Fold clothes — 10-year-old girl",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "fold clothes",
+      "fold laundry",
+      "shirt",
+      "laundry",
+      "chores",
+      "female"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/fold-clothes-female.png"
+    ],
+    "alt_text": "A 10-year-old girl folds an orange shirt on a table beside a stack of folded clothes.",
+    "generation_prompt": "One square transparent AAC pictogram of a 10-year-old girl folding clothes, standing behind a gray table. A bright orange T-shirt is lying flat on the table directly in front of the character, with one side visibly folded inward over the center and the other sleeve still extended. One hand guides the lifted fabric edge inward while the other hand flattens the folded section. On the far right is a small neat stack of two fully folded blue and orange clothes. Focus on the two hands folding the same shirt on the tabletop. Entire child and table fully in frame. Match the attached homework pictogram's bold smooth #202020 contours, large friendly eyes, simple smile, white opaque skin and shoes, #1769AA blue top, dark gray trousers, and #F28C28 accents. Use age-appropriate proportions, moderate head size and longer limbs. Flat solid fills with crisp outlines and transparent alpha outside character and furniture. No gradients, shadows, text, labels, arrows, scenery or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "1a086b1c6cfb2bc4299647fc94d0ec0d7f5422984197e2464402819459727dc2",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-fold-clothes-male",
+    "title": "Fold clothes — teen boy",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "fold clothes",
+      "fold laundry",
+      "shirt",
+      "laundry",
+      "chores",
+      "male"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/fold-clothes-male.png"
+    ],
+    "alt_text": "A teenage boy folds an orange shirt on a table beside a stack of folded clothes.",
+    "generation_prompt": "One square transparent AAC pictogram of a teen boy folding clothes, standing behind a gray table. A bright orange T-shirt is lying flat on the table directly in front of the character, with one side visibly folded inward over the center and the other sleeve still extended. One hand guides the lifted fabric edge inward while the other hand flattens the folded section. On the far right is a small neat stack of two fully folded blue and orange clothes. Focus on the two hands folding the same shirt on the tabletop. Entire child and table fully in frame. Match the attached homework pictogram's bold smooth #202020 contours, large friendly eyes, simple smile, white opaque skin and shoes, #1769AA blue top, dark gray trousers, and #F28C28 accents. Use age-appropriate proportions, smaller head relative to torso and long adolescent limbs. Flat solid fills with crisp outlines and transparent alpha outside character and furniture. No gradients, shadows, text, labels, arrows, scenery or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "004952528c8287edd0e0971b9c5518a6ff128b40708999d29ff6e0703c0438be",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-fold-clothes-female",
+    "title": "Fold clothes — teen girl",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "fold clothes",
+      "fold laundry",
+      "shirt",
+      "laundry",
+      "chores",
+      "female"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/fold-clothes-female.png"
+    ],
+    "alt_text": "A teenage girl folds an orange shirt on a table beside a stack of folded clothes.",
+    "generation_prompt": "One square transparent AAC pictogram of a teen girl folding clothes, standing behind a gray table. A bright orange T-shirt is lying flat on the table directly in front of the character, with one side visibly folded inward over the center and the other sleeve still extended. One hand guides the lifted fabric edge inward while the other hand flattens the folded section. On the far right is a small neat stack of two fully folded blue and orange clothes. Focus on the two hands folding the same shirt on the tabletop. Entire child and table fully in frame. Match the attached homework pictogram's bold smooth #202020 contours, large friendly eyes, simple smile, white opaque skin and shoes, #1769AA blue top, dark gray trousers, and #F28C28 accents. Use age-appropriate proportions, smaller head relative to torso and long adolescent limbs. Flat solid fills with crisp outlines and transparent alpha outside character and furniture. No gradients, shadows, text, labels, arrows, scenery or floor plane.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "f5dad731c2a2341e5ceb2d88066377a35663ed4982c4bb3d64600abfa81d09a0",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
