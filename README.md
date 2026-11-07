@@ -100,3 +100,7 @@ Drafts can be found with `python3 search.py --status draft`.
 ## Character expressions
 
 [Review seven facial expressions on all three characters](CHARACTER-EXPRESSIONS-REVIEW.md). Six transparent comparison sheets contain 21 expression variants, saved as drafts.
+
+## License and attribution
+
+Original ABHP visuals are licensed under [CC BY-SA 4.0](LICENSE.md). Credit **Ryan Baker-Barrett of Applied Behavioral Health Practice**, with links to [getadhd.care](https://getadhd.care) and [appliedbehavioral.health](https://appliedbehavioral.health). Include the license and indicate changes. This replaces older site-only notices for original ABHP artwork; third-party creator credits and licenses remain applicable.
