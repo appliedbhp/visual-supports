@@ -1,0 +1,9 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": true,
+  "prompts": {
+    "age5": "One square transparent PNG AAC pictogram of a clear drinking glass three quarters full of opaque orange juice, with one small whole orange with green leaf beside its lower right. Center both with generous margins, slightly elevated front view, bold rounded #202020 outlines, flat opaque fills, transparent outside objects only. No ice, straw, people, text, gradients, glare, texture or scenery. Age 5: chunky simple tumbler, vivid saturated orange #F28C28 juice, pale blue rim and base, round orange with green leaf, minimal lines and no shading.",
+    "age10": "One square transparent PNG AAC pictogram of a clear drinking glass three quarters full of opaque orange juice, with one small whole orange with green leaf beside its lower right. Center both with generous margins, slightly elevated front view, bold rounded #202020 outlines, flat opaque fills, transparent outside objects only. No ice, straw, people, text, gradients, glare, texture or scenery. Age 10: moderately realistic tapered tumbler with distinct rim and elliptical liquid line, natural golden-orange juice, orange with a small green leaf and stem dimple, subtle flat color facets.",
+    "teen": "One square transparent PNG AAC pictogram of a clear drinking glass three quarters full of opaque orange juice, with one small whole orange with green leaf beside its lower right. Center both with generous margins, slightly elevated front view, bold rounded #202020 outlines, flat opaque fills, transparent outside objects only. No ice, straw, people, text, gradients, glare, texture or scenery. Teen: naturalistic glass proportions, thin double elliptical rim, thick faceted cool-gray base, natural rich opaque yellow-orange juice and dark orange side facet, real citrus shape with tiny calyx and restrained leaf. Uniform fills, hard-edged facets and no glossy highlights."
+  }
+}
