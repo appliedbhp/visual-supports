@@ -13182,5 +13182,834 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "shared-classroom-backpack",
+    "title": "Backpack",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "backpack",
+      "classroom",
+      "classroom item",
+      "school bag",
+      "book bag",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/backpack.svg"
+    ],
+    "alt_text": "A blue backpack with a front pocket and carrying loop.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue backpack with a front pocket and carrying loop.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-whiteboard",
+    "title": "Whiteboard",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "whiteboard",
+      "classroom",
+      "classroom item",
+      "dry erase board",
+      "board",
+      "teaching supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/whiteboard.svg"
+    ],
+    "alt_text": "A framed whiteboard with a marker tray.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A framed whiteboard with a marker tray.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-ruler",
+    "title": "Ruler",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "ruler",
+      "classroom",
+      "classroom item",
+      "measure",
+      "measurement",
+      "math supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/ruler.svg"
+    ],
+    "alt_text": "A yellow wooden ruler with dark measurement marks.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A yellow wooden ruler with dark measurement marks.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-calculator",
+    "title": "Calculator",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "calculator",
+      "classroom",
+      "classroom item",
+      "math",
+      "number pad",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/calculator.svg"
+    ],
+    "alt_text": "A dark calculator with a green display and rounded keys.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A dark calculator with a green display and rounded keys.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-stapler",
+    "title": "Stapler",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "stapler",
+      "classroom",
+      "classroom item",
+      "staple",
+      "fastener",
+      "desk supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/stapler.svg"
+    ],
+    "alt_text": "A red desktop stapler with a steel magazine.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A red desktop stapler with a steel magazine.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-pencil-sharpener",
+    "title": "Pencil sharpener",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "pencil sharpener",
+      "classroom",
+      "classroom item",
+      "sharpener",
+      "blade",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/pencil-sharpener.svg"
+    ],
+    "alt_text": "A small blue pencil sharpener with a metal blade.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A small blue pencil sharpener with a metal blade.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-eraser",
+    "title": "Eraser",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "eraser",
+      "classroom",
+      "classroom item",
+      "rubber",
+      "pencil eraser",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/eraser.svg"
+    ],
+    "alt_text": "A pink rectangular eraser with beveled ends.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A pink rectangular eraser with beveled ends.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-highlighter",
+    "title": "Highlighter",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "highlighter",
+      "classroom",
+      "classroom item",
+      "fluorescent marker",
+      "chisel tip",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/highlighter.svg"
+    ],
+    "alt_text": "A yellow highlighter with its chisel tip exposed.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A yellow highlighter with its chisel tip exposed.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-clipboard",
+    "title": "Clipboard",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "clipboard",
+      "classroom",
+      "classroom item",
+      "clip board",
+      "worksheet",
+      "desk supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/clipboard.svg"
+    ],
+    "alt_text": "A brown clipboard holding a blank sheet of paper.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A brown clipboard holding a blank sheet of paper.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-globe",
+    "title": "Globe",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "globe",
+      "classroom",
+      "classroom item",
+      "earth",
+      "world",
+      "map",
+      "geography"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/globe.svg"
+    ],
+    "alt_text": "A blue and green classroom globe on a tilted stand.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue and green classroom globe on a tilted stand.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-microscope",
+    "title": "Microscope",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "microscope",
+      "classroom",
+      "classroom item",
+      "science",
+      "lab",
+      "equipment",
+      "magnify"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/microscope.svg"
+    ],
+    "alt_text": "A classroom microscope with an angled eyepiece and specimen stage.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A classroom microscope with an angled eyepiece and specimen stage.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-school-desk",
+    "title": "School desk",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "school desk",
+      "classroom",
+      "classroom item",
+      "student desk",
+      "table",
+      "furniture"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/school-desk.svg"
+    ],
+    "alt_text": "A student desk with a wood top and metal legs.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A student desk with a wood top and metal legs.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-classroom-chair",
+    "title": "Classroom chair",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "classroom chair",
+      "classroom",
+      "classroom item",
+      "student chair",
+      "seat",
+      "furniture"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/classroom-chair.svg"
+    ],
+    "alt_text": "A blue student chair with tubular metal legs.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue student chair with tubular metal legs.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-computer-mouse",
+    "title": "Computer mouse",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "computer mouse",
+      "classroom",
+      "classroom item",
+      "mouse",
+      "computer",
+      "technology",
+      "peripheral"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/computer-mouse.svg"
+    ],
+    "alt_text": "A gray computer mouse with a scroll wheel.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A gray computer mouse with a scroll wheel.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-classroom-paintbrush",
+    "title": "Paintbrush",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "paintbrush",
+      "classroom",
+      "classroom item",
+      "brush",
+      "art",
+      "painting",
+      "art supplies"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/paintbrush.svg"
+    ],
+    "alt_text": "A paintbrush with a red handle and tapered bristles.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A paintbrush with a red handle and tapered bristles.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-toaster",
+    "title": "Toaster",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "toaster",
+      "home",
+      "home item",
+      "kitchen",
+      "appliance",
+      "toast",
+      "bread"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/toaster.svg"
+    ],
+    "alt_text": "A cream toaster with two slots and a side lever.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A cream toaster with two slots and a side lever.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-kettle",
+    "title": "Kettle",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "kettle",
+      "home",
+      "home item",
+      "tea kettle",
+      "teapot",
+      "kitchen",
+      "appliance"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/kettle.svg"
+    ],
+    "alt_text": "A blue stovetop kettle with a short spout and arched handle.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue stovetop kettle with a short spout and arched handle.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-mug",
+    "title": "Mug",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "mug",
+      "home",
+      "home item",
+      "cup",
+      "drink",
+      "kitchen",
+      "dishes"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/mug.svg"
+    ],
+    "alt_text": "A ceramic green mug with a curved handle.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A ceramic green mug with a curved handle.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-dinner-plate",
+    "title": "Dinner plate",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "dinner plate",
+      "home",
+      "home item",
+      "plate",
+      "dish",
+      "tableware",
+      "kitchen"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/dinner-plate.svg"
+    ],
+    "alt_text": "A pale ceramic dinner plate with a blue rim.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A pale ceramic dinner plate with a blue rim.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-frying-pan",
+    "title": "Frying pan",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "frying pan",
+      "home",
+      "home item",
+      "skillet",
+      "cookware",
+      "kitchen",
+      "pan"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/frying-pan.svg"
+    ],
+    "alt_text": "A dark frying pan with a long handle.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A dark frying pan with a long handle.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-couch",
+    "title": "Couch",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "couch",
+      "home",
+      "home item",
+      "sofa",
+      "living room",
+      "furniture",
+      "seat"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/couch.svg"
+    ],
+    "alt_text": "A blue two-cushion couch with rolled arms.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue two-cushion couch with rolled arms.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-table-lamp",
+    "title": "Table lamp",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "table lamp",
+      "home",
+      "home item",
+      "lamp",
+      "lighting",
+      "bedside",
+      "living room"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/table-lamp.svg"
+    ],
+    "alt_text": "A table lamp with a cream shade and a green ceramic base.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A table lamp with a cream shade and a green ceramic base.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-remote-control",
+    "title": "Remote control",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "remote control",
+      "home",
+      "home item",
+      "remote",
+      "tv remote",
+      "television",
+      "electronics"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/remote-control.svg"
+    ],
+    "alt_text": "A charcoal TV remote with a red power button.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A charcoal TV remote with a red power button.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-throw-pillow",
+    "title": "Throw pillow",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "throw pillow",
+      "home",
+      "home item",
+      "pillow",
+      "cushion",
+      "sofa",
+      "living room"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/throw-pillow.svg"
+    ],
+    "alt_text": "A rust-colored square cushion with soft corners.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A rust-colored square cushion with soft corners.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-laundry-basket",
+    "title": "Laundry basket",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "laundry basket",
+      "home",
+      "home item",
+      "hamper",
+      "laundry",
+      "clothes",
+      "household"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/laundry-basket.svg"
+    ],
+    "alt_text": "A blue ventilated laundry basket with side handles.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue ventilated laundry basket with side handles.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-broom",
+    "title": "Broom",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "broom",
+      "home",
+      "home item",
+      "sweeping",
+      "cleaning",
+      "household",
+      "brush"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/broom.svg"
+    ],
+    "alt_text": "A straw-colored broom with a long wooden handle.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A straw-colored broom with a long wooden handle.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-vacuum-cleaner",
+    "title": "Vacuum cleaner",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "vacuum cleaner",
+      "home",
+      "home item",
+      "vacuum",
+      "hoover",
+      "cleaning",
+      "appliance"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/vacuum-cleaner.svg"
+    ],
+    "alt_text": "An upright vacuum with a blue body and a low floor head.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: An upright vacuum with a blue body and a low floor head.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-tissue-box",
+    "title": "Tissue box",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "tissue box",
+      "home",
+      "home item",
+      "tissues",
+      "facial tissue",
+      "bathroom",
+      "household"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/tissue-box.svg"
+    ],
+    "alt_text": "A pale blue tissue box with one white tissue sticking out.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A pale blue tissue box with one white tissue sticking out.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-alarm-clock",
+    "title": "Alarm clock",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "alarm clock",
+      "home",
+      "home item",
+      "clock",
+      "time",
+      "bedroom",
+      "morning"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/alarm-clock.svg"
+    ],
+    "alt_text": "A red twin-bell alarm clock with a white face.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A red twin-bell alarm clock with a white face.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
+  },
+  {
+    "id": "shared-home-watering-can",
+    "title": "Watering can",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "watering can",
+      "home",
+      "home item",
+      "watering",
+      "garden",
+      "plants",
+      "household"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/daily-routines/watering-can.svg"
+    ],
+    "alt_text": "A green watering can with a long spout and loop handle.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A green watering can with a long spout and loop handle.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Reviewed in the rendered set preview."
   }
 ]

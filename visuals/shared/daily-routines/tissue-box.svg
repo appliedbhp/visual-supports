@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A pale blue tissue box with one white tissue sticking out.</title>
+  <ellipse cx="66" cy="110" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 73 L38 59 H96 L111 71 V100 L94 110 H20Z" fill="#81aab8"/>
+    <path d="M20 73 L38 59 H96 L111 71 L95 81 H20Z" fill="#a9cbd0"/>
+    <path d="M95 81 L111 71 V100 L94 110Z" fill="#628e9e"/>
+    <ellipse cx="66" cy="69" rx="22" ry="5" fill="#587d8a"/>
+    <path d="M52 69 Q47 57 42 49 Q57 48 60 33 Q72 39 75 51 Q81 56 88 55 L80 70Z" fill="#fff"/>
+    <path d="M64 45 Q63 57 69 65" fill="none"/>
+  </g>
+</svg>

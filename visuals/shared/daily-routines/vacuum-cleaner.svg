@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">An upright vacuum with a blue body and a low floor head.</title>
+  <ellipse cx="66" cy="110" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M75 69 L76 30 Q77 21 86 21 Q95 21 94 27 L84 28 L84 69Z" fill="#6e7d82"/>
+    <path d="M69 48 Q77 43 85 48 L93 91 H60Z" fill="#548da3"/>
+    <path d="M72 52 L82 51 L87 75 H67Z" fill="#94bfc8"/>
+    <rect x="40" y="89" width="59" height="16" rx="5" fill="#5c686f"/>
+    <ellipse cx="85" cy="104" rx="6" ry="6" fill="#424b53"/>
+    <path d="M45 96 H67" fill="none"/>
+  </g>
+</svg>

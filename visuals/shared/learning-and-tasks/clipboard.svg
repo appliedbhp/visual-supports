@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A brown clipboard holding a blank sheet of paper.</title>
+  <ellipse cx="66" cy="115" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="25" width="69" height="90" rx="6" fill="#aa7f55"/>
+    <rect x="38" y="33" width="57" height="75" rx="3" fill="#fff"/>
+    <path d="M47 29 V22 H56 Q56 16 66 16 Q76 16 76 22 H85 V34 H47Z" fill="#aeb6b6"/>
+    <path d="M45 42 H65 M46 102 H84" fill="none"/>
+  </g>
+</svg>

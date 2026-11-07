@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A classroom microscope with an angled eyepiece and specimen stage.</title>
+  <ellipse cx="66" cy="113" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 102 H100 Q108 103 107 112 H27 Q26 104 38 102Z" fill="#576875"/>
+    <path d="M80 43 Q104 49 102 77 Q100 99 76 105 L62 100 Q84 94 86 76 Q88 59 75 55Z" fill="#82a6ad"/>
+    <g transform="rotate(23 64 49)">
+    <rect x="54" y="23" width="20" height="43" rx="4" fill="#abc3c5"/>
+    <rect x="51" y="21" width="26" height="9" rx="2" fill="#455962"/>
+    <rect x="59" y="64" width="10" height="8" rx="2" fill="#59666e"/>
+    </g>
+    <rect x="41" y="78" width="43" height="7" rx="2" fill="#53636c"/>
+    <ellipse cx="91" cy="72" rx="7" ry="7" fill="#c6d3d0"/>
+  </g>
+</svg>

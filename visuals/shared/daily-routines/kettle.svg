@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A blue stovetop kettle with a short spout and arched handle.</title>
+  <ellipse cx="66" cy="108" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M45 61 Q36 23 63 24 Q89 24 87 61 L77 60 Q79 35 63 35 Q48 35 55 61Z" fill="#556066"/>
+    <path d="M44 69 L32 64 L23 51 L15 55 Q17 79 44 87Z" fill="#78a4b1"/>
+    <path d="M37 78 Q39 55 65 53 Q91 53 97 77 L104 96 Q99 107 69 108 Q40 108 32 98Z" fill="#77a9b8"/>
+    <path d="M87 63 Q94 66 97 77 L104 96 Q96 105 77 107 Q91 99 89 85Z" fill="#548b9e"/>
+    <ellipse cx="65" cy="56" rx="20" ry="4" fill="#91bcc7"/>
+    <ellipse cx="65" cy="50" rx="5" ry="4" fill="#525d63"/>
+  </g>
+</svg>

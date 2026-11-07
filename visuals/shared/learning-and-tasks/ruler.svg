@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A yellow wooden ruler with dark measurement marks.</title>
+  <ellipse cx="66" cy="84" rx="28" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(-23 66 66)">
+    <rect x="15" y="55" width="102" height="22" rx="3" fill="#e9bd72"/>
+    <rect x="17" y="71" width="98" height="4" rx="1" fill="#c99956"/>
+    <path d="M24 56 V65 M34 56 V61 M44 56 V65 M54 56 V61 M64 56 V65 M74 56 V61 M84 56 V65 M94 56 V61 M104 56 V65" fill="none"/></g>
+  </g>
+</svg>

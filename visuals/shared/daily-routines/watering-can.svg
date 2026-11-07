@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A green watering can with a long spout and loop handle.</title>
+  <ellipse cx="66" cy="108" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 63 Q113 50 117 73 Q120 92 95 96 L92 88 Q110 86 109 75 Q108 64 87 72Z" fill="#668f75"/>
+    <path d="M46 83 Q32 71 19 57 L13 60 Q23 81 43 95Z" fill="#79a68a"/>
+    <path d="M12 54 L24 53 L26 59 L15 65Z" fill="#94b29a"/>
+    <path d="M45 53 H92 L99 98 Q92 108 69 108 Q43 108 39 98Z" fill="#79a889"/>
+    <path d="M85 58 H93 L98 98 Q91 105 81 106 Q89 96 86 76Z" fill="#5c8b73"/>
+    <ellipse cx="68" cy="53" rx="23" ry="6" fill="#a6c2a2"/>
+    <ellipse cx="68" cy="53" rx="15" ry="2.5" fill="#567663"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A student desk with a wood top and metal legs.</title>
+  <ellipse cx="66" cy="111" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35 62 L31 110 H38 L45 63 M91 60 L99 109 H106 L102 59 M51 60 L50 100 H57 L63 60Z" fill="#77898d"/>
+    <path d="M30 57 H104 V70 H30Z" fill="#ac7753"/>
+    <path d="M25 53 L42 39 H111 L105 57 H25Z" fill="#deb48a"/>
+    <path d="M44 45 H84" fill="none"/>
+  </g>
+</svg>

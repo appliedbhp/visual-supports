@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A red desktop stapler with a steel magazine.</title>
+  <ellipse cx="66" cy="104" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 89 L99 88 Q111 89 112 98 L109 104 H25 Q18 102 24 89Z" fill="#55565b"/>
+    <path d="M32 71 L104 70 L106 82 L30 86Z" fill="#b3b7b6"/>
+    <path d="M21 60 Q20 51 33 50 L100 61 Q112 63 113 74 L108 80 L25 71 Q19 68 21 60Z" fill="#bb514a"/>
+    <path d="M26 62 L111 71 L111 76 L26 69Z" fill="#a1403a"/>
+  </g>
+</svg>

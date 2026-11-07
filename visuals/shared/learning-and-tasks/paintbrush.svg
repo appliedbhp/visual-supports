@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A paintbrush with a red handle and tapered bristles.</title>
+  <ellipse cx="66" cy="110" rx="28" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(42 66 66)">
+    <path d="M61 57 H72 L70 111 Q66 119 63 111Z" fill="#bd5e51"/>
+    <rect x="59" y="48" width="15" height="15" rx="2" fill="#abb2b0"/>
+    <path d="M59 49 Q51 39 66 20 Q81 36 74 49Z" fill="#9d7457"/>
+    <path d="M62 44 Q60 37 66 29" fill="none"/></g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A rust-colored square cushion with soft corners.</title>
+  <ellipse cx="66" cy="104" rx="28" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(-12 66 66)">
+    <path d="M30 30 Q46 34 66 31 Q89 27 101 32 Q97 44 100 64 Q105 86 101 101 Q86 98 65 101 Q46 104 30 101 Q34 86 31 65 Q27 46 30 30Z" fill="#c8755c"/>
+    <path d="M31 89 Q65 99 100 85 L101 100 Q84 98 65 101 Q47 104 30 101Z" fill="#ad5a47"/>
+    <path d="M36 37 L44 45 M94 38 L87 45 M37 93 L45 86" fill="none"/></g>
+  </g>
+</svg>

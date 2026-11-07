@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A yellow highlighter with its chisel tip exposed.</title>
+  <ellipse cx="66" cy="107" rx="28" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(24 66 66)">
+    <rect x="55" y="36" width="24" height="65" rx="6" fill="#f1ca58"/>
+    <path d="M55 43 L59 34 H75 L79 43Z" fill="#59635c"/>
+    <path d="M62 35 V25 L71 21 L73 35Z" fill="#e7cf50"/>
+    <rect x="56" y="92" width="22" height="15" rx="4" fill="#c5a34b"/>
+    <path d="M60 51 V80" fill="none"/></g>
+  </g>
+</svg>

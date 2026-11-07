@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A blue backpack with a front pocket and carrying loop.</title>
+  <ellipse cx="66" cy="114" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M47 47 Q44 21 64 22 Q82 22 79 45" fill="#396d91"/>
+    <path d="M29 51 Q32 35 54 35 H78 Q100 36 104 57 L108 101 Q108 113 96 114 H36 Q23 114 25 100Z" fill="#6398b9"/>
+    <path d="M85 41 Q102 45 104 60 L108 102 Q108 114 94 114 H82 Q93 105 89 85Z" fill="#477e9f"/>
+    <rect x="39" y="74" width="51" height="32" rx="9" fill="#83adbf"/>
+    <path d="M42 84 H87 M48 84 V91" fill="none"/>
+  </g>
+</svg>

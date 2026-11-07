@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A charcoal TV remote with a red power button.</title>
+  <ellipse cx="66" cy="113" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(26 66 66)">
+    <rect x="48" y="17" width="36" height="98" rx="10" fill="#515862"/>
+    <rect x="51" y="21" width="30" height="86" rx="7" fill="#68717a"/>
+    <ellipse cx="61" cy="32" rx="5" ry="5" fill="#c56f60"/>
+    <ellipse cx="66" cy="54" rx="10" ry="10" fill="#aeb9bd"/>
+    <ellipse cx="66" cy="54" rx="3" ry="3" fill="#747f85"/>
+    <rect x="56" y="72" width="7" height="8" rx="2" fill="#d6d9d3"/>
+    <rect x="69" y="72" width="7" height="8" rx="2" fill="#d6d9d3"/>
+    <rect x="56" y="86" width="7" height="8" rx="2" fill="#d6d9d3"/>
+    <rect x="69" y="86" width="7" height="8" rx="2" fill="#d6d9d3"/></g>
+  </g>
+</svg>

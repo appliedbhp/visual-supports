@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A pale ceramic dinner plate with a blue rim.</title>
+  <ellipse cx="66" cy="99" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="66" cy="73" rx="51" ry="27" fill="#d5e0e2"/>
+    <ellipse cx="66" cy="69" rx="51" ry="26" fill="#fbfbf3"/>
+    <ellipse cx="66" cy="69" rx="37" ry="17" fill="#eaf1ed"/>
+    <path d="M25 62 Q37 50 59 49" fill="none"/>
+  </g>
+</svg>

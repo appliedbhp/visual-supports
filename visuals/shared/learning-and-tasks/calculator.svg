@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A dark calculator with a green display and rounded keys.</title>
+  <ellipse cx="66" cy="114" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="34" y="20" width="64" height="94" rx="9" fill="#535d69"/>
+    <rect x="39" y="25" width="54" height="82" rx="6" fill="#667582"/>
+    <rect x="46" y="32" width="40" height="17" rx="3" fill="#b8cdaf"/>
+    <path d="M52 37 H75" fill="none"/>
+    <rect x="46" y="59" width="9" height="8" rx="2" fill="#e8e6db"/>
+    <rect x="62" y="59" width="9" height="8" rx="2" fill="#e8e6db"/>
+    <rect x="78" y="59" width="9" height="8" rx="2" fill="#df9869"/>
+    <rect x="46" y="73" width="9" height="8" rx="2" fill="#e8e6db"/>
+    <rect x="62" y="73" width="9" height="8" rx="2" fill="#e8e6db"/>
+    <rect x="78" y="73" width="9" height="8" rx="2" fill="#e8e6db"/>
+    <rect x="46" y="87" width="9" height="8" rx="2" fill="#e8e6db"/>
+    <rect x="62" y="87" width="9" height="8" rx="2" fill="#e8e6db"/>
+    <rect x="78" y="87" width="9" height="8" rx="2" fill="#e8e6db"/>
+  </g>
+</svg>

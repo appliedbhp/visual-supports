@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A ceramic green mug with a curved handle.</title>
+  <ellipse cx="66" cy="106" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M87 53 Q114 46 113 68 Q111 90 86 88 L85 80 Q105 80 105 66 Q104 56 89 63Z" fill="#70a58d"/>
+    <path d="M31 42 H92 L88 96 Q86 105 62 106 Q38 105 35 96Z" fill="#79b098"/>
+    <path d="M83 45 H91 L88 96 Q85 103 74 104 Q82 94 82 77Z" fill="#56917c"/>
+    <ellipse cx="62" cy="42" rx="31" ry="9" fill="#b8d1b9"/>
+    <path d="M42 59 L44 77" fill="none"/>
+  </g>
+</svg>

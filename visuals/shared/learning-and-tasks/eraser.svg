@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A pink rectangular eraser with beveled ends.</title>
+  <ellipse cx="66" cy="83" rx="28" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(-16 66 66)">
+    <path d="M27 59 L40 48 H106 L110 66 L99 83 H30 L23 74Z" fill="#d67b87"/>
+    <path d="M27 59 L40 48 H106 L97 62Z" fill="#ef9fa8"/>
+    <path d="M97 62 L106 48 L110 66 L99 83Z" fill="#be626f"/>
+    <path d="M27 60 L30 79" fill="none"/></g>
+  </g>
+</svg>

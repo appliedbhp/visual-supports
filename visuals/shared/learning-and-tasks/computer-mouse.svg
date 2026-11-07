@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A gray computer mouse with a scroll wheel.</title>
+  <ellipse cx="66" cy="107" rx="39" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43 51 Q44 27 66 26 Q89 26 91 50 L95 80 Q95 104 67 107 Q38 105 37 81Z" fill="#a1a7aa"/>
+    <path d="M85 54 Q94 69 94 83 Q92 104 68 106 L64 98 Q84 93 85 75Z" fill="#858e93"/>
+    <path d="M40 59 Q66 53 92 59 M66 28 V57" fill="none"/>
+    <rect x="62" y="41" width="8" height="13" rx="4" fill="#5d686f"/>
+  </g>
+</svg>

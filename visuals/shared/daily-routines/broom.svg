@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" role="img" aria-labelledby="title">
+  <title id="title">A straw-colored broom with a long wooden handle.</title>
+  <ellipse cx="66" cy="113" rx="28" ry="4" fill="#352e29" opacity=".10"/>
+  <g stroke="#292623" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(27 66 66)">
+    <rect x="62" y="16" width="8" height="69" rx="4" fill="#ad7d57"/>
+    <path d="M54 74 Q66 68 78 74 L85 110 Q67 116 47 110Z" fill="#d9b06f"/>
+    <path d="M51 82 Q65 78 81 82 L82 89 Q65 86 50 89Z" fill="#7c8c87"/>
+    <path d="M57 94 L55 108 M65 94 V110 M74 94 L77 108" fill="none"/></g>
+  </g>
+</svg>
