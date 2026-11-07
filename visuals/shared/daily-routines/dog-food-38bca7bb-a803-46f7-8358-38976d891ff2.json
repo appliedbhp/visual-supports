@@ -1,0 +1,27 @@
+{
+  "id": "admin-38bca7bb-a803-46f7-8358-38976d891ff2",
+  "title": "dog food",
+  "age_strand": "shared",
+  "min_age": 0,
+  "max_age": 18,
+  "category": "daily-routines",
+  "keywords": [
+    "dog",
+    "food",
+    "kibble",
+    "pet"
+  ],
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/shared/daily-routines/dog-food-38bca7bb-a803-46f7-8358-38976d891ff2.png"
+  ],
+  "alt_text": "dog food",
+  "generation_prompt": "Create one nonhuman object visual for the shared all-age library. Show only the requested object and essential props. No people, body parts, faces, eyes, mouths, or anthropomorphism. Use clean flat closed shapes, medium rounded dark contours, and a palette of ink #24243B, white #FFFFFF, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447 and coral #FF6B6B as needed. No gradients, shading, shadows, texture, 3D, scenery, borders, logos, letters or numbers. Center the complete object with ten percent safe margins. Keep white objects opaque and the surrounding canvas genuinely transparent. Requested visual: Create one square standalone transparent PNG object visual. Subject: dog food. Shared all-age library. Use clean flat shapes, medium rounded dark contours, and ink #24243B, white, blue #4C8DFF, teal #2CC6B0, lavender #A78BFA, yellow #FFD447 and coral #FF6B6B as needed. Only the object and essential props; no people, faces or anthropomorphism. No text, labels, numbers, logos, backgrounds, gradients or shadows. Center the object with generous margins. Keep white surfaces opaque and the surrounding canvas transparent. Shared all-age object visual; no human character or face.",
+  "source": "Generated with OpenAI gpt-image-1.5 · shared object visual",
+  "usage_rights": "Original ABHP artwork is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). You may share and adapt it for any purpose, including commercial use, provided you give appropriate credit, link to the license, indicate any changes, and distribute adaptations under the same license. Third-party source materials retain their original licenses and required attribution.\n\nLicense: https://creativecommons.org/licenses/by-sa/4.0/",
+  "visual_mode": "object",
+  "asset_type": "object",
+  "image_sha256": "0883b19b951ef2ff2d70d5e4917bf767c8c37cb79cca3613801a0eda7dd59422",
+  "created_at": "2026-11-07T16:34:05.905Z"
+}
