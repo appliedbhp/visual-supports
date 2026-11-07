@@ -13199,16 +13199,17 @@
       "school supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/backpack-naturalistic.png",
       "visuals/shared/learning-and-tasks/backpack.svg"
     ],
     "alt_text": "A blue backpack with a front pocket and carrying loop.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue backpack with a front pocket and carrying loop.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue backpack with a front pocket and carrying loop. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-whiteboard",
@@ -13226,16 +13227,17 @@
       "teaching supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/whiteboard-naturalistic.png",
       "visuals/shared/learning-and-tasks/whiteboard.svg"
     ],
     "alt_text": "A framed whiteboard with a marker tray.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A framed whiteboard with a marker tray.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A framed whiteboard with a marker tray. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-ruler",
@@ -13253,16 +13255,17 @@
       "math supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/ruler-naturalistic.png",
       "visuals/shared/learning-and-tasks/ruler.svg"
     ],
     "alt_text": "A yellow wooden ruler with dark measurement marks.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A yellow wooden ruler with dark measurement marks.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A yellow wooden ruler with dark measurement marks. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-calculator",
@@ -13280,16 +13283,17 @@
       "school supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/calculator-naturalistic.png",
       "visuals/shared/learning-and-tasks/calculator.svg"
     ],
     "alt_text": "A dark calculator with a green display and rounded keys.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A dark calculator with a green display and rounded keys.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A dark calculator with a green display and rounded keys. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-stapler",
@@ -13307,16 +13311,17 @@
       "desk supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/stapler-naturalistic.png",
       "visuals/shared/learning-and-tasks/stapler.svg"
     ],
     "alt_text": "A red desktop stapler with a steel magazine.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A red desktop stapler with a steel magazine.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A red desktop stapler with a steel magazine. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-pencil-sharpener",
@@ -13334,16 +13339,17 @@
       "school supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/pencil-sharpener-naturalistic.png",
       "visuals/shared/learning-and-tasks/pencil-sharpener.svg"
     ],
     "alt_text": "A small blue pencil sharpener with a metal blade.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A small blue pencil sharpener with a metal blade.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A small blue pencil sharpener with a metal blade. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-eraser",
@@ -13361,16 +13367,17 @@
       "school supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/eraser-naturalistic.png",
       "visuals/shared/learning-and-tasks/eraser.svg"
     ],
     "alt_text": "A pink rectangular eraser with beveled ends.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A pink rectangular eraser with beveled ends.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A pink rectangular eraser with beveled ends. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-highlighter",
@@ -13388,16 +13395,17 @@
       "school supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/highlighter-naturalistic.png",
       "visuals/shared/learning-and-tasks/highlighter.svg"
     ],
     "alt_text": "A yellow highlighter with its chisel tip exposed.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A yellow highlighter with its chisel tip exposed.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A yellow highlighter with its chisel tip exposed. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-clipboard",
@@ -13415,16 +13423,17 @@
       "desk supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/clipboard-naturalistic.png",
       "visuals/shared/learning-and-tasks/clipboard.svg"
     ],
     "alt_text": "A brown clipboard holding a blank sheet of paper.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A brown clipboard holding a blank sheet of paper.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A brown clipboard holding a blank sheet of paper. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-globe",
@@ -13443,16 +13452,17 @@
       "geography"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/globe-naturalistic.png",
       "visuals/shared/learning-and-tasks/globe.svg"
     ],
     "alt_text": "A blue and green classroom globe on a tilted stand.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue and green classroom globe on a tilted stand.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue and green classroom globe on a tilted stand. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-microscope",
@@ -13471,16 +13481,17 @@
       "magnify"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/microscope-naturalistic.png",
       "visuals/shared/learning-and-tasks/microscope.svg"
     ],
     "alt_text": "A classroom microscope with an angled eyepiece and specimen stage.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A classroom microscope with an angled eyepiece and specimen stage.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A classroom microscope with an angled eyepiece and specimen stage. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-school-desk",
@@ -13498,16 +13509,17 @@
       "furniture"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/school-desk-naturalistic.png",
       "visuals/shared/learning-and-tasks/school-desk.svg"
     ],
     "alt_text": "A student desk with a wood top and metal legs.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A student desk with a wood top and metal legs.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A student desk with a wood top and metal legs. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-classroom-chair",
@@ -13525,16 +13537,17 @@
       "furniture"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/classroom-chair-naturalistic.png",
       "visuals/shared/learning-and-tasks/classroom-chair.svg"
     ],
     "alt_text": "A blue student chair with tubular metal legs.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue student chair with tubular metal legs.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue student chair with tubular metal legs. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-computer-mouse",
@@ -13553,16 +13566,17 @@
       "peripheral"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/computer-mouse-naturalistic.png",
       "visuals/shared/learning-and-tasks/computer-mouse.svg"
     ],
     "alt_text": "A gray computer mouse with a scroll wheel.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A gray computer mouse with a scroll wheel.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A gray computer mouse with a scroll wheel. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-classroom-paintbrush",
@@ -13581,16 +13595,17 @@
       "art supplies"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/learning-and-tasks/paintbrush-naturalistic.png",
       "visuals/shared/learning-and-tasks/paintbrush.svg"
     ],
     "alt_text": "A paintbrush with a red handle and tapered bristles.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A paintbrush with a red handle and tapered bristles.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A paintbrush with a red handle and tapered bristles. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-toaster",
@@ -13609,16 +13624,17 @@
       "bread"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/toaster-naturalistic.png",
       "visuals/shared/daily-routines/toaster.svg"
     ],
     "alt_text": "A cream toaster with two slots and a side lever.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A cream toaster with two slots and a side lever.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A cream toaster with two slots and a side lever. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-kettle",
@@ -13637,16 +13653,17 @@
       "appliance"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/kettle-naturalistic.png",
       "visuals/shared/daily-routines/kettle.svg"
     ],
     "alt_text": "A blue stovetop kettle with a short spout and arched handle.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue stovetop kettle with a short spout and arched handle.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue stovetop kettle with a short spout and arched handle. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-mug",
@@ -13665,16 +13682,17 @@
       "dishes"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/mug-naturalistic.png",
       "visuals/shared/daily-routines/mug.svg"
     ],
     "alt_text": "A ceramic green mug with a curved handle.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A ceramic green mug with a curved handle.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A ceramic green mug with a curved handle. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-dinner-plate",
@@ -13693,16 +13711,17 @@
       "kitchen"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/dinner-plate-naturalistic.png",
       "visuals/shared/daily-routines/dinner-plate.svg"
     ],
     "alt_text": "A pale ceramic dinner plate with a blue rim.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A pale ceramic dinner plate with a blue rim.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A pale ceramic dinner plate with a blue rim. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-frying-pan",
@@ -13721,16 +13740,17 @@
       "pan"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/frying-pan-naturalistic.png",
       "visuals/shared/daily-routines/frying-pan.svg"
     ],
     "alt_text": "A dark frying pan with a long handle.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A dark frying pan with a long handle.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A dark frying pan with a long handle. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-couch",
@@ -13749,16 +13769,17 @@
       "seat"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/couch-naturalistic.png",
       "visuals/shared/daily-routines/couch.svg"
     ],
     "alt_text": "A blue two-cushion couch with rolled arms.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue two-cushion couch with rolled arms.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue two-cushion couch with rolled arms. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-table-lamp",
@@ -13777,16 +13798,17 @@
       "living room"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/table-lamp-naturalistic.png",
       "visuals/shared/daily-routines/table-lamp.svg"
     ],
     "alt_text": "A table lamp with a cream shade and a green ceramic base.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A table lamp with a cream shade and a green ceramic base.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A table lamp with a cream shade and a green ceramic base. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-remote-control",
@@ -13805,16 +13827,17 @@
       "electronics"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/remote-control-naturalistic.png",
       "visuals/shared/daily-routines/remote-control.svg"
     ],
     "alt_text": "A charcoal TV remote with a red power button.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A charcoal TV remote with a red power button.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A charcoal TV remote with a red power button. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-throw-pillow",
@@ -13833,16 +13856,17 @@
       "living room"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/throw-pillow-naturalistic.png",
       "visuals/shared/daily-routines/throw-pillow.svg"
     ],
     "alt_text": "A rust-colored square cushion with soft corners.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A rust-colored square cushion with soft corners.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A rust-colored square cushion with soft corners. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-laundry-basket",
@@ -13861,16 +13885,17 @@
       "household"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/laundry-basket-naturalistic.png",
       "visuals/shared/daily-routines/laundry-basket.svg"
     ],
     "alt_text": "A blue ventilated laundry basket with side handles.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue ventilated laundry basket with side handles.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A blue ventilated laundry basket with side handles. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-broom",
@@ -13889,16 +13914,17 @@
       "brush"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/broom-naturalistic.png",
       "visuals/shared/daily-routines/broom.svg"
     ],
     "alt_text": "A straw-colored broom with a long wooden handle.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A straw-colored broom with a long wooden handle.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A straw-colored broom with a long wooden handle. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-vacuum-cleaner",
@@ -13917,16 +13943,17 @@
       "appliance"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/vacuum-cleaner-naturalistic.png",
       "visuals/shared/daily-routines/vacuum-cleaner.svg"
     ],
     "alt_text": "An upright vacuum with a blue body and a low floor head.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: An upright vacuum with a blue body and a low floor head.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: An upright vacuum with a blue body and a low floor head. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-tissue-box",
@@ -13945,16 +13972,17 @@
       "household"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/tissue-box-naturalistic.png",
       "visuals/shared/daily-routines/tissue-box.svg"
     ],
     "alt_text": "A pale blue tissue box with one white tissue sticking out.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A pale blue tissue box with one white tissue sticking out.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A pale blue tissue box with one white tissue sticking out. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-alarm-clock",
@@ -13973,16 +14001,17 @@
       "morning"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/alarm-clock-naturalistic.png",
       "visuals/shared/daily-routines/alarm-clock.svg"
     ],
     "alt_text": "A red twin-bell alarm clock with a white face.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A red twin-bell alarm clock with a white face.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A red twin-bell alarm clock with a white face. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "shared-home-watering-can",
@@ -14001,16 +14030,17 @@
       "household"
     ],
     "status": "draft",
-    "style": "Minimalist hand-inked comic illustration",
+    "style": "Naturalistic ink and gouache illustration with minimalist SVG variant",
     "assets": [
+      "visuals/shared/daily-routines/watering-can-naturalistic.png",
       "visuals/shared/daily-routines/watering-can.svg"
     ],
     "alt_text": "A green watering can with a long spout and loop handle.",
-    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A green watering can with a long spout and loop handle.",
-    "source": "Generated with OpenAI as editable SVG markup.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use the object's recognizable silhouette, slightly naturalistic proportions and construction, rounded shapes, clean dark outlines, representative colors, and sparse details. Use mostly flat fills with subtle shading from one soft light direction. If the object rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes with comfortable padding. Keep it readable at visual-support card size. Subject: A green watering can with a long spout and loop handle. Raster revision: redraw with gently varied ink contours, lightly textured gouache, natural perspective, realistic construction and material cues. Keep the subject isolated on transparency and recognizable at card size.",
+    "source": "PNG generated with OpenAI image generation and prepared as an individual transparent cutout. SVG generated with OpenAI as editable vector markup.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
-    "review_notes": "Draft. Reviewed in the rendered set preview."
+    "review_notes": "Draft. Reviewed both sets in rendered previews. Naturalistic PNG listed first."
   },
   {
     "id": "0-5-daily-routines-glass-of-milk-realism-v1",
