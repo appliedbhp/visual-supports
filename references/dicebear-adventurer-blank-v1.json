@@ -1,0 +1,27 @@
+{
+  "id": "dicebear-adventurer-blank-v1",
+  "style": "adventurer",
+  "version": "10.x",
+  "source": "https://www.dicebear.com/styles/adventurer/",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Lisa Wischofsky",
+  "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+  "options": {
+    "seed": "abhp-visual-supports-v1",
+    "size": "512",
+    "hairProbability": "0",
+    "glassesProbability": "0",
+    "earringsProbability": "0",
+    "detailsProbability": "0",
+    "mouthVariant": "variant02",
+    "eyesVariant": "variant24",
+    "eyebrowsVariant": "variant10",
+    "mouthProbability": "0",
+    "eyesProbability": "0",
+    "eyebrowsProbability": "0",
+    "skinColor": "ffffff",
+    "inkColor": "24243b"
+  },
+  "asset": "references/dicebear-adventurer-blank-v1.png"
+}

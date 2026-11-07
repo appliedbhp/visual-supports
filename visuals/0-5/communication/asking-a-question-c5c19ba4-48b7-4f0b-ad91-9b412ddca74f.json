@@ -1,0 +1,53 @@
+{
+  "id": "admin-c5c19ba4-48b7-4f0b-ad91-9b412ddca74f",
+  "title": "asking a question",
+  "age_strand": "0-5",
+  "min_age": 0,
+  "max_age": 5,
+  "category": "communication",
+  "keywords": [
+    "question",
+    "confused",
+    "ask"
+  ],
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/0-5/communication/asking-a-question-c5c19ba4-48b7-4f0b-ad91-9b412ddca74f.png"
+  ],
+  "alt_text": "asking a question",
+  "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Create one standalone square visual support. Action: asking a question Age strand: 0-5. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 0-5.",
+  "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+  "usage_rights": "For use on routines.getadhd.care Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+  "visual_mode": "character",
+  "face_variant": "blank",
+  "character_reference": {
+    "id": "dicebear-adventurer-blank-v1",
+    "style": "adventurer",
+    "version": "10.x",
+    "source": "https://www.dicebear.com/styles/adventurer/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "Lisa Wischofsky",
+    "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "options": {
+      "seed": "abhp-visual-supports-v1",
+      "size": "512",
+      "hairProbability": "0",
+      "glassesProbability": "0",
+      "earringsProbability": "0",
+      "detailsProbability": "0",
+      "mouthVariant": "variant02",
+      "eyesVariant": "variant24",
+      "eyebrowsVariant": "variant10",
+      "mouthProbability": "0",
+      "eyesProbability": "0",
+      "eyebrowsProbability": "0",
+      "skinColor": "ffffff",
+      "inkColor": "24243b"
+    },
+    "asset": "references/dicebear-adventurer-blank-v1.png"
+  },
+  "image_sha256": "16d2ba23c3b59e565d32a9adca350e8d3e55df35258306cafb73868489c12a50",
+  "created_at": "2026-11-07T04:29:17.815Z"
+}

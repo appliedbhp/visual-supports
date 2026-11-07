@@ -2317,5 +2317,323 @@
     "usage_rights": "Use within routines.getadhd.care permitted",
     "image_sha256": "9831a5c5852a89a59a2ecb341a1675c4ddf8f5ce4e4d4bff9808a1e30dd5ce6f",
     "created_at": "2026-11-05T17:13:50.251Z"
+  },
+  {
+    "id": "admin-fe4bf465-c8c4-437a-9513-f9bc913e9578",
+    "title": "asking a question",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "communication",
+    "keywords": [
+      "question",
+      "confused",
+      "ask"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/0-5/communication/asking-a-question-fe4bf465-c8c4-437a-9513-f9bc913e9578.png"
+    ],
+    "alt_text": "asking a question",
+    "generation_prompt": "Use the attached Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape, dark contour weight, facial proportions, mouth variant02, eyes variant24, and eyebrows variant10. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Preserve these exact face features and white skin across every age strand. Extend the reference into the full action and essential props, with consistent clean, flat illustration and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not reproduce the avatar as a floating portrait or add text, labels, borders, gradients, or shadows. If the requested concept is an object without a person, preserve the same clean contours and palette. Requested visual: Create one standalone square visual support. Action: asking a question Age strand: 0-5. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: default. Use mouth variant02, eyes variant24, and eyebrows variant10. Adapt proportions and context respectfully for ages 0-5.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "For use on routines.getadhd.care Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "default",
+    "character_reference": {
+      "id": "dicebear-adventurer-default-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "100",
+        "eyesProbability": "100",
+        "eyebrowsProbability": "100",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-default-v1.png"
+    },
+    "image_sha256": "72c93b89999f5e56cd92e59758dbe58fdb2efe83b52c862b3b97355efe212e7b",
+    "created_at": "2026-11-07T04:29:16.858Z"
+  },
+  {
+    "id": "admin-c5c19ba4-48b7-4f0b-ad91-9b412ddca74f",
+    "title": "asking a question",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "communication",
+    "keywords": [
+      "question",
+      "confused",
+      "ask"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/0-5/communication/asking-a-question-c5c19ba4-48b7-4f0b-ad91-9b412ddca74f.png"
+    ],
+    "alt_text": "asking a question",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Create one standalone square visual support. Action: asking a question Age strand: 0-5. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 0-5.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "For use on routines.getadhd.care Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "16d2ba23c3b59e565d32a9adca350e8d3e55df35258306cafb73868489c12a50",
+    "created_at": "2026-11-07T04:29:17.815Z"
+  },
+  {
+    "id": "admin-861fd433-7865-4dcb-beca-7bcc703c4ac2",
+    "title": "asking a question",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "communication",
+    "keywords": [
+      "question",
+      "confused",
+      "ask"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/6-11/communication/asking-a-question-861fd433-7865-4dcb-beca-7bcc703c4ac2.png"
+    ],
+    "alt_text": "asking a question",
+    "generation_prompt": "Use the attached Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape, dark contour weight, facial proportions, mouth variant02, eyes variant24, and eyebrows variant10. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Preserve these exact face features and white skin across every age strand. Extend the reference into the full action and essential props, with consistent clean, flat illustration and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not reproduce the avatar as a floating portrait or add text, labels, borders, gradients, or shadows. If the requested concept is an object without a person, preserve the same clean contours and palette. Requested visual: Create one standalone square visual support. Action: asking a question Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: default. Use mouth variant02, eyes variant24, and eyebrows variant10. Adapt proportions and context respectfully for ages 6-11.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "For use on routines.getadhd.care Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "default",
+    "character_reference": {
+      "id": "dicebear-adventurer-default-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "100",
+        "eyesProbability": "100",
+        "eyebrowsProbability": "100",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-default-v1.png"
+    },
+    "image_sha256": "c474d079c31ef9f81f0c6e65797c0015c608ce484ba1f79720f9e9451327ac37",
+    "created_at": "2026-11-07T04:29:18.566Z"
+  },
+  {
+    "id": "admin-a075d525-1807-4e6d-a89c-620ae7d2998b",
+    "title": "asking a question",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "communication",
+    "keywords": [
+      "question",
+      "confused",
+      "ask"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/6-11/communication/asking-a-question-a075d525-1807-4e6d-a89c-620ae7d2998b.png"
+    ],
+    "alt_text": "asking a question",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Create one standalone square visual support. Action: asking a question Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 6-11.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "For use on routines.getadhd.care Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "432d8de955aeaa490edad6f6ef77906f0594b966179a604780b46fb0158f2115",
+    "created_at": "2026-11-07T04:29:19.705Z"
+  },
+  {
+    "id": "admin-6c49bcaf-8552-4ebf-9b69-3f816baa6516",
+    "title": "asking a question",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "question",
+      "confused",
+      "ask"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/12-18/communication/asking-a-question-6c49bcaf-8552-4ebf-9b69-3f816baa6516.png"
+    ],
+    "alt_text": "asking a question",
+    "generation_prompt": "Use the attached Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape, dark contour weight, facial proportions, mouth variant02, eyes variant24, and eyebrows variant10. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Preserve these exact face features and white skin across every age strand. Extend the reference into the full action and essential props, with consistent clean, flat illustration and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not reproduce the avatar as a floating portrait or add text, labels, borders, gradients, or shadows. If the requested concept is an object without a person, preserve the same clean contours and palette. Requested visual: Create one standalone square visual support. Action: asking a question Age strand: 12-18. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: default. Use mouth variant02, eyes variant24, and eyebrows variant10. Adapt proportions and context respectfully for ages 12-18.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "For use on routines.getadhd.care Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "default",
+    "character_reference": {
+      "id": "dicebear-adventurer-default-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "100",
+        "eyesProbability": "100",
+        "eyebrowsProbability": "100",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-default-v1.png"
+    },
+    "image_sha256": "cdd0c6deedb5cc2939435b4ecd0ad017ca88c53fff1809877f0e94f80bc9ae12",
+    "created_at": "2026-11-07T04:29:20.752Z"
+  },
+  {
+    "id": "admin-78e0d959-aac5-4a1e-a74e-2248d66026f9",
+    "title": "asking a question",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "question",
+      "confused",
+      "ask"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/12-18/communication/asking-a-question-78e0d959-aac5-4a1e-a74e-2248d66026f9.png"
+    ],
+    "alt_text": "asking a question",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Create one standalone square visual support. Action: asking a question Age strand: 12-18. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 12-18.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "For use on routines.getadhd.care Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "54497103a0cb2adb96a64dabbe9d2eaf4aa63dd7b8e16d7dcbfb83b0c79dd119",
+    "created_at": "2026-11-07T04:29:21.438Z"
   }
 ]
