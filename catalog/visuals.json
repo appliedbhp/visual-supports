@@ -382,13 +382,22 @@
     "category": "self-care-and-independence",
     "keywords": [
       "self care and independence",
-      "wash hands"
+      "wash hands",
+      "washing hands",
+      "handwashing",
+      "hygiene"
     ],
-    "status": "planned",
-    "style": null,
-    "assets": [],
-    "alt_text": null,
-    "generation_prompt": null
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/wash-hands.svg"
+    ],
+    "alt_text": "A grinning person rubs their soapy hands together under a running faucet.",
+    "generation_prompt": "Draw the same wiry-haired comic character scrubbing their bare, soapy hands together under a running faucet. Use exaggerated expressions, uneven teeth, bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
   },
   {
     "id": "12-18-safety-and-community-001",
