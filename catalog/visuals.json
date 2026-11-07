@@ -11531,5 +11531,89 @@
     "image_sha256": "020a77eb2c512a557b1403d424bd2d2da303c444c440f957dd6c454c000de074",
     "created_at": "2026-11-07",
     "review_notes": "Draft pending owner review. Book-placement action, complete character/bookshelf and transparent alpha checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "0-5-learning-and-tasks-hamster-in-cage-realism-v1",
+    "title": "Pet hamster in its cage",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "hamster",
+      "pet",
+      "cage",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Simplified symbolic-color cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/animals/hamster-in-cage.png"
+    ],
+    "alt_text": "A blue cartoon hamster sits on bedding inside a blue-based wire cage, with an orange exercise wheel behind it.",
+    "generation_prompt": "Create ONE clear AAC-style pictogram of a PET HAMSTER INSIDE ITS CAGE. One hamster sitting on bedding inside a simple compact cage, cage base blue with upper wire bars and a small orange exercise wheel behind at left. Hamster at front-right unobstructed and clearly visible through widely spaced bars; bars must not obscure eyes or muzzle. Front three-quarter slightly elevated view, whole cage visible, centered square transparent background with 10% margins. Same composition across age series. Bold rounded #202020 outlines, opaque solid color regions, strong contrast, no text, labels, numbers, people, scenery, border, watermark, gradients, highlights, haze, paper or photographic texture, individual fur strands. Simple bedding layer only, no unnecessary accessories. AGE 5: highly simplified cartoon, few clear rounded shapes, oversized round hamster head, tiny simple ears, large simple eyes, compact oval body and chunky little paws. Hamster symbolic saturated blue #1769AA, orange #F28C28 wheel and small cage accent. Smooth crisp outlines, uniform flat fills, absolutely no shadows. Cage structure extremely simple and readable at small size, transparent open spaces between bars.",
+    "source": "Generated with built-in OpenAI image_gen using the saved age-progressive AAC realism and color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Complete cage, visible hamster and transparent alpha checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "6-11-learning-and-tasks-hamster-in-cage-realism-v1",
+    "title": "Pet hamster in its cage",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "hamster",
+      "pet",
+      "cage",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic natural-color illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/animals/hamster-in-cage.png"
+    ],
+    "alt_text": "A golden-tan illustrated hamster sits on bedding inside a blue-based wire cage, with an orange exercise wheel behind it.",
+    "generation_prompt": "Create ONE clear AAC-style pictogram of a PET HAMSTER INSIDE ITS CAGE. One hamster sitting on bedding inside a simple compact cage, cage base blue with upper wire bars and a small orange exercise wheel behind at left. Hamster at front-right unobstructed and clearly visible through widely spaced bars; bars must not obscure eyes or muzzle. Front three-quarter slightly elevated view, whole cage visible, centered square transparent background with 10% margins. Same composition across age series. Bold rounded #202020 outlines, opaque solid color regions, strong contrast, no text, labels, numbers, people, scenery, border, watermark, gradients, highlights, haze, paper or photographic texture, individual fur strands. Simple bedding layer only, no unnecessary accessories. AGE 10: moderately realistic illustration, more believable Syrian hamster proportions, moderately sized head, small rounded ears, smaller dark eyes, short muzzle, defined tiny front paws and rounded haunches. Natural golden-tan coat with cream underside, pinkish ears and paws, dark nose, NOT BLUE ANIMAL. Cage blue plastic base, dark gray wire bars, orange solid-surface exercise wheel behind left, natural beige bedding. Gently hand-drawn boundaries and only a few subtle hard-edged solid shadows at overlapping parts. Reduce cartoon exaggeration, still readable and simplified. No smooth shading or shiny highlights.",
+    "source": "Generated with built-in OpenAI image_gen using the saved age-progressive AAC realism and color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Complete cage, visible hamster and transparent alpha checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "12-18-learning-and-tasks-hamster-in-cage-realism-v1",
+    "title": "Pet hamster in its cage",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "hamster",
+      "pet",
+      "cage",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/animals/hamster-in-cage.png"
+    ],
+    "alt_text": "A naturally proportioned golden-and-cream hamster sits on bedding inside a blue-based wire cage, with an orange exercise wheel behind it.",
+    "generation_prompt": "Create ONE clear AAC-style pictogram of a PET HAMSTER INSIDE ITS CAGE. One hamster sitting on bedding inside a simple compact cage, cage base blue with upper wire bars and a small orange exercise wheel behind at left. Hamster at front-right unobstructed and clearly visible through widely spaced bars; bars must not obscure eyes or muzzle. Front three-quarter slightly elevated view, whole cage visible, centered square transparent background with 10% margins. Same composition across age series. Bold rounded #202020 outlines, opaque solid color regions, strong contrast, no text, labels, numbers, people, scenery, border, watermark, gradients, highlights, haze, paper or photographic texture, individual fur strands. Simple bedding layer only, no unnecessary accessories. TEEN: naturalistic scientific educational pictogram. Anatomically accurate ADULT Syrian hamster at front-right, natural golden-brown back, cream underside and cheek patches, tiny pink paws, small pinkish ears, small dark bead eyes with NO highlights, short pointed rodent muzzle, believable cheek pouches, rounded adult body, natural crouched sitting posture. Small head relative to body, no baby proportions, human smile, giant eyes or cartoon eyebrows. Natural materials: muted blue plastic cage tray, dark gray metal wire, warm beige bedding, orange solid-surface wheel at rear left. Controlled bold hand-drawn #202020 outlines, accurate cage perspective, sparse clean structural bars with clear open view of hamster, entire hamster visibly inside cage. Uniform flat color regions with a few realistic hard-edged solid darker shadows. No smooth shading, no gradients, no fur strands, no texture or reflections. Mature field-guide illustration, distinctly more natural than children's cartoon.",
+    "source": "Generated with built-in OpenAI image_gen using the saved age-progressive AAC realism and color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Complete cage, visible hamster and transparent alpha checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
   }
 ]
