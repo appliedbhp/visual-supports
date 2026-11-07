@@ -12067,5 +12067,30 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-doing-homework-comic-v1",
+    "title": "Doing homework",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "homework",
+      "doing homework",
+      "studying",
+      "schoolwork"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/doing-homework.svg"
+    ],
+    "alt_text": "A person hunches over a desk and writes in an open notebook with a pencil, with a closed schoolbook nearby.",
+    "generation_prompt": "Draw the established wiry-haired comic character hunched over a desk writing in an open notebook with a pencil. Use an exaggerated expression of concentration, bold irregular ink outlines, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
   }
 ]
