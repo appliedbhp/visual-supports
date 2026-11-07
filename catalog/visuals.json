@@ -15543,5 +15543,381 @@
     "image_sha256": "f5dad731c2a2341e5ceb2d88066377a35663ed4982c4bb3d64600abfa81d09a0",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-safety-and-community-catch-the-bus-comic-v1",
+    "title": "Catch the bus",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "safety-and-community",
+    "keywords": [
+      "catch the bus",
+      "bus",
+      "public transit",
+      "transit card"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/safety-and-community/catch-the-bus.svg"
+    ],
+    "alt_text": "A comic character is stepping onto the visible front stairs of a city bus through open doors, tapping a plain transit card on a small reader.",
+    "generation_prompt": "Show the established wiry-haired comic character stepping onto the visible front stairs of a city bus through open doors, tapping a plain transit card on a small reader. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-find-the-right-classroom-comic-v1",
+    "title": "Find the right classroom",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "find the right classroom",
+      "classroom",
+      "school schedule",
+      "navigation"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/find-the-right-classroom.svg"
+    ],
+    "alt_text": "A comic character is checking a paper schedule with a blue triangle icon against two adjacent school doors marked with different shape icons, pointing to the matching triangle.",
+    "generation_prompt": "Show the established wiry-haired comic character checking a paper schedule with a blue triangle icon against two adjacent school doors marked with different shape icons, pointing to the matching triangle. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-safety-and-community-ride-a-bike-safely-comic-v1",
+    "title": "Ride a bike safely",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "safety-and-community",
+    "keywords": [
+      "ride a bike safely",
+      "bike",
+      "bicycle",
+      "helmet",
+      "cycling safety"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/safety-and-community/ride-a-bike-safely.svg"
+    ],
+    "alt_text": "A comic character is standing beside a bicycle and fastening the helmet chin strap with both hands before riding.",
+    "generation_prompt": "Show the established wiry-haired comic character standing beside a bicycle and fastening the helmet chin strap with both hands before riding. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-pack-a-lunch-comic-v1",
+    "title": "Pack a lunch",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "pack a lunch",
+      "lunch",
+      "lunch bag",
+      "meal prep"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/pack-a-lunch.svg"
+    ],
+    "alt_text": "A comic character is fitting a red apple into an open lunch bag beside a wrapped sandwich at a kitchen counter.",
+    "generation_prompt": "Show the established wiry-haired comic character fitting a red apple into an open lunch bag beside a wrapped sandwich at a kitchen counter. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-put-away-groceries-comic-v1",
+    "title": "Put away groceries",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "put away groceries",
+      "groceries",
+      "refrigerator",
+      "unpack groceries"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/put-away-groceries.svg"
+    ],
+    "alt_text": "A comic character is sliding an unlabeled milk carton onto a shelf of an open refrigerator, with a grocery bag beside them.",
+    "generation_prompt": "Show the established wiry-haired comic character sliding an unlabeled milk carton onto a shelf of an open refrigerator, with a grocery bag beside them. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-make-a-snack-comic-v1",
+    "title": "Make a snack",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "make a snack",
+      "snack",
+      "toast",
+      "food preparation"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/make-a-snack.svg"
+    ],
+    "alt_text": "A comic character is spreading peanut butter onto toast with a butter knife, with a plain open jar beside the plate.",
+    "generation_prompt": "Show the established wiry-haired comic character spreading peanut butter onto toast with a butter knife, with a plain open jar beside the plate. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-clean-up-a-spill-comic-v1",
+    "title": "Clean up a spill",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "clean up a spill",
+      "spill",
+      "wipe up",
+      "cleaning"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/clean-up-a-spill.svg"
+    ],
+    "alt_text": "A comic character is pressing a folded paper towel into a blue puddle beside a tipped cup on a tabletop.",
+    "generation_prompt": "Show the established wiry-haired comic character pressing a folded paper towel into a blue puddle beside a tipped cup on a tabletop. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-untangle-headphones-comic-v1",
+    "title": "Untangle headphones",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "untangle headphones",
+      "headphones",
+      "earbuds",
+      "tangled cord"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/untangle-headphones.svg"
+    ],
+    "alt_text": "A comic character is pulling apart a ridiculous knot in wired earbuds, with the two earpieces visibly hanging from the cord.",
+    "generation_prompt": "Show the established wiry-haired comic character pulling apart a ridiculous knot in wired earbuds, with the two earpieces visibly hanging from the cord. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-plug-in-a-device-comic-v1",
+    "title": "Plug in a device",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "plug in a device",
+      "charge phone",
+      "charging",
+      "dead battery"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/plug-in-a-device.svg"
+    ],
+    "alt_text": "A comic character is inserting a charging cable into a phone with a nearly empty battery icon, the cable runs to a charger in a wall outlet.",
+    "generation_prompt": "Show the established wiry-haired comic character inserting a charging cable into a phone with a nearly empty battery icon, the cable runs to a charger in a wall outlet. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-return-a-library-book-comic-v1",
+    "title": "Return a library book",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "return a library book",
+      "library",
+      "book return",
+      "return book"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/return-a-library-book.svg"
+    ],
+    "alt_text": "A comic character is sliding a closed hardcover book into a library return slot with a simple book pictogram and no words.",
+    "generation_prompt": "Show the established wiry-haired comic character sliding a closed hardcover book into a library return slot with a simple book pictogram and no words. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-organize-a-binder-comic-v1",
+    "title": "Organize a binder",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "organize a binder",
+      "binder",
+      "school supplies",
+      "organization"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/organize-a-binder.svg"
+    ],
+    "alt_text": "A comic character is lining up a loose three-hole worksheet with the open rings of a binder on a desk, with colored divider tabs.",
+    "generation_prompt": "Show the established wiry-haired comic character lining up a loose three-hole worksheet with the open rings of a binder on a desk, with colored divider tabs. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-check-your-work-comic-v1",
+    "title": "Check your work",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "check your work",
+      "check work",
+      "review",
+      "checklist"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/check-your-work.svg"
+    ],
+    "alt_text": "A comic character is comparing a worksheet with a separate three-item pictogram checklist, marking one checkbox with a pencil.",
+    "generation_prompt": "Show the established wiry-haired comic character comparing a worksheet with a separate three-item pictogram checklist, marking one checkbox with a pencil. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-communication-ask-someone-to-repeat-comic-v1",
+    "title": "Ask someone to repeat that",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "ask someone to repeat that",
+      "repeat that",
+      "say it again",
+      "clarification"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/communication/ask-someone-to-repeat.svg"
+    ],
+    "alt_text": "A comic character is looking at a classmate who is speaking, cupping one hand behind their own ear and raising the other palm in a questioning gesture, puzzled friendly expression.",
+    "generation_prompt": "Show the established wiry-haired comic character looking at a classmate who is speaking, cupping one hand behind their own ear and raising the other palm in a questioning gesture, puzzled friendly expression. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-communication-ask-for-more-space-comic-v1",
+    "title": "Ask for more space",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "ask for more space",
+      "personal space",
+      "boundaries",
+      "self advocacy"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/communication/ask-for-more-space.svg"
+    ],
+    "alt_text": "A comic character is taking one step backward and holding a relaxed open palm toward a nearby classmate, both calm, short movement marks make the increasing distance clear.",
+    "generation_prompt": "Show the established wiry-haired comic character taking one step backward and holding a relaxed open palm toward a nearby classmate, both calm, short movement marks make the increasing distance clear. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-communication-say-im-ready-comic-v1",
+    "title": "Say I’m ready",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "say i’m ready",
+      "ready",
+      "I’m ready",
+      "ready to start"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/communication/say-im-ready.svg"
+    ],
+    "alt_text": "A comic character is giving a confident thumbs-up toward a classmate, beside a small desk with an open notebook and pencil laid out ready to start.",
+    "generation_prompt": "Show the established wiry-haired comic character giving a confident thumbs-up toward a classmate, beside a small desk with an open notebook and pencil laid out ready to start. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen using the same supplied dishwashing illustration as the direct character and ink reference for each scene, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Composition and trace reviewed, transparent background and editable vector paths verified."
   }
 ]
