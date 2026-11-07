@@ -17875,5 +17875,203 @@
     "image_sha256": "945ddbed21cd87ecaa0db7673fb55415a53da588e37ceac590fdbea943c0e02c",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-vacuum-rug-male",
+    "title": "Vacuum the rug — 5-year-old boy",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "vacuum the rug",
+      "vacuuming",
+      "rug",
+      "cleaning",
+      "chores",
+      "handheld vacuum",
+      "male"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/vacuum-rug-male.png"
+    ],
+    "alt_text": "A 5-year-old boy uses a handheld vacuum to clean crumbs off a rug.",
+    "generation_prompt": "One square transparent AAC pictogram of a 5-year-old boy vacuuming a simple rectangular rug, shown in three-quarter view with all elements visible. The child kneels at the edge of the rug with a small cordless handheld dustbuster vacuum in one hand. Its short tapered nozzle touches the rug immediately next to four visible small dark crumbs. Show a distinct grip and compact orange body. No long handle, cord, or upright vacuum. Rug is a single flat light neutral gray rounded rectangle in perspective, no patterns. Match the attached homework reference's rounded proportions, expressive eyes, simple smile and bold smooth outline, with age-appropriate limb length and head proportions. Outlines #202020, shirt #1769AA, vacuum accent #F28C28, dark gray pants, opaque white skin and shoes. Uniform solid fully opaque fills with crisp borders. Genuine transparent alpha everywhere outside the subject, rug and vacuum. Center with safe margins. No gradients, shadows, highlights, texture, text, arrows, room, or floor outside the rug.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "a97566800e6f178d2065443f8a827ede63241215fb75960ad54fa72987e63b44",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-vacuum-rug-female",
+    "title": "Vacuum the rug — 5-year-old girl",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "vacuum the rug",
+      "vacuuming",
+      "rug",
+      "cleaning",
+      "chores",
+      "handheld vacuum",
+      "female"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/vacuum-rug-female.png"
+    ],
+    "alt_text": "A 5-year-old girl uses a handheld vacuum to clean crumbs off a rug.",
+    "generation_prompt": "One square transparent AAC pictogram of a 5-year-old girl vacuuming a simple rectangular rug, shown in three-quarter view with all elements visible. The child kneels at the edge of the rug with a small cordless handheld dustbuster vacuum in one hand. Its short tapered nozzle touches the rug immediately next to four visible small dark crumbs. Show a distinct grip and compact orange body. No long handle, cord, or upright vacuum. Rug is a single flat light neutral gray rounded rectangle in perspective, no patterns. Match the attached homework reference's rounded proportions, expressive eyes, simple smile and bold smooth outline, with age-appropriate limb length and head proportions. Outlines #202020, shirt #1769AA, vacuum accent #F28C28, dark gray pants, opaque white skin and shoes. Uniform solid fully opaque fills with crisp borders. Genuine transparent alpha everywhere outside the subject, rug and vacuum. Center with safe margins. No gradients, shadows, highlights, texture, text, arrows, room, or floor outside the rug.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "a0c61b2db3bd975938bfe6f2de6e456b8f12f659af41843861f1e1593e5c7193",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-vacuum-rug-male",
+    "title": "Vacuum the rug — 10-year-old boy",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "vacuum the rug",
+      "vacuuming",
+      "rug",
+      "cleaning",
+      "chores",
+      "upright vacuum",
+      "male"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/vacuum-rug-male.png"
+    ],
+    "alt_text": "A 10-year-old boy pushes an upright vacuum across a rug.",
+    "generation_prompt": "One square transparent AAC pictogram of a 10-year-old boy vacuuming a simple rectangular rug, shown in three-quarter view with all elements visible. The child stands beside the rug and pushes a classic upright vacuum with one hand. Show its long tilted handle, orange vertical motor body, and wide floor head clearly resting on the rug, with no visible crumbs. No cord. Rug is a single flat light neutral gray rounded rectangle in perspective, no patterns. Match the attached homework reference's rounded proportions, expressive eyes, simple smile and bold smooth outline, with age-appropriate limb length and head proportions. Outlines #202020, shirt #1769AA, vacuum accent #F28C28, dark gray pants, opaque white skin and shoes. Uniform solid fully opaque fills with crisp borders. Genuine transparent alpha everywhere outside the subject, rug and vacuum. Center with safe margins. No gradients, shadows, highlights, texture, text, arrows, room, or floor outside the rug.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "a37d866cb6a9a9e603dc6c864f466beda6ce95ef0a82e45adbf05705d7b1be84",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-vacuum-rug-female",
+    "title": "Vacuum the rug — 10-year-old girl",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "vacuum the rug",
+      "vacuuming",
+      "rug",
+      "cleaning",
+      "chores",
+      "upright vacuum",
+      "female"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/vacuum-rug-female.png"
+    ],
+    "alt_text": "A 10-year-old girl pushes an upright vacuum across a rug.",
+    "generation_prompt": "One square transparent AAC pictogram of a 10-year-old girl vacuuming a simple rectangular rug, shown in three-quarter view with all elements visible. The child stands beside the rug and pushes a classic upright vacuum with one hand. Show its long tilted handle, orange vertical motor body, and wide floor head clearly resting on the rug, with no visible crumbs. No cord. Rug is a single flat light neutral gray rounded rectangle in perspective, no patterns. Match the attached homework reference's rounded proportions, expressive eyes, simple smile and bold smooth outline, with age-appropriate limb length and head proportions. Outlines #202020, shirt #1769AA, vacuum accent #F28C28, dark gray pants, opaque white skin and shoes. Uniform solid fully opaque fills with crisp borders. Genuine transparent alpha everywhere outside the subject, rug and vacuum. Center with safe margins. No gradients, shadows, highlights, texture, text, arrows, room, or floor outside the rug.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "0e2af68ec2514abc4da4e09c109fe662ad4163b2d38448428889de0ba2bd9513",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-vacuum-rug-male",
+    "title": "Vacuum the rug — teen boy",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "vacuum the rug",
+      "vacuuming",
+      "rug",
+      "cleaning",
+      "chores",
+      "upright vacuum",
+      "male"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/vacuum-rug-male.png"
+    ],
+    "alt_text": "A teenage boy pushes an upright vacuum across a rug.",
+    "generation_prompt": "One square transparent AAC pictogram of a teenage boy vacuuming a simple rectangular rug, shown in three-quarter view with all elements visible. The child stands beside the rug and pushes a classic upright vacuum with one hand. Show its long tilted handle, orange vertical motor body, and wide floor head clearly resting on the rug, with no visible crumbs. No cord. Rug is a single flat light neutral gray rounded rectangle in perspective, no patterns. Match the attached homework reference's rounded proportions, expressive eyes, simple smile and bold smooth outline, with age-appropriate limb length and head proportions. Outlines #202020, shirt #1769AA, vacuum accent #F28C28, dark gray pants, opaque white skin and shoes. Uniform solid fully opaque fills with crisp borders. Genuine transparent alpha everywhere outside the subject, rug and vacuum. Center with safe margins. No gradients, shadows, highlights, texture, text, arrows, room, or floor outside the rug.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "9ff3ff58635e6dbbb022662f208805238b0de5b12b1bc1042534e958e4a70793",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-vacuum-rug-female",
+    "title": "Vacuum the rug — teen girl",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "vacuum the rug",
+      "vacuuming",
+      "rug",
+      "cleaning",
+      "chores",
+      "upright vacuum",
+      "female"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/vacuum-rug-female.png"
+    ],
+    "alt_text": "A teenage girl pushes an upright vacuum across a rug.",
+    "generation_prompt": "One square transparent AAC pictogram of a teenage girl vacuuming a simple rectangular rug, shown in three-quarter view with all elements visible. The child stands beside the rug and pushes a classic upright vacuum with one hand. Show its long tilted handle, orange vertical motor body, and wide floor head clearly resting on the rug, with no visible crumbs. No cord. Rug is a single flat light neutral gray rounded rectangle in perspective, no patterns. Match the attached homework reference's rounded proportions, expressive eyes, simple smile and bold smooth outline, with age-appropriate limb length and head proportions. Outlines #202020, shirt #1769AA, vacuum accent #F28C28, dark gray pants, opaque white skin and shoes. Uniform solid fully opaque fills with crisp borders. Genuine transparent alpha everywhere outside the subject, rug and vacuum. Center with safe margins. No gradients, shadows, highlights, texture, text, arrows, room, or floor outside the rug.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as a style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "24765944c6cd9706ec674abcc58d02e0997f0c4ecf6958a12873fb0299327263",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
