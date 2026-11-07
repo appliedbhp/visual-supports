@@ -14083,5 +14083,83 @@
     "generation_prompt": "ONE square AAC pictogram of a single clear drinking tumbler three quarters full of opaque white milk. Entire glass centered with generous margins, viewed from slightly above the front, true transparent background outside glass, bold dark #202020 outlines, solid color regions. Milk should read as white milk with an obvious smooth elliptical liquid surface and opaque white body. No ice, foam, straw, bottle, people, scenery, text, gradients, glare or texture. Teen: naturalistic glass geometry, thin double elliptical rim, clear empty space above milk surface, believable glass wall thickness and heavy foot. Natural warm white milk and subtle neutral cool-gray glass facets, restrained flat hard-edged shadows, clear visual distinction between opaque milk and glass.",
     "source": "Built-in OpenAI image generation using the saved AAC prompt.",
     "created_at": "2026-11-07"
+  },
+  {
+    "id": "0-5-daily-routines-glass-of-apple-juice-realism-v1",
+    "title": "Glass of apple juice",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "apple juice",
+      "juice",
+      "apple",
+      "drink",
+      "glass",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/glass-of-apple-juice.png"
+    ],
+    "alt_text": "A glass of golden apple juice with a red apple beside it.",
+    "generation_prompt": "One square transparent PNG AAC pictogram of a clear drinking glass three quarters full of amber apple juice, with one small whole red apple beside its lower right as a recognition cue. Center both with margins, slightly elevated front view, bold rounded #202020 outlines, flat opaque fills, transparent outside objects. No ice, straw, people, text, gradients, glare, texture or scenery. Age 5: simple chunky tumbler, vivid golden-orange juice #F28C28, simple red apple with green leaf, minimal lines, no shadow.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
+  },
+  {
+    "id": "6-11-daily-routines-glass-of-apple-juice-realism-v1",
+    "title": "Glass of apple juice",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "apple juice",
+      "juice",
+      "apple",
+      "drink",
+      "glass",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/glass-of-apple-juice.png"
+    ],
+    "alt_text": "A glass of golden apple juice with a red apple beside it.",
+    "generation_prompt": "One square transparent PNG AAC pictogram of a clear drinking glass three quarters full of amber apple juice, with one small whole red apple beside its lower right as a recognition cue. Center both with margins, slightly elevated front view, bold rounded #202020 outlines, flat opaque fills, transparent outside objects. No ice, straw, people, text, gradients, glare, texture or scenery. Age 10: tapered tumbler with distinct rim and liquid line, warm golden amber juice, believable apple lobes, a few solid color facets.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
+  },
+  {
+    "id": "12-18-daily-routines-glass-of-apple-juice-realism-v1",
+    "title": "Glass of apple juice",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "apple juice",
+      "juice",
+      "apple",
+      "drink",
+      "glass",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/glass-of-apple-juice.png"
+    ],
+    "alt_text": "A glass of golden apple juice with a red apple beside it.",
+    "generation_prompt": "One square transparent PNG AAC pictogram of a clear drinking glass three quarters full of amber apple juice, with one small whole red apple beside its lower right as a recognition cue. Center both with margins, slightly elevated front view, bold rounded #202020 outlines, flat opaque fills, transparent outside objects. No ice, straw, people, text, gradients, glare, texture or scenery. Teen: naturalistic glass proportions, thin double elliptical rim and thicker glass base, muted honey amber juice, small deep red apple with a recessed stem. Restrained flat hard-edged facets and believable proportions, no glossy highlights. Use smooth uniform solid pale cool gray fill in every glass-only area, including the thick base and space above the juice. No cutout holes inside the glass, no speckles. Show a distinctly faceted base and a flat dark honey-amber side facet.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
   }
 ]
