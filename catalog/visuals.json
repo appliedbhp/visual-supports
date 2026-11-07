@@ -12572,5 +12572,164 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "0-5-daily-routines-assortment-of-vegetables-realism-v1",
+    "title": "Assortment of vegetables",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "vegetables",
+      "carrot",
+      "broccoli",
+      "bell pepper",
+      "food",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/assortment-of-vegetables.png"
+    ],
+    "alt_text": "An orange carrot, green broccoli crown, and red bell pepper grouped together.",
+    "generation_prompt": "One square transparent PNG AAC pictogram: assortment of vegetables, only orange carrot angled lower left with greens, broccoli crown behind at center, red bell pepper to right. Entire group visible centered with generous margins, same arrangement across age series. Bold rounded #202020 outlines, opaque solid colors, no text, plate, scenery, people, highlights, gradients or photographic textures. Age 5: highly simplified rounded shapes, oversized iconic forms, very few internal lines, flat saturated orange #F28C28 carrot, bright green broccoli and red pepper. No shadows.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
+  },
+  {
+    "id": "6-11-daily-routines-assortment-of-vegetables-realism-v1",
+    "title": "Assortment of vegetables",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "vegetables",
+      "carrot",
+      "broccoli",
+      "bell pepper",
+      "food",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/assortment-of-vegetables.png"
+    ],
+    "alt_text": "An orange carrot, green broccoli crown, and red bell pepper grouped together.",
+    "generation_prompt": "One square transparent PNG AAC pictogram: assortment of vegetables, only orange carrot angled lower left with greens, broccoli crown behind at center, red bell pepper to right. Entire group visible centered with generous margins, same arrangement across age series. Bold rounded #202020 outlines, opaque solid colors, no text, plate, scenery, people, highlights, gradients or photographic textures. Age 10: moderately realistic recognizable carrot taper, distinct broccoli florets in a few masses, pepper lobes and stem. Natural orange, green and red, subtle hard-edged solid shadow shapes.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
+  },
+  {
+    "id": "12-18-daily-routines-assortment-of-vegetables-realism-v1",
+    "title": "Assortment of vegetables",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "vegetables",
+      "carrot",
+      "broccoli",
+      "bell pepper",
+      "food",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/assortment-of-vegetables.png"
+    ],
+    "alt_text": "An orange carrot, green broccoli crown, and red bell pepper grouped together.",
+    "generation_prompt": "One square transparent PNG AAC pictogram: assortment of vegetables, only orange carrot angled lower left with greens, broccoli crown behind at center, red bell pepper to right. Entire group visible centered with generous margins, same arrangement across age series. Bold rounded #202020 outlines, opaque solid colors, no text, plate, scenery, people, highlights, gradients or photographic textures. Teen: naturalistic field-guide style, accurate carrot taper and leafy tops, believable broccoli branching florets, asymmetrical lobes and stem recess of mature red pepper. Natural orange, varied deep greens, deep red. Controlled bold outlines, limited hard-edged flat shadows, selective anatomical detail, no glossy highlights or texture.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
+  },
+  {
+    "id": "0-5-daily-routines-fruit-in-bowl-realism-v1",
+    "title": "Fruit in a bowl",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "fruit",
+      "apple",
+      "orange",
+      "banana",
+      "bowl",
+      "food",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/fruit-in-bowl.png"
+    ],
+    "alt_text": "A red apple, an orange, and a yellow banana nestled in a bowl.",
+    "generation_prompt": "Create ONE clear AAC-style pictogram depicting FRUIT IN A BOWL. A single simple round bowl holding exactly one apple at left, one orange at front-right, and one curved banana arching behind. Fruit visibly rests inside bowl, upper portions visible above rim. Front three-quarter slightly elevated view, entire arrangement centered on square transparent background with consistent generous 10% margins. Same composition and fruit across series. Bold rounded #202020 outlines, fully opaque solid fills, strong contrast, no text, labels, people, table, scenery, decorative marks, watermark, gradients, highlights, haze, paper texture, photographic surface texture. No cut fruit or extra objects. AGE 5: highly simplified cartoon, few large rounded shapes, oversized simplified fruit, minimal internal lines, smooth crisp boundaries, uniform flat fills and absolutely no shadows. Bowl saturated blue #1769AA. Orange saturated accent #F28C28. Keep apple red and banana yellow as essential recognition colors, one small green apple leaf. No realistic fruit texture. Immediately recognizable at small size.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
+  },
+  {
+    "id": "6-11-daily-routines-fruit-in-bowl-realism-v1",
+    "title": "Fruit in a bowl",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "fruit",
+      "apple",
+      "orange",
+      "banana",
+      "bowl",
+      "food",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/fruit-in-bowl.png"
+    ],
+    "alt_text": "A red apple, an orange, and a yellow banana nestled in a bowl.",
+    "generation_prompt": "Create ONE clear AAC-style pictogram depicting FRUIT IN A BOWL. A single simple round bowl holding exactly one apple at left, one orange at front-right, and one curved banana arching behind. Fruit visibly rests inside bowl, upper portions visible above rim. Front three-quarter slightly elevated view, entire arrangement centered on square transparent background with consistent generous 10% margins. Same composition and fruit across series. Bold rounded #202020 outlines, fully opaque solid fills, strong contrast, no text, labels, people, table, scenery, decorative marks, watermark, gradients, highlights, haze, paper texture, photographic surface texture. No cut fruit or extra objects. AGE 10: moderately realistic illustration. More believable apple lobes with stem and leaf, orange spherical but subtly irregular with small stem dimple, banana naturally curved with tapered ends. Natural red apple, warm orange fruit, golden yellow banana with brown tip. Bowl muted blue ceramic, realistic elliptical rim and modest foot. Limited natural palette, gently hand-drawn boundaries, selective structural details, a few subtle hard-edged solid shadows where fruit overlaps and inside bowl. No surface stippling, no smooth shading. Clearly more structural detail and less exaggerated rounding than preschool.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
+  },
+  {
+    "id": "12-18-daily-routines-fruit-in-bowl-realism-v1",
+    "title": "Fruit in a bowl",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "fruit",
+      "apple",
+      "orange",
+      "banana",
+      "bowl",
+      "food",
+      "AAC",
+      "pictogram"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/fruit-in-bowl.png"
+    ],
+    "alt_text": "A red apple, an orange, and a yellow banana nestled in a bowl.",
+    "generation_prompt": "Create ONE clear AAC-style pictogram depicting FRUIT IN A BOWL. A single simple round bowl holding exactly one apple at left, one orange at front-right, and one curved banana arching behind. Fruit visibly rests inside bowl, upper portions visible above rim. Front three-quarter slightly elevated view, entire arrangement centered on square transparent background with consistent generous 10% margins. Same composition and fruit across series. Bold rounded #202020 outlines, fully opaque solid fills, strong contrast, no text, labels, people, table, scenery, decorative marks, watermark, gradients, highlights, haze, paper texture, photographic surface texture. No cut fruit or extra objects. TEEN: naturalistic mature educational pictogram, accurate real-world fruit proportions and construction. One subtly asymmetrical deep red apple at left with natural recessed stem and small olive-green leaf, one naturally round orange at front-right with small calyx dimple, one ripe golden-yellow banana arching behind with realistic curvature, narrow brown stem and dark tapered tip. Natural color regions, restrained muted red/orange/gold rather than neon, bowl warm off-white ceramic with a natural elliptical rim, plausible wall thickness and shallow curved profile. Fruit correctly nestled inside bowl, not floating. Controlled bold hand-drawn #202020 outlines, selective structural detail. Volume described with a few realistically placed HARD-EDGED SOLID UNIFORM darker color shadow shapes only, including overlaps and bowl interior. Flat opaque fills; no gradients, no smooth shading, no glossy patches, no fruit skin texture or stippling. Clearly more natural anatomy and material colors than simplified cartoon.",
+    "source": "Built-in OpenAI image generation using the saved AAC prompt.",
+    "created_at": "2026-11-07"
   }
 ]
