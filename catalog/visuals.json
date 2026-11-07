@@ -6776,5 +6776,323 @@
     },
     "image_sha256": "e260fbc0caa199fd32554d0402e849c72d067932e990f96eb6cc6f934f4f55c8",
     "created_at": "2026-11-07T05:36:37.049Z"
+  },
+  {
+    "id": "admin-360e7676-b368-4529-bda9-ef0132da5bf7",
+    "title": "eating ice cream",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "ice cream"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/eating-ice-cream-360e7676-b368-4529-bda9-ef0132da5bf7.png"
+    ],
+    "alt_text": "eating ice cream · male · White (#FFFFFF) · original reference",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Default to a bald character with no glasses or accessories and opaque white (#FFFFFF) skin unless the requested visual specifies a hairstyle, skin tone or outfit. Explicit appearance selections override these defaults; keep selected skin opaque and consistent. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and selected skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Character appearance: Bob; opaque skin tone White (#FFFFFF) · original reference. These appearance choices override the bald, white-skin reference defaults; preserve the reference illustration style and requested face version. Keep hairstyle and outfit consistent across the set; use the skin tone specified for each individual variant. No logos or text on clothing. Create one standalone square visual support. Action: eating ice cream Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, and no glasses.  Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Character version: male. Depict an age-appropriate male character, without sexualization or stereotyped activities. Skin tone: White (#FFFFFF) · original reference. Preserve this skin tone across all visible skin. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 6-11.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Original ABHP artwork is for use on Applied Behavioral Health Practice websites only. Other use requires written permission from Applied Behavioral Health Practice. Third-party source materials retain their original licenses and required attribution. Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "gender_variant": "male",
+    "skin_tone": "White (#FFFFFF) · original reference",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "5fcc142fae2984a8477fb64070d1c69736c14991dd53cb382359fda0c58b570a",
+    "created_at": "2026-11-07T05:36:44.380Z"
+  },
+  {
+    "id": "admin-cc7311fa-2348-4ae2-9e4e-0ffad4f677f5",
+    "title": "eating ice cream",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "ice cream"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/eating-ice-cream-cc7311fa-2348-4ae2-9e4e-0ffad4f677f5.png"
+    ],
+    "alt_text": "eating ice cream · male · Very light (#F6DEC9)",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Default to a bald character with no glasses or accessories and opaque white (#FFFFFF) skin unless the requested visual specifies a hairstyle, skin tone or outfit. Explicit appearance selections override these defaults; keep selected skin opaque and consistent. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and selected skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Character appearance: Bob; opaque skin tone Very light (#F6DEC9). These appearance choices override the bald, white-skin reference defaults; preserve the reference illustration style and requested face version. Keep hairstyle and outfit consistent across the set; use the skin tone specified for each individual variant. No logos or text on clothing. Create one standalone square visual support. Action: eating ice cream Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, and no glasses.  Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Character version: male. Depict an age-appropriate male character, without sexualization or stereotyped activities. Skin tone: Very light (#F6DEC9). Preserve this skin tone across all visible skin. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 6-11.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Original ABHP artwork is for use on Applied Behavioral Health Practice websites only. Other use requires written permission from Applied Behavioral Health Practice. Third-party source materials retain their original licenses and required attribution. Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "gender_variant": "male",
+    "skin_tone": "Very light (#F6DEC9)",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "fde3d0c562b7a4ea2aabe203bcc1f0a43e17508c3930c7ce261ea0501dc30b90",
+    "created_at": "2026-11-07T05:36:45.418Z"
+  },
+  {
+    "id": "admin-2b79948e-aff8-4bed-905c-12a59e1478cf",
+    "title": "eating ice cream",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "ice cream"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/eating-ice-cream-2b79948e-aff8-4bed-905c-12a59e1478cf.png"
+    ],
+    "alt_text": "eating ice cream · male · Light (#EAC09F)",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Default to a bald character with no glasses or accessories and opaque white (#FFFFFF) skin unless the requested visual specifies a hairstyle, skin tone or outfit. Explicit appearance selections override these defaults; keep selected skin opaque and consistent. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and selected skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Character appearance: Bob; opaque skin tone Light (#EAC09F). These appearance choices override the bald, white-skin reference defaults; preserve the reference illustration style and requested face version. Keep hairstyle and outfit consistent across the set; use the skin tone specified for each individual variant. No logos or text on clothing. Create one standalone square visual support. Action: eating ice cream Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, and no glasses.  Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Character version: male. Depict an age-appropriate male character, without sexualization or stereotyped activities. Skin tone: Light (#EAC09F). Preserve this skin tone across all visible skin. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 6-11.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Original ABHP artwork is for use on Applied Behavioral Health Practice websites only. Other use requires written permission from Applied Behavioral Health Practice. Third-party source materials retain their original licenses and required attribution. Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "gender_variant": "male",
+    "skin_tone": "Light (#EAC09F)",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "e02bcde412a8aa3ac260b111bc2eed72ee4cf05f6f1cd5c3d45ed3bb3fb1b222",
+    "created_at": "2026-11-07T05:36:46.160Z"
+  },
+  {
+    "id": "admin-5fe6104f-b325-4565-8117-452978248dd7",
+    "title": "eating ice cream",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "ice cream"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/eating-ice-cream-5fe6104f-b325-4565-8117-452978248dd7.png"
+    ],
+    "alt_text": "eating ice cream · male · Medium (#C98E68)",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Default to a bald character with no glasses or accessories and opaque white (#FFFFFF) skin unless the requested visual specifies a hairstyle, skin tone or outfit. Explicit appearance selections override these defaults; keep selected skin opaque and consistent. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and selected skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Character appearance: Bob; opaque skin tone Medium (#C98E68). These appearance choices override the bald, white-skin reference defaults; preserve the reference illustration style and requested face version. Keep hairstyle and outfit consistent across the set; use the skin tone specified for each individual variant. No logos or text on clothing. Create one standalone square visual support. Action: eating ice cream Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, and no glasses.  Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Character version: male. Depict an age-appropriate male character, without sexualization or stereotyped activities. Skin tone: Medium (#C98E68). Preserve this skin tone across all visible skin. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 6-11.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Original ABHP artwork is for use on Applied Behavioral Health Practice websites only. Other use requires written permission from Applied Behavioral Health Practice. Third-party source materials retain their original licenses and required attribution. Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "gender_variant": "male",
+    "skin_tone": "Medium (#C98E68)",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "fbfbf4d0e0e1053dfc7a430434671e3468b797a4348a116668a2099a0d92cb9d",
+    "created_at": "2026-11-07T05:36:47.157Z"
+  },
+  {
+    "id": "admin-15391fb9-7ec2-4922-b0fb-a442c0a87c2c",
+    "title": "eating ice cream",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "ice cream"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/eating-ice-cream-15391fb9-7ec2-4922-b0fb-a442c0a87c2c.png"
+    ],
+    "alt_text": "eating ice cream · male · Tan (#AD704E)",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Default to a bald character with no glasses or accessories and opaque white (#FFFFFF) skin unless the requested visual specifies a hairstyle, skin tone or outfit. Explicit appearance selections override these defaults; keep selected skin opaque and consistent. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and selected skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Character appearance: Bob; opaque skin tone Tan (#AD704E). These appearance choices override the bald, white-skin reference defaults; preserve the reference illustration style and requested face version. Keep hairstyle and outfit consistent across the set; use the skin tone specified for each individual variant. No logos or text on clothing. Create one standalone square visual support. Action: eating ice cream Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, and no glasses.  Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Character version: male. Depict an age-appropriate male character, without sexualization or stereotyped activities. Skin tone: Tan (#AD704E). Preserve this skin tone across all visible skin. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 6-11.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Original ABHP artwork is for use on Applied Behavioral Health Practice websites only. Other use requires written permission from Applied Behavioral Health Practice. Third-party source materials retain their original licenses and required attribution. Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "gender_variant": "male",
+    "skin_tone": "Tan (#AD704E)",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "43d32260c946acd68b018463ad7b77ce7b8b7aa7b55cce765bb01dcb40f255a3",
+    "created_at": "2026-11-07T05:36:47.947Z"
+  },
+  {
+    "id": "admin-76b6d487-2636-4180-a360-569232e8b192",
+    "title": "eating ice cream",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "ice cream"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/eating-ice-cream-76b6d487-2636-4180-a360-569232e8b192.png"
+    ],
+    "alt_text": "eating ice cream · male · Brown (#825238)",
+    "generation_prompt": "Use the attached blank-face Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape and dark contour weight. Keep the face completely blank: no eyes, pupils, eyebrows, mouth, nose, or other facial marks. Default to a bald character with no glasses or accessories and opaque white (#FFFFFF) skin unless the requested visual specifies a hairstyle, skin tone or outfit. Explicit appearance selections override these defaults; keep selected skin opaque and consistent. Extend this blank-face character into the requested action with clear body language and essential props. Use consistent clean flat shapes and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and selected skin opaque. Do not add text, labels, borders, gradients, or shadows. Requested visual: Character appearance: Bob; opaque skin tone Brown (#825238). These appearance choices override the bald, white-skin reference defaults; preserve the reference illustration style and requested face version. Keep hairstyle and outfit consistent across the set; use the skin tone specified for each individual variant. No logos or text on clothing. Create one standalone square visual support. Action: eating ice cream Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, and no glasses.  Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Character version: male. Depict an age-appropriate male character, without sexualization or stereotyped activities. Skin tone: Brown (#825238). Preserve this skin tone across all visible skin. Face version: blank. Keep the face completely blank, with no eyes, eyebrows, mouth or nose. Adapt proportions and context respectfully for ages 6-11.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Original ABHP artwork is for use on Applied Behavioral Health Practice websites only. Other use requires written permission from Applied Behavioral Health Practice. Third-party source materials retain their original licenses and required attribution. Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "gender_variant": "male",
+    "skin_tone": "Brown (#825238)",
+    "visual_mode": "character",
+    "face_variant": "blank",
+    "character_reference": {
+      "id": "dicebear-adventurer-blank-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "0",
+        "eyesProbability": "0",
+        "eyebrowsProbability": "0",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-blank-v1.png"
+    },
+    "image_sha256": "c92571a387f894f5109229fee0ee408033dd75d295c3f114f4f23a87e8d0d155",
+    "created_at": "2026-11-07T05:36:48.949Z"
   }
 ]
