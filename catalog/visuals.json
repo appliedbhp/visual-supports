@@ -12116,5 +12116,30 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Transparent background verified in the rendered preview."
+  },
+  {
+    "id": "12-18-daily-routines-doing-laundry-comic-v1",
+    "title": "Doing laundry",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "laundry",
+      "doing laundry",
+      "washing clothes",
+      "washing machine"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/doing-laundry.svg"
+    ],
+    "alt_text": "A grinning person puts a coral shirt into an open front-loading washing machine beside a basket of clothes.",
+    "generation_prompt": "Draw the established wiry-haired comic character loading a bright shirt into an open front-loading washing machine with a laundry basket close by. Use an exaggerated grin, bold irregular outlines, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
   }
 ]
