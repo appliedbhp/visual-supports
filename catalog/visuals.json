@@ -9055,7 +9055,9 @@
       "morning",
       "daily routine",
       "male",
-      "age 5"
+      "age 5",
+      "make a bowl of cereal",
+      "prepare breakfast"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9090,7 +9092,9 @@
       "morning",
       "daily routine",
       "female",
-      "age 5"
+      "age 5",
+      "make a bowl of cereal",
+      "prepare breakfast"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9125,7 +9129,9 @@
       "morning",
       "daily routine",
       "male",
-      "age 10"
+      "age 10",
+      "make a bowl of cereal",
+      "prepare breakfast"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9160,7 +9166,9 @@
       "morning",
       "daily routine",
       "female",
-      "age 10"
+      "age 10",
+      "make a bowl of cereal",
+      "prepare breakfast"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9195,7 +9203,9 @@
       "morning",
       "daily routine",
       "male",
-      "teen"
+      "teen",
+      "make a bowl of cereal",
+      "prepare breakfast"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9230,7 +9240,9 @@
       "morning",
       "daily routine",
       "female",
-      "teen"
+      "teen",
+      "make a bowl of cereal",
+      "prepare breakfast"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9265,7 +9277,9 @@
       "morning",
       "daily routine",
       "male",
-      "age 5"
+      "age 5",
+      "put on shoes",
+      "get shoes on"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9300,7 +9314,9 @@
       "morning",
       "daily routine",
       "female",
-      "age 5"
+      "age 5",
+      "put on shoes",
+      "get shoes on"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9335,7 +9351,9 @@
       "morning",
       "daily routine",
       "male",
-      "age 10"
+      "age 10",
+      "put on shoes",
+      "get shoes on"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9370,7 +9388,9 @@
       "morning",
       "daily routine",
       "female",
-      "age 10"
+      "age 10",
+      "put on shoes",
+      "get shoes on"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9405,7 +9425,9 @@
       "morning",
       "daily routine",
       "male",
-      "teen"
+      "teen",
+      "put on shoes",
+      "get shoes on"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9440,7 +9462,9 @@
       "morning",
       "daily routine",
       "female",
-      "teen"
+      "teen",
+      "put on shoes",
+      "get shoes on"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9475,7 +9499,9 @@
       "group",
       "classmates",
       "male",
-      "age 5"
+      "age 5",
+      "class meeting",
+      "sit in a circle"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9510,7 +9536,9 @@
       "group",
       "classmates",
       "female",
-      "age 5"
+      "age 5",
+      "class meeting",
+      "sit in a circle"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9545,7 +9573,9 @@
       "recess",
       "recreation",
       "male",
-      "age 5"
+      "age 5",
+      "play outside",
+      "play on the playground"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9580,7 +9610,9 @@
       "recess",
       "recreation",
       "female",
-      "age 5"
+      "age 5",
+      "play outside",
+      "play on the playground"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9615,7 +9647,9 @@
       "recess",
       "recreation",
       "male",
-      "age 10"
+      "age 10",
+      "play outside",
+      "play on the playground"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9650,7 +9684,9 @@
       "recess",
       "recreation",
       "female",
-      "age 10"
+      "age 10",
+      "play outside",
+      "play on the playground"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9684,7 +9720,10 @@
       "sleep",
       "evening routine",
       "male",
-      "age 5"
+      "age 5",
+      "put on pajamas",
+      "wearing pajamas",
+      "getting ready for bed"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9718,7 +9757,10 @@
       "sleep",
       "evening routine",
       "female",
-      "age 5"
+      "age 5",
+      "put on pajamas",
+      "wearing pajamas",
+      "getting ready for bed"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9752,7 +9794,10 @@
       "sleep",
       "evening routine",
       "male",
-      "age 10"
+      "age 10",
+      "put on pajamas",
+      "wearing pajamas",
+      "getting ready for bed"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9786,7 +9831,10 @@
       "sleep",
       "evening routine",
       "female",
-      "age 10"
+      "age 10",
+      "put on pajamas",
+      "wearing pajamas",
+      "getting ready for bed"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9820,7 +9868,10 @@
       "sleep",
       "evening routine",
       "male",
-      "teen"
+      "teen",
+      "put on pajamas",
+      "wearing pajamas",
+      "getting ready for bed"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9854,7 +9905,10 @@
       "sleep",
       "evening routine",
       "female",
-      "teen"
+      "teen",
+      "put on pajamas",
+      "wearing pajamas",
+      "getting ready for bed"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9888,7 +9942,9 @@
       "regulation",
       "body movement",
       "male",
-      "age 5"
+      "age 5",
+      "brain break",
+      "take a movement break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9922,7 +9978,9 @@
       "regulation",
       "body movement",
       "female",
-      "age 5"
+      "age 5",
+      "brain break",
+      "take a movement break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9956,7 +10014,9 @@
       "regulation",
       "body movement",
       "male",
-      "age 10"
+      "age 10",
+      "brain break",
+      "take a movement break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -9990,7 +10050,9 @@
       "regulation",
       "body movement",
       "female",
-      "age 10"
+      "age 10",
+      "brain break",
+      "take a movement break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10024,7 +10086,9 @@
       "regulation",
       "body movement",
       "male",
-      "teen"
+      "teen",
+      "brain break",
+      "take a movement break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10058,7 +10122,9 @@
       "regulation",
       "body movement",
       "female",
-      "teen"
+      "teen",
+      "brain break",
+      "take a movement break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10095,7 +10161,9 @@
       "pencils",
       "pencil case",
       "male",
-      "age 5"
+      "age 5",
+      "gather supplies to start school work",
+      "get school materials ready"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10132,7 +10200,9 @@
       "pencils",
       "pencil case",
       "female",
-      "age 5"
+      "age 5",
+      "gather supplies to start school work",
+      "get school materials ready"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10169,7 +10239,9 @@
       "pencils",
       "pencil case",
       "male",
-      "age 10"
+      "age 10",
+      "gather supplies to start school work",
+      "get school materials ready"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10206,7 +10278,9 @@
       "pencils",
       "pencil case",
       "female",
-      "age 10"
+      "age 10",
+      "gather supplies to start school work",
+      "get school materials ready"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10243,7 +10317,9 @@
       "pencils",
       "pencil case",
       "male",
-      "teen"
+      "teen",
+      "gather supplies to start school work",
+      "get school materials ready"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10280,7 +10356,9 @@
       "pencils",
       "pencil case",
       "female",
-      "teen"
+      "teen",
+      "gather supplies to start school work",
+      "get school materials ready"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10316,7 +10394,8 @@
       "reading",
       "writing",
       "male",
-      "age 5"
+      "age 5",
+      "pick an activity"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10352,7 +10431,8 @@
       "reading",
       "writing",
       "female",
-      "age 5"
+      "age 5",
+      "pick an activity"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10388,7 +10468,8 @@
       "reading",
       "writing",
       "male",
-      "age 10"
+      "age 10",
+      "pick an activity"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10424,7 +10505,8 @@
       "reading",
       "writing",
       "female",
-      "age 10"
+      "age 10",
+      "pick an activity"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10460,7 +10542,8 @@
       "reading",
       "writing",
       "male",
-      "teen"
+      "teen",
+      "pick an activity"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10496,7 +10579,8 @@
       "reading",
       "writing",
       "female",
-      "teen"
+      "teen",
+      "pick an activity"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10531,7 +10615,9 @@
       "regulation",
       "break",
       "male",
-      "age 5"
+      "age 5",
+      "take a stretching break",
+      "taking a stretching break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10566,7 +10652,9 @@
       "regulation",
       "break",
       "female",
-      "age 5"
+      "age 5",
+      "take a stretching break",
+      "taking a stretching break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10601,7 +10689,9 @@
       "regulation",
       "break",
       "male",
-      "age 10"
+      "age 10",
+      "take a stretching break",
+      "taking a stretching break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10636,7 +10726,9 @@
       "regulation",
       "break",
       "female",
-      "age 10"
+      "age 10",
+      "take a stretching break",
+      "taking a stretching break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10671,7 +10763,9 @@
       "regulation",
       "break",
       "male",
-      "teen"
+      "teen",
+      "take a stretching break",
+      "taking a stretching break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10706,7 +10800,9 @@
       "regulation",
       "break",
       "female",
-      "teen"
+      "teen",
+      "take a stretching break",
+      "taking a stretching break"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10743,7 +10839,9 @@
       "pencils",
       "finish schoolwork",
       "male",
-      "age 5"
+      "age 5",
+      "put school materials back where they belong",
+      "put away school supplies"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10780,7 +10878,9 @@
       "pencils",
       "finish schoolwork",
       "female",
-      "age 5"
+      "age 5",
+      "put school materials back where they belong",
+      "put away school supplies"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10817,7 +10917,9 @@
       "pencils",
       "finish schoolwork",
       "male",
-      "age 10"
+      "age 10",
+      "put school materials back where they belong",
+      "put away school supplies"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10854,7 +10956,9 @@
       "pencils",
       "finish schoolwork",
       "female",
-      "age 10"
+      "age 10",
+      "put school materials back where they belong",
+      "put away school supplies"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10891,7 +10995,9 @@
       "pencils",
       "finish schoolwork",
       "male",
-      "teen"
+      "teen",
+      "put school materials back where they belong",
+      "put away school supplies"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10928,7 +11034,9 @@
       "pencils",
       "finish schoolwork",
       "female",
-      "teen"
+      "teen",
+      "put school materials back where they belong",
+      "put away school supplies"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -10964,7 +11072,9 @@
       "clothing",
       "daily routine",
       "male",
-      "age 5"
+      "age 5",
+      "put dirty clothes in hamper",
+      "laundry basket"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11000,7 +11110,9 @@
       "clothing",
       "daily routine",
       "female",
-      "age 5"
+      "age 5",
+      "put dirty clothes in hamper",
+      "laundry basket"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11036,7 +11148,9 @@
       "clothing",
       "daily routine",
       "male",
-      "age 10"
+      "age 10",
+      "put dirty clothes in hamper",
+      "laundry basket"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11072,7 +11186,9 @@
       "clothing",
       "daily routine",
       "female",
-      "age 10"
+      "age 10",
+      "put dirty clothes in hamper",
+      "laundry basket"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11108,7 +11224,9 @@
       "clothing",
       "daily routine",
       "male",
-      "teen"
+      "teen",
+      "put dirty clothes in hamper",
+      "laundry basket"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11144,7 +11262,9 @@
       "clothing",
       "daily routine",
       "female",
-      "teen"
+      "teen",
+      "put dirty clothes in hamper",
+      "laundry basket"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11387,7 +11507,8 @@
       "books",
       "reading cleanup",
       "male",
-      "age 5"
+      "age 5",
+      "return books to the bookshelf"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11423,7 +11544,8 @@
       "books",
       "reading cleanup",
       "female",
-      "age 5"
+      "age 5",
+      "return books to the bookshelf"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11459,7 +11581,8 @@
       "books",
       "reading cleanup",
       "male",
-      "age 10"
+      "age 10",
+      "return books to the bookshelf"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11495,7 +11618,8 @@
       "books",
       "reading cleanup",
       "female",
-      "age 10"
+      "age 10",
+      "return books to the bookshelf"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11531,7 +11655,8 @@
       "books",
       "reading cleanup",
       "male",
-      "teen"
+      "teen",
+      "return books to the bookshelf"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11567,7 +11692,8 @@
       "books",
       "reading cleanup",
       "female",
-      "teen"
+      "teen",
+      "return books to the bookshelf"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11822,7 +11948,9 @@
       "tidy up",
       "daily routine",
       "male",
-      "age 5"
+      "age 5",
+      "sweep the floor",
+      "sweeping the floor"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11858,7 +11986,9 @@
       "tidy up",
       "daily routine",
       "female",
-      "age 5"
+      "age 5",
+      "sweep the floor",
+      "sweeping the floor"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11894,7 +12024,9 @@
       "tidy up",
       "daily routine",
       "male",
-      "age 10"
+      "age 10",
+      "sweep the floor",
+      "sweeping the floor"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11930,7 +12062,9 @@
       "tidy up",
       "daily routine",
       "female",
-      "age 10"
+      "age 10",
+      "sweep the floor",
+      "sweeping the floor"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -11966,7 +12100,9 @@
       "tidy up",
       "daily routine",
       "male",
-      "teen"
+      "teen",
+      "sweep the floor",
+      "sweeping the floor"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -12002,7 +12138,9 @@
       "tidy up",
       "daily routine",
       "female",
-      "teen"
+      "teen",
+      "sweep the floor",
+      "sweeping the floor"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -14410,7 +14548,9 @@
       "socks",
       "laundry",
       "chores",
-      "male"
+      "male",
+      "sort clothes by garment type",
+      "sorting laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -14443,7 +14583,9 @@
       "socks",
       "laundry",
       "chores",
-      "female"
+      "female",
+      "sort clothes by garment type",
+      "sorting laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -14476,7 +14618,9 @@
       "socks",
       "laundry",
       "chores",
-      "male"
+      "male",
+      "sort clothes by garment type",
+      "sorting laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -14509,7 +14653,9 @@
       "socks",
       "laundry",
       "chores",
-      "female"
+      "female",
+      "sort clothes by garment type",
+      "sorting laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -14542,7 +14688,9 @@
       "socks",
       "laundry",
       "chores",
-      "male"
+      "male",
+      "sort clothes by garment type",
+      "sorting laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -14575,7 +14723,9 @@
       "socks",
       "laundry",
       "chores",
-      "female"
+      "female",
+      "sort clothes by garment type",
+      "sorting laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -15365,7 +15515,9 @@
       "shirt",
       "laundry",
       "chores",
-      "male"
+      "male",
+      "folding clothes",
+      "folding laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -15397,7 +15549,9 @@
       "shirt",
       "laundry",
       "chores",
-      "female"
+      "female",
+      "folding clothes",
+      "folding laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -15429,7 +15583,9 @@
       "shirt",
       "laundry",
       "chores",
-      "male"
+      "male",
+      "folding clothes",
+      "folding laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -15461,7 +15617,9 @@
       "shirt",
       "laundry",
       "chores",
-      "female"
+      "female",
+      "folding clothes",
+      "folding laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -15493,7 +15651,9 @@
       "shirt",
       "laundry",
       "chores",
-      "male"
+      "male",
+      "folding clothes",
+      "folding laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -15525,7 +15685,9 @@
       "shirt",
       "laundry",
       "chores",
-      "female"
+      "female",
+      "folding clothes",
+      "folding laundry"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17697,7 +17859,9 @@
       "dresser",
       "laundry",
       "chores",
-      "male"
+      "male",
+      "putting clothes in drawers",
+      "put folded laundry in a dresser"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17729,7 +17893,9 @@
       "dresser",
       "laundry",
       "chores",
-      "female"
+      "female",
+      "putting clothes in drawers",
+      "put folded laundry in a dresser"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17761,7 +17927,9 @@
       "dresser",
       "laundry",
       "chores",
-      "male"
+      "male",
+      "putting clothes in drawers",
+      "put folded laundry in a dresser"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17793,7 +17961,9 @@
       "dresser",
       "laundry",
       "chores",
-      "female"
+      "female",
+      "putting clothes in drawers",
+      "put folded laundry in a dresser"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17825,7 +17995,9 @@
       "dresser",
       "laundry",
       "chores",
-      "male"
+      "male",
+      "putting clothes in drawers",
+      "put folded laundry in a dresser"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17857,7 +18029,9 @@
       "dresser",
       "laundry",
       "chores",
-      "female"
+      "female",
+      "putting clothes in drawers",
+      "put folded laundry in a dresser"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17890,7 +18064,11 @@
       "cleaning",
       "chores",
       "handheld vacuum",
-      "male"
+      "male",
+      "vacuuming the rug",
+      "vacuum carpet",
+      "crumbs",
+      "dustbuster"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17923,7 +18101,11 @@
       "cleaning",
       "chores",
       "handheld vacuum",
-      "female"
+      "female",
+      "vacuuming the rug",
+      "vacuum carpet",
+      "crumbs",
+      "dustbuster"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17956,7 +18138,9 @@
       "cleaning",
       "chores",
       "upright vacuum",
-      "male"
+      "male",
+      "vacuuming the rug",
+      "vacuum carpet"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -17989,7 +18173,9 @@
       "cleaning",
       "chores",
       "upright vacuum",
-      "female"
+      "female",
+      "vacuuming the rug",
+      "vacuum carpet"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -18022,7 +18208,9 @@
       "cleaning",
       "chores",
       "upright vacuum",
-      "male"
+      "male",
+      "vacuuming the rug",
+      "vacuum carpet"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
@@ -18055,7 +18243,9 @@
       "cleaning",
       "chores",
       "upright vacuum",
-      "female"
+      "female",
+      "vacuuming the rug",
+      "vacuum carpet"
     ],
     "status": "draft",
     "style": "AAC-style flat cartoon with bold contours",
