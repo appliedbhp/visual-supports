@@ -3,13 +3,13 @@
   <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
     <ellipse cx="44" cy="104" rx="12" ry="11" fill="#fff"/>
-    <path d="M50 103 Q48 77 77 74 Q100 74 105 97 Q112 105 111 120 Q105 127 89 123 Q77 129 63 122 Q52 118 50 103Z" fill="#a6a0a5"/>
+    <path d="M50 103 Q46 78 74 72 Q100 74 105 97 Q112 105 111 120 Q105 127 89 123 Q77 129 63 122 Q52 118 50 103Z" fill="#a6a0a5"/>
     <path d="M52 103 Q62 121 86 116 L89 122 Q73 127 61 120Z" fill="#8b8289" stroke="none"/>
     <path d="M91 59 Q73 35 79 18 Q82 8 89 16 Q99 28 103 53 Q101 21 112 14 Q120 11 119 24 Q117 45 110 61Z" fill="#b6afb2"/>
     <path d="M92 48 Q78 25 84 19 Q90 21 97 49Z M107 49 Q106 25 114 21 Q116 26 110 50Z" fill="#d9959d" stroke="none"/>
-    <ellipse cx="104" cy="75" rx="25" ry="22" fill="#bab3b6"/>
+    <ellipse cx="104" cy="75" rx="22" ry="19" fill="#bab3b6"/>
     <ellipse cx="120" cy="83" rx="10" ry="7" fill="#fff"/>
-    <circle cx="113" cy="69" r="2.6" fill="#23201e" stroke="none"/>
+    <path d="M63 113 Q60 103 68 97 Q77 90 85 98" fill="none"/><circle cx="113" cy="69" r="2.6" fill="#23201e" stroke="none"/>
     <circle cx="128" cy="78" r="2.6" fill="#23201e" stroke="none"/>
   </g>
 </svg>

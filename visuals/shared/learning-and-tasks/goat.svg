@@ -2,12 +2,13 @@
   <title id="title">A tan goat with swept-back horns and a short beard.</title>
   <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
+    <path d="M60 94 L65 122 L73 122 L69 95 M103 93 L111 122 L120 122 L113 92Z" fill="#967961"/>
     <path d="M50 80 L37 65 Q35 77 42 89 M48 77 Q65 67 86 75 L95 58 L115 62 L111 95 L111 123 L101 123 L97 100 L66 101 L60 123 L50 123 L52 101 Q41 91 48 77Z" fill="#c5a786"/>
     <path d="M50 91 Q67 102 97 93 L98 100 L65 102 L58 121 L52 121 L54 100Z" fill="#ad8c70" stroke="none"/>
     <path d="M100 59 Q86 40 88 24 Q91 34 108 50 M112 54 Q106 35 110 23 Q112 36 121 49Z" fill="#796456"/>
     <path d="M104 58 Q85 49 83 59 Q87 70 102 69 M112 83 L108 103 Q120 100 124 84Z" fill="#a0846d"/>
-    <path d="M103 51 Q119 44 128 58 L138 76 Q140 86 130 89 Q110 94 103 75 Q97 63 103 51Z" fill="#dfc5a6"/>
-    <circle cx="120" cy="64" r="2.6" fill="#23201e" stroke="none"/>
+    <path d="M103 51 Q119 44 128 58 L136 79 Q138 87 128 89 Q110 90 103 75 Q97 63 103 51Z" fill="#dfc5a6"/>
+    <path d="M118 64 L123 64" fill="none" stroke-width="2"/><circle cx="120" cy="64" r="2.6" fill="#23201e" stroke="none"/>
     <circle cx="134" cy="79" r="2.6" fill="#23201e" stroke="none"/>
   </g>
 </svg>

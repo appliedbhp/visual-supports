@@ -5,9 +5,9 @@
     <path d="M63 116 Q23 125 28 96 Q30 84 38 86" fill="none"/>
     <path d="M62 115 Q46 107 54 91 Q59 80 73 76 L101 79 Q111 96 105 119 Q99 129 88 124 L86 116 Q77 123 62 115Z" fill="#d98a4d"/>
     <path d="M53 102 Q69 118 85 111 L86 116 Q71 123 60 114Z" fill="#ba6b3a" stroke="none"/>
-    <path d="M59 56 L59 34 Q61 30 65 34 L83 47 Q94 45 102 49 L117 37 Q121 34 121 40 L120 63 Q127 88 99 94 Q75 98 61 82 Q54 71 59 56Z" fill="#edaa62"/>
-    <path d="M64 52 L64 39 L76 48Z M109 51 L117 43 L116 56Z" fill="#c97b6e" stroke="none"/>
-    <circle cx="80" cy="69" r="2.6" fill="#23201e" stroke="none"/>
+    <path d="M65 57 L65 39 Q61 30 65 34 L83 47 Q94 45 102 49 L117 37 Q121 34 121 40 L120 63 Q124 83 99 90 Q77 93 65 80 Q60 70 65 57Z" fill="#edaa62"/>
+    <path d="M69 52 L69 42 L77 48Z M109 51 L117 43 L116 56Z" fill="#c97b6e" stroke="none"/>
+    <path d="M89 50 L92 56 L95 50 M100 50 L101 55" fill="none" stroke="#ae633c" stroke-width="2"/><circle cx="80" cy="69" r="2.6" fill="#23201e" stroke="none"/>
     <circle cx="105" cy="69" r="2.6" fill="#23201e" stroke="none"/>
     <path d="M89 76 Q94 74 98 76 L94 80Z" fill="#a15c5c"/>
     <path d="M94 80 Q92 86 86 82 M94 80 Q97 86 102 82 M72 77 L50 73 M73 82 L51 85 M113 77 L134 73 M113 82 L132 86" fill="none"/>

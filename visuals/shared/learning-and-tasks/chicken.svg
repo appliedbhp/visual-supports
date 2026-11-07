@@ -2,14 +2,14 @@
   <title id="title">A cream hen with a red comb, orange beak, and slender feet.</title>
   <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
-    <path d="M73 106 L71 124 L61 126 M71 124 L77 127 M92 108 L92 124 L84 127 M92 124 L99 127" fill="none"/>
+    <path d="M77 105 L74 115 L72 124 L62 126 M72 124 L78 127 M92 108 L91 117 L93 124 L85 127 M93 124 L100 126" fill="none"/>
     <path d="M53 82 Q32 79 28 57 Q40 66 45 64 Q40 53 42 45 Q58 51 65 74Z" fill="#d7a670"/>
     <path d="M98 58 Q93 49 98 42 Q103 38 108 44 Q111 33 117 36 Q121 40 120 46 Q131 41 133 49 Q132 55 121 59Z" fill="#bf584a"/>
     <path d="M49 80 Q65 69 85 79 Q89 74 91 63 Q96 51 110 51 Q128 52 128 71 Q131 92 114 106 Q101 119 77 114 Q54 110 49 95 Q46 87 49 80Z" fill="#f6dfb9"/>
     <path d="M51 96 Q70 113 97 108 Q113 105 123 93 Q115 113 94 115 Q65 116 51 96Z" fill="#e2c396" stroke="none"/>
-    <path d="M125 65 L142 73 L126 78Z" fill="#eaa14c"/>
+    <path d="M125 65 L139 71 L126 76Z" fill="#eaa14c"/>
     <path d="M128 78 Q137 87 127 92 Q121 91 123 81Z" fill="#bf584a"/>
-    <path d="M69 89 Q84 82 99 91 Q94 104 78 104" fill="none"/>
+    <path d="M66 89 Q84 79 101 90 Q95 102 76 105 M78 98 Q88 98 94 92" fill="none"/>
     <circle cx="116" cy="66" r="2.6" fill="#23201e" stroke="none"/>
   </g>
 </svg>

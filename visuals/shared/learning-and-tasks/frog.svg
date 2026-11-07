@@ -2,13 +2,13 @@
   <title id="title">A squat green frog with raised eyes and a wide smile.</title>
   <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
-    <ellipse cx="52" cy="106" rx="21" ry="15" fill="#69a253"/>
-    <ellipse cx="108" cy="106" rx="21" ry="15" fill="#69a253"/>
+    <ellipse cx="52" cy="103" rx="22" ry="15" fill="#69a253"/>
+    <ellipse cx="108" cy="103" rx="22" ry="15" fill="#69a253"/>
     <path d="M43 92 Q41 75 53 67 Q49 49 65 46 Q77 44 81 57 Q85 43 98 46 Q114 49 109 67 Q121 75 118 92 Q113 111 81 114 Q50 113 43 92Z" fill="#88bd60"/>
     <path d="M45 89 Q60 106 83 103 Q104 102 117 89 Q113 110 81 112 Q54 111 45 89Z" fill="#6da24e" stroke="none"/>
     <path d="M58 110 Q50 113 48 124 Q60 129 70 122 L76 109 M103 110 Q111 113 113 124 Q101 129 91 122 L85 109Z" fill="#9dcc71"/>
-    <circle cx="66" cy="60" r="2.6" fill="#23201e" stroke="none"/>
+    <path d="M51 98 Q55 94 60 98 M100 98 Q105 94 110 98" fill="none" stroke="#557e42" stroke-width="2"/><circle cx="66" cy="60" r="2.6" fill="#23201e" stroke="none"/>
     <circle cx="96" cy="60" r="2.6" fill="#23201e" stroke="none"/>
-    <path d="M58 83 Q80 96 103 82" fill="none"/>
+    <path d="M56 84 Q80 92 105 83" fill="none"/>
   </g>
 </svg>

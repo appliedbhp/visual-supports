@@ -3,11 +3,12 @@
   <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
     <path d="M41 77 Q23 86 27 102" fill="none"/>
+    <path d="M58 95 L67 95 L74 123 L62 123Z M94 94 L107 94 L116 123 L105 123Z" fill="#777d8c"/>
     <path d="M37 80 Q40 59 68 58 L93 64 Q112 58 122 72 Q132 80 129 93 Q126 103 131 106 Q137 105 137 96 Q144 93 147 100 Q147 120 131 122 Q116 122 113 105 L111 124 L97 124 L95 108 L65 109 L60 124 L46 124 L46 108 Q32 99 37 80Z" fill="#a5a8b2"/>
     <path d="M39 92 Q55 107 95 100 L95 108 L65 108 L59 122 L48 122 L48 106 Q40 103 39 92Z" fill="#868c9a" stroke="none"/>
     <path d="M97 66 Q85 55 73 66 Q66 77 73 94 Q79 108 91 103 Q103 95 97 66Z" fill="#b7b7c0"/>
     <path d="M75 79 Q79 96 93 96 Q88 104 82 101 Q77 98 75 90Z" fill="#9899a8" stroke="none"/>
-    <circle cx="115" cy="81" r="2.6" fill="#23201e" stroke="none"/>
-    <path d="M121 96 Q125 95 128 97" fill="none"/>
+    <path d="M116 93 Q123 97 131 92 Q125 102 116 99Z" fill="#fff"/><circle cx="115" cy="81" r="2.6" fill="#23201e" stroke="none"/>
+    <path d="M121 96 Q125 95 128 97 M122 103 Q126 102 129 104" fill="none"/>
   </g>
 </svg>
