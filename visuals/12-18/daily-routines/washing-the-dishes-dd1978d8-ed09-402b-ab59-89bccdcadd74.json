@@ -1,0 +1,40 @@
+{
+  "id": "admin-dd1978d8-ed09-402b-ab59-89bccdcadd74",
+  "title": "washing the dishes",
+  "age_strand": "12-18",
+  "min_age": 12,
+  "max_age": 18,
+  "category": "daily-routines",
+  "keywords": [
+    "washing",
+    "dishes",
+    "chores"
+  ],
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/12-18/daily-routines/washing-the-dishes-dd1978d8-ed09-402b-ab59-89bccdcadd74.png"
+  ],
+  "alt_text": "washing the dishes · nonbinary · medium",
+  "generation_prompt": "Use ONLY the middle right character in the attached 3 by 3 stylesheet: medium skin-tone row, nonbinary column. Do not blend figures. Keep the character recognizable through skin tone, hair silhouette and texture, facial proportions, distinguishing features, and outfit unless explicitly overridden. Match the selected reference’s clean anime linework, soft restrained shading, natural facial proportions, hair silhouette, and muted clothing palette. Show one age-appropriate nonbinary character for ages 12-18, with expressive facial features. Change pose, gaze, and expression to fit the action. Use natural hand grips, connected limbs, and clear contact with essential props. Leave the space around the figure and essential props genuinely transparent. Compose one readable square illustration with generous margins. No captions, lettering, logos, watermarks, grid lines, or multiple panels. The reference activity is not the requested action. Requested visual: Use ONLY the middle right character in the attached 3 by 3 stylesheet: medium skin-tone row, nonbinary column. Do not blend figures. Keep the character recognizable through skin tone, hair silhouette and texture, facial proportions, distinguishing features, and outfit unless explicitly overridden. Match the selected reference’s clean anime linework, soft restrained shading, natural facial proportions, hair silhouette, and muted clothing palette. Show one age-appropriate nonbinary character for ages 12-18, with expressive facial features. Change pose, gaze, and expression to fit the action. Use natural hand grips, connected limbs, and clear contact with essential props. Leave the space around the figure and essential props genuinely transparent. Compose one readable square illustration with generous margins. No captions, lettering, logos, watermarks, grid lines, or multiple panels. The reference activity is not the requested action. Create one original illustration. Action and essential props: washing the dishes. Follow the selected stylesheet and character. Keep the action readable at small sizes. No text or logos.",
+  "source": "Generated with OpenAI gpt-image-1.5 using the ABHP Anime style 1 stylesheet",
+  "usage_rights": "Original ABHP artwork: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.en). Attribute Ryan Baker-Barrett of Applied Behavioral Health Practice; link https://getadhd.care and https://appliedbehavioral.health. Indicate changes and share adaptations under the same license. Third-party source materials retain their original licenses and attribution. Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health.",
+  "gender_variant": "nonbinary",
+  "skin_tone": "medium",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "reference_style": "anime-1",
+  "grid_position": "middle-right",
+  "background_mode": "transparent",
+  "setting": "",
+  "character_reference": {
+    "id": "abhp-anime-1-92729bab5157",
+    "style": "Anime style 1",
+    "asset": "catalog/references/stylesheet_1.png",
+    "source": "https://raw.githubusercontent.com/appliedbhp/visual-supports/92729bab5157d7ee8de060bcc69f3a2087803f73/catalog/references/stylesheet_1.png",
+    "repository_commit": "92729bab5157d7ee8de060bcc69f3a2087803f73",
+    "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
+  },
+  "image_sha256": "d7a4f6537686a9f22192c35412caea2351f6092e4afdfe3d6c4c0668079b845d",
+  "created_at": "2026-11-07T20:25:16.814Z"
+}
