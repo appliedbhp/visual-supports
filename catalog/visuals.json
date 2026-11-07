@@ -3116,5 +3116,161 @@
     },
     "image_sha256": "68e49fc95318d1ed346b979551607330bd3c9a58cef08d1ebbb755818629251e",
     "created_at": "2026-11-07T04:39:17.133Z"
+  },
+  {
+    "id": "admin-997d530f-f190-4a4d-8d40-95842bb758b1",
+    "title": "reading a book",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "reading",
+      "book"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/0-5/daily-routines/reading-a-book-997d530f-f190-4a4d-8d40-95842bb758b1.png"
+    ],
+    "alt_text": "reading a book",
+    "generation_prompt": "Use the attached Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape, dark contour weight, facial proportions, mouth variant02, eyes variant24, and eyebrows variant10. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Preserve these exact face features and white skin across every age strand. Extend the reference into the full action and essential props, with consistent clean, flat illustration and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not reproduce the avatar as a floating portrait or add text, labels, borders, gradients, or shadows. If the requested concept is an object without a person, preserve the same clean contours and palette. Requested visual: Create one standalone square visual support. Action: reading a book Age strand: 0-5. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: default. Use mouth variant02, eyes variant24, and eyebrows variant10. Adapt proportions and context respectfully for ages 0-5.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Use on roadmap.getadhd.care only Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "default",
+    "character_reference": {
+      "id": "dicebear-adventurer-default-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "100",
+        "eyesProbability": "100",
+        "eyebrowsProbability": "100",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-default-v1.png"
+    },
+    "image_sha256": "ec0ccbb10e1a902dee888fa1d37b4c4385280b5f5e2bac3363e26be9f61cc2af",
+    "created_at": "2026-11-07T04:44:57.528Z"
+  },
+  {
+    "id": "admin-1d0dec83-322f-4a03-a014-19c9941f1703",
+    "title": "reading a book",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "reading",
+      "book"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/reading-a-book-1d0dec83-322f-4a03-a014-19c9941f1703.png"
+    ],
+    "alt_text": "reading a book",
+    "generation_prompt": "Use the attached Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape, dark contour weight, facial proportions, mouth variant02, eyes variant24, and eyebrows variant10. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Preserve these exact face features and white skin across every age strand. Extend the reference into the full action and essential props, with consistent clean, flat illustration and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not reproduce the avatar as a floating portrait or add text, labels, borders, gradients, or shadows. If the requested concept is an object without a person, preserve the same clean contours and palette. Requested visual: Create one standalone square visual support. Action: reading a book Age strand: 6-11. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: default. Use mouth variant02, eyes variant24, and eyebrows variant10. Adapt proportions and context respectfully for ages 6-11.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Use on roadmap.getadhd.care only Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "default",
+    "character_reference": {
+      "id": "dicebear-adventurer-default-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "100",
+        "eyesProbability": "100",
+        "eyebrowsProbability": "100",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-default-v1.png"
+    },
+    "image_sha256": "4491194cec39c851bf9f313a8737a5e3229da23300839dab3a253ece082e6331",
+    "created_at": "2026-11-07T04:44:58.558Z"
+  },
+  {
+    "id": "admin-c75ce68f-cdbc-41d4-99ed-179c2cfa68bb",
+    "title": "reading a book",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "reading",
+      "book"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/reading-a-book-c75ce68f-cdbc-41d4-99ed-179c2cfa68bb.png"
+    ],
+    "alt_text": "reading a book",
+    "generation_prompt": "Use the attached Adventurer avatar as the mandatory character and illustration reference. Match its head shape, ear shape, dark contour weight, facial proportions, mouth variant02, eyes variant24, and eyebrows variant10. Keep the character bald with no glasses or accessories and opaque white (#FFFFFF) skin. Preserve these exact face features and white skin across every age strand. Extend the reference into the full action and essential props, with consistent clean, flat illustration and ink #24243B. Adapt body proportions, clothing and context respectfully for the selected age strand. Keep the background genuinely transparent and white skin opaque. Do not reproduce the avatar as a floating portrait or add text, labels, borders, gradients, or shadows. If the requested concept is an object without a person, preserve the same clean contours and palette. Requested visual: Create one standalone square visual support. Action: reading a book Age strand: 12-18. Match the attached Adventurer character and the requested face version. Use clean flat shapes, dark contours, opaque white skin, a bald head, and no glasses. Keep the action clear at small size with essential props and generous margins. Use a genuinely transparent background. No text, numbers, labels, logos, borders, gradients, or shadows. Use ink #24243B, white, lavender #A78BFA, blue #4C8DFF, teal #2CC6B0, yellow #FFD447, and coral #FF6B6B as needed. Face version: default. Use mouth variant02, eyes variant24, and eyebrows variant10. Adapt proportions and context respectfully for ages 12-18.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the DiceBear Adventurer reference",
+    "usage_rights": "Use on roadmap.getadhd.care only Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+    "visual_mode": "character",
+    "face_variant": "default",
+    "character_reference": {
+      "id": "dicebear-adventurer-default-v1",
+      "style": "adventurer",
+      "version": "10.x",
+      "source": "https://www.dicebear.com/styles/adventurer/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Lisa Wischofsky",
+      "attribution": "Adventurer by Lisa Wischofsky, via DiceBear, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character settings customized; action artwork adapted with AI.",
+      "options": {
+        "seed": "abhp-visual-supports-v1",
+        "size": "512",
+        "hairProbability": "0",
+        "glassesProbability": "0",
+        "earringsProbability": "0",
+        "detailsProbability": "0",
+        "mouthVariant": "variant02",
+        "eyesVariant": "variant24",
+        "eyebrowsVariant": "variant10",
+        "mouthProbability": "100",
+        "eyesProbability": "100",
+        "eyebrowsProbability": "100",
+        "skinColor": "ffffff",
+        "inkColor": "24243b"
+      },
+      "asset": "references/dicebear-adventurer-default-v1.png"
+    },
+    "image_sha256": "d5eb1ae92803b2836cdf5ea208ff2b89dce13873ace5b9dd57be1ca99c052bfa",
+    "created_at": "2026-11-07T04:44:59.495Z"
   }
 ]
