@@ -11615,5 +11615,98 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Complete cage, visible hamster and transparent alpha checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "0-5-learning-and-tasks-fish-in-tank-realism-v1",
+    "title": "Pet fish swimming in its tank",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "fish",
+      "goldfish",
+      "pet",
+      "swimming",
+      "tank",
+      "aquarium",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Simplified symbolic-color cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/animals/fish-in-tank.png"
+    ],
+    "alt_text": "A blue cartoon fish with orange fins swims to the right inside a rectangular aquarium, above beige gravel and beside a small green plant.",
+    "generation_prompt": "Create ONE AAC-style pictogram of a PET FISH SWIMMING INSIDE ITS TANK. Single common goldfish swimming horizontally toward right at center-right inside a simple rectangular glass aquarium, front three-quarter slightly elevated view. Whole tank visible centered on square transparent background with generous consistent margins. Minimal pale blue water region, thin gravel layer, one small simple aquatic plant at rear left. Glass wall represented by dark outlines only, no glare or reflections. Fish clearly separated from tank frame and plant. Bold rounded #202020 outlines, fully opaque subject color regions, flat solid fills. No people, scenery, stand, text, labels, watermark, motion lines, gradients, highlights, haze, paper or photographic texture. Same species, pose, orientation and composition throughout series. AGE 5: highly simplified cartoon, few big rounded shapes, compact rounded fish body, oversized simple eye, tiny fins and simple fan tail. Fish symbolic saturated blue #1769AA, tail and fins accent orange #F28C28. Smooth crisp boundaries, uniform flat fills, absolutely no shadows. Tank extremely simple, no extra accessories, fish recognizable as swimming at small size.",
+    "source": "Generated with built-in OpenAI image_gen using the saved age-progressive AAC realism and color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Complete tank, visible swimming fish and transparent outer background checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "6-11-learning-and-tasks-fish-in-tank-realism-v1",
+    "title": "Pet fish swimming in its tank",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "fish",
+      "goldfish",
+      "pet",
+      "swimming",
+      "tank",
+      "aquarium",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic natural-color illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/animals/fish-in-tank.png"
+    ],
+    "alt_text": "A simplified orange-gold fish swims to the right inside a rectangular aquarium, above beige gravel and beside a small green plant.",
+    "generation_prompt": "Create ONE AAC-style pictogram of a PET FISH SWIMMING INSIDE ITS TANK. Single common goldfish swimming horizontally toward right at center-right inside a simple rectangular glass aquarium, front three-quarter slightly elevated view. Whole tank visible centered on square transparent background with generous consistent margins. Minimal pale blue water region, thin gravel layer, one small simple aquatic plant at rear left. Glass wall represented by dark outlines only, no glare or reflections. Fish clearly separated from tank frame and plant. Bold rounded #202020 outlines, fully opaque subject color regions, flat solid fills. No people, scenery, stand, text, labels, watermark, motion lines, gradients, highlights, haze, paper or photographic texture. Same species, pose, orientation and composition throughout series. AGE 10: moderately realistic illustration. Recognizable common goldfish with more natural elongated oval body, smaller dark eye, defined gill cover, correctly placed dorsal and pectoral fins, gently forked tail. Natural orange-gold body and fins with pale cream underside, NOT BLUE FISH. Limited natural colors, green aquatic plant, beige gravel, pale blue uniform water. Gently hand-drawn boundaries, selective internal fin structure lines and a few subtle hard-edged solid shadow shapes. No smiling human mouth, no giant eyes, no scale texture, no smooth shading.",
+    "source": "Generated with built-in OpenAI image_gen using the saved age-progressive AAC realism and color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Complete tank, visible swimming fish and transparent outer background checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "12-18-learning-and-tasks-fish-in-tank-realism-v1",
+    "title": "Pet fish swimming in its tank",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "fish",
+      "goldfish",
+      "pet",
+      "swimming",
+      "tank",
+      "aquarium",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/animals/fish-in-tank.png"
+    ],
+    "alt_text": "A naturally proportioned orange-gold common goldfish swims to the right inside a rectangular aquarium, above beige gravel and beside a small green plant.",
+    "generation_prompt": "Create ONE AAC-style pictogram of a PET FISH SWIMMING INSIDE ITS TANK. Single common goldfish swimming horizontally toward right at center-right inside a simple rectangular glass aquarium, front three-quarter slightly elevated view. Whole tank visible centered on square transparent background with generous consistent margins. Minimal pale blue water region, thin gravel layer, one small simple aquatic plant at rear left. Glass wall represented by dark outlines only, no glare or reflections. Fish clearly separated from tank frame and plant. Bold rounded #202020 outlines, fully opaque subject color regions, flat solid fills. No people, scenery, stand, text, labels, watermark, motion lines, gradients, highlights, haze, paper or photographic texture. Same species, pose, orientation and composition throughout series. TEEN: naturalistic scientific educational pictogram of an anatomically accurate adult COMMON GOLDFISH, streamlined elongated carp-like body, proportionate small dark eye, natural terminal mouth, accurate operculum, single upright dorsal fin, correctly placed paired pectoral and pelvic fins, anal fin and natural forked caudal fin. Body natural warm orange-gold, deeper orange dorsal region, cream-gold belly, muted orange fins with a few restrained structural rays. Avoid oversized eyes, human smile, round baby body and fantasy decorative fins. Accurate aquarium perspective, restrained dark frame, muted natural green plant, beige-brown gravel, uniform pale blue water. Controlled bold #202020 hand-drawn outlines, mature field-guide illustration reduced to deliberate flat opaque regions and a few realistic hard-edged solid darker shadow areas. No scale texture, no gradients, no smooth shading, no glass reflection or specular highlights. Clear fish swimming inside tank, not floating outside.",
+    "source": "Generated with built-in OpenAI image_gen using the saved age-progressive AAC realism and color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Complete tank, visible swimming fish and transparent outer background checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
   }
 ]
