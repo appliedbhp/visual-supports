@@ -11153,5 +11153,167 @@
     "image_sha256": "dbe12e8915ae3b7d205bba8b3c988bb2f5f76d2764181531d9a9f556d219e39f",
     "created_at": "2026-11-07",
     "review_notes": "Draft pending owner review. Clear putting-clothes-in-hamper action, complete framing and transparent alpha checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "0-5-learning-and-tasks-dog-sitting-realism-v1",
+    "title": "Dog sitting",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "dog",
+      "sitting",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Simplified symbolic-color cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/animals/dog-sitting.png"
+    ],
+    "alt_text": "A blue cartoon dog sitting with its front paws planted, wearing an orange collar.",
+    "generation_prompt": "Create ONE AAC pictogram of a dog sitting. Single floppy-eared Labrador, full body, three-quarter view facing right, front paws planted, seated haunches visible, tail curving left. Square canvas, centered with consistent 10% margins, genuinely transparent background, opaque subject fills. Bold rounded #202020 outlines matching approved reference's clarity; reference only supplies line style, never copy person or objects. No people, scenery, props, text, labels, watermark. Solid flat color regions only, no gradients, highlights, haze, paper or photographic texture, fur strands. Age 5: highly simplified friendly cartoon, large round head, oversized simple eyes, short muzzle, compact body, short chunky legs. Minimal internal lines, crisp smooth boundaries. Body uniform saturated #1769AA blue, simple collar #F28C28 orange. Absolutely no shadows. Few large clear shapes, readable at small size.",
+    "source": "Generated with built-in OpenAI image_gen using the user-approved AAC reference and age-progressive realism/color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Generated draft. Transparent alpha and complete subject checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "6-11-learning-and-tasks-dog-sitting-realism-v1",
+    "title": "Dog sitting",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "dog",
+      "sitting",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic natural-color illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/animals/dog-sitting.png"
+    ],
+    "alt_text": "A golden-tan illustrated dog sitting with its front paws planted, wearing an orange collar.",
+    "generation_prompt": "Create ONE AAC pictogram of a dog sitting. Single floppy-eared Labrador, full body, three-quarter view facing right, front paws planted, seated haunches visible, tail curving left. Square canvas, centered with consistent 10% margins, genuinely transparent background, opaque subject fills. Bold rounded #202020 outlines matching approved reference's clarity; reference only supplies line style, never copy person or objects. No people, scenery, props, text, labels, watermark. Solid flat color regions only, no gradients, highlights, haze, paper or photographic texture, fur strands. Age 10: moderately realistic illustrated yellow Labrador. Moderately sized head, defined projecting muzzle, smaller natural dark brown eyes, more believable body proportions and leg lengths. Still simplified and friendly, not babyish. Clearly distinguish chest, front legs, haunches and paws. Body NATURAL GOLDEN TAN, NOT BLUE. Limited natural palette, darker golden ears, charcoal nose, plain orange collar #F28C28. Gently hand-drawn boundaries and only a few subtle hard-edged flat darker-tan shadows at overlaps. No shiny nose or eye highlights.",
+    "source": "Generated with built-in OpenAI image_gen using the user-approved AAC reference and age-progressive realism/color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Generated draft. Transparent alpha and complete subject checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "12-18-learning-and-tasks-dog-sitting-realism-v1",
+    "title": "Dog sitting",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "dog",
+      "sitting",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/animals/dog-sitting.png"
+    ],
+    "alt_text": "A naturally colored adult yellow Labrador sitting with its front paws planted, wearing an orange collar.",
+    "generation_prompt": "Create ONE AAC pictogram of a dog sitting. Single floppy-eared Labrador, full body, three-quarter view facing right, front paws planted, seated haunches visible, tail curving left. Square canvas, centered with consistent 10% margins, genuinely transparent background, opaque subject fills. Bold rounded #202020 outlines matching approved reference's clarity; reference only supplies line style, never copy person or objects. No people, scenery, props, text, labels, watermark. Solid flat color regions only, no gradients, highlights, haze, paper or photographic texture, fur strands. Teen: naturalistic pictogram, accurate ADULT yellow Labrador anatomy as in a veterinary field guide reduced to flat color regions. Head proportionate at one-quarter sitting height, broad projecting real canine muzzle with natural jowls and neutral closed mouth, small almond brown eyes, realistic folded ears, defined deep chest and shoulders, natural long forelegs and compact paws, anatomically correct seated haunches and hocks. No raised cartoon eyebrows, human smile, oversized eyes or puppy proportions. Natural warm golden coat, cream muzzle and underside, darker golden ears, charcoal-black nose, plain orange collar. Controlled bold hand-drawn outlines. Realistic volume described by a few deliberate hard-edged solid darker natural coat shadow shapes. FLAT fills, NO smooth shading, NO gradients, NO specular glints in eyes or nose, NO fur texture. Mature educational illustration, visibly more anatomically realistic than a children's cartoon.\n",
+    "source": "Generated with built-in OpenAI image_gen using the user-approved AAC reference and age-progressive realism/color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Generated draft. Transparent alpha and complete subject checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "0-5-learning-and-tasks-cat-sleeping-realism-v1",
+    "title": "Cat sleeping",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "cat",
+      "sleeping",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Simplified symbolic-color cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/animals/cat-sleeping.png"
+    ],
+    "alt_text": "A blue cartoon cat sleeping curled up, eyes closed, head resting on its paws and tail wrapped around its body.",
+    "generation_prompt": "Create ONE AAC-style pictogram depicting CAT SLEEPING. Single domestic shorthair cat curled up asleep, head resting on tucked front paws at right, body curving left, tail wrapped along front of body. Eyes closed. Same three-quarter slightly elevated view for series. Full body centered on square transparent background, consistent 10% margins. Bold rounded #202020 outlines following approved reference's line style and clarity ONLY; never include its person or furniture. Fully opaque subject, deliberate solid flat color regions. No text, Z symbols, people, scenery, bed, props, decorative marks, watermark, gradients, highlights, haze, paper texture, photographic texture or individual fur strands. AGE 5: least realistic highly simplified cartoon. Large rounded head, tiny rounded muzzle, oversized triangular ears softened at tips, compact oval curled body, chunky simplified paws, minimal internal lines. Blue body #1769AA, small plain orange collar #F28C28. Smooth crisp boundaries and flat uniform fills, absolutely no shadows. Closed eyes as simple curved lines; recognizable sleeping pose at small size.",
+    "source": "Generated with built-in OpenAI image_gen using the user-approved AAC reference and age-progressive realism/color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Generated draft. Transparent alpha and complete subject checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "6-11-learning-and-tasks-cat-sleeping-realism-v1",
+    "title": "Cat sleeping",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "cat",
+      "sleeping",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic natural-color illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/animals/cat-sleeping.png"
+    ],
+    "alt_text": "A simplified ginger tabby cat sleeping curled up, eyes closed, head resting on its paws and tail wrapped around its body.",
+    "generation_prompt": "Create ONE AAC-style pictogram depicting CAT SLEEPING. Single domestic shorthair cat curled up asleep, head resting on tucked front paws at right, body curving left, tail wrapped along front of body. Eyes closed. Same three-quarter slightly elevated view for series. Full body centered on square transparent background, consistent 10% margins. Bold rounded #202020 outlines following approved reference's line style and clarity ONLY; never include its person or furniture. Fully opaque subject, deliberate solid flat color regions. No text, Z symbols, people, scenery, bed, props, decorative marks, watermark, gradients, highlights, haze, paper texture, photographic texture or individual fur strands. AGE 10: moderately realistic illustration of sleeping domestic shorthair cat. Head moderately sized, smaller natural ears relative to skull, defined feline muzzle, believable curled torso and tucked paws. Reduce cartoon exaggeration. Natural warm ginger coat, a few simple darker ginger tabby markings, cream muzzle, dark nose; plain orange collar. Limited natural palette; NOT BLUE. Gently hand-drawn boundaries, selective anatomy detail and a few subtle hard-edged solid shadow shapes at overlapping limbs and head. No highlights or gradients.",
+    "source": "Generated with built-in OpenAI image_gen using the user-approved AAC reference and age-progressive realism/color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Generated draft. Transparent alpha and complete subject checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
+  },
+  {
+    "id": "12-18-learning-and-tasks-cat-sleeping-realism-v1",
+    "title": "Cat sleeping",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "cat",
+      "sleeping",
+      "animals",
+      "AAC",
+      "pictogram",
+      "realism progression"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/animals/cat-sleeping.png"
+    ],
+    "alt_text": "A naturally proportioned ginger tabby cat sleeping curled up, eyes closed, head resting on its paws and tail wrapped around its body.",
+    "generation_prompt": "Create ONE naturalistic AAC pictogram of an ADULT domestic shorthair ginger tabby cat SLEEPING curled up, three-quarter slightly elevated view, head resting on tucked front paws at right, rounded body left, tail wrapped along front. Veterinary field-guide anatomical illustration simplified into a limited palette of opaque FLAT solid regions with bold clean #202020 outlines. This is the most realistic teen version: accurate adult cat proportions, SMALL head relative to torso, small anatomically shaped ears folded slightly sideways in relaxation, wedge-shaped skull, natural short muzzle without human smiling mouth, closed eyes as fine relaxed eyelid curves, adult feline shoulders and haunches, compact tucked paws. DO NOT draw a large round cartoon head, giant ears, big chunky paws, cheerful eyebrows or a cute smiling kitten. Natural warm ginger fur color, restrained rust tabby markings, cream chin and paws, muted pink-brown small nose, slim orange collar. Hard edged uniform darker coat shadow regions ONLY, no gradients, no highlights, no individual fur hairs, no texture. Full body on square TRANSPARENT background, centered 10% margins. No bed, scenery, text, Zs, people, props, border, watermark. Naturalistic mature scientific illustration, not children's cartoon.",
+    "source": "Generated with built-in OpenAI image_gen using the user-approved AAC reference and age-progressive realism/color prompt.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Generated draft. Transparent alpha and complete subject checked. Some tonal variation remains despite flat-fill instructions; exact hex colors are not guaranteed."
   }
 ]

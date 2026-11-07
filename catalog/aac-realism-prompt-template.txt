@@ -1,0 +1,41 @@
+Create three separate AAC-style pictograms depicting:
+
+[DESCRIBE THE OBJECT, ANIMAL, OR ACTION HERE]
+
+Produce one version for a 5-year-old, one for a 10-year-old, and one for a teen.
+
+Show a clear progression in shape, proportions, detail, and coloring:
+simple cartoon → moderately realistic illustration → naturalistic pictogram.
+
+Use the attached approved reference for its bold, rounded outline style and visual clarity. Adapt realism and colors according to the age specifications below.
+
+Shared requirements:
+- Depict the same subject and action across all three versions.
+- Keep the viewing angle, orientation, and composition consistent.
+- Include only elements necessary to communicate the requested concept. Include people only if requested or essential to the action.
+- Show the entire subject, centered on a square transparent background with consistent margins.
+- Use bold outlines in #202020.
+- Use fully opaque subject fills with strong figure/background contrast.
+- Use deliberate, solid color regions. No gradients, highlights, haze, paper texture, or photographic surface texture.
+- No text, labels, decorative elements, or watermarks.
+- Preserve identifying features and make the concept recognizable at a small size.
+- Colors may change between versions to become increasingly realistic. Do not force the same palette across all ages.
+
+5-year-old — highly simplified cartoon with symbolic color
+Reduce the subject to a few clear, rounded shapes with exaggerated identifying features and minimal internal lines. For living subjects, use friendly cartoon proportions. For objects, simplify parts while preserving their recognizable structure.
+
+Use saturated blue #1769AA as the primary symbolic color and orange #F28C28 as an accent where useful. Retain any color essential to understanding the concept. Use smooth, crisp boundaries and uniform flat fills. No shadows.
+
+10-year-old — moderately realistic illustration with simplified natural color
+Use more believable proportions, clearer structure, and a selective increase in detail. Reduce cartoon exaggeration while preserving easy recognition.
+
+Replace symbolic colors with a limited palette of recognizable real-world colors appropriate to the subject. Use gently hand-drawn boundaries and a few subtle, hard-edged solid shadow shapes to clarify depth and overlapping parts.
+
+Teen — naturalistic pictogram with believable coloring
+Use accurate real-world proportions, anatomy or construction, and defining details. Avoid childish exaggeration, oversized eyes, human-like expressions on animals or objects, and unnecessarily rounded forms.
+
+Use believable colors and material distinctions appropriate to the subject. Choose colors for natural appearance rather than matching the blue and orange palette. Use controlled hand-drawn outlines and realistically placed, hard-edged solid shadow regions to describe volume. Keep detail selective enough to remain readable as an AAC symbol.
+
+The final set must show a distinct progression in both form and color. Do not reuse the same cartoon drawing and merely add shadows or change its fill.
+
+Workflow preference: For each new scene supplied in this chat, generate three separate versions, then upload them to https://github.com/appliedbhp/visual-supports. Preserve earlier versions unless replacement is requested.
