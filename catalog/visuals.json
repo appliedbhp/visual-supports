@@ -12806,5 +12806,381 @@
     "generation_prompt": "Create ONE square transparent PNG AAC pictogram of a single clear drinking glass three quarters full of water, with three ice cubes visible at the waterline. Slightly elevated front view, full glass centered with generous margins, bold rounded #202020 outlines. No text, people, table, props, gradients, glare or photographic textures. Transparent background outside glass; use distinct pale blue and near-white solid fills inside for readability. Teen: naturalistic drinking glass with believable wall thickness, elliptical rim and waterline, thicker glass base, three proportionate ice cubes partly submerged. Use subtle near-clear blue-gray, muted cool white, and flat solid ice facets and water bands to convey transparent materials. No specular reflections or soft shading. Keep water and ice immediately recognizable.",
     "source": "Built-in OpenAI image generation using the saved AAC prompt.",
     "created_at": "2026-11-07"
+  },
+  {
+    "id": "12-18-daily-routines-make-the-bed-comic-v1",
+    "title": "Make the bed",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "make the bed",
+      "bed",
+      "bedding",
+      "bedroom chore"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/make-the-bed.svg"
+    ],
+    "alt_text": "A comic character is pulling a blue blanket flat across a bed, pillow visible.",
+    "generation_prompt": "Show the established wiry-haired comic character pulling a blue blanket flat across a bed, pillow visible. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-take-out-the-trash-comic-v1",
+    "title": "Take out the trash",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "take out the trash",
+      "trash",
+      "garbage",
+      "rubbish"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/take-out-the-trash.svg"
+    ],
+    "alt_text": "A comic character is lowering a tied black trash bag into an outdoor gray trash bin with open lid.",
+    "generation_prompt": "Show the established wiry-haired comic character lowering a tied black trash bag into an outdoor gray trash bin with open lid. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-sort-recycling-comic-v1",
+    "title": "Sort recycling",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "sort recycling",
+      "recycling",
+      "sorting",
+      "cans",
+      "cardboard"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/sort-recycling.svg"
+    ],
+    "alt_text": "A comic character is dropping an empty aluminum can into an open blue recycling bin with a recycling-arrow symbol, flattened cardboard nearby.",
+    "generation_prompt": "Show the established wiry-haired comic character dropping an empty aluminum can into an open blue recycling bin with a recycling-arrow symbol, flattened cardboard nearby. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-vacuum-the-floor-comic-v1",
+    "title": "Vacuum the floor",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "vacuum the floor",
+      "vacuum",
+      "cleaning",
+      "floor"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/vacuum-the-floor.svg"
+    ],
+    "alt_text": "A comic character is pushing an upright vacuum cleaner over a small rug, one hand on the handle.",
+    "generation_prompt": "Show the established wiry-haired comic character pushing an upright vacuum cleaner over a small rug, one hand on the handle. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-wipe-the-counter-comic-v1",
+    "title": "Wipe the counter",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "wipe the counter",
+      "wipe",
+      "counter",
+      "cleaning"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/wipe-the-counter.svg"
+    ],
+    "alt_text": "A comic character is wiping a kitchen counter with a teal cloth, a plain spray bottle beside their other hand.",
+    "generation_prompt": "Show the established wiry-haired comic character wiping a kitchen counter with a teal cloth, a plain spray bottle beside their other hand. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-set-the-table-comic-v1",
+    "title": "Set the table",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "set the table",
+      "table setting",
+      "plates",
+      "mealtime"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/set-the-table.svg"
+    ],
+    "alt_text": "A comic character is putting a plate at a place setting beside a fork, knife and glass on a small dining table.",
+    "generation_prompt": "Show the established wiry-haired comic character putting a plate at a place setting beside a fork, knife and glass on a small dining table. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-water-the-plants-comic-v1",
+    "title": "Water the plants",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "water the plants",
+      "watering",
+      "plants",
+      "watering can"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/water-the-plants.svg"
+    ],
+    "alt_text": "A comic character is tilting a blue watering can so its stream falls into the soil of a leafy potted plant.",
+    "generation_prompt": "Show the established wiry-haired comic character tilting a blue watering can so its stream falls into the soil of a leafy potted plant. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-fold-a-towel-comic-v1",
+    "title": "Fold a towel",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "fold a towel",
+      "folding",
+      "towels",
+      "laundry"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/fold-a-towel.svg"
+    ],
+    "alt_text": "A comic character is bringing two corners of a teal bath towel together over a table beside a small stack of neatly folded towels.",
+    "generation_prompt": "Show the established wiry-haired comic character bringing two corners of a teal bath towel together over a table beside a small stack of neatly folded towels. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-take-class-notes-comic-v1",
+    "title": "Take class notes",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "take class notes",
+      "note taking",
+      "notes",
+      "class"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/take-class-notes.svg"
+    ],
+    "alt_text": "A comic character is writing in an open notebook with a pencil at a school desk while glancing up at a small board with only a simple triangle diagram.",
+    "generation_prompt": "Show the established wiry-haired comic character writing in an open notebook with a pencil at a school desk while glancing up at a small board with only a simple triangle diagram. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-turn-in-an-assignment-comic-v1",
+    "title": "Turn in an assignment",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "turn in an assignment",
+      "assignment",
+      "submit work",
+      "turn in work"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/turn-in-an-assignment.svg"
+    ],
+    "alt_text": "A comic character is sliding a loose sheet into a stackable classroom paper tray on a desk, holding a plain folder in the other hand.",
+    "generation_prompt": "Show the established wiry-haired comic character sliding a loose sheet into a stackable classroom paper tray on a desk, holding a plain folder in the other hand. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-use-a-school-locker-comic-v1",
+    "title": "Use a school locker",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "use a school locker",
+      "locker",
+      "school",
+      "textbook"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/use-a-school-locker.svg"
+    ],
+    "alt_text": "A comic character is placing a textbook onto the shelf inside an open tall school locker with horizontal door vents and a small backpack inside.",
+    "generation_prompt": "Show the established wiry-haired comic character placing a textbook onto the shelf inside an open tall school locker with horizontal door vents and a small backpack inside. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-measure-with-a-ruler-comic-v1",
+    "title": "Measure with a ruler",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "measure with a ruler",
+      "ruler",
+      "measure",
+      "measurement"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/measure-with-a-ruler.svg"
+    ],
+    "alt_text": "A comic character is holding a ruler with tick marks along the edge of a paper strip on a desk, making a pencil mark at one end.",
+    "generation_prompt": "Show the established wiry-haired comic character holding a ruler with tick marks along the edge of a paper strip on a desk, making a pencil mark at one end. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-work-with-a-partner-comic-v1",
+    "title": "Work with a partner",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "work with a partner",
+      "partner work",
+      "group work",
+      "teamwork"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/work-with-a-partner.svg"
+    ],
+    "alt_text": "A comic character is sitting next to a classmate at a small school table, both pointing at different parts of one shared paper diagram.",
+    "generation_prompt": "Show the established wiry-haired comic character sitting next to a classmate at a small school table, both pointing at different parts of one shared paper diagram. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-do-a-science-experiment-comic-v1",
+    "title": "Do a science experiment",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "do a science experiment",
+      "science",
+      "experiment",
+      "lab"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/do-a-science-experiment.svg"
+    ],
+    "alt_text": "A comic character is wearing safety goggles and carefully pouring bright blue liquid from a small graduated cylinder into a conical flask on a lab bench.",
+    "generation_prompt": "Show the established wiry-haired comic character wearing safety goggles and carefully pouring bright blue liquid from a small graduated cylinder into a conical flask on a lab bench. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-give-a-class-presentation-comic-v1",
+    "title": "Give a class presentation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "give a class presentation",
+      "presentation",
+      "public speaking",
+      "class"
+    ],
+    "status": "draft",
+    "style": "Scruffy ’90s comic illustration",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/give-a-class-presentation.svg"
+    ],
+    "alt_text": "A comic character is standing beside a small easel poster, pointing to a simple diagram while holding a blank index card, a tiny desk edge in foreground.",
+    "generation_prompt": "Show the established wiry-haired comic character standing beside a small easel poster, pointing to a simple diagram while holding a blank index card, a tiny desk edge in foreground. Use bold irregular ink, flat colors, and a transparent background. No lettering.",
+    "source": "Generated with OpenAI image_gen in the established comic style, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
   }
 ]
