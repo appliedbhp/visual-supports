@@ -18664,5 +18664,45 @@
     "image_sha256": "18bc737a606989a92d2dbbceadf99ae2e48bf13ee0f0e408d47f81719a5c1d23",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "admin-eee86a56-db31-4b19-89f8-1fae47574880",
+    "title": "washing the dishes",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "washing",
+      "dishes",
+      "chores"
+    ],
+    "status": "ready",
+    "style": "illustration",
+    "assets": [
+      "visuals/12-18/daily-routines/washing-the-dishes-eee86a56-db31-4b19-89f8-1fae47574880.png"
+    ],
+    "alt_text": "washing the dishes · male · dark",
+    "generation_prompt": "Use ONLY the bottom left character in the attached 3 by 3 stylesheet: dark skin-tone row, male column. Do not blend figures. Keep the character recognizable through skin tone, hair silhouette and texture, facial proportions, distinguishing features, and outfit unless explicitly overridden. Match the energetic 90s cartoon ink, exaggerated expressive features, thick varied outlines, and colorful retro clothing of the selected figure. Show one age-appropriate male character for ages 12-18, with expressive facial features. Change pose, gaze, and expression to fit the action. Use natural hand grips, connected limbs, and clear contact with essential props. Leave the space around the figure and essential props genuinely transparent. Compose one readable square illustration with generous margins. No captions, lettering, logos, watermarks, grid lines, or multiple panels. The reference activity is not the requested action. Requested visual: Use ONLY the bottom left character in the attached 3 by 3 stylesheet: dark skin-tone row, male column. Do not blend figures. Keep the character recognizable through skin tone, hair silhouette and texture, facial proportions, distinguishing features, and outfit unless explicitly overridden. Match the energetic 90s cartoon ink, exaggerated expressive features, thick varied outlines, and colorful retro clothing of the selected figure. Show one age-appropriate male character for ages 12-18, with expressive facial features. Change pose, gaze, and expression to fit the action. Use natural hand grips, connected limbs, and clear contact with essential props. Leave the space around the figure and essential props genuinely transparent. Compose one readable square illustration with generous margins. No captions, lettering, logos, watermarks, grid lines, or multiple panels. The reference activity is not the requested action. Create one original illustration. Action and essential props: washing the dishes. Follow the selected stylesheet and character. Keep the action readable at small sizes. No text or logos.",
+    "source": "Generated with OpenAI gpt-image-1.5 using the ABHP 90s stylesheet",
+    "usage_rights": "Original ABHP artwork: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.en). Attribute Ryan Baker-Barrett of Applied Behavioral Health Practice; link https://getadhd.care and https://appliedbehavioral.health. Indicate changes and share adaptations under the same license. Third-party source materials retain their original licenses and attribution. Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health.",
+    "gender_variant": "male",
+    "skin_tone": "dark",
+    "visual_mode": "character",
+    "face_variant": "default",
+    "reference_style": "90s",
+    "grid_position": "bottom-left",
+    "background_mode": "transparent",
+    "setting": "",
+    "character_reference": {
+      "id": "abhp-90s-92729bab5157",
+      "style": "90s",
+      "asset": "catalog/references/90s-theme.png",
+      "source": "https://raw.githubusercontent.com/appliedbhp/visual-supports/92729bab5157d7ee8de060bcc69f3a2087803f73/catalog/references/90s-theme.png",
+      "repository_commit": "92729bab5157d7ee8de060bcc69f3a2087803f73",
+      "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
+    },
+    "image_sha256": "d77a79a8fde98a942a6826416239a975e8f209cc326c45a71c975c5aec8c14e6",
+    "created_at": "2026-11-07T20:24:17.825Z"
   }
 ]
