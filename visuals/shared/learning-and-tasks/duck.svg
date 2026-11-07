@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 144" role="img" aria-labelledby="title">
+  <title id="title">A mallard with a green head, yellow bill, and gray body.</title>
+  <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
+    <path d="M30 84 Q48 86 63 77 Q77 70 96 78 L103 64 L118 67 Q131 91 111 107 Q89 124 57 113 Q36 107 30 84Z" fill="#beb5ab"/>
+    <path d="M35 97 Q67 119 102 103 Q115 98 121 89 Q116 111 89 115 Q55 119 35 97Z" fill="#9f968d" stroke="none"/>
+    <path d="M61 86 Q79 78 99 88 Q88 104 68 100 L58 96Z" fill="#817b98"/>
+    <path d="M95 77 Q99 66 102 64 L116 67 L121 76 Q109 84 95 77Z" fill="#fff"/>
+    <path d="M96 68 Q88 56 95 46 Q105 32 122 40 Q135 45 133 59 Q131 72 115 75 Q103 77 96 68Z" fill="#51947a"/>
+    <path d="M96 60 Q106 72 128 62 Q124 73 113 74 Q102 75 96 66Z" fill="#3f7867" stroke="none"/>
+    <path d="M130 54 Q143 56 147 61 Q144 69 129 64Z" fill="#e8b852"/>
+    <circle cx="122" cy="51" r="2.6" fill="#23201e" stroke="none"/>
+  </g>
+</svg>

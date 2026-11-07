@@ -12141,5 +12141,411 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "shared-learning-dog",
+    "title": "Dog",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "dog",
+      "animal",
+      "puppy",
+      "canine",
+      "pet",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/dog.svg"
+    ],
+    "alt_text": "A tan dog with floppy brown ears and a raised tail.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A tan dog with floppy brown ears and a raised tail.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-cat",
+    "title": "Cat",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "cat",
+      "animal",
+      "kitten",
+      "feline",
+      "pet",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/cat.svg"
+    ],
+    "alt_text": "An orange cat with pointed ears, whiskers, and a curled tail.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: An orange cat with pointed ears, whiskers, and a curled tail.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-rabbit",
+    "title": "Rabbit",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "rabbit",
+      "animal",
+      "bunny",
+      "pet",
+      "lagomorph",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/rabbit.svg"
+    ],
+    "alt_text": "A gray rabbit with long upright ears and a white cotton tail.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A gray rabbit with long upright ears and a white cotton tail.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-horse",
+    "title": "Horse",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "horse",
+      "animal",
+      "pony",
+      "equine",
+      "farm animal",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/horse.svg"
+    ],
+    "alt_text": "A chestnut horse with a dark mane and tail.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A chestnut horse with a dark mane and tail.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-cow",
+    "title": "Cow",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "cow",
+      "animal",
+      "cattle",
+      "bovine",
+      "farm animal",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/cow.svg"
+    ],
+    "alt_text": "A white cow with black patches and a pink muzzle.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A white cow with black patches and a pink muzzle.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-pig",
+    "title": "Pig",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "pig",
+      "animal",
+      "piglet",
+      "swine",
+      "hog",
+      "farm animal",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/pig.svg"
+    ],
+    "alt_text": "A pink pig with a round snout and a curly tail.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A pink pig with a round snout and a curly tail.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-sheep",
+    "title": "Sheep",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "sheep",
+      "animal",
+      "lamb",
+      "ewe",
+      "wool",
+      "farm animal",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/sheep.svg"
+    ],
+    "alt_text": "A cream-colored sheep with fluffy wool and a charcoal face.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A cream-colored sheep with fluffy wool and a charcoal face.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-goat",
+    "title": "Goat",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "goat",
+      "animal",
+      "kid",
+      "billy goat",
+      "farm animal",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/goat.svg"
+    ],
+    "alt_text": "A tan goat with swept-back horns and a short beard.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A tan goat with swept-back horns and a short beard.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-chicken",
+    "title": "Chicken",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "chicken",
+      "animal",
+      "hen",
+      "poultry",
+      "bird",
+      "farm animal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/chicken.svg"
+    ],
+    "alt_text": "A cream hen with a red comb, orange beak, and slender feet.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A cream hen with a red comb, orange beak, and orange feet.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-duck",
+    "title": "Duck",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "duck",
+      "animal",
+      "duckling",
+      "waterfowl",
+      "bird",
+      "pond animal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/duck.svg"
+    ],
+    "alt_text": "A mallard with a green head, yellow bill, and gray body.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A mallard with a green head, yellow bill, and gray body.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-frog",
+    "title": "Frog",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "frog",
+      "animal",
+      "toad",
+      "amphibian",
+      "pond animal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/frog.svg"
+    ],
+    "alt_text": "A squat green frog with raised eyes and a wide smile.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A squat green frog with raised eyes and a wide smile.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-turtle",
+    "title": "Turtle",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "turtle",
+      "animal",
+      "terrapin",
+      "reptile",
+      "shell"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/turtle.svg"
+    ],
+    "alt_text": "A green turtle with a domed brown shell and short legs.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A green turtle with a domed brown shell and short legs.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-goldfish",
+    "title": "Goldfish",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "goldfish",
+      "animal",
+      "fish",
+      "pet",
+      "aquarium",
+      "fin",
+      "aquatic animal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/goldfish.svg"
+    ],
+    "alt_text": "An orange goldfish with a fan-shaped tail.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: An orange goldfish with a fan-shaped tail.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-elephant",
+    "title": "Elephant",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "elephant",
+      "animal",
+      "pachyderm",
+      "trunk",
+      "safari animal",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/elephant.svg"
+    ],
+    "alt_text": "A gray elephant with a big ear and an upturned trunk.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A gray elephant with a big ear and an upturned trunk.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
+  },
+  {
+    "id": "shared-learning-lion",
+    "title": "Lion",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "lion",
+      "animal",
+      "big cat",
+      "feline",
+      "safari animal",
+      "mammal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/lion.svg"
+    ],
+    "alt_text": "A golden lion with a rust-colored mane and a tufted tail.",
+    "generation_prompt": "Create a standalone SVG in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Build the illustration from simple rounded shapes, clean black outlines with a slightly hand-drawn feel, and sparse details. Preserve the recognizable silhouette and distinctive features. Use representative colors in mostly flat fills, with subtle shading from one soft light direction and a small highlight where helpful. If the animal rests on a surface, use a faint contact shadow. Keep the surrounding canvas transparent and white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding. Subject: A golden lion with a rust-colored mane and a tufted tail.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Rendered preview reviewed."
   }
 ]

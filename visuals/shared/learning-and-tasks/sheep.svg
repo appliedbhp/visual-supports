@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 144" role="img" aria-labelledby="title">
+  <title id="title">A cream-colored sheep with fluffy wool and a charcoal face.</title>
+  <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
+    <path d="M50 99 L48 123 L59 123 L66 101 M87 102 L93 123 L104 123 L103 98Z" fill="#514943"/>
+    <path d="M48 108 Q32 105 37 93 Q26 82 38 73 Q33 58 49 55 Q51 42 67 46 Q76 34 88 44 Q103 37 113 50 Q129 49 132 64 Q145 69 137 83 Q142 96 129 103 Q125 117 108 112 Q97 122 86 113 Q72 121 63 111 Q52 117 48 108Z" fill="#fff3dc"/>
+    <path d="M40 93 Q55 110 69 103 Q82 112 98 103 Q117 112 130 97 Q129 110 110 110 Q98 119 86 111 Q74 117 63 109 Q52 115 48 106 Q41 105 40 93Z" fill="#e4d5bd" stroke="none"/>
+    <path d="M105 62 Q90 54 87 66 Q90 76 104 73 M125 59 Q140 50 146 61 Q146 68 132 71Z" fill="#514943"/>
+    <ellipse cx="120" cy="79" rx="16" ry="21" fill="#5a514c"/>
+    <path d="M103 61 Q102 53 112 53 Q117 46 124 52 Q135 51 136 62 Q132 69 126 65 Q119 72 114 66 Q106 69 103 61Z" fill="#fff3dc"/>
+    <ellipse cx="117" cy="77" rx="2" ry="2" fill="#fff"/>
+    <ellipse cx="128" cy="77" rx="2" ry="2" fill="#fff"/>
+  </g>
+</svg>

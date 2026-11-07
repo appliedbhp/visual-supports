@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 144" role="img" aria-labelledby="title">
+  <title id="title">A pink pig with a round snout and a curly tail.</title>
+  <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
+    <path d="M47 86 Q29 93 27 81 Q27 73 34 75 Q39 78 33 82 Q25 86 21 80" fill="none"/>
+    <path d="M45 81 Q61 65 96 75 Q114 84 113 105 L108 123 L98 123 L95 113 L66 111 L62 123 L51 123 L52 110 Q38 101 45 81Z" fill="#e9a1a7"/>
+    <path d="M47 100 Q63 112 95 106 L96 113 L66 112 L61 121 L54 121 L54 109Z" fill="#d68793" stroke="none"/>
+    <path d="M88 68 L85 49 Q88 42 104 58 L118 59 Q128 45 133 50 L132 71 Q140 92 123 105 Q103 116 87 101 Q72 87 88 68Z" fill="#efb0b4"/>
+    <ellipse cx="125" cy="88" rx="18" ry="12" fill="#de8997"/>
+    <circle cx="104" cy="76" r="2.6" fill="#23201e" stroke="none"/>
+    <circle cx="124" cy="73" r="2.6" fill="#23201e" stroke="none"/>
+    <circle cx="119" cy="88" r="2.6" fill="#23201e" stroke="none"/>
+    <circle cx="131" cy="87" r="2.6" fill="#23201e" stroke="none"/>
+  </g>
+</svg>

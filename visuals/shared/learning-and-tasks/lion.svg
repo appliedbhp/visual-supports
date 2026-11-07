@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 144" role="img" aria-labelledby="title">
+  <title id="title">A golden lion with a rust-colored mane and a tufted tail.</title>
+  <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
+    <path d="M53 98 Q26 108 26 83 Q26 76 32 71" fill="none"/>
+    <path d="M30 74 Q26 65 36 60 Q44 68 35 75Z" fill="#a4623e"/>
+    <path d="M48 91 Q59 78 88 86 L112 103 L109 124 L95 124 L93 114 L68 113 L62 124 L49 124 L50 111 Q41 103 48 91Z" fill="#dba35b"/>
+    <path d="M47 103 Q63 115 93 106 L94 114 L69 114 L61 122 L51 123 L52 111Z" fill="#bc864a" stroke="none"/>
+    <path d="M77 72 Q73 60 85 55 Q86 41 100 44 Q107 33 118 43 Q131 39 136 51 Q148 55 145 67 Q152 79 143 88 Q145 100 132 103 Q125 115 114 108 Q102 115 94 104 Q82 105 79 92 Q70 84 77 72Z" fill="#af6945"/>
+    <path d="M77 83 Q89 102 114 100 Q134 101 144 86 Q144 100 131 102 Q125 111 114 106 Q103 112 95 102 Q83 104 80 91Z" fill="#935035" stroke="none"/>
+    <ellipse cx="114" cy="75" rx="22" ry="24" fill="#e9b76b"/>
+    <ellipse cx="124" cy="87" rx="13" ry="9" fill="#f6d391"/>
+    <circle cx="106" cy="73" r="2.6" fill="#23201e" stroke="none"/>
+    <circle cx="124" cy="71" r="2.6" fill="#23201e" stroke="none"/>
+    <path d="M119 82 Q124 79 129 81 L124 86Z" fill="#41312b"/>
+    <path d="M124 86 Q122 91 117 90 M124 86 Q126 90 131 89" fill="none"/>
+  </g>
+</svg>

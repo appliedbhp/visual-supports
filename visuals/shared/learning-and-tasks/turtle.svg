@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 144" role="img" aria-labelledby="title">
+  <title id="title">A green turtle with a domed brown shell and short legs.</title>
+  <g stroke="#23201e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="80" cy="128" rx="46" ry="5" fill="#342b28" opacity=".13" stroke="none"/>
+    <path d="M42 97 L27 105 Q39 111 53 104 M51 102 Q40 110 43 123 L57 123 L66 105 M90 104 L92 123 L107 123 Q112 112 104 104Z" fill="#7f9c5c"/>
+    <path d="M99 95 Q107 82 115 71 Q124 60 137 65 Q149 71 143 84 Q138 92 124 91 L114 108 L101 109Z" fill="#91ad68"/>
+    <path d="M34 102 Q39 64 67 57 Q97 49 116 78 Q122 88 122 103 Q92 116 34 102Z" fill="#a77c55"/>
+    <path d="M36 95 Q77 107 121 94 L120 102 Q77 114 35 101Z" fill="#896141" stroke="none"/>
+    <path d="M51 69 Q58 74 60 82 L52 99 M60 82 Q74 86 87 82 Q92 74 96 67 M87 82 L98 101 M68 58 Q68 64 74 70 Q85 71 96 67 M74 70 L72 84" fill="none"/>
+    <circle cx="133" cy="75" r="2.6" fill="#23201e" stroke="none"/>
+  </g>
+</svg>
