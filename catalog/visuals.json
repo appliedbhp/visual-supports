@@ -13182,5 +13182,365 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "0-5-daily-routines-gather-clothes-male",
+    "title": "Pick up and gather clothes — 5-year-old boy",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "pick up clothes",
+      "gather clothes",
+      "laundry",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/gather-clothes-male.png"
+    ],
+    "alt_text": "A 5-year-old boy crouches to pick up an orange sock while holding a blue shirt.",
+    "generation_prompt": "One square transparent AAC pictogram of a 5-year-old boy picking up and gathering clothes from the floor. Full-body three-quarter view, crouching with knees bent, picking up a loose orange sock with one hand while holding a gathered blue shirt against the body with the other arm. One gray sock nearby at foot level, no visible floor plane. The hand is visibly in contact with the sock. No hamper. Match attached homework pictogram style: thick smooth #202020 outlines, expressive large eyes, simple smile, round cartoon proportions adapted to age, opaque white skin and shoes, blue #1769AA shirt and dark gray trousers. Flat fully opaque solid fills, orange #F28C28 accents, no shading or gradients. Entire character and loose laundry centered with clear margins, genuine transparent alpha around artwork. No text, scenery, decorative marks, border or other people.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "f908e33d1933f0fa70b89600f29a51c65fe450480b659c084f310239954e5103",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-gather-clothes-female",
+    "title": "Pick up and gather clothes — 5-year-old girl",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "pick up clothes",
+      "gather clothes",
+      "laundry",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/gather-clothes-female.png"
+    ],
+    "alt_text": "A 5-year-old girl crouches to pick up an orange sock while holding a blue shirt.",
+    "generation_prompt": "One square transparent AAC pictogram of a 5-year-old girl picking up and gathering clothes from the floor. Full-body three-quarter view, crouching with knees bent, picking up a loose orange sock with one hand while holding a gathered blue shirt against the body with the other arm. One gray sock nearby at foot level, no visible floor plane. The hand is visibly in contact with the sock. No hamper. Match attached homework pictogram style: thick smooth #202020 outlines, expressive large eyes, simple smile, round cartoon proportions adapted to age, opaque white skin and shoes, blue #1769AA shirt and dark gray trousers. Flat fully opaque solid fills, orange #F28C28 accents, no shading or gradients. Entire character and loose laundry centered with clear margins, genuine transparent alpha around artwork. No text, scenery, decorative marks, border or other people.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "41ef9bc4f89bc2152d7ee7319d201f598721866d3223a00f5ea98824afbaebb8",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-gather-clothes-male",
+    "title": "Pick up and gather clothes — 10-year-old boy",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "pick up clothes",
+      "gather clothes",
+      "laundry",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/gather-clothes-male.png"
+    ],
+    "alt_text": "A 10-year-old boy crouches to pick up an orange sock while holding a blue shirt.",
+    "generation_prompt": "One square transparent AAC pictogram of a 10-year-old boy picking up and gathering clothes from the floor. Full-body three-quarter view, crouching with knees bent, picking up a loose orange sock with one hand while holding a gathered blue shirt against the body with the other arm. One gray sock nearby at foot level, no visible floor plane. The hand is visibly in contact with the sock. No hamper. Match attached homework pictogram style: thick smooth #202020 outlines, expressive large eyes, simple smile, round cartoon proportions adapted to age, opaque white skin and shoes, blue #1769AA shirt and dark gray trousers. Flat fully opaque solid fills, orange #F28C28 accents, no shading or gradients. Entire character and loose laundry centered with clear margins, genuine transparent alpha around artwork. No text, scenery, decorative marks, border or other people.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "c843fbe5444a40c5d5594eea2791712416daeb12a901d9ab820ce8b60ddd633d",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-gather-clothes-female",
+    "title": "Pick up and gather clothes — 10-year-old girl",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "pick up clothes",
+      "gather clothes",
+      "laundry",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/gather-clothes-female.png"
+    ],
+    "alt_text": "A 10-year-old girl crouches to pick up an orange sock while holding a blue shirt.",
+    "generation_prompt": "One square transparent AAC pictogram of a 10-year-old girl picking up and gathering clothes from the floor. Full-body three-quarter view, crouching with knees bent, picking up a loose orange sock with one hand while holding a gathered blue shirt against the body with the other arm. One gray sock nearby at foot level, no visible floor plane. The hand is visibly in contact with the sock. No hamper. Match attached homework pictogram style: thick smooth #202020 outlines, expressive large eyes, simple smile, round cartoon proportions adapted to age, opaque white skin and shoes, blue #1769AA shirt and dark gray trousers. Flat fully opaque solid fills, orange #F28C28 accents, no shading or gradients. Entire character and loose laundry centered with clear margins, genuine transparent alpha around artwork. No text, scenery, decorative marks, border or other people.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "2ad0760bec96ea13dd7f32b7153d46927b5a3252e04f3c95a8da77ee3b7035f3",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-gather-clothes-male",
+    "title": "Pick up and gather clothes — teen boy",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "pick up clothes",
+      "gather clothes",
+      "laundry",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/gather-clothes-male.png"
+    ],
+    "alt_text": "A teen boy crouches to pick up an orange sock while holding a blue shirt.",
+    "generation_prompt": "One square transparent AAC pictogram of a 15-year-old boy picking up and gathering clothes from the floor. Full-body three-quarter view, crouching with knees bent, picking up a loose orange sock with one hand while holding a gathered blue shirt against the body with the other arm. One gray sock nearby at foot level, no visible floor plane. The hand is visibly in contact with the sock. No hamper. Match attached homework pictogram style: thick smooth #202020 outlines, expressive large eyes, simple smile, round cartoon proportions adapted to age, opaque white skin and shoes, blue #1769AA shirt and dark gray trousers. Flat fully opaque solid fills, orange #F28C28 accents, no shading or gradients. Entire character and loose laundry centered with clear margins, genuine transparent alpha around artwork. No text, scenery, decorative marks, border or other people.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "91a5dda2bd0c1377466a4313e4233fb4bb14fc4707492563d277369bc6cffc41",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-gather-clothes-female",
+    "title": "Pick up and gather clothes — teen girl",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "pick up clothes",
+      "gather clothes",
+      "laundry",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/gather-clothes-female.png"
+    ],
+    "alt_text": "A teen girl crouches to pick up an orange sock while holding a blue shirt.",
+    "generation_prompt": "One square transparent AAC pictogram of a 15-year-old girl picking up and gathering clothes from the floor. Full-body three-quarter view, crouching with knees bent, picking up a loose orange sock with one hand while holding a gathered blue shirt against the body with the other arm. One gray sock nearby at foot level, no visible floor plane. The hand is visibly in contact with the sock. No hamper. Match attached homework pictogram style: thick smooth #202020 outlines, expressive large eyes, simple smile, round cartoon proportions adapted to age, opaque white skin and shoes, blue #1769AA shirt and dark gray trousers. Flat fully opaque solid fills, orange #F28C28 accents, no shading or gradients. Entire character and loose laundry centered with clear margins, genuine transparent alpha around artwork. No text, scenery, decorative marks, border or other people.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "28f6765b89eba56b24a35abacc4844955158dff24c8e049d44193f039a55f9e0",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-wipe-off-surface-male",
+    "title": "Wipe off surface — 5-year-old boy",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "wipe off surface",
+      "wipe table",
+      "cleaning cloth",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/wipe-off-surface-male.png"
+    ],
+    "alt_text": "A 5-year-old boy wipes a gray tabletop with an orange cloth.",
+    "generation_prompt": "Prompt summary for 5-year-old boy. Create a square transparent AAC pictogram in the approved homework style. Show the age-specific character standing behind a gray table, pressing an orange cleaning cloth to the tabletop near a few gray smudges. Use bold dark outlines, blue shirt, dark gray trousers, opaque white skin and shoes, flat fills, and full framing. No text, scenery, or cleaning chemicals.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "bf65bfcd611259944739a92ee8a29e8aa6f47931519f9059b93821757c968bb7",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-wipe-off-surface-female",
+    "title": "Wipe off surface — 5-year-old girl",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "wipe off surface",
+      "wipe table",
+      "cleaning cloth",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/wipe-off-surface-female.png"
+    ],
+    "alt_text": "A 5-year-old girl wipes a gray tabletop with an orange cloth.",
+    "generation_prompt": "Prompt summary for 5-year-old girl. Create a square transparent AAC pictogram in the approved homework style. Show the age-specific character standing behind a gray table, pressing an orange cleaning cloth to the tabletop near a few gray smudges. Use bold dark outlines, blue shirt, dark gray trousers, opaque white skin and shoes, flat fills, and full framing. No text, scenery, or cleaning chemicals.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "954b337ffa1f7437639f217ec448b6d225e324db6eb08282005439f84c3fdfaf",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-wipe-off-surface-male",
+    "title": "Wipe off surface — 10-year-old boy",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "wipe off surface",
+      "wipe table",
+      "cleaning cloth",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/wipe-off-surface-male.png"
+    ],
+    "alt_text": "A 10-year-old boy wipes a gray tabletop with an orange cloth.",
+    "generation_prompt": "Prompt summary for 10-year-old boy. Create a square transparent AAC pictogram in the approved homework style. Show the age-specific character standing behind a gray table, pressing an orange cleaning cloth to the tabletop near a few gray smudges. Use bold dark outlines, blue shirt, dark gray trousers, opaque white skin and shoes, flat fills, and full framing. No text, scenery, or cleaning chemicals.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "49823cc6a56dbd26deae408ef356ab229a1562124a4be7941dee6af65ce056d1",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-wipe-off-surface-female",
+    "title": "Wipe off surface — 10-year-old girl",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "wipe off surface",
+      "wipe table",
+      "cleaning cloth",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/wipe-off-surface-female.png"
+    ],
+    "alt_text": "A 10-year-old girl wipes a gray tabletop with an orange cloth.",
+    "generation_prompt": "Prompt summary for 10-year-old girl. Create a square transparent AAC pictogram in the approved homework style. Show the age-specific character standing behind a gray table, pressing an orange cleaning cloth to the tabletop near a few gray smudges. Use bold dark outlines, blue shirt, dark gray trousers, opaque white skin and shoes, flat fills, and full framing. No text, scenery, or cleaning chemicals.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "81eecb806a68759d8fedc9f1bf396ce2ac3739a98c1b5b4aa662fabc20128fff",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-wipe-off-surface-male",
+    "title": "Wipe off surface — teen boy",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "wipe off surface",
+      "wipe table",
+      "cleaning cloth",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/wipe-off-surface-male.png"
+    ],
+    "alt_text": "A teen boy wipes a gray tabletop with an orange cloth.",
+    "generation_prompt": "Prompt summary for teen boy. Create a square transparent AAC pictogram in the approved homework style. Show the age-specific character standing behind a gray table, pressing an orange cleaning cloth to the tabletop near a few gray smudges. Use bold dark outlines, blue shirt, dark gray trousers, opaque white skin and shoes, flat fills, and full framing. No text, scenery, or cleaning chemicals.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "79dbb62aeb9c1735fbde8095bcd7f3c85c5d8a953871a9161771ee75c4fd0d0a",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-wipe-off-surface-female",
+    "title": "Wipe off surface — teen girl",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "wipe off surface",
+      "wipe table",
+      "cleaning cloth",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/wipe-off-surface-female.png"
+    ],
+    "alt_text": "A teen girl wipes a gray tabletop with an orange cloth.",
+    "generation_prompt": "Prompt summary for teen girl. Create a square transparent AAC pictogram in the approved homework style. Show the age-specific character standing behind a gray table, pressing an orange cleaning cloth to the tabletop near a few gray smudges. Use bold dark outlines, blue shirt, dark gray trousers, opaque white skin and shoes, flat fills, and full framing. No text, scenery, or cleaning chemicals.",
+    "source": "Generated with OpenAI ImageGen using the homework pictogram as the style reference, based on the user-supplied feed-cats-6.png.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link the license, indicate changes, and share adaptations under the same license. Third-party materials retain their original licenses and attribution. Character reference credit: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "d0b084005f76f53788c18041f7e826f19faa11d987752c597ba74e9a1ec18ffa",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft pending owner review. Square RGBA PNG with background transparency verified. Tonal variation remains in the fills."
   }
 ]
