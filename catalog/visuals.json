@@ -12092,5 +12092,29 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-07",
     "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "shared-learning-parrot",
+    "title": "Parrot",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "bird",
+      "parrot",
+      "animal"
+    ],
+    "status": "draft",
+    "style": "Minimalist hand-inked comic illustration",
+    "assets": [
+      "visuals/shared/learning-and-tasks/parrot.svg"
+    ],
+    "alt_text": "A green parrot in profile with a coral hooked beak, folded wing, and long teal tail.",
+    "generation_prompt": "Create a standalone SVG of a parrot in the minimalist, hand-inked style of Charles Schulz’s Peanuts comic strips. Use simple rounded shapes, slightly hand-drawn black outlines, sparse details, and a recognizable silhouette. Use representative colors in mostly flat fills, with subtle shading and small highlights from one soft light direction. Add a faint contact shadow only if the subject rests on a surface. Keep the surrounding canvas transparent and any white parts opaque. Use editable vector paths and basic SVG shapes, with comfortable padding.",
+    "source": "Generated with OpenAI as editable SVG markup.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background verified in the rendered preview."
   }
 ]
