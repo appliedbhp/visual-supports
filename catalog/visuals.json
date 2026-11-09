@@ -18744,5 +18744,450 @@
     },
     "image_sha256": "d7a4f6537686a9f22192c35412caea2351f6092e4afdfe3d6c4c0668079b845d",
     "created_at": "2026-11-07T20:25:16.814Z"
+  },
+  {
+    "id": "12-18-daily-routines-load-the-washer-urban-anime-v1",
+    "title": "Load the washer",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "load the washer",
+      "laundry",
+      "doing laundry",
+      "washing machine",
+      "washing clothes",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/load-the-washer.svg"
+    ],
+    "alt_text": "A teen loads a shirt into an open washing machine.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen loads a shirt into an open washing machine. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-fold-a-hoodie-urban-anime-v1",
+    "title": "Fold a hoodie",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "fold a hoodie",
+      "fold clothes",
+      "folding laundry",
+      "hoodie",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/fold-a-hoodie.svg"
+    ],
+    "alt_text": "A teen folds a hoodie next to a stack of clothes.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen folds a hoodie next to a stack of clothes. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-wash-dishes-urban-anime-v1",
+    "title": "Wash dishes",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "wash dishes",
+      "dishes",
+      "washing dishes",
+      "dishwashing",
+      "kitchen chore",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/wash-dishes.svg"
+    ],
+    "alt_text": "A teen scrubs a plate with a sponge at the sink.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen scrubs a plate with a sponge at the sink. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-make-the-bed-urban-anime-v1",
+    "title": "Make the bed",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "make the bed",
+      "making bed",
+      "bedding",
+      "bedroom chore",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/make-the-bed.svg"
+    ],
+    "alt_text": "A teen pulls a blanket smooth over a bed.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen pulls a blanket smooth over a bed. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-put-away-groceries-urban-anime-v1",
+    "title": "Put away groceries",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "put away groceries",
+      "groceries",
+      "unpack groceries",
+      "refrigerator",
+      "milk",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/put-away-groceries.svg"
+    ],
+    "alt_text": "A teen supports a milk carton with their left palm as they slide it onto a fridge shelf.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen supports a milk carton with their left palm as they slide it onto a fridge shelf. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-make-a-snack-urban-anime-v1",
+    "title": "Make a snack",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "make a snack",
+      "snack",
+      "toast",
+      "peanut butter",
+      "food preparation",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/make-a-snack.svg"
+    ],
+    "alt_text": "A teen spreads peanut butter onto a slice of toast.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen spreads peanut butter onto a slice of toast. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-take-out-recycling-urban-anime-v1",
+    "title": "Take out recycling",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "take out recycling",
+      "recycling",
+      "taking out recycling",
+      "empty bottles",
+      "recycling bin",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/take-out-recycling.svg"
+    ],
+    "alt_text": "A teen tips empty bottles into a blue recycling bin.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen tips empty bottles into a blue recycling bin. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-water-a-plant-urban-anime-v1",
+    "title": "Water a plant",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "water a plant",
+      "watering plants",
+      "watering can",
+      "plant care",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/water-a-plant.svg"
+    ],
+    "alt_text": "A teen uses a watering can to water a potted plant.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen uses a watering can to water a potted plant. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-take-class-notes-urban-anime-v1",
+    "title": "Take class notes",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "take class notes",
+      "note taking",
+      "class notes",
+      "schoolwork",
+      "notebook",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/urban-anime/take-class-notes.svg"
+    ],
+    "alt_text": "A teen writes in a notebook beside a board displaying a geometry diagram.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen writes in a notebook beside a board displaying a geometry diagram. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-daily-routines-put-books-in-locker-urban-anime-v1",
+    "title": "Put books in a locker",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "put books in a locker",
+      "school locker",
+      "put things away",
+      "books",
+      "backpack",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/put-books-in-locker.svg"
+    ],
+    "alt_text": "A teen slides a book onto a shelf inside an open school locker.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen slides a book onto a shelf inside an open school locker. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-turn-in-an-assignment-urban-anime-v1",
+    "title": "Turn in an assignment",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "turn in an assignment",
+      "turn in schoolwork",
+      "submit assignment",
+      "worksheet",
+      "hand in work",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/urban-anime/turn-in-an-assignment.svg"
+    ],
+    "alt_text": "A teen places a worksheet into a classroom assignment tray.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen places a worksheet into a classroom assignment tray. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-measure-with-a-ruler-urban-anime-v1",
+    "title": "Measure with a ruler",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "measure with a ruler",
+      "measurement",
+      "measuring with a ruler",
+      "school supplies",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/urban-anime/measure-with-a-ruler.svg"
+    ],
+    "alt_text": "A teen holds a ruler flat and makes a pencil mark on paper.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen holds a ruler flat and makes a pencil mark on paper. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-do-a-science-experiment-urban-anime-v1",
+    "title": "Do a science experiment",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "do a science experiment",
+      "science experiment",
+      "chemistry",
+      "lab",
+      "safety goggles",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/urban-anime/do-a-science-experiment.svg"
+    ],
+    "alt_text": "A teen wearing goggles pours blue liquid from a cylinder into a flask.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen wearing goggles pours blue liquid from a cylinder into a flask. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-work-with-a-partner-urban-anime-v1",
+    "title": "Work with a partner",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "work with a partner",
+      "partner work",
+      "teamwork",
+      "group work",
+      "collaboration",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/urban-anime/work-with-a-partner.svg"
+    ],
+    "alt_text": "Two teens work together on a geometry worksheet.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. Two teens work together on a geometry worksheet. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
+  },
+  {
+    "id": "12-18-learning-and-tasks-give-a-presentation-urban-anime-v1",
+    "title": "Give a presentation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "give a presentation",
+      "class presentation",
+      "public speaking",
+      "presenting",
+      "school",
+      "anime",
+      "urban anime",
+      "teen"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/urban-anime/give-a-presentation.svg"
+    ],
+    "alt_text": "A teen holds an index card and points at a diagram on an easel.",
+    "generation_prompt": "Use the supplied original urban-anime teen character sheet. A teen holds an index card and points at a diagram on an easel. Show clear hand and prop contact, crisp cel shadows, cyan edge lighting, and a text-free transparent background.",
+    "source": "Generated with OpenAI image_gen using the supplied original urban-anime character sheet as a visual reference, then traced into editable SVG paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-07",
+    "review_notes": "Draft. Transparent background and editable vector paths verified."
   }
 ]
