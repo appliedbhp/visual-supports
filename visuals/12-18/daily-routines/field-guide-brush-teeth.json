@@ -1,0 +1,46 @@
+{
+  "id": "teen-field-guide-brush-teeth",
+  "title": "Brush teeth",
+  "age_strand": "12-18",
+  "min_age": 12,
+  "max_age": 18,
+  "category": "daily-routines",
+  "keywords": [
+    "toothbrush",
+    "toothbrushing",
+    "oral hygiene",
+    "dental care",
+    "personal care",
+    "teen routine",
+    "field guide",
+    "nonbinary",
+    "light skin tone"
+  ],
+  "description": "A teen wearing round glasses brushes their teeth at a bathroom sink.",
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/12-18/daily-routines/field-guide-brush-teeth.png"
+  ],
+  "alt_text": "A teen wearing round glasses brushes their teeth at a bathroom sink.",
+  "generation_prompt": "Draw the top-right character from the field guide stylesheet in a routine-card scene. A teen wearing round glasses brushes their teeth at a bathroom sink. Preserve skin tone, hair, clothes, angular face, textured hand-inked outlines, and earthy colors. Use transparent negative space and essential props only. Omit text.",
+  "source": "OpenAI ImageGen using the ABHP Field Guide character stylesheet",
+  "usage_rights": "Original ABHP artwork, adapted from the character stylesheet. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Attribute Ryan Baker-Barrett of Applied Behavioral Health Practice. Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health.",
+  "gender_variant": "nonbinary",
+  "skin_tone": "light",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "reference_style": "2000s",
+  "grid_position": "top-right",
+  "background_mode": "transparent",
+  "setting": "",
+  "character_reference": {
+    "id": "abhp-2000s-b307eb6242e7",
+    "style": "2000s",
+    "asset": "catalog/references/field-guide-character-stylesheet.png",
+    "source": "https://raw.githubusercontent.com/appliedbhp/visual-supports/b307eb6242e7b0040cfea6a49f73fe7f40c5492a/catalog/references/field-guide-character-stylesheet.png",
+    "repository_commit": "b307eb6242e7b0040cfea6a49f73fe7f40c5492a",
+    "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
+  },
+  "image_sha256": "3ad6a1adf9889d63f71c6bb11379d7277e0eba7e4ab8317f1fe79960a26b44ad"
+}

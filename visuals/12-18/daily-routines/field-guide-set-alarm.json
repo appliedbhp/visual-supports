@@ -1,0 +1,46 @@
+{
+  "id": "teen-field-guide-set-alarm",
+  "title": "Set an alarm",
+  "age_strand": "12-18",
+  "min_age": 12,
+  "max_age": 18,
+  "category": "daily-routines",
+  "keywords": [
+    "alarm clock",
+    "wake up",
+    "set alarm",
+    "bedtime",
+    "night routine",
+    "teen routine",
+    "field guide",
+    "nonbinary",
+    "dark skin tone"
+  ],
+  "description": "A teen with side-swept twists presses a button on a bedside alarm clock.",
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/12-18/daily-routines/field-guide-set-alarm.png"
+  ],
+  "alt_text": "A teen with side-swept twists presses a button on a bedside alarm clock.",
+  "generation_prompt": "Draw the bottom-right character from the field guide stylesheet in a routine-card scene. A teen with side-swept twists presses a button on a bedside alarm clock. Preserve skin tone, hair, clothes, angular face, textured hand-inked outlines, and earthy colors. Use transparent negative space and essential props only. Omit text.",
+  "source": "OpenAI ImageGen using the ABHP Field Guide character stylesheet",
+  "usage_rights": "Original ABHP artwork, adapted from the character stylesheet. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Attribute Ryan Baker-Barrett of Applied Behavioral Health Practice. Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health.",
+  "gender_variant": "nonbinary",
+  "skin_tone": "dark",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "reference_style": "2000s",
+  "grid_position": "bottom-right",
+  "background_mode": "transparent",
+  "setting": "",
+  "character_reference": {
+    "id": "abhp-2000s-b307eb6242e7",
+    "style": "2000s",
+    "asset": "catalog/references/field-guide-character-stylesheet.png",
+    "source": "https://raw.githubusercontent.com/appliedbhp/visual-supports/b307eb6242e7b0040cfea6a49f73fe7f40c5492a/catalog/references/field-guide-character-stylesheet.png",
+    "repository_commit": "b307eb6242e7b0040cfea6a49f73fe7f40c5492a",
+    "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
+  },
+  "image_sha256": "144970dfb3026fc793b882717ea186fc5e2734c744a997d1cc4f1ffbacecfff9"
+}

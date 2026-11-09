@@ -1,0 +1,46 @@
+{
+  "id": "teen-field-guide-wipe-counter",
+  "title": "Wipe kitchen counter",
+  "age_strand": "12-18",
+  "min_age": 12,
+  "max_age": 18,
+  "category": "daily-routines",
+  "keywords": [
+    "clean counter",
+    "wipe countertop",
+    "clean kitchen",
+    "surface cleaning",
+    "chores",
+    "teen routine",
+    "field guide",
+    "female",
+    "dark skin tone"
+  ],
+  "description": "A teen with long box braids wipes a kitchen counter with a cloth.",
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/12-18/daily-routines/field-guide-wipe-counter.png"
+  ],
+  "alt_text": "A teen with long box braids wipes a kitchen counter with a cloth.",
+  "generation_prompt": "Draw the bottom-center character from the field guide stylesheet in a routine-card scene. A teen with long box braids wipes a kitchen counter with a cloth. Preserve skin tone, hair, clothes, angular face, textured hand-inked outlines, and earthy colors. Use transparent negative space and essential props only. Omit text.",
+  "source": "OpenAI ImageGen using the ABHP Field Guide character stylesheet",
+  "usage_rights": "Original ABHP artwork, adapted from the character stylesheet. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Attribute Ryan Baker-Barrett of Applied Behavioral Health Practice. Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health.",
+  "gender_variant": "female",
+  "skin_tone": "dark",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "reference_style": "2000s",
+  "grid_position": "bottom-center",
+  "background_mode": "transparent",
+  "setting": "",
+  "character_reference": {
+    "id": "abhp-2000s-b307eb6242e7",
+    "style": "2000s",
+    "asset": "catalog/references/field-guide-character-stylesheet.png",
+    "source": "https://raw.githubusercontent.com/appliedbhp/visual-supports/b307eb6242e7b0040cfea6a49f73fe7f40c5492a/catalog/references/field-guide-character-stylesheet.png",
+    "repository_commit": "b307eb6242e7b0040cfea6a49f73fe7f40c5492a",
+    "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
+  },
+  "image_sha256": "43f726360d114eb0e8f8e5a43640176fc44944c53d34f7c0dda1426b5820be09"
+}
