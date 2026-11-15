@@ -20624,5 +20624,653 @@
     "image_sha256": "8c4842f82cd5e45d5b32722458f96ed4e7fb1140650663f091b85d634a7ff911",
     "created_at": "2026-11-15",
     "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-stop",
+    "title": "Stop",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "communication",
+    "keywords": [
+      "stop",
+      "halt",
+      "stop sign",
+      "stop gesture",
+      "stop doing that"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/communication/everyday-vocabulary/stop.png"
+    ],
+    "alt_text": "Stop",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age five, simplified rounded cartoon shapes and saturated blue/orange accents, clear at tiny sizes.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "6-11-everyday-vocabulary-stop",
+    "title": "Stop",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "communication",
+    "keywords": [
+      "stop",
+      "halt",
+      "stop sign",
+      "stop gesture",
+      "stop doing that"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/communication/everyday-vocabulary/stop.png"
+    ],
+    "alt_text": "Stop",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age ten, moderately realistic proportions and recognizable everyday colors, selective details.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-everyday-vocabulary-stop",
+    "title": "Stop",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "stop",
+      "halt",
+      "stop sign",
+      "stop gesture",
+      "stop doing that"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/communication/everyday-vocabulary/stop.png"
+    ],
+    "alt_text": "Stop",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-everyday-vocabulary-help",
+    "title": "Help",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "communication",
+    "keywords": [
+      "help",
+      "i need help",
+      "assist",
+      "assistance",
+      "ask for help"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/communication/everyday-vocabulary/help.png"
+    ],
+    "alt_text": "A fist rests on an open palm to represent asking for help.",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age five, simplified rounded cartoon shapes and saturated blue/orange accents, clear at tiny sizes.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "6-11-everyday-vocabulary-help",
+    "title": "Help",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "communication",
+    "keywords": [
+      "help",
+      "i need help",
+      "assist",
+      "assistance",
+      "ask for help"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/communication/everyday-vocabulary/help.png"
+    ],
+    "alt_text": "A fist rests on an open palm to represent asking for help.",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age ten, moderately realistic proportions and recognizable everyday colors, selective details.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-everyday-vocabulary-help",
+    "title": "Help",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "help",
+      "i need help",
+      "assist",
+      "assistance",
+      "ask for help"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/communication/everyday-vocabulary/help.png"
+    ],
+    "alt_text": "A fist rests on an open palm to represent asking for help.",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-everyday-vocabulary-again",
+    "title": "Again",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "communication",
+    "keywords": [
+      "again",
+      "repeat",
+      "one more time",
+      "do it again",
+      "redo"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/communication/everyday-vocabulary/again.png"
+    ],
+    "alt_text": "Again",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age five, simplified rounded cartoon shapes and saturated blue/orange accents, clear at tiny sizes.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "6-11-everyday-vocabulary-again",
+    "title": "Again",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "communication",
+    "keywords": [
+      "again",
+      "repeat",
+      "one more time",
+      "do it again",
+      "redo"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/communication/everyday-vocabulary/again.png"
+    ],
+    "alt_text": "Again",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age ten, moderately realistic proportions and recognizable everyday colors, selective details.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-everyday-vocabulary-again",
+    "title": "Again",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "again",
+      "repeat",
+      "one more time",
+      "do it again",
+      "redo"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/communication/everyday-vocabulary/again.png"
+    ],
+    "alt_text": "Again",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-everyday-vocabulary-backpack",
+    "title": "Backpack",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "backpack",
+      "school bag",
+      "rucksack",
+      "book bag",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/everyday-vocabulary/backpack.png"
+    ],
+    "alt_text": "Backpack",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age five, simplified rounded cartoon shapes and saturated blue/orange accents, clear at tiny sizes.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "6-11-everyday-vocabulary-backpack",
+    "title": "Backpack",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "backpack",
+      "school bag",
+      "rucksack",
+      "book bag",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/everyday-vocabulary/backpack.png"
+    ],
+    "alt_text": "Backpack",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age ten, moderately realistic proportions and recognizable everyday colors, selective details.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-everyday-vocabulary-backpack",
+    "title": "Backpack",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "backpack",
+      "school bag",
+      "rucksack",
+      "book bag",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/everyday-vocabulary/backpack.png"
+    ],
+    "alt_text": "Backpack",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-everyday-vocabulary-umbrella",
+    "title": "Umbrella",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "umbrella",
+      "rain umbrella",
+      "closed umbrella",
+      "rainwear",
+      "wet weather"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/everyday-vocabulary/umbrella.png"
+    ],
+    "alt_text": "Umbrella",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age five, simplified rounded cartoon shapes and saturated blue/orange accents, clear at tiny sizes.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "6-11-everyday-vocabulary-umbrella",
+    "title": "Umbrella",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "umbrella",
+      "rain umbrella",
+      "closed umbrella",
+      "rainwear",
+      "wet weather"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/everyday-vocabulary/umbrella.png"
+    ],
+    "alt_text": "Umbrella",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age ten, moderately realistic proportions and recognizable everyday colors, selective details.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-everyday-vocabulary-umbrella",
+    "title": "Umbrella",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "umbrella",
+      "rain umbrella",
+      "closed umbrella",
+      "rainwear",
+      "wet weather"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/everyday-vocabulary/umbrella.png"
+    ],
+    "alt_text": "Umbrella",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-everyday-vocabulary-city-bus",
+    "title": "City bus",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "safety-and-community",
+    "keywords": [
+      "city bus",
+      "bus",
+      "public transport",
+      "transit",
+      "vehicle"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/everyday-vocabulary/city-bus.png"
+    ],
+    "alt_text": "City bus",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age five, simplified rounded cartoon shapes and saturated blue/orange accents, clear at tiny sizes.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "6-11-everyday-vocabulary-city-bus",
+    "title": "City bus",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "safety-and-community",
+    "keywords": [
+      "city bus",
+      "bus",
+      "public transport",
+      "transit",
+      "vehicle"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/everyday-vocabulary/city-bus.png"
+    ],
+    "alt_text": "City bus",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age ten, moderately realistic proportions and recognizable everyday colors, selective details.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-everyday-vocabulary-city-bus",
+    "title": "City bus",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "safety-and-community",
+    "keywords": [
+      "city bus",
+      "bus",
+      "public transport",
+      "transit",
+      "vehicle"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/everyday-vocabulary/city-bus.png"
+    ],
+    "alt_text": "City bus",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-everyday-vocabulary-toothbrush",
+    "title": "Toothbrush",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "toothbrush",
+      "toothpaste",
+      "brush teeth",
+      "oral hygiene",
+      "dental care"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/everyday-vocabulary/toothbrush.png"
+    ],
+    "alt_text": "Toothbrush",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age five, simplified rounded cartoon shapes and saturated blue/orange accents, clear at tiny sizes.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "6-11-everyday-vocabulary-toothbrush",
+    "title": "Toothbrush",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "toothbrush",
+      "toothpaste",
+      "brush teeth",
+      "oral hygiene",
+      "dental care"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/everyday-vocabulary/toothbrush.png"
+    ],
+    "alt_text": "Toothbrush",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age ten, moderately realistic proportions and recognizable everyday colors, selective details.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-everyday-vocabulary-toothbrush",
+    "title": "Toothbrush",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "toothbrush",
+      "toothpaste",
+      "brush teeth",
+      "oral hygiene",
+      "dental care"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/everyday-vocabulary/toothbrush.png"
+    ],
+    "alt_text": "Toothbrush",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-everyday-vocabulary-bar-soap",
+    "title": "Bar of soap",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "bar soap",
+      "soap bar",
+      "handwashing",
+      "wash hands",
+      "bubbles"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/everyday-vocabulary/bar-soap.png"
+    ],
+    "alt_text": "Bar of soap",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age five, simplified rounded cartoon shapes and saturated blue/orange accents, clear at tiny sizes.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "6-11-everyday-vocabulary-bar-soap",
+    "title": "Bar of soap",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "bar soap",
+      "soap bar",
+      "handwashing",
+      "wash hands",
+      "bubbles"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/everyday-vocabulary/bar-soap.png"
+    ],
+    "alt_text": "Bar of soap",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age ten, moderately realistic proportions and recognizable everyday colors, selective details.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-everyday-vocabulary-bar-soap",
+    "title": "Bar of soap",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "bar soap",
+      "soap bar",
+      "handwashing",
+      "wash hands",
+      "bubbles"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/everyday-vocabulary/bar-soap.png"
+    ],
+    "alt_text": "Bar of soap",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-everyday-vocabulary-analog-clock",
+    "title": "Analog clock",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "analog clock",
+      "time",
+      "clock face",
+      "tell time",
+      "wall clock"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/schedules-and-transitions/everyday-vocabulary/analog-clock.png"
+    ],
+    "alt_text": "Analog clock",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age five, simplified rounded cartoon shapes and saturated blue/orange accents, clear at tiny sizes.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "6-11-everyday-vocabulary-analog-clock",
+    "title": "Analog clock",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "analog clock",
+      "time",
+      "clock face",
+      "tell time",
+      "wall clock"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/schedules-and-transitions/everyday-vocabulary/analog-clock.png"
+    ],
+    "alt_text": "Analog clock",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Age ten, moderately realistic proportions and recognizable everyday colors, selective details.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-everyday-vocabulary-analog-clock",
+    "title": "Analog clock",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "analog clock",
+      "time",
+      "clock face",
+      "tell time",
+      "wall clock"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/schedules-and-transitions/everyday-vocabulary/analog-clock.png"
+    ],
+    "alt_text": "Analog clock",
+    "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
+    "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
+    "created_at": "2026-11-15"
   }
 ]
