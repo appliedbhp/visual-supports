@@ -35971,5 +35971,179 @@
     "source": "Original OpenAI illustration.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-daily-routines-button-a-cardigan-male",
+    "title": "Button a cardigan",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "button a cardigan",
+      "fasten buttons",
+      "getting dressed"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/button-a-cardigan-male.png"
+    ],
+    "alt_text": "a 5-year-old boy pushing a large button through a buttonhole on his orange cardigan",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a 5-year-old boy pushing a large button through a buttonhole on his orange cardigan. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: button a cardigan, fasten buttons, getting dressed.",
+    "source": "Generated with OpenAI ImageGen using the ABHP AAC Character Reference Card.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "8d8b74270137a68e7e4f15fba431c92b5c724cfb3d798222378f4bb7f610d586",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-put-a-toy-in-a-bin-female",
+    "title": "Put a toy in a bin",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "put a toy in a bin",
+      "put toys away",
+      "clean up"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/put-a-toy-in-a-bin-female.png"
+    ],
+    "alt_text": "a 5-year-old girl lowering a toy car into an open orange toy bin",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a 5-year-old girl lowering a toy car into an open orange toy bin. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: put a toy in a bin, put toys away, clean up.",
+    "source": "Generated with OpenAI ImageGen using the ABHP AAC Character Reference Card.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "6bf07196ae995f1bd3d31c4ba00f1169a9f8c2297a4a76137e72c79573f7d960",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-rinse-a-cup-male",
+    "title": "Rinse a cup",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "rinse a cup",
+      "wash a cup",
+      "sink"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/rinse-a-cup-male.png"
+    ],
+    "alt_text": "a 10-year-old boy tilting an orange cup under running water at a sink",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a 10-year-old boy tilting an orange cup under running water at a sink. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: rinse a cup, wash a cup, sink.",
+    "source": "Generated with OpenAI ImageGen using the ABHP AAC Character Reference Card.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "a7f2ed75bacf173a4d0558b15951452a662e7540da286ba8394b59235f3f4a13",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-learning-and-tasks-staple-papers-female",
+    "title": "Staple papers",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "staple papers",
+      "use a stapler",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/staple-papers-female.png"
+    ],
+    "alt_text": "a 10-year-old girl pressing an orange stapler onto the corner of two sheets of paper",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a 10-year-old girl pressing an orange stapler onto the corner of two sheets of paper. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: staple papers, use a stapler, school supplies.",
+    "source": "Generated with OpenAI ImageGen using the ABHP AAC Character Reference Card.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "c3eac8fe0722c789cde1c087fdf36013e999d8cfc20acab1c3a85dac7cbb9e6e",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-wipe-a-mirror-male",
+    "title": "Wipe a mirror",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "wipe a mirror",
+      "clean a mirror",
+      "cleaning cloth"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/wipe-a-mirror-male.png"
+    ],
+    "alt_text": "a teenage boy wiping a wall mirror with an orange cloth, shown from the side",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a teenage boy wiping a wall mirror with an orange cloth, shown from the side. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: wipe a mirror, clean a mirror, cleaning cloth.",
+    "source": "Generated with OpenAI ImageGen using the ABHP AAC Character Reference Card.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "ebf8a8fd9c616244f2e5e3aa2d010e4cb640fc677b814921bcf363588a715878",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-refill-a-soap-dispenser-female",
+    "title": "Refill a soap dispenser",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "refill a soap dispenser",
+      "liquid soap",
+      "refill soap"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/refill-a-soap-dispenser-female.png"
+    ],
+    "alt_text": "a teenage girl pouring liquid soap from an orange refill bottle into an open pump bottle, with the removed pump beside it",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a teenage girl pouring liquid soap from an orange refill bottle into an open pump bottle, with the removed pump beside it. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: refill a soap dispenser, liquid soap, refill soap.",
+    "source": "Generated with OpenAI ImageGen using the ABHP AAC Character Reference Card.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "f58992c8d8fecf3237a85080ee19e264c1f0aac11fa04fd83b92703198fbd4d8",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
