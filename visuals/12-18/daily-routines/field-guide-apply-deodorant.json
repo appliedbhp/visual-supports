@@ -1,0 +1,45 @@
+{
+  "id": "teen-field-guide-apply-deodorant",
+  "title": "Apply deodorant",
+  "age_strand": "12-18",
+  "min_age": 12,
+  "max_age": 18,
+  "category": "daily-routines",
+  "keywords": [
+    "put on deodorant",
+    "underarm deodorant",
+    "getting ready",
+    "personal hygiene",
+    "teen routine",
+    "field guide",
+    "female",
+    "light skin tone"
+  ],
+  "description": "A teen in a purple top applies stick deodorant under one arm.",
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/12-18/daily-routines/field-guide-apply-deodorant.png"
+  ],
+  "alt_text": "A teen in a purple top applies stick deodorant under one arm.",
+  "generation_prompt": "Draw the top-center character from the Field Guide stylesheet. A teen in a purple top applies stick deodorant under one arm. Keep the character's hair, outfit, skin tone, textured ink and earthy palette. Use a transparent background and essential props.",
+  "source": "OpenAI ImageGen using the ABHP Field Guide character stylesheet",
+  "usage_rights": "Original ABHP artwork, adapted from the character stylesheet. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Attribute Ryan Baker-Barrett of Applied Behavioral Health Practice. Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health.",
+  "gender_variant": "female",
+  "skin_tone": "light",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "reference_style": "2000s",
+  "grid_position": "top-center",
+  "background_mode": "transparent",
+  "setting": "",
+  "character_reference": {
+    "id": "abhp-2000s-b307eb6242e7",
+    "style": "2000s",
+    "asset": "catalog/references/field-guide-character-stylesheet.png",
+    "source": "https://raw.githubusercontent.com/appliedbhp/visual-supports/b307eb6242e7b0040cfea6a49f73fe7f40c5492a/catalog/references/field-guide-character-stylesheet.png",
+    "repository_commit": "b307eb6242e7b0040cfea6a49f73fe7f40c5492a",
+    "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
+  },
+  "image_sha256": "7156daa7382f8e6c9e3a0f2c8d20010e05e391658a82b5a5f906f6a96a58a5f6"
+}

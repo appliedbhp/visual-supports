@@ -1,0 +1,45 @@
+{
+  "id": "teen-field-guide-close-curtains",
+  "title": "Close the curtains",
+  "age_strand": "12-18",
+  "min_age": 12,
+  "max_age": 18,
+  "category": "daily-routines",
+  "keywords": [
+    "draw curtains",
+    "close drapes",
+    "bedroom privacy",
+    "evening routine",
+    "teen routine",
+    "field guide",
+    "nonbinary",
+    "dark skin tone"
+  ],
+  "description": "A teen with side-swept twists draws bedroom curtains shut.",
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/12-18/daily-routines/field-guide-close-curtains.png"
+  ],
+  "alt_text": "A teen with side-swept twists draws bedroom curtains shut.",
+  "generation_prompt": "Draw the bottom-right character from the Field Guide stylesheet. A teen with side-swept twists draws bedroom curtains shut. Keep the character's hair, outfit, skin tone, textured ink and earthy palette. Use a transparent background and essential props.",
+  "source": "OpenAI ImageGen using the ABHP Field Guide character stylesheet",
+  "usage_rights": "Original ABHP artwork, adapted from the character stylesheet. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Attribute Ryan Baker-Barrett of Applied Behavioral Health Practice. Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health.",
+  "gender_variant": "nonbinary",
+  "skin_tone": "dark",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "reference_style": "2000s",
+  "grid_position": "bottom-right",
+  "background_mode": "transparent",
+  "setting": "",
+  "character_reference": {
+    "id": "abhp-2000s-b307eb6242e7",
+    "style": "2000s",
+    "asset": "catalog/references/field-guide-character-stylesheet.png",
+    "source": "https://raw.githubusercontent.com/appliedbhp/visual-supports/b307eb6242e7b0040cfea6a49f73fe7f40c5492a/catalog/references/field-guide-character-stylesheet.png",
+    "repository_commit": "b307eb6242e7b0040cfea6a49f73fe7f40c5492a",
+    "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
+  },
+  "image_sha256": "1acc6b9005706c9019aefe079a257e1d4525fcb2e1e3b9b5069db59e59e1d2cf"
+}

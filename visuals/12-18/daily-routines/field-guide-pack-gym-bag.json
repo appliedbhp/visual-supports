@@ -1,0 +1,45 @@
+{
+  "id": "teen-field-guide-pack-gym-bag",
+  "title": "Pack a gym bag",
+  "age_strand": "12-18",
+  "min_age": 12,
+  "max_age": 18,
+  "category": "daily-routines",
+  "keywords": [
+    "sports bag",
+    "pack for practice",
+    "gym clothes",
+    "workout gear",
+    "teen routine",
+    "field guide",
+    "male",
+    "dark skin tone"
+  ],
+  "description": "A teen in a cream shirt closes a gym bag with sneakers inside.",
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/12-18/daily-routines/field-guide-pack-gym-bag.png"
+  ],
+  "alt_text": "A teen in a cream shirt closes a gym bag with sneakers inside.",
+  "generation_prompt": "Draw the bottom-left character from the Field Guide stylesheet. A teen in a cream shirt closes a gym bag with sneakers inside. Keep the character's hair, outfit, skin tone, textured ink and earthy palette. Use a transparent background and essential props.",
+  "source": "OpenAI ImageGen using the ABHP Field Guide character stylesheet",
+  "usage_rights": "Original ABHP artwork, adapted from the character stylesheet. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Attribute Ryan Baker-Barrett of Applied Behavioral Health Practice. Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health.",
+  "gender_variant": "male",
+  "skin_tone": "dark",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "reference_style": "2000s",
+  "grid_position": "bottom-left",
+  "background_mode": "transparent",
+  "setting": "",
+  "character_reference": {
+    "id": "abhp-2000s-b307eb6242e7",
+    "style": "2000s",
+    "asset": "catalog/references/field-guide-character-stylesheet.png",
+    "source": "https://raw.githubusercontent.com/appliedbhp/visual-supports/b307eb6242e7b0040cfea6a49f73fe7f40c5492a/catalog/references/field-guide-character-stylesheet.png",
+    "repository_commit": "b307eb6242e7b0040cfea6a49f73fe7f40c5492a",
+    "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
+  },
+  "image_sha256": "ef57caf409a594f569f4f9d1e34f86fb5c187195c45e17fd89a0f7b9d3159d74"
+}
