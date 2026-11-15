@@ -21272,5 +21272,845 @@
     "generation_prompt": "Create a square 3 by 3 contact sheet of nine original AAC pictograms on completely transparent background. EXACT equally sized 3x3 grid, objects confined to the central 70% of each cell, generous empty gutters, no dividers, no labels or text. Row 1: STOP octagon with palm gesture, two hands signing help (one closed fist on open palm), circular arrow for again. Row 2: closed backpack, closed umbrella, city bus. Row 3: toothbrush with toothpaste, bar of soap with bubbles, analog clock with tick marks only. Bold charcoal outlines, opaque flat solid fills, no textures, shadows outside objects or gradients. Teen, naturalistic mature proportions and colors, believable materials rendered in solid regions, selective flat facets.",
     "source": "Original OpenAI-generated artwork. ARASAAC category and vocabulary guides used for concept planning.",
     "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-everyday-hospital",
+    "title": "Hospital",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "hospital",
+      "community places",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/hospital.png"
+    ],
+    "alt_text": "Illustration of hospital.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-pharmacy",
+    "title": "Pharmacy",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "pharmacy",
+      "community places",
+      "everyday vocabulary",
+      "drugstore"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/pharmacy.png"
+    ],
+    "alt_text": "Illustration of pharmacy.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-grocery-store",
+    "title": "Grocery store",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "grocery store",
+      "community places",
+      "everyday vocabulary",
+      "supermarket"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/grocery-store.png"
+    ],
+    "alt_text": "Illustration of grocery store.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-post-office",
+    "title": "Post office",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "post office",
+      "community places",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/post-office.png"
+    ],
+    "alt_text": "Illustration of post office.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-fire-station",
+    "title": "Fire station",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "fire station",
+      "community places",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/fire-station.png"
+    ],
+    "alt_text": "Illustration of fire station.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-bus-stop",
+    "title": "Bus stop",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "bus stop",
+      "community places",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/bus-stop.png"
+    ],
+    "alt_text": "Illustration of bus stop.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-train-station",
+    "title": "Train station",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "train station",
+      "community places",
+      "everyday vocabulary",
+      "railway station"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/train-station.png"
+    ],
+    "alt_text": "Illustration of train station.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-airport",
+    "title": "Airport",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "airport",
+      "community places",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/airport.png"
+    ],
+    "alt_text": "Illustration of airport.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-playground",
+    "title": "Playground",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "playground",
+      "community places",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/playground.png"
+    ],
+    "alt_text": "Illustration of playground.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-public-restroom",
+    "title": "Public restroom",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "public restroom",
+      "community places",
+      "everyday vocabulary",
+      "bathroom",
+      "toilet"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/public-restroom.png"
+    ],
+    "alt_text": "Illustration of public restroom.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-dental-clinic",
+    "title": "Dental clinic",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "dental clinic",
+      "community places",
+      "everyday vocabulary",
+      "dentist"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/dental-clinic.png"
+    ],
+    "alt_text": "Illustration of dental clinic.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-bank",
+    "title": "Bank",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "safety-and-community",
+    "keywords": [
+      "bank",
+      "community places",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/safety-and-community/everyday-vocabulary/bank.png"
+    ],
+    "alt_text": "Illustration of bank.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sunshine",
+    "title": "Sunshine",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "sunshine",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/sunshine.png"
+    ],
+    "alt_text": "Illustration of sunshine.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-cloudy-sky",
+    "title": "Cloudy sky",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "cloudy sky",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/cloudy-sky.png"
+    ],
+    "alt_text": "Illustration of cloudy sky.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-rain",
+    "title": "Rain",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "rain",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/rain.png"
+    ],
+    "alt_text": "Illustration of rain.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-snow",
+    "title": "Snow",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "snow",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/snow.png"
+    ],
+    "alt_text": "Illustration of snow.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-thunderstorm",
+    "title": "Thunderstorm",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "thunderstorm",
+      "weather and nature",
+      "everyday vocabulary",
+      "lightning"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/thunderstorm.png"
+    ],
+    "alt_text": "Illustration of thunderstorm.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-wind",
+    "title": "Wind",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "wind",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/wind.png"
+    ],
+    "alt_text": "Illustration of wind.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-fog",
+    "title": "Fog",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "fog",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/fog.png"
+    ],
+    "alt_text": "Illustration of fog.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-rainbow",
+    "title": "Rainbow",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "rainbow",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/rainbow.png"
+    ],
+    "alt_text": "Illustration of rainbow.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-puddle",
+    "title": "Puddle",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "puddle",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/puddle.png"
+    ],
+    "alt_text": "Illustration of puddle.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-pine-tree",
+    "title": "Pine tree",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "pine tree",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/pine-tree.png"
+    ],
+    "alt_text": "Illustration of pine tree.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sunflower",
+    "title": "Sunflower",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "sunflower",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/sunflower.png"
+    ],
+    "alt_text": "Illustration of sunflower.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-mountain",
+    "title": "Mountain",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "mountain",
+      "weather and nature",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/mountain.png"
+    ],
+    "alt_text": "Illustration of mountain.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-washing-dishes",
+    "title": "Washing dishes",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "washing dishes",
+      "household activities",
+      "everyday vocabulary",
+      "dishwashing",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/washing-dishes.png"
+    ],
+    "alt_text": "Illustration of washing dishes.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-folding-clothes",
+    "title": "Folding clothes",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "folding clothes",
+      "household activities",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/folding-clothes.png"
+    ],
+    "alt_text": "Illustration of folding clothes.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-making-the-bed",
+    "title": "Making the bed",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "making the bed",
+      "household activities",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/making-the-bed.png"
+    ],
+    "alt_text": "Illustration of making the bed.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-taking-out-trash",
+    "title": "Taking out trash",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "taking out trash",
+      "household activities",
+      "everyday vocabulary",
+      "garbage",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/taking-out-trash.png"
+    ],
+    "alt_text": "Illustration of taking out trash.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-feeding-a-cat",
+    "title": "Feeding a cat",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "feeding a cat",
+      "household activities",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/feeding-a-cat.png"
+    ],
+    "alt_text": "Illustration of feeding a cat.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-watering-plants",
+    "title": "Watering plants",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "watering plants",
+      "household activities",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/watering-plants.png"
+    ],
+    "alt_text": "Illustration of watering plants.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sweeping-the-floor",
+    "title": "Sweeping the floor",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "sweeping the floor",
+      "household activities",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/sweeping-the-floor.png"
+    ],
+    "alt_text": "Illustration of sweeping the floor.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-wiping-the-table",
+    "title": "Wiping the table",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "wiping the table",
+      "household activities",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/wiping-the-table.png"
+    ],
+    "alt_text": "Illustration of wiping the table.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-setting-the-table",
+    "title": "Setting the table",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "setting the table",
+      "household activities",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/setting-the-table.png"
+    ],
+    "alt_text": "Illustration of setting the table.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-packing-lunch",
+    "title": "Packing lunch",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "packing lunch",
+      "household activities",
+      "everyday vocabulary",
+      "lunchbox"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/packing-lunch.png"
+    ],
+    "alt_text": "Illustration of packing lunch.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sorting-recycling",
+    "title": "Sorting recycling",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "sorting recycling",
+      "household activities",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/sorting-recycling.png"
+    ],
+    "alt_text": "Illustration of sorting recycling.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-hanging-up-a-coat",
+    "title": "Hanging up a coat",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "hanging up a coat",
+      "household activities",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/hanging-up-a-coat.png"
+    ],
+    "alt_text": "Illustration of hanging up a coat.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
   }
 ]
