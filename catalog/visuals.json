@@ -20450,5 +20450,179 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15",
     "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "0-5-daily-routines-zip-a-jacket-male",
+    "title": "Zip a jacket — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "zip a jacket",
+      "zipper",
+      "getting dressed"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/zip-a-jacket-male.png"
+    ],
+    "alt_text": "a 5-year-old boy pulling up the zipper on his orange jacket",
+    "generation_prompt": "Create one square text-free transparent AAC pictogram of a 5-year-old boy pulling up the zipper on his orange jacket. Use only the relevant character on the supplied reference card, preserving face, hair, age proportions and bold rounded contours. Show the action with clear hand-object contact, minimal props, full figure and even margins. Solid opaque flat fills: #202020 outline, #1769AA shirt where visible, #F28C28 accent, neutral gray, white skin. True transparent background, no shading or texture. Search keywords, metadata only: zip a jacket, zipper, getting dressed.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "a9f6eb77e6b5da3d53ebb1d92b94a16cc31196ea156c935db1155d156a88cffb",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-hang-up-a-coat-female",
+    "title": "Hang up a coat — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "hang up a coat",
+      "coat hook",
+      "put away jacket"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/hang-up-a-coat-female.png"
+    ],
+    "alt_text": "a 5-year-old girl hanging an orange coat on a low wall hook",
+    "generation_prompt": "Create one square text-free transparent AAC pictogram of a 5-year-old girl hanging an orange coat on a low wall hook. Use only the relevant character on the supplied reference card, preserving face, hair, age proportions and bold rounded contours. Show the action with clear hand-object contact, minimal props, full figure and even margins. Solid opaque flat fills: #202020 outline, #1769AA shirt where visible, #F28C28 accent, neutral gray, white skin. True transparent background, no shading or texture. Search keywords, metadata only: hang up a coat, coat hook, put away jacket.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "bc95a8962bbc5cf7b41b913b904f159324d0463d7877ab4c5b43f17373737f72",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-water-a-plant-male",
+    "title": "Water a plant — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "water a plant",
+      "watering can",
+      "plant care"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/water-a-plant-male.png"
+    ],
+    "alt_text": "a 10-year-old boy tipping an orange watering can over a small potted plant",
+    "generation_prompt": "Create one square text-free transparent AAC pictogram of a 10-year-old boy tipping an orange watering can over a small potted plant. Use only the relevant character on the supplied reference card, preserving face, hair, age proportions and bold rounded contours. Show the action with clear hand-object contact, minimal props, full figure and even margins. Solid opaque flat fills: #202020 outline, #1769AA shirt where visible, #F28C28 accent, neutral gray, white skin. True transparent background, no shading or texture. Search keywords, metadata only: water a plant, watering can, plant care.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "923383f81acefa94efcbfd597d1757bd76731cb90fac9dbf78277b7a309e19a8",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-blow-your-nose-female",
+    "title": "Blow your nose — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "blow your nose",
+      "tissue",
+      "hygiene"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/blow-your-nose-female.png"
+    ],
+    "alt_text": "a 10-year-old girl holding an unfolded white tissue to her nose, with an orange tissue box nearby",
+    "generation_prompt": "Create one square text-free transparent AAC pictogram of a 10-year-old girl holding an unfolded white tissue to her nose, with an orange tissue box nearby. Use only the relevant character on the supplied reference card, preserving face, hair, age proportions and bold rounded contours. Show the action with clear hand-object contact, minimal props, full figure and even margins. Solid opaque flat fills: #202020 outline, #1769AA shirt where visible, #F28C28 accent, neutral gray, white skin. True transparent background, no shading or texture. Search keywords, metadata only: blow your nose, tissue, hygiene.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "94892d2e6e63a2f90a3743b3e019c89d36c98cc9ba0a0e5a8c3d70608a1644ea",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-ring-the-doorbell-male",
+    "title": "Ring the doorbell — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "ring the doorbell",
+      "press button",
+      "front door"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/ring-the-doorbell-male.png"
+    ],
+    "alt_text": "a teenage boy pressing an orange doorbell beside a simple gray door",
+    "generation_prompt": "Create one square text-free transparent AAC pictogram of a teenage boy pressing an orange doorbell beside a simple gray door. Use only the relevant character on the supplied reference card, preserving face, hair, age proportions and bold rounded contours. Show the action with clear hand-object contact, minimal props, full figure and even margins. Solid opaque flat fills: #202020 outline, #1769AA shirt where visible, #F28C28 accent, neutral gray, white skin. True transparent background, no shading or texture. Search keywords, metadata only: ring the doorbell, press button, front door.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "b753670da8325f57ad8f25334a51585d345090550eb3e7571aa4e3e9da60b1b4",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-open-an-umbrella-female",
+    "title": "Open an umbrella — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "open an umbrella",
+      "rain",
+      "wet weather"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/open-an-umbrella-female.png"
+    ],
+    "alt_text": "a teenage girl opening an orange umbrella above herself",
+    "generation_prompt": "Create one square text-free transparent AAC pictogram of a teenage girl opening an orange umbrella above herself. Use only the relevant character on the supplied reference card, preserving face, hair, age proportions and bold rounded contours. Show the action with clear hand-object contact, minimal props, full figure and even margins. Solid opaque flat fills: #202020 outline, #1769AA shirt where visible, #F28C28 accent, neutral gray, white skin. True transparent background, no shading or texture. Search keywords, metadata only: open an umbrella, rain, wet weather.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "8c4842f82cd5e45d5b32722458f96ed4e7fb1140650663f091b85d634a7ff911",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
