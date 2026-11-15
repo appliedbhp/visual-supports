@@ -24850,5 +24850,626 @@
       "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
     },
     "image_sha256": "b65914238bd28c4bb188203073ed7d64580b26ff75d55a12b15980fec181e43a"
+  },
+  {
+    "id": "0-5-category-vocabulary-happy",
+    "title": "Happy",
+    "category": "feelings-and-regulation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "happy",
+      "smiling",
+      "joy",
+      "glad",
+      "cheerful"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/feelings-and-regulation/category-vocabulary/happy.png"
+    ],
+    "alt_text": "Happy",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age five simplified rounded cartoon, bold blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-category-vocabulary-happy",
+    "title": "Happy",
+    "category": "feelings-and-regulation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "happy",
+      "smiling",
+      "joy",
+      "glad",
+      "cheerful"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/feelings-and-regulation/category-vocabulary/happy.png"
+    ],
+    "alt_text": "Happy",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age ten moderately realistic proportions and everyday colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-category-vocabulary-happy",
+    "title": "Happy",
+    "category": "feelings-and-regulation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "happy",
+      "smiling",
+      "joy",
+      "glad",
+      "cheerful"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/feelings-and-regulation/category-vocabulary/happy.png"
+    ],
+    "alt_text": "Happy",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-category-vocabulary-sad",
+    "title": "Sad",
+    "category": "feelings-and-regulation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "sad",
+      "unhappy",
+      "crying",
+      "tear",
+      "upset"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/feelings-and-regulation/category-vocabulary/sad.png"
+    ],
+    "alt_text": "Sad",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age five simplified rounded cartoon, bold blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-category-vocabulary-sad",
+    "title": "Sad",
+    "category": "feelings-and-regulation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "sad",
+      "unhappy",
+      "crying",
+      "tear",
+      "upset"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/feelings-and-regulation/category-vocabulary/sad.png"
+    ],
+    "alt_text": "Sad",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age ten moderately realistic proportions and everyday colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-category-vocabulary-sad",
+    "title": "Sad",
+    "category": "feelings-and-regulation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "sad",
+      "unhappy",
+      "crying",
+      "tear",
+      "upset"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/feelings-and-regulation/category-vocabulary/sad.png"
+    ],
+    "alt_text": "Sad",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-category-vocabulary-angry",
+    "title": "Angry",
+    "category": "feelings-and-regulation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "angry",
+      "mad",
+      "anger",
+      "frustrated",
+      "furrowed brows"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/feelings-and-regulation/category-vocabulary/angry.png"
+    ],
+    "alt_text": "Angry",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age five simplified rounded cartoon, bold blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-category-vocabulary-angry",
+    "title": "Angry",
+    "category": "feelings-and-regulation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "angry",
+      "mad",
+      "anger",
+      "frustrated",
+      "furrowed brows"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/feelings-and-regulation/category-vocabulary/angry.png"
+    ],
+    "alt_text": "Angry",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age ten moderately realistic proportions and everyday colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-category-vocabulary-angry",
+    "title": "Angry",
+    "category": "feelings-and-regulation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "angry",
+      "mad",
+      "anger",
+      "frustrated",
+      "furrowed brows"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/feelings-and-regulation/category-vocabulary/angry.png"
+    ],
+    "alt_text": "Angry",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-category-vocabulary-handshake",
+    "title": "Handshake",
+    "category": "social-situations",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "handshake",
+      "shake hands",
+      "greet",
+      "greeting",
+      "meet someone"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/social-situations/category-vocabulary/handshake.png"
+    ],
+    "alt_text": "Handshake",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age five simplified rounded cartoon, bold blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-category-vocabulary-handshake",
+    "title": "Handshake",
+    "category": "social-situations",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "handshake",
+      "shake hands",
+      "greet",
+      "greeting",
+      "meet someone"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/social-situations/category-vocabulary/handshake.png"
+    ],
+    "alt_text": "Handshake",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age ten moderately realistic proportions and everyday colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-category-vocabulary-handshake",
+    "title": "Handshake",
+    "category": "social-situations",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "handshake",
+      "shake hands",
+      "greet",
+      "greeting",
+      "meet someone"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/social-situations/category-vocabulary/handshake.png"
+    ],
+    "alt_text": "Handshake",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-category-vocabulary-wave-hello",
+    "title": "Wave hello",
+    "category": "social-situations",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "wave hello",
+      "waving hand",
+      "greeting",
+      "say hello",
+      "say goodbye"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/social-situations/category-vocabulary/wave-hello.png"
+    ],
+    "alt_text": "Wave hello",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age five simplified rounded cartoon, bold blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-category-vocabulary-wave-hello",
+    "title": "Wave hello",
+    "category": "social-situations",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "wave hello",
+      "waving hand",
+      "greeting",
+      "say hello",
+      "say goodbye"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/social-situations/category-vocabulary/wave-hello.png"
+    ],
+    "alt_text": "Wave hello",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age ten moderately realistic proportions and everyday colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-category-vocabulary-wave-hello",
+    "title": "Wave hello",
+    "category": "social-situations",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "wave hello",
+      "waving hand",
+      "greeting",
+      "say hello",
+      "say goodbye"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/social-situations/category-vocabulary/wave-hello.png"
+    ],
+    "alt_text": "Wave hello",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-category-vocabulary-pass-the-ball",
+    "title": "Pass the ball",
+    "category": "social-situations",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "pass the ball",
+      "sharing a ball",
+      "hand off",
+      "give the ball",
+      "turn taking"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/social-situations/category-vocabulary/pass-the-ball.png"
+    ],
+    "alt_text": "Pass the ball",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age five simplified rounded cartoon, bold blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-category-vocabulary-pass-the-ball",
+    "title": "Pass the ball",
+    "category": "social-situations",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "pass the ball",
+      "sharing a ball",
+      "hand off",
+      "give the ball",
+      "turn taking"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/social-situations/category-vocabulary/pass-the-ball.png"
+    ],
+    "alt_text": "Pass the ball",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age ten moderately realistic proportions and everyday colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-category-vocabulary-pass-the-ball",
+    "title": "Pass the ball",
+    "category": "social-situations",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "pass the ball",
+      "sharing a ball",
+      "hand off",
+      "give the ball",
+      "turn taking"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/social-situations/category-vocabulary/pass-the-ball.png"
+    ],
+    "alt_text": "Pass the ball",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-category-vocabulary-acoustic-guitar",
+    "title": "Acoustic guitar",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "acoustic guitar",
+      "music",
+      "instrument",
+      "strings",
+      "play guitar"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/category-vocabulary/acoustic-guitar.png"
+    ],
+    "alt_text": "Acoustic guitar",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age five simplified rounded cartoon, bold blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-category-vocabulary-acoustic-guitar",
+    "title": "Acoustic guitar",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "acoustic guitar",
+      "music",
+      "instrument",
+      "strings",
+      "play guitar"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/category-vocabulary/acoustic-guitar.png"
+    ],
+    "alt_text": "Acoustic guitar",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age ten moderately realistic proportions and everyday colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-category-vocabulary-acoustic-guitar",
+    "title": "Acoustic guitar",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "acoustic guitar",
+      "music",
+      "instrument",
+      "strings",
+      "play guitar"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/category-vocabulary/acoustic-guitar.png"
+    ],
+    "alt_text": "Acoustic guitar",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-category-vocabulary-building-blocks",
+    "title": "Building blocks",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "building blocks",
+      "toy bricks",
+      "stacking blocks",
+      "construction toys",
+      "play"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/category-vocabulary/building-blocks.png"
+    ],
+    "alt_text": "Building blocks",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age five simplified rounded cartoon, bold blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-category-vocabulary-building-blocks",
+    "title": "Building blocks",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "building blocks",
+      "toy bricks",
+      "stacking blocks",
+      "construction toys",
+      "play"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/category-vocabulary/building-blocks.png"
+    ],
+    "alt_text": "Building blocks",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age ten moderately realistic proportions and everyday colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-category-vocabulary-building-blocks",
+    "title": "Building blocks",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "building blocks",
+      "toy bricks",
+      "stacking blocks",
+      "construction toys",
+      "play"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/category-vocabulary/building-blocks.png"
+    ],
+    "alt_text": "Building blocks",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-category-vocabulary-baseball-glove-and-ball",
+    "title": "Baseball glove and ball",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "baseball glove and ball",
+      "baseball mitt",
+      "catch",
+      "ball game",
+      "sports equipment"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/category-vocabulary/baseball-glove-and-ball.png"
+    ],
+    "alt_text": "Baseball glove and ball",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age five simplified rounded cartoon, bold blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-category-vocabulary-baseball-glove-and-ball",
+    "title": "Baseball glove and ball",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "baseball glove and ball",
+      "baseball mitt",
+      "catch",
+      "ball game",
+      "sports equipment"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/category-vocabulary/baseball-glove-and-ball.png"
+    ],
+    "alt_text": "Baseball glove and ball",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Age ten moderately realistic proportions and everyday colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-category-vocabulary-baseball-glove-and-ball",
+    "title": "Baseball glove and ball",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "baseball glove and ball",
+      "baseball mitt",
+      "catch",
+      "ball game",
+      "sports equipment"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/category-vocabulary/baseball-glove-and-ball.png"
+    ],
+    "alt_text": "Baseball glove and ball",
+    "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
+    "source": "Original generated AAC artwork."
   }
 ]
