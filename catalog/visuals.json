@@ -28732,5 +28732,180 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15",
     "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "0-5-daily-routines-put-on-a-hat-male",
+    "title": "Put on a hat — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "put on a hat",
+      "winter hat",
+      "getting dressed"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/put-on-a-hat-male.png"
+    ],
+    "alt_text": "a 5-year-old boy pulling an orange knit hat down over his head with both hands",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 5-year-old boy pulling an orange knit hat down over his head with both hands. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: put on a hat, winter hat, getting dressed.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "ab1bbeabaf427808c89e1f681d4803f41fa0237fd66bf8fb1821cc71a8e5223f",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-wash-an-apple-female",
+    "title": "Wash an apple — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "wash an apple",
+      "rinse fruit",
+      "snack preparation"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/wash-an-apple-female.png"
+    ],
+    "alt_text": "a 5-year-old girl rinsing an apple under running water at a sink",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 5-year-old girl rinsing an apple under running water at a sink. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: wash an apple, rinse fruit, snack preparation.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "068bfc9085ee9365d5547742ebadd21e33f19cccc4a5bbc03c8bc14d6ec211ef",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-fill-a-water-bottle-male",
+    "title": "Fill a water bottle — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "fill a water bottle",
+      "refill bottle",
+      "drinking water"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/fill-a-water-bottle-male.png"
+    ],
+    "alt_text": "a 10-year-old boy holding an open water bottle under a running faucet with the stream entering its mouth",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 10-year-old boy holding an open water bottle under a running faucet with the stream entering its mouth. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: fill a water bottle, refill bottle, drinking water.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "e167d1423e9076488975f67a4e1217cdad7e956ea813fb4cfb4a4652595bc46f",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-learning-and-tasks-erase-pencil-marks-female",
+    "title": "Erase pencil marks — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "erase pencil marks",
+      "eraser",
+      "correct schoolwork"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/erase-pencil-marks-female.png"
+    ],
+    "alt_text": "a 10-year-old girl rubbing an orange rectangular eraser over pencil marks on a sheet of paper",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 10-year-old girl rubbing an orange rectangular eraser over pencil marks on a sheet of paper. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: erase pencil marks, eraser, correct schoolwork.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "913176f8e5f82fac2fd58a991877f81242d6717b0e2378fe76935da0c74ed8bd",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-take-out-the-trash-male",
+    "title": "Take out the trash — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "take out the trash",
+      "garbage bag",
+      "rubbish",
+      "chores"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/take-out-the-trash-male.png"
+    ],
+    "alt_text": "a teenage boy placing a tied gray trash bag into an open orange outdoor bin",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a teenage boy placing a tied gray trash bag into an open orange outdoor bin. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: take out the trash, garbage bag, rubbish, chores.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "32efbddd5328ea3350a5f841a2aed2b522850520c26621939ae779d32e056ab2",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-learning-and-tasks-address-an-envelope-female",
+    "title": "Address an envelope — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "address an envelope",
+      "write an address",
+      "mail a letter"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/address-an-envelope-female.png"
+    ],
+    "alt_text": "a teenage girl using an orange pen to write simple abstract address lines on a white envelope with a stamp, seated at a table",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a teenage girl using an orange pen to write simple abstract address lines on a white envelope with a stamp, seated at a table. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: address an envelope, write an address, mail a letter.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "2b9e85e50e562b96bfef22363f896ee0b4493eb53718bb49f44561f7a45d5522",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
