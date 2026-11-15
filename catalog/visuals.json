@@ -30824,5 +30824,557 @@
     "image_sha256": "75784111a752eda47ad271f7e18c468d9a7907a035d77bdef37a75431a32ec9f",
     "created_at": "2026-11-15",
     "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "shared-everyday-watercolor-palette",
+    "title": "Watercolor palette",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "watercolor palette",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/watercolor-palette.png"
+    ],
+    "alt_text": "Illustration of watercolor palette.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sketchbook",
+    "title": "Sketchbook",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "sketchbook",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/sketchbook.png"
+    ],
+    "alt_text": "Illustration of sketchbook.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-colored-pencils",
+    "title": "Colored pencils",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "colored pencils",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/colored-pencils.png"
+    ],
+    "alt_text": "Illustration of colored pencils.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-craft-felt",
+    "title": "Craft felt",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "craft felt",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/craft-felt.png"
+    ],
+    "alt_text": "Illustration of craft felt.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-yarn-ball",
+    "title": "Yarn ball",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "yarn ball",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/yarn-ball.png"
+    ],
+    "alt_text": "Illustration of yarn ball.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-crochet-hook",
+    "title": "Crochet hook",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "crochet hook",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/crochet-hook.png"
+    ],
+    "alt_text": "Illustration of crochet hook.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-embroidery-hoop",
+    "title": "Embroidery hoop",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "embroidery hoop",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/embroidery-hoop.png"
+    ],
+    "alt_text": "Illustration of embroidery hoop.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sewing-machine",
+    "title": "Sewing machine",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "sewing machine",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/sewing-machine.png"
+    ],
+    "alt_text": "Illustration of sewing machine.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-origami-crane",
+    "title": "Origami crane",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "origami crane",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/origami-crane.png"
+    ],
+    "alt_text": "Illustration of origami crane.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-clay-block",
+    "title": "Clay block",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "clay block",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/clay-block.png"
+    ],
+    "alt_text": "Illustration of clay block.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-rubber-stamp",
+    "title": "Rubber stamp",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "rubber stamp",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/rubber-stamp.png"
+    ],
+    "alt_text": "Illustration of rubber stamp.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-stencil",
+    "title": "Stencil",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "stencil",
+      "arts and crafts",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/stencil.png"
+    ],
+    "alt_text": "Illustration of stencil.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-hearing-aid",
+    "title": "Hearing aid",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "hearing aid",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/hearing-aid.png"
+    ],
+    "alt_text": "Illustration of hearing aid.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-white-cane",
+    "title": "White cane",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "white cane",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/white-cane.png"
+    ],
+    "alt_text": "Illustration of white cane.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-walker",
+    "title": "Walker",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "walker",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/walker.png"
+    ],
+    "alt_text": "Illustration of walker.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-forearm-crutches",
+    "title": "Forearm crutches",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "forearm crutches",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/forearm-crutches.png"
+    ],
+    "alt_text": "Illustration of forearm crutches.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-earplugs",
+    "title": "Earplugs",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "earplugs",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/earplugs.png"
+    ],
+    "alt_text": "Illustration of earplugs.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sleep-mask",
+    "title": "Sleep mask",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "sleep mask",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/sleep-mask.png"
+    ],
+    "alt_text": "Illustration of sleep mask.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-adhesive-bandage",
+    "title": "Adhesive bandage",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "adhesive bandage",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/adhesive-bandage.png"
+    ],
+    "alt_text": "Illustration of adhesive bandage.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-digital-thermometer",
+    "title": "Digital thermometer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "digital thermometer",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/digital-thermometer.png"
+    ],
+    "alt_text": "Illustration of digital thermometer.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-ice-pack",
+    "title": "Ice pack",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "ice pack",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/ice-pack.png"
+    ],
+    "alt_text": "Illustration of ice pack.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-pill-organizer",
+    "title": "Pill organizer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "pill organizer",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/pill-organizer.png"
+    ],
+    "alt_text": "Illustration of pill organizer.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-magnifying-glass",
+    "title": "Magnifying glass",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "magnifying glass",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/magnifying-glass.png"
+    ],
+    "alt_text": "Illustration of magnifying glass.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-grabber-tool",
+    "title": "Grabber tool",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "grabber tool",
+      "accessibility and care",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/grabber-tool.png"
+    ],
+    "alt_text": "Illustration of grabber tool.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
   }
 ]
