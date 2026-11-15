@@ -32865,5 +32865,599 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15",
     "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "0-5-weather-clothing-play-snowflake",
+    "title": "Snowflake",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "snowflake",
+      "snow",
+      "winter weather",
+      "ice crystal"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/weather-clothing-play/snowflake.png"
+    ],
+    "alt_text": "Snowflake",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 5 simple rounded shapes and blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-weather-clothing-play-snowflake",
+    "title": "Snowflake",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "snowflake",
+      "snow",
+      "winter weather",
+      "ice crystal"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/weather-clothing-play/snowflake.png"
+    ],
+    "alt_text": "Snowflake",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 10 more realistic shapes and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-weather-clothing-play-snowflake",
+    "title": "Snowflake",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "snowflake",
+      "snow",
+      "winter weather",
+      "ice crystal"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/weather-clothing-play/snowflake.png"
+    ],
+    "alt_text": "Snowflake",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Teen naturalistic proportions and material colors, clean solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-weather-clothing-play-thunderstorm",
+    "title": "Thunderstorm",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "thunderstorm",
+      "lightning",
+      "storm",
+      "thunder cloud"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/weather-clothing-play/thunderstorm.png"
+    ],
+    "alt_text": "Thunderstorm",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 5 simple rounded shapes and blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-weather-clothing-play-thunderstorm",
+    "title": "Thunderstorm",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "thunderstorm",
+      "lightning",
+      "storm",
+      "thunder cloud"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/weather-clothing-play/thunderstorm.png"
+    ],
+    "alt_text": "Thunderstorm",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 10 more realistic shapes and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-weather-clothing-play-thunderstorm",
+    "title": "Thunderstorm",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "thunderstorm",
+      "lightning",
+      "storm",
+      "thunder cloud"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/weather-clothing-play/thunderstorm.png"
+    ],
+    "alt_text": "Thunderstorm",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Teen naturalistic proportions and material colors, clean solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-weather-clothing-play-wind",
+    "title": "Wind",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "wind",
+      "windy weather",
+      "gust",
+      "breeze"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/weather-clothing-play/wind.png"
+    ],
+    "alt_text": "Wind",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 5 simple rounded shapes and blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-weather-clothing-play-wind",
+    "title": "Wind",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "wind",
+      "windy weather",
+      "gust",
+      "breeze"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/weather-clothing-play/wind.png"
+    ],
+    "alt_text": "Wind",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 10 more realistic shapes and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-weather-clothing-play-wind",
+    "title": "Wind",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "wind",
+      "windy weather",
+      "gust",
+      "breeze"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/weather-clothing-play/wind.png"
+    ],
+    "alt_text": "Wind",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Teen naturalistic proportions and material colors, clean solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-weather-clothing-play-winter-hat",
+    "title": "Winter hat",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "winter hat",
+      "beanie",
+      "knit hat",
+      "warm clothing"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/weather-clothing-play/winter-hat.png"
+    ],
+    "alt_text": "Winter hat",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 5 simple rounded shapes and blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-weather-clothing-play-winter-hat",
+    "title": "Winter hat",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "winter hat",
+      "beanie",
+      "knit hat",
+      "warm clothing"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/weather-clothing-play/winter-hat.png"
+    ],
+    "alt_text": "Winter hat",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 10 more realistic shapes and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-weather-clothing-play-winter-hat",
+    "title": "Winter hat",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "winter hat",
+      "beanie",
+      "knit hat",
+      "warm clothing"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/weather-clothing-play/winter-hat.png"
+    ],
+    "alt_text": "Winter hat",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Teen naturalistic proportions and material colors, clean solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-weather-clothing-play-rain-boots",
+    "title": "Rain boots",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "rain boots",
+      "wellies",
+      "rubber boots",
+      "waterproof footwear"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/weather-clothing-play/rain-boots.png"
+    ],
+    "alt_text": "Rain boots",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 5 simple rounded shapes and blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-weather-clothing-play-rain-boots",
+    "title": "Rain boots",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "rain boots",
+      "wellies",
+      "rubber boots",
+      "waterproof footwear"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/weather-clothing-play/rain-boots.png"
+    ],
+    "alt_text": "Rain boots",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 10 more realistic shapes and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-weather-clothing-play-rain-boots",
+    "title": "Rain boots",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "rain boots",
+      "wellies",
+      "rubber boots",
+      "waterproof footwear"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/weather-clothing-play/rain-boots.png"
+    ],
+    "alt_text": "Rain boots",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Teen naturalistic proportions and material colors, clean solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-weather-clothing-play-mittens",
+    "title": "Mittens",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "mittens",
+      "winter gloves",
+      "hand warmers",
+      "cold weather clothing"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/weather-clothing-play/mittens.png"
+    ],
+    "alt_text": "Mittens",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 5 simple rounded shapes and blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-weather-clothing-play-mittens",
+    "title": "Mittens",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "mittens",
+      "winter gloves",
+      "hand warmers",
+      "cold weather clothing"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/weather-clothing-play/mittens.png"
+    ],
+    "alt_text": "Mittens",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 10 more realistic shapes and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-weather-clothing-play-mittens",
+    "title": "Mittens",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "mittens",
+      "winter gloves",
+      "hand warmers",
+      "cold weather clothing"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/weather-clothing-play/mittens.png"
+    ],
+    "alt_text": "Mittens",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Teen naturalistic proportions and material colors, clean solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-weather-clothing-play-jigsaw-puzzle",
+    "title": "Jigsaw puzzle",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "jigsaw puzzle",
+      "puzzle pieces",
+      "put together",
+      "puzzle game"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/weather-clothing-play/jigsaw-puzzle.png"
+    ],
+    "alt_text": "Jigsaw puzzle",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 5 simple rounded shapes and blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-weather-clothing-play-jigsaw-puzzle",
+    "title": "Jigsaw puzzle",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "jigsaw puzzle",
+      "puzzle pieces",
+      "put together",
+      "puzzle game"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/weather-clothing-play/jigsaw-puzzle.png"
+    ],
+    "alt_text": "Jigsaw puzzle",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 10 more realistic shapes and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-weather-clothing-play-jigsaw-puzzle",
+    "title": "Jigsaw puzzle",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "jigsaw puzzle",
+      "puzzle pieces",
+      "put together",
+      "puzzle game"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/weather-clothing-play/jigsaw-puzzle.png"
+    ],
+    "alt_text": "Jigsaw puzzle",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Teen naturalistic proportions and material colors, clean solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-weather-clothing-play-kite",
+    "title": "Kite",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "kite",
+      "fly a kite",
+      "outdoor play",
+      "kite flying"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/weather-clothing-play/kite.png"
+    ],
+    "alt_text": "Kite",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 5 simple rounded shapes and blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-weather-clothing-play-kite",
+    "title": "Kite",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "kite",
+      "fly a kite",
+      "outdoor play",
+      "kite flying"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/weather-clothing-play/kite.png"
+    ],
+    "alt_text": "Kite",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 10 more realistic shapes and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-weather-clothing-play-kite",
+    "title": "Kite",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "kite",
+      "fly a kite",
+      "outdoor play",
+      "kite flying"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/weather-clothing-play/kite.png"
+    ],
+    "alt_text": "Kite",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Teen naturalistic proportions and material colors, clean solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-weather-clothing-play-jump-rope",
+    "title": "Jump rope",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "jump rope",
+      "skipping rope",
+      "skip rope",
+      "playground games"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/weather-clothing-play/jump-rope.png"
+    ],
+    "alt_text": "Jump rope",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 5 simple rounded shapes and blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-weather-clothing-play-jump-rope",
+    "title": "Jump rope",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "jump rope",
+      "skipping rope",
+      "skip rope",
+      "playground games"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/weather-clothing-play/jump-rope.png"
+    ],
+    "alt_text": "Jump rope",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Age 10 more realistic shapes and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-weather-clothing-play-jump-rope",
+    "title": "Jump rope",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "jump rope",
+      "skipping rope",
+      "skip rope",
+      "playground games"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/weather-clothing-play/jump-rope.png"
+    ],
+    "alt_text": "Jump rope",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet with exactly 9 independent AAC icons. Exact regular 3x3 grid, each icon confined to central 70% of its cell, generous transparent gutters. Row 1: single snowflake, gray thundercloud with lightning bolt, wind swirls with a leaf. Row 2: single winter hat with pompom, single pair of rain boots, single pair of mittens. Row 3: jigsaw puzzle pieces interlocked, kite with short tail, jump rope coiled with handles. Flat opaque fills, bold charcoal outlines, no text, scenery or panel borders. Teen naturalistic proportions and material colors, clean solid facets.",
+    "source": "Original generated AAC artwork"
   }
 ]
