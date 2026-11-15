@@ -30650,5 +30650,179 @@
     "alt_text": "Yarn and knitting needles",
     "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
     "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-recreation-blow-bubbles-male",
+    "title": "Blow bubbles — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "blow bubbles",
+      "bubble wand",
+      "outdoor play"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/recreation/blow-bubbles-male.png"
+    ],
+    "alt_text": "a 5-year-old boy blowing soap bubbles through an orange bubble wand",
+    "generation_prompt": "One square, text-free transparent AAC pictogram of a 5-year-old boy blowing soap bubbles through an orange bubble wand. Match the relevant character on the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Show clear hand-object contact, minimal props and safe margins. Uniform solid colors and true transparent surroundings, no shadows or gradients. Search metadata only, never draw text: blow bubbles, bubble wand, outdoor play.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "04dd1b01b86c31fa86f193324c6e9f862ed9b6aa61e2153fc44ddfe33db4a57f",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-brush-your-hair-female",
+    "title": "Brush your hair — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "brush your hair",
+      "hairbrush",
+      "grooming"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/brush-your-hair-female.png"
+    ],
+    "alt_text": "a 5-year-old girl brushing her hair with an orange hairbrush",
+    "generation_prompt": "One square, text-free transparent AAC pictogram of a 5-year-old girl brushing her hair with an orange hairbrush. Match the relevant character on the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Show clear hand-object contact, minimal props and safe margins. Uniform solid colors and true transparent surroundings, no shadows or gradients. Search metadata only, never draw text: brush your hair, hairbrush, grooming.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "f4670cecebecf9d3e19781efc412d42204e26beb8ef4a8b12c5df8c82ca44273",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-learning-and-tasks-use-a-glue-stick-male",
+    "title": "Use a glue stick — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "use a glue stick",
+      "glue paper",
+      "school craft"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/use-a-glue-stick-male.png"
+    ],
+    "alt_text": "a 10-year-old boy applying an orange glue stick to the back of a paper shape on a table",
+    "generation_prompt": "One square, text-free transparent AAC pictogram of a 10-year-old boy applying an orange glue stick to the back of a paper shape on a table. Match the relevant character on the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Show clear hand-object contact, minimal props and safe margins. Uniform solid colors and true transparent surroundings, no shadows or gradients. Search metadata only, never draw text: use a glue stick, glue paper, school craft.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "6007130bf4b837432ab57650c0b2283b74ece41f84306bf8fb88269751c91288",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-put-on-a-bandage-female",
+    "title": "Put on a bandage — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "put on a bandage",
+      "adhesive bandage",
+      "first aid"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/put-on-a-bandage-female.png"
+    ],
+    "alt_text": "a 10-year-old girl pressing a small orange adhesive bandage onto her forearm, no visible wound",
+    "generation_prompt": "One square, text-free transparent AAC pictogram of a 10-year-old girl pressing a small orange adhesive bandage onto her forearm, no visible wound. Match the relevant character on the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Show clear hand-object contact, minimal props and safe margins. Uniform solid colors and true transparent surroundings, no shadows or gradients. Search metadata only, never draw text: put on a bandage, adhesive bandage, first aid.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "ce8384266310d4ac5b2eb790d0f16f00d3e84016499e16528ed90141ecfa33ab",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-load-a-dishwasher-male",
+    "title": "Load a dishwasher — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "load a dishwasher",
+      "put dishes away",
+      "kitchen chore"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/load-a-dishwasher-male.png"
+    ],
+    "alt_text": "a teenage boy sliding a white dinner plate into the open lower rack of a gray dishwasher",
+    "generation_prompt": "One square, text-free transparent AAC pictogram of a teenage boy sliding a white dinner plate into the open lower rack of a gray dishwasher. Match the relevant character on the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Show clear hand-object contact, minimal props and safe margins. Uniform solid colors and true transparent surroundings, no shadows or gradients. Search metadata only, never draw text: load a dishwasher, put dishes away, kitchen chore.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "cd324ac1c311a02fd78177e244a50601cff22a5df4672b4bd0b5c970fe420da5",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-sew-on-a-button-female",
+    "title": "Sew on a button — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "sew on a button",
+      "needle and thread",
+      "mend clothes"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/sew-on-a-button-female.png"
+    ],
+    "alt_text": "a teenage girl sewing a large orange button onto a piece of blue fabric at a table",
+    "generation_prompt": "One square, text-free transparent AAC pictogram of a teenage girl sewing a large orange button onto a piece of blue fabric at a table. Match the relevant character on the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Show clear hand-object contact, minimal props and safe margins. Uniform solid colors and true transparent surroundings, no shadows or gradients. Search metadata only, never draw text: sew on a button, needle and thread, mend clothes.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "75784111a752eda47ad271f7e18c468d9a7907a035d77bdef37a75431a32ec9f",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
