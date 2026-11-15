@@ -28180,5 +28180,557 @@
       "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
     },
     "image_sha256": "d9ba7f021bbcbf8349fa859de1fdb61a0b7b505116f234029a5419d1bb1440bd"
+  },
+  {
+    "id": "shared-everyday-strawberry",
+    "title": "Strawberry",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "strawberry",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/strawberry.png"
+    ],
+    "alt_text": "Illustration of strawberry.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-grapes",
+    "title": "Grapes",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "grapes",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/grapes.png"
+    ],
+    "alt_text": "Illustration of grapes.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-blueberries",
+    "title": "Blueberries",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "blueberries",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/blueberries.png"
+    ],
+    "alt_text": "Illustration of blueberries.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-pineapple",
+    "title": "Pineapple",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "pineapple",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/pineapple.png"
+    ],
+    "alt_text": "Illustration of pineapple.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-avocado",
+    "title": "Avocado",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "avocado",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/avocado.png"
+    ],
+    "alt_text": "Illustration of avocado.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-cucumber",
+    "title": "Cucumber",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "cucumber",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/cucumber.png"
+    ],
+    "alt_text": "Illustration of cucumber.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-bell-pepper",
+    "title": "Bell pepper",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "bell pepper",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/bell-pepper.png"
+    ],
+    "alt_text": "Illustration of bell pepper.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-potato",
+    "title": "Potato",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "potato",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/potato.png"
+    ],
+    "alt_text": "Illustration of potato.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-onion",
+    "title": "Onion",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "onion",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/onion.png"
+    ],
+    "alt_text": "Illustration of onion.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-milk-carton",
+    "title": "Milk carton",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "milk carton",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/milk-carton.png"
+    ],
+    "alt_text": "Illustration of milk carton.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-yogurt-cup",
+    "title": "Yogurt cup",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "yogurt cup",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/yogurt-cup.png"
+    ],
+    "alt_text": "Illustration of yogurt cup.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-pasta",
+    "title": "Pasta",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "pasta",
+      "food and groceries",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/pasta.png"
+    ],
+    "alt_text": "Illustration of pasta.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-refrigerator",
+    "title": "Refrigerator",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "refrigerator",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/refrigerator.png"
+    ],
+    "alt_text": "Illustration of refrigerator.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-microwave",
+    "title": "Microwave",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "microwave",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/microwave.png"
+    ],
+    "alt_text": "Illustration of microwave.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-blender",
+    "title": "Blender",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "blender",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/blender.png"
+    ],
+    "alt_text": "Illustration of blender.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-rice-cooker",
+    "title": "Rice cooker",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "rice cooker",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/rice-cooker.png"
+    ],
+    "alt_text": "Illustration of rice cooker.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-dishwasher",
+    "title": "Dishwasher",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "dishwasher",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/dishwasher.png"
+    ],
+    "alt_text": "Illustration of dishwasher.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-stand-mixer",
+    "title": "Stand mixer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "stand mixer",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/stand-mixer.png"
+    ],
+    "alt_text": "Illustration of stand mixer.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-coffee-maker",
+    "title": "Coffee maker",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "coffee maker",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/coffee-maker.png"
+    ],
+    "alt_text": "Illustration of coffee maker.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-electric-kettle",
+    "title": "Electric kettle",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "electric kettle",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/electric-kettle.png"
+    ],
+    "alt_text": "Illustration of electric kettle.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-air-fryer",
+    "title": "Air fryer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "air fryer",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/air-fryer.png"
+    ],
+    "alt_text": "Illustration of air fryer.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-kitchen-scale",
+    "title": "Kitchen scale",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "kitchen scale",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/kitchen-scale.png"
+    ],
+    "alt_text": "Illustration of kitchen scale.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-slow-cooker",
+    "title": "Slow cooker",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "slow cooker",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/slow-cooker.png"
+    ],
+    "alt_text": "Illustration of slow cooker.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-food-processor",
+    "title": "Food processor",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "food processor",
+      "kitchen appliances",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/food-processor.png"
+    ],
+    "alt_text": "Illustration of food processor.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
   }
 ]
