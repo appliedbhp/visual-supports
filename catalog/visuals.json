@@ -25471,5 +25471,557 @@
     "alt_text": "Baseball glove and ball",
     "generation_prompt": "Square transparent PNG contact sheet, EXACT 3x3 grid of separate compact original AAC pictograms, each entirely within central 70% of its cell, wide transparent gutters. No text, panels, scenery, or shadows outside. Row 1: happy smiling face, sad frowning face with one tear, angry face with furrowed brows. Row 2: two hands shaking, one palm waving hello with two small motion lines, two hands passing a ball between them. Row 3: acoustic guitar, stack of three toy building blocks, baseball glove with baseball. Solid opaque fills, bold charcoal rounded outlines. Teen mature naturalistic faces and object construction, natural colors and flat solid facets.",
     "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "shared-everyday-dental-floss",
+    "title": "Dental floss",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "dental floss",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/dental-floss.png"
+    ],
+    "alt_text": "Illustration of dental floss.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-mouthwash",
+    "title": "Mouthwash",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "mouthwash",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/mouthwash.png"
+    ],
+    "alt_text": "Illustration of mouthwash.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-nail-clippers",
+    "title": "Nail clippers",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "nail clippers",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/nail-clippers.png"
+    ],
+    "alt_text": "Illustration of nail clippers.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-hand-sanitizer",
+    "title": "Hand sanitizer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "hand sanitizer",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/hand-sanitizer.png"
+    ],
+    "alt_text": "Illustration of hand sanitizer.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-comb",
+    "title": "Comb",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "comb",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/comb.png"
+    ],
+    "alt_text": "Illustration of comb.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-hair-dryer",
+    "title": "Hair dryer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "hair dryer",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/hair-dryer.png"
+    ],
+    "alt_text": "Illustration of hair dryer.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-bath-sponge",
+    "title": "Bath sponge",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "bath sponge",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/bath-sponge.png"
+    ],
+    "alt_text": "Illustration of bath sponge.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-toilet-paper",
+    "title": "Toilet paper",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "toilet paper",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/toilet-paper.png"
+    ],
+    "alt_text": "Illustration of toilet paper.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-t-shirt",
+    "title": "T-shirt",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "t-shirt",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/t-shirt.png"
+    ],
+    "alt_text": "Illustration of t-shirt.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-jeans",
+    "title": "Jeans",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "jeans",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/jeans.png"
+    ],
+    "alt_text": "Illustration of jeans.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-mittens",
+    "title": "Mittens",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "mittens",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/mittens.png"
+    ],
+    "alt_text": "Illustration of mittens.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-winter-hat",
+    "title": "Winter hat",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "winter hat",
+      "personal care and clothing",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/winter-hat.png"
+    ],
+    "alt_text": "Illustration of winter hat.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-oven-mitt",
+    "title": "Oven mitt",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "oven mitt",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/oven-mitt.png"
+    ],
+    "alt_text": "Illustration of oven mitt.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-colander",
+    "title": "Colander",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "colander",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/colander.png"
+    ],
+    "alt_text": "Illustration of colander.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-mixing-bowl",
+    "title": "Mixing bowl",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "mixing bowl",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/mixing-bowl.png"
+    ],
+    "alt_text": "Illustration of mixing bowl.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-measuring-cup",
+    "title": "Measuring cup",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "measuring cup",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/measuring-cup.png"
+    ],
+    "alt_text": "Illustration of measuring cup.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-wooden-spoon",
+    "title": "Wooden spoon",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "wooden spoon",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/wooden-spoon.png"
+    ],
+    "alt_text": "Illustration of wooden spoon.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-spatula",
+    "title": "Spatula",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "spatula",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/spatula.png"
+    ],
+    "alt_text": "Illustration of spatula.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-whisk",
+    "title": "Whisk",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "whisk",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/whisk.png"
+    ],
+    "alt_text": "Illustration of whisk.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-cutting-board",
+    "title": "Cutting board",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "cutting board",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/cutting-board.png"
+    ],
+    "alt_text": "Illustration of cutting board.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-dish-sponge",
+    "title": "Dish sponge",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "dish sponge",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/dish-sponge.png"
+    ],
+    "alt_text": "Illustration of dish sponge.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-dish-soap",
+    "title": "Dish soap",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "dish soap",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/dish-soap.png"
+    ],
+    "alt_text": "Illustration of dish soap.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-dustpan",
+    "title": "Dustpan",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "dustpan",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/dustpan.png"
+    ],
+    "alt_text": "Illustration of dustpan.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-spray-bottle",
+    "title": "Spray bottle",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "spray bottle",
+      "kitchen and household objects",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/spray-bottle.png"
+    ],
+    "alt_text": "Illustration of spray bottle.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
   }
 ]
