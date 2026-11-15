@@ -31551,5 +31551,599 @@
     "image_sha256": "9a72c4e409de5e2efc1b783726446669ab52cee71b8e7d57aa2793d8b7675590",
     "created_at": "2026-11-15",
     "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-transport-chores-music-bicycle",
+    "title": "Bicycle",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "bicycle",
+      "bike",
+      "cycling",
+      "pedal bike"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/transport-chores-music/bicycle.png"
+    ],
+    "alt_text": "Bicycle",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Very simple age-five cartoon, cheerful blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-transport-chores-music-bicycle",
+    "title": "Bicycle",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "bicycle",
+      "bike",
+      "cycling",
+      "pedal bike"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/transport-chores-music/bicycle.png"
+    ],
+    "alt_text": "Bicycle",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Age ten, moderately realistic construction and everyday colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-transport-chores-music-bicycle",
+    "title": "Bicycle",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "bicycle",
+      "bike",
+      "cycling",
+      "pedal bike"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/transport-chores-music/bicycle.png"
+    ],
+    "alt_text": "Bicycle",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Teen, naturalistic mature proportions and colors with restrained flat facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-transport-chores-music-train",
+    "title": "Passenger train",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "passenger train",
+      "railway",
+      "railroad",
+      "locomotive"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/transport-chores-music/train.png"
+    ],
+    "alt_text": "Passenger train",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Very simple age-five cartoon, cheerful blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-transport-chores-music-train",
+    "title": "Passenger train",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "passenger train",
+      "railway",
+      "railroad",
+      "locomotive"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/transport-chores-music/train.png"
+    ],
+    "alt_text": "Passenger train",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Age ten, moderately realistic construction and everyday colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-transport-chores-music-train",
+    "title": "Passenger train",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "passenger train",
+      "railway",
+      "railroad",
+      "locomotive"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/transport-chores-music/train.png"
+    ],
+    "alt_text": "Passenger train",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Teen, naturalistic mature proportions and colors with restrained flat facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-transport-chores-music-airplane",
+    "title": "Airplane",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "airplane",
+      "aeroplane",
+      "plane",
+      "air travel"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/transport-chores-music/airplane.png"
+    ],
+    "alt_text": "Airplane",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Very simple age-five cartoon, cheerful blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-transport-chores-music-airplane",
+    "title": "Airplane",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "airplane",
+      "aeroplane",
+      "plane",
+      "air travel"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/transport-chores-music/airplane.png"
+    ],
+    "alt_text": "Airplane",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Age ten, moderately realistic construction and everyday colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-transport-chores-music-airplane",
+    "title": "Airplane",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "airplane",
+      "aeroplane",
+      "plane",
+      "air travel"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/transport-chores-music/airplane.png"
+    ],
+    "alt_text": "Airplane",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Teen, naturalistic mature proportions and colors with restrained flat facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-transport-chores-music-broom-dustpan",
+    "title": "Broom and dustpan",
+    "category": "daily-routines",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "broom and dustpan",
+      "sweep floor",
+      "sweeping",
+      "cleaning"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/transport-chores-music/broom-dustpan.png"
+    ],
+    "alt_text": "Broom and dustpan",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Very simple age-five cartoon, cheerful blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-transport-chores-music-broom-dustpan",
+    "title": "Broom and dustpan",
+    "category": "daily-routines",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "broom and dustpan",
+      "sweep floor",
+      "sweeping",
+      "cleaning"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/transport-chores-music/broom-dustpan.png"
+    ],
+    "alt_text": "Broom and dustpan",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Age ten, moderately realistic construction and everyday colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-transport-chores-music-broom-dustpan",
+    "title": "Broom and dustpan",
+    "category": "daily-routines",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "broom and dustpan",
+      "sweep floor",
+      "sweeping",
+      "cleaning"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/transport-chores-music/broom-dustpan.png"
+    ],
+    "alt_text": "Broom and dustpan",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Teen, naturalistic mature proportions and colors with restrained flat facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-transport-chores-music-laundry-basket",
+    "title": "Laundry basket",
+    "category": "daily-routines",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "laundry basket",
+      "clothes hamper",
+      "dirty clothes",
+      "washing"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/transport-chores-music/laundry-basket.png"
+    ],
+    "alt_text": "Laundry basket",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Very simple age-five cartoon, cheerful blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-transport-chores-music-laundry-basket",
+    "title": "Laundry basket",
+    "category": "daily-routines",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "laundry basket",
+      "clothes hamper",
+      "dirty clothes",
+      "washing"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/transport-chores-music/laundry-basket.png"
+    ],
+    "alt_text": "Laundry basket",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Age ten, moderately realistic construction and everyday colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-transport-chores-music-laundry-basket",
+    "title": "Laundry basket",
+    "category": "daily-routines",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "laundry basket",
+      "clothes hamper",
+      "dirty clothes",
+      "washing"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/transport-chores-music/laundry-basket.png"
+    ],
+    "alt_text": "Laundry basket",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Teen, naturalistic mature proportions and colors with restrained flat facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-transport-chores-music-vacuum-cleaner",
+    "title": "Vacuum cleaner",
+    "category": "daily-routines",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "vacuum cleaner",
+      "hoover",
+      "vacuuming",
+      "clean floor"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/transport-chores-music/vacuum-cleaner.png"
+    ],
+    "alt_text": "Vacuum cleaner",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Very simple age-five cartoon, cheerful blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-transport-chores-music-vacuum-cleaner",
+    "title": "Vacuum cleaner",
+    "category": "daily-routines",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "vacuum cleaner",
+      "hoover",
+      "vacuuming",
+      "clean floor"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/transport-chores-music/vacuum-cleaner.png"
+    ],
+    "alt_text": "Vacuum cleaner",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Age ten, moderately realistic construction and everyday colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-transport-chores-music-vacuum-cleaner",
+    "title": "Vacuum cleaner",
+    "category": "daily-routines",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "vacuum cleaner",
+      "hoover",
+      "vacuuming",
+      "clean floor"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/transport-chores-music/vacuum-cleaner.png"
+    ],
+    "alt_text": "Vacuum cleaner",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Teen, naturalistic mature proportions and colors with restrained flat facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-transport-chores-music-piano-keyboard",
+    "title": "Piano keyboard",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "piano keyboard",
+      "piano keys",
+      "musical instrument",
+      "play piano"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/transport-chores-music/piano-keyboard.png"
+    ],
+    "alt_text": "Piano keyboard",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Very simple age-five cartoon, cheerful blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-transport-chores-music-piano-keyboard",
+    "title": "Piano keyboard",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "piano keyboard",
+      "piano keys",
+      "musical instrument",
+      "play piano"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/transport-chores-music/piano-keyboard.png"
+    ],
+    "alt_text": "Piano keyboard",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Age ten, moderately realistic construction and everyday colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-transport-chores-music-piano-keyboard",
+    "title": "Piano keyboard",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "piano keyboard",
+      "piano keys",
+      "musical instrument",
+      "play piano"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/transport-chores-music/piano-keyboard.png"
+    ],
+    "alt_text": "Piano keyboard",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Teen, naturalistic mature proportions and colors with restrained flat facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-transport-chores-music-tambourine",
+    "title": "Tambourine",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "tambourine",
+      "percussion",
+      "jingles",
+      "musical instrument"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/transport-chores-music/tambourine.png"
+    ],
+    "alt_text": "Tambourine",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Very simple age-five cartoon, cheerful blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-transport-chores-music-tambourine",
+    "title": "Tambourine",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "tambourine",
+      "percussion",
+      "jingles",
+      "musical instrument"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/transport-chores-music/tambourine.png"
+    ],
+    "alt_text": "Tambourine",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Age ten, moderately realistic construction and everyday colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-transport-chores-music-tambourine",
+    "title": "Tambourine",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "tambourine",
+      "percussion",
+      "jingles",
+      "musical instrument"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/transport-chores-music/tambourine.png"
+    ],
+    "alt_text": "Tambourine",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Teen, naturalistic mature proportions and colors with restrained flat facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-transport-chores-music-headphones",
+    "title": "Headphones",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "headphones",
+      "over-ear headphones",
+      "earphones",
+      "listen to music"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/transport-chores-music/headphones.png"
+    ],
+    "alt_text": "Headphones",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Very simple age-five cartoon, cheerful blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-transport-chores-music-headphones",
+    "title": "Headphones",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "headphones",
+      "over-ear headphones",
+      "earphones",
+      "listen to music"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/transport-chores-music/headphones.png"
+    ],
+    "alt_text": "Headphones",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Age ten, moderately realistic construction and everyday colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-transport-chores-music-headphones",
+    "title": "Headphones",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "headphones",
+      "over-ear headphones",
+      "earphones",
+      "listen to music"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/transport-chores-music/headphones.png"
+    ],
+    "alt_text": "Headphones",
+    "generation_prompt": "One square transparent AAC contact sheet with exact 3x3 grid, each icon centered within middle 70% of its own cell, wide empty gutters, no text or scenery. Row 1 bicycle, passenger train locomotive, airplane. Row 2 broom and dustpan, laundry basket with clothes, vacuum cleaner. Row 3 piano keyboard, tambourine, over-ear headphones. Bold charcoal contours, solid opaque fills, no gradients. Teen, naturalistic mature proportions and colors with restrained flat facets.",
+    "source": "Original generated AAC artwork"
   }
 ]
