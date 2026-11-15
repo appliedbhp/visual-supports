@@ -26428,5 +26428,557 @@
       "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
     },
     "image_sha256": "1acc6b9005706c9019aefe079a257e1d4525fcb2e1e3b9b5069db59e59e1d2cf"
+  },
+  {
+    "id": "shared-everyday-wallet",
+    "title": "Wallet",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "wallet",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/wallet.png"
+    ],
+    "alt_text": "Illustration of wallet.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-coin-purse",
+    "title": "Coin purse",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "coin purse",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/coin-purse.png"
+    ],
+    "alt_text": "Illustration of coin purse.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-lunch-box",
+    "title": "Lunch box",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "lunch box",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/lunch-box.png"
+    ],
+    "alt_text": "Illustration of lunch box.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-reusable-shopping-bag",
+    "title": "Reusable shopping bag",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "reusable shopping bag",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/reusable-shopping-bag.png"
+    ],
+    "alt_text": "Illustration of reusable shopping bag.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-suitcase",
+    "title": "Suitcase",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "suitcase",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/suitcase.png"
+    ],
+    "alt_text": "Illustration of suitcase.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-eyeglasses",
+    "title": "Eyeglasses",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "eyeglasses",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/eyeglasses.png"
+    ],
+    "alt_text": "Illustration of eyeglasses.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sunglasses",
+    "title": "Sunglasses",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "sunglasses",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/sunglasses.png"
+    ],
+    "alt_text": "Illustration of sunglasses.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-wristwatch",
+    "title": "Wristwatch",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "wristwatch",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/wristwatch.png"
+    ],
+    "alt_text": "Illustration of wristwatch.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-belt",
+    "title": "Belt",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "belt",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/belt.png"
+    ],
+    "alt_text": "Illustration of belt.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-scarf",
+    "title": "Scarf",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "scarf",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/scarf.png"
+    ],
+    "alt_text": "Illustration of scarf.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-baseball-cap",
+    "title": "Baseball cap",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "baseball cap",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/baseball-cap.png"
+    ],
+    "alt_text": "Illustration of baseball cap.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-slippers",
+    "title": "Slippers",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "self-care-and-independence",
+    "keywords": [
+      "slippers",
+      "everyday carry",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/self-care-and-independence/everyday-vocabulary/slippers.png"
+    ],
+    "alt_text": "Illustration of slippers.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-door",
+    "title": "Door",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "door",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/door.png"
+    ],
+    "alt_text": "Illustration of door.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-window",
+    "title": "Window",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "window",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/window.png"
+    ],
+    "alt_text": "Illustration of window.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-doorbell",
+    "title": "Doorbell",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "doorbell",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/doorbell.png"
+    ],
+    "alt_text": "Illustration of doorbell.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-light-switch",
+    "title": "Light switch",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "light switch",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/light-switch.png"
+    ],
+    "alt_text": "Illustration of light switch.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-wall-outlet",
+    "title": "Wall outlet",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "wall outlet",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/wall-outlet.png"
+    ],
+    "alt_text": "Illustration of wall outlet.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-ceiling-fan",
+    "title": "Ceiling fan",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "ceiling fan",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/ceiling-fan.png"
+    ],
+    "alt_text": "Illustration of ceiling fan.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-wall-clock",
+    "title": "Wall clock",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "wall clock",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/wall-clock.png"
+    ],
+    "alt_text": "Illustration of wall clock.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-bathroom-mirror",
+    "title": "Bathroom mirror",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "bathroom mirror",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/bathroom-mirror.png"
+    ],
+    "alt_text": "Illustration of bathroom mirror.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sink",
+    "title": "Sink",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "sink",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/sink.png"
+    ],
+    "alt_text": "Illustration of sink.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-bathtub",
+    "title": "Bathtub",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "bathtub",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/bathtub.png"
+    ],
+    "alt_text": "Illustration of bathtub.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-showerhead",
+    "title": "Showerhead",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "showerhead",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/showerhead.png"
+    ],
+    "alt_text": "Illustration of showerhead.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-washing-machine",
+    "title": "Washing machine",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "daily-routines",
+    "keywords": [
+      "washing machine",
+      "household fixtures",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/daily-routines/everyday-vocabulary/washing-machine.png"
+    ],
+    "alt_text": "Illustration of washing machine.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
   }
 ]
