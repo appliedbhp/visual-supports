@@ -34941,5 +34941,599 @@
     "alt_text": "A teen sits on a bench and pulls the laces of a sneaker tight.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15"
+  },
+  {
+    "id": "0-5-community-desk-personal-care-grocery-store",
+    "title": "Grocery store",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "grocery store",
+      "supermarket",
+      "food shopping",
+      "grocery shop"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/community-desk-personal-care/grocery-store.png"
+    ],
+    "alt_text": "Grocery store",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 5 simple rounded cartoon with blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-desk-personal-care-grocery-store",
+    "title": "Grocery store",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "grocery store",
+      "supermarket",
+      "food shopping",
+      "grocery shop"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/community-desk-personal-care/grocery-store.png"
+    ],
+    "alt_text": "Grocery store",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 10 moderate realism, natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-desk-personal-care-grocery-store",
+    "title": "Grocery store",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "grocery store",
+      "supermarket",
+      "food shopping",
+      "grocery shop"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/community-desk-personal-care/grocery-store.png"
+    ],
+    "alt_text": "Grocery store",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Teen naturalistic construction and material colors with restrained solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-desk-personal-care-bank",
+    "title": "Bank",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "bank",
+      "bank building",
+      "bank branch",
+      "deposit money"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/community-desk-personal-care/bank.png"
+    ],
+    "alt_text": "Bank",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 5 simple rounded cartoon with blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-desk-personal-care-bank",
+    "title": "Bank",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "bank",
+      "bank building",
+      "bank branch",
+      "deposit money"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/community-desk-personal-care/bank.png"
+    ],
+    "alt_text": "Bank",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 10 moderate realism, natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-desk-personal-care-bank",
+    "title": "Bank",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "bank",
+      "bank building",
+      "bank branch",
+      "deposit money"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/community-desk-personal-care/bank.png"
+    ],
+    "alt_text": "Bank",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Teen naturalistic construction and material colors with restrained solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-desk-personal-care-train-station",
+    "title": "Train station",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "train station",
+      "railway station",
+      "platform",
+      "rail travel"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/community-desk-personal-care/train-station.png"
+    ],
+    "alt_text": "Train station",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 5 simple rounded cartoon with blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-desk-personal-care-train-station",
+    "title": "Train station",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "train station",
+      "railway station",
+      "platform",
+      "rail travel"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/community-desk-personal-care/train-station.png"
+    ],
+    "alt_text": "Train station",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 10 moderate realism, natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-desk-personal-care-train-station",
+    "title": "Train station",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "train station",
+      "railway station",
+      "platform",
+      "rail travel"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/community-desk-personal-care/train-station.png"
+    ],
+    "alt_text": "Train station",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Teen naturalistic construction and material colors with restrained solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-desk-personal-care-stapler",
+    "title": "Stapler",
+    "category": "learning-and-tasks",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "stapler",
+      "staple papers",
+      "office supplies",
+      "fasten paper"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/community-desk-personal-care/stapler.png"
+    ],
+    "alt_text": "Stapler",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 5 simple rounded cartoon with blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-desk-personal-care-stapler",
+    "title": "Stapler",
+    "category": "learning-and-tasks",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "stapler",
+      "staple papers",
+      "office supplies",
+      "fasten paper"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/community-desk-personal-care/stapler.png"
+    ],
+    "alt_text": "Stapler",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 10 moderate realism, natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-desk-personal-care-stapler",
+    "title": "Stapler",
+    "category": "learning-and-tasks",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "stapler",
+      "staple papers",
+      "office supplies",
+      "fasten paper"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/community-desk-personal-care/stapler.png"
+    ],
+    "alt_text": "Stapler",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Teen naturalistic construction and material colors with restrained solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-desk-personal-care-tape-dispenser",
+    "title": "Tape dispenser",
+    "category": "learning-and-tasks",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "tape dispenser",
+      "sticky tape",
+      "adhesive tape",
+      "clear tape"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/community-desk-personal-care/tape-dispenser.png"
+    ],
+    "alt_text": "Tape dispenser",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 5 simple rounded cartoon with blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-desk-personal-care-tape-dispenser",
+    "title": "Tape dispenser",
+    "category": "learning-and-tasks",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "tape dispenser",
+      "sticky tape",
+      "adhesive tape",
+      "clear tape"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/community-desk-personal-care/tape-dispenser.png"
+    ],
+    "alt_text": "Tape dispenser",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 10 moderate realism, natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-desk-personal-care-tape-dispenser",
+    "title": "Tape dispenser",
+    "category": "learning-and-tasks",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "tape dispenser",
+      "sticky tape",
+      "adhesive tape",
+      "clear tape"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/community-desk-personal-care/tape-dispenser.png"
+    ],
+    "alt_text": "Tape dispenser",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Teen naturalistic construction and material colors with restrained solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-desk-personal-care-hole-punch",
+    "title": "Hole punch",
+    "category": "learning-and-tasks",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "hole punch",
+      "paper punch",
+      "three hole punch",
+      "desk supplies"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/community-desk-personal-care/hole-punch.png"
+    ],
+    "alt_text": "Hole punch",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 5 simple rounded cartoon with blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-desk-personal-care-hole-punch",
+    "title": "Hole punch",
+    "category": "learning-and-tasks",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "hole punch",
+      "paper punch",
+      "three hole punch",
+      "desk supplies"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/community-desk-personal-care/hole-punch.png"
+    ],
+    "alt_text": "Hole punch",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 10 moderate realism, natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-desk-personal-care-hole-punch",
+    "title": "Hole punch",
+    "category": "learning-and-tasks",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "hole punch",
+      "paper punch",
+      "three hole punch",
+      "desk supplies"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/community-desk-personal-care/hole-punch.png"
+    ],
+    "alt_text": "Hole punch",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Teen naturalistic construction and material colors with restrained solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-desk-personal-care-nail-clippers",
+    "title": "Nail clippers",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "nail clippers",
+      "trim nails",
+      "nail trimmer",
+      "grooming"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/community-desk-personal-care/nail-clippers.png"
+    ],
+    "alt_text": "Nail clippers",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 5 simple rounded cartoon with blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-desk-personal-care-nail-clippers",
+    "title": "Nail clippers",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "nail clippers",
+      "trim nails",
+      "nail trimmer",
+      "grooming"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/community-desk-personal-care/nail-clippers.png"
+    ],
+    "alt_text": "Nail clippers",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 10 moderate realism, natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-desk-personal-care-nail-clippers",
+    "title": "Nail clippers",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "nail clippers",
+      "trim nails",
+      "nail trimmer",
+      "grooming"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/community-desk-personal-care/nail-clippers.png"
+    ],
+    "alt_text": "Nail clippers",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Teen naturalistic construction and material colors with restrained solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-desk-personal-care-tissue-box",
+    "title": "Tissue box",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "tissue box",
+      "facial tissue",
+      "blow nose",
+      "paper tissue"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/community-desk-personal-care/tissue-box.png"
+    ],
+    "alt_text": "Tissue box",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 5 simple rounded cartoon with blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-desk-personal-care-tissue-box",
+    "title": "Tissue box",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "tissue box",
+      "facial tissue",
+      "blow nose",
+      "paper tissue"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/community-desk-personal-care/tissue-box.png"
+    ],
+    "alt_text": "Tissue box",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 10 moderate realism, natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-desk-personal-care-tissue-box",
+    "title": "Tissue box",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "tissue box",
+      "facial tissue",
+      "blow nose",
+      "paper tissue"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/community-desk-personal-care/tissue-box.png"
+    ],
+    "alt_text": "Tissue box",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Teen naturalistic construction and material colors with restrained solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-desk-personal-care-deodorant",
+    "title": "Deodorant",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "deodorant",
+      "deodorant stick",
+      "underarm care",
+      "personal hygiene"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/community-desk-personal-care/deodorant.png"
+    ],
+    "alt_text": "Deodorant",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 5 simple rounded cartoon with blue/orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-desk-personal-care-deodorant",
+    "title": "Deodorant",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "deodorant",
+      "deodorant stick",
+      "underarm care",
+      "personal hygiene"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/community-desk-personal-care/deodorant.png"
+    ],
+    "alt_text": "Deodorant",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Age 10 moderate realism, natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-desk-personal-care-deodorant",
+    "title": "Deodorant",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "deodorant",
+      "deodorant stick",
+      "underarm care",
+      "personal hygiene"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/community-desk-personal-care/deodorant.png"
+    ],
+    "alt_text": "Deodorant",
+    "generation_prompt": "Square 1280x1280 transparent 3x3 contact sheet of nine isolated AAC icons, wide empty gutters, no labels. Each fully within its own equal cell. Rows: 1 grocery store with shopping cart emblem, bank building with columns and coin emblem, train station building with small train visible at platform. 2 stapler, roll of clear tape in dispenser, three-hole paper punch. 3 nail clippers, tissue box with tissue, stick deodorant with cap beside it. Rounded dark outlines, opaque flat fills, transparent surroundings, no text or cast shadows. Teen naturalistic construction and material colors with restrained solid facets.",
+    "source": "Original generated AAC artwork"
   }
 ]
