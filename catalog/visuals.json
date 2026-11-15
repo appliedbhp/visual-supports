@@ -22112,5 +22112,626 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15",
     "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-next-yes",
+    "title": "Yes",
+    "category": "communication",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "yes",
+      "agree",
+      "affirmative",
+      "green check",
+      "check mark"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/communication/everyday-vocabulary-next/yes.png"
+    ],
+    "alt_text": "Yes",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age five simplified rounded cartoon with saturated blue and orange accents where appropriate.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "6-11-everyday-vocabulary-next-yes",
+    "title": "Yes",
+    "category": "communication",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "yes",
+      "agree",
+      "affirmative",
+      "green check",
+      "check mark"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/communication/everyday-vocabulary-next/yes.png"
+    ],
+    "alt_text": "Yes",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age ten moderately realistic proportions everyday colors and selective details.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "12-18-everyday-vocabulary-next-yes",
+    "title": "Yes",
+    "category": "communication",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "yes",
+      "agree",
+      "affirmative",
+      "green check",
+      "check mark"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/communication/everyday-vocabulary-next/yes.png"
+    ],
+    "alt_text": "Yes",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-next-no",
+    "title": "No",
+    "category": "communication",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "no",
+      "decline",
+      "negative",
+      "red cross",
+      "red x"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/communication/everyday-vocabulary-next/no.png"
+    ],
+    "alt_text": "No",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age five simplified rounded cartoon with saturated blue and orange accents where appropriate.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "6-11-everyday-vocabulary-next-no",
+    "title": "No",
+    "category": "communication",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "no",
+      "decline",
+      "negative",
+      "red cross",
+      "red x"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/communication/everyday-vocabulary-next/no.png"
+    ],
+    "alt_text": "No",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age ten moderately realistic proportions everyday colors and selective details.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "12-18-everyday-vocabulary-next-no",
+    "title": "No",
+    "category": "communication",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "no",
+      "decline",
+      "negative",
+      "red cross",
+      "red x"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/communication/everyday-vocabulary-next/no.png"
+    ],
+    "alt_text": "No",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-next-wait",
+    "title": "Wait",
+    "category": "schedules-and-transitions",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "wait",
+      "pause",
+      "hold on",
+      "hourglass",
+      "sand timer"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/schedules-and-transitions/everyday-vocabulary-next/wait.png"
+    ],
+    "alt_text": "Wait",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age five simplified rounded cartoon with saturated blue and orange accents where appropriate.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "6-11-everyday-vocabulary-next-wait",
+    "title": "Wait",
+    "category": "schedules-and-transitions",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "wait",
+      "pause",
+      "hold on",
+      "hourglass",
+      "sand timer"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/schedules-and-transitions/everyday-vocabulary-next/wait.png"
+    ],
+    "alt_text": "Wait",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age ten moderately realistic proportions everyday colors and selective details.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "12-18-everyday-vocabulary-next-wait",
+    "title": "Wait",
+    "category": "schedules-and-transitions",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "wait",
+      "pause",
+      "hold on",
+      "hourglass",
+      "sand timer"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/schedules-and-transitions/everyday-vocabulary-next/wait.png"
+    ],
+    "alt_text": "Wait",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-next-lunchbox",
+    "title": "Lunchbox",
+    "category": "daily-routines",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "lunchbox",
+      "lunch box",
+      "lunch bag",
+      "packed lunch",
+      "food container"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/everyday-vocabulary-next/lunchbox.png"
+    ],
+    "alt_text": "Lunchbox",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age five simplified rounded cartoon with saturated blue and orange accents where appropriate.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "6-11-everyday-vocabulary-next-lunchbox",
+    "title": "Lunchbox",
+    "category": "daily-routines",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "lunchbox",
+      "lunch box",
+      "lunch bag",
+      "packed lunch",
+      "food container"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/everyday-vocabulary-next/lunchbox.png"
+    ],
+    "alt_text": "Lunchbox",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age ten moderately realistic proportions everyday colors and selective details.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "12-18-everyday-vocabulary-next-lunchbox",
+    "title": "Lunchbox",
+    "category": "daily-routines",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "lunchbox",
+      "lunch box",
+      "lunch bag",
+      "packed lunch",
+      "food container"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/everyday-vocabulary-next/lunchbox.png"
+    ],
+    "alt_text": "Lunchbox",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-next-scissors",
+    "title": "Scissors",
+    "category": "learning-and-tasks",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "scissors",
+      "cut paper",
+      "cutting",
+      "craft supplies",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/everyday-vocabulary-next/scissors.png"
+    ],
+    "alt_text": "Scissors",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age five simplified rounded cartoon with saturated blue and orange accents where appropriate.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "6-11-everyday-vocabulary-next-scissors",
+    "title": "Scissors",
+    "category": "learning-and-tasks",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "scissors",
+      "cut paper",
+      "cutting",
+      "craft supplies",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/everyday-vocabulary-next/scissors.png"
+    ],
+    "alt_text": "Scissors",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age ten moderately realistic proportions everyday colors and selective details.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "12-18-everyday-vocabulary-next-scissors",
+    "title": "Scissors",
+    "category": "learning-and-tasks",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "scissors",
+      "cut paper",
+      "cutting",
+      "craft supplies",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/everyday-vocabulary-next/scissors.png"
+    ],
+    "alt_text": "Scissors",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-next-glue-stick",
+    "title": "Glue stick",
+    "category": "learning-and-tasks",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "glue stick",
+      "adhesive",
+      "paste",
+      "glue",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/learning-and-tasks/everyday-vocabulary-next/glue-stick.png"
+    ],
+    "alt_text": "Glue stick",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age five simplified rounded cartoon with saturated blue and orange accents where appropriate.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "6-11-everyday-vocabulary-next-glue-stick",
+    "title": "Glue stick",
+    "category": "learning-and-tasks",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "glue stick",
+      "adhesive",
+      "paste",
+      "glue",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/everyday-vocabulary-next/glue-stick.png"
+    ],
+    "alt_text": "Glue stick",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age ten moderately realistic proportions everyday colors and selective details.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "12-18-everyday-vocabulary-next-glue-stick",
+    "title": "Glue stick",
+    "category": "learning-and-tasks",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "glue stick",
+      "adhesive",
+      "paste",
+      "glue",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/everyday-vocabulary-next/glue-stick.png"
+    ],
+    "alt_text": "Glue stick",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-next-toilet",
+    "title": "Toilet",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "toilet",
+      "restroom",
+      "bathroom",
+      "toileting",
+      "lavatory"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/everyday-vocabulary-next/toilet.png"
+    ],
+    "alt_text": "Toilet",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age five simplified rounded cartoon with saturated blue and orange accents where appropriate.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "6-11-everyday-vocabulary-next-toilet",
+    "title": "Toilet",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "toilet",
+      "restroom",
+      "bathroom",
+      "toileting",
+      "lavatory"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/everyday-vocabulary-next/toilet.png"
+    ],
+    "alt_text": "Toilet",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age ten moderately realistic proportions everyday colors and selective details.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "12-18-everyday-vocabulary-next-toilet",
+    "title": "Toilet",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "toilet",
+      "restroom",
+      "bathroom",
+      "toileting",
+      "lavatory"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/everyday-vocabulary-next/toilet.png"
+    ],
+    "alt_text": "Toilet",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-next-bath-towel",
+    "title": "Bath towel",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "bath towel",
+      "dry off",
+      "folded towel",
+      "bathing",
+      "bathroom linen"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/everyday-vocabulary-next/bath-towel.png"
+    ],
+    "alt_text": "Bath towel",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age five simplified rounded cartoon with saturated blue and orange accents where appropriate.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "6-11-everyday-vocabulary-next-bath-towel",
+    "title": "Bath towel",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "bath towel",
+      "dry off",
+      "folded towel",
+      "bathing",
+      "bathroom linen"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/everyday-vocabulary-next/bath-towel.png"
+    ],
+    "alt_text": "Bath towel",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age ten moderately realistic proportions everyday colors and selective details.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "12-18-everyday-vocabulary-next-bath-towel",
+    "title": "Bath towel",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "bath towel",
+      "dry off",
+      "folded towel",
+      "bathing",
+      "bathroom linen"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/everyday-vocabulary-next/bath-towel.png"
+    ],
+    "alt_text": "Bath towel",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "0-5-everyday-vocabulary-next-liquid-soap",
+    "title": "Liquid soap",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "liquid soap",
+      "hand soap",
+      "soap dispenser",
+      "wash hands",
+      "handwashing"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/everyday-vocabulary-next/liquid-soap.png"
+    ],
+    "alt_text": "Liquid soap",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age five simplified rounded cartoon with saturated blue and orange accents where appropriate.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "6-11-everyday-vocabulary-next-liquid-soap",
+    "title": "Liquid soap",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "liquid soap",
+      "hand soap",
+      "soap dispenser",
+      "wash hands",
+      "handwashing"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/everyday-vocabulary-next/liquid-soap.png"
+    ],
+    "alt_text": "Liquid soap",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Age ten moderately realistic proportions everyday colors and selective details.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "12-18-everyday-vocabulary-next-liquid-soap",
+    "title": "Liquid soap",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "liquid soap",
+      "hand soap",
+      "soap dispenser",
+      "wash hands",
+      "handwashing"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/everyday-vocabulary-next/liquid-soap.png"
+    ],
+    "alt_text": "Liquid soap",
+    "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
+    "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
   }
 ]
