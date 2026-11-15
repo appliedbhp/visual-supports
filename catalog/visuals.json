@@ -31376,5 +31376,180 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15",
     "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "0-5-daily-routines-put-on-socks-male",
+    "title": "Put on socks — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "put on socks",
+      "socks",
+      "getting dressed"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/put-on-socks-male.png"
+    ],
+    "alt_text": "a 5-year-old boy sitting on a low stool and pulling an orange sock onto his bare foot",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 5-year-old boy sitting on a low stool and pulling an orange sock onto his bare foot. Match the relevant character on the ABHP reference card. Bold smooth #202020 contours, #1769AA shirt, #F28C28 accent, neutral gray and opaque white skin. Show clear hand-object contact and minimal props, centered with safe margins. Solid opaque fills, no shadows, gradients or room background. Search keywords for metadata only, never draw text: put on socks, socks, getting dressed.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "d7d10b90742397fa9aa4f66f41053c13513eb6036f57fef83b1f217d2b4ff7c0",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-use-a-napkin-female",
+    "title": "Use a napkin — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "use a napkin",
+      "wipe mouth",
+      "table manners"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/use-a-napkin-female.png"
+    ],
+    "alt_text": "a 5-year-old girl dabbing her mouth with a white napkin at a gray table with an orange plate",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 5-year-old girl dabbing her mouth with a white napkin at a gray table with an orange plate. Match the relevant character on the ABHP reference card. Bold smooth #202020 contours, #1769AA shirt, #F28C28 accent, neutral gray and opaque white skin. Show clear hand-object contact and minimal props, centered with safe margins. Solid opaque fills, no shadows, gradients or room background. Search keywords for metadata only, never draw text: use a napkin, wipe mouth, table manners.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "4aa30cef890c4bbaa7433aa492965dc62878f1bcfc0f5b824870302329f8f5ee",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-learning-and-tasks-cut-paper-male",
+    "title": "Cut paper — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "cut paper",
+      "scissors",
+      "craft"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/cut-paper-male.png"
+    ],
+    "alt_text": "a 10-year-old boy cutting a white sheet of paper with orange-handled school scissors at a table",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 10-year-old boy cutting a white sheet of paper with orange-handled school scissors at a table. Match the relevant character on the ABHP reference card. Bold smooth #202020 contours, #1769AA shirt, #F28C28 accent, neutral gray and opaque white skin. Show clear hand-object contact and minimal props, centered with safe margins. Solid opaque fills, no shadows, gradients or room background. Search keywords for metadata only, never draw text: cut paper, scissors, craft.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "e029da0383bc433ca0471827e5356f5a8a443b9580172a7a826ca34c973ab264",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-learning-and-tasks-measure-with-a-ruler-female",
+    "title": "Measure with a ruler — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "measure with a ruler",
+      "measure length",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/measure-with-a-ruler-female.png"
+    ],
+    "alt_text": "a 10-year-old girl aligning an orange ruler with the edge of a white rectangle at a table, ruler tick marks only",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 10-year-old girl aligning an orange ruler with the edge of a white rectangle at a table, ruler tick marks only. Match the relevant character on the ABHP reference card. Bold smooth #202020 contours, #1769AA shirt, #F28C28 accent, neutral gray and opaque white skin. Show clear hand-object contact and minimal props, centered with safe margins. Solid opaque fills, no shadows, gradients or room background. Search keywords for metadata only, never draw text: measure with a ruler, measure length, school supplies.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "1e1e573fe3331a95a255514713c08db5fd8c48c6b02dd9a06a9d22bba51431bc",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-change-a-pillowcase-male",
+    "title": "Change a pillowcase — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "change a pillowcase",
+      "put on a pillowcase",
+      "bedding"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/change-a-pillowcase-male.png"
+    ],
+    "alt_text": "a teenage boy sliding a white pillow into a visibly open orange pillowcase on a bed",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a teenage boy sliding a white pillow into a visibly open orange pillowcase on a bed. Match the relevant character on the ABHP reference card. Bold smooth #202020 contours, #1769AA shirt, #F28C28 accent, neutral gray and opaque white skin. Show clear hand-object contact and minimal props, centered with safe margins. Solid opaque fills, no shadows, gradients or room background. Search keywords for metadata only, never draw text: change a pillowcase, put on a pillowcase, bedding.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "3756e70ee7921ef59cd01cd91e8bb3ffdb84b595bc6501dcd02fe6432c8e5832",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-hang-laundry-female",
+    "title": "Hang laundry — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "hang laundry",
+      "clothesline",
+      "clothespin",
+      "dry clothes"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/hang-laundry-female.png"
+    ],
+    "alt_text": "a teenage girl clipping an orange shirt onto a short clothesline, with the clothespin visibly held between her fingers",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a teenage girl clipping an orange shirt onto a short clothesline, with the clothespin visibly held between her fingers. Match the relevant character on the ABHP reference card. Bold smooth #202020 contours, #1769AA shirt, #F28C28 accent, neutral gray and opaque white skin. Show clear hand-object contact and minimal props, centered with safe margins. Solid opaque fills, no shadows, gradients or room background. Search keywords for metadata only, never draw text: hang laundry, clothesline, clothespin, dry clothes.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "9a72c4e409de5e2efc1b783726446669ab52cee71b8e7d57aa2793d8b7675590",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
