@@ -29312,5 +29312,557 @@
       "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
     },
     "image_sha256": "5895ae6266b2baf9b3296c8c42427bb601b62c7a85dfa229609999d3f0c37786"
+  },
+  {
+    "id": "shared-everyday-laptop",
+    "title": "Laptop",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "laptop",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/laptop.png"
+    ],
+    "alt_text": "Illustration of laptop.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-tablet",
+    "title": "Tablet",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "tablet",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/tablet.png"
+    ],
+    "alt_text": "Illustration of tablet.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-keyboard",
+    "title": "Keyboard",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "keyboard",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/keyboard.png"
+    ],
+    "alt_text": "Illustration of keyboard.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-printer",
+    "title": "Printer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "printer",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/printer.png"
+    ],
+    "alt_text": "Illustration of printer.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-webcam",
+    "title": "Webcam",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "webcam",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/webcam.png"
+    ],
+    "alt_text": "Illustration of webcam.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-microphone",
+    "title": "Microphone",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "microphone",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/microphone.png"
+    ],
+    "alt_text": "Illustration of microphone.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-usb-flash-drive",
+    "title": "Usb flash drive",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "usb flash drive",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/usb-flash-drive.png"
+    ],
+    "alt_text": "Illustration of usb flash drive.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-power-strip",
+    "title": "Power strip",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "power strip",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/power-strip.png"
+    ],
+    "alt_text": "Illustration of power strip.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-computer-monitor",
+    "title": "Computer monitor",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "computer monitor",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/computer-monitor.png"
+    ],
+    "alt_text": "Illustration of computer monitor.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-stylus",
+    "title": "Stylus",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "stylus",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/stylus.png"
+    ],
+    "alt_text": "Illustration of stylus.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-external-hard-drive",
+    "title": "External hard drive",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "external hard drive",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/external-hard-drive.png"
+    ],
+    "alt_text": "Illustration of external hard drive.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-portable-speaker",
+    "title": "Portable speaker",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "portable speaker",
+      "everyday technology",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/learning-and-tasks/everyday-vocabulary/portable-speaker.png"
+    ],
+    "alt_text": "Illustration of portable speaker.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-kite",
+    "title": "Kite",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "kite",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/kite.png"
+    ],
+    "alt_text": "Illustration of kite.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sandbox-bucket",
+    "title": "Sandbox bucket",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "sandbox bucket",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/sandbox-bucket.png"
+    ],
+    "alt_text": "Illustration of sandbox bucket.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-bubble-wand",
+    "title": "Bubble wand",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "bubble wand",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/bubble-wand.png"
+    ],
+    "alt_text": "Illustration of bubble wand.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sidewalk-chalk",
+    "title": "Sidewalk chalk",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "sidewalk chalk",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/sidewalk-chalk.png"
+    ],
+    "alt_text": "Illustration of sidewalk chalk.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-scooter",
+    "title": "Scooter",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "scooter",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/scooter.png"
+    ],
+    "alt_text": "Illustration of scooter.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-hula-hoop",
+    "title": "Hula hoop",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "hula hoop",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/hula-hoop.png"
+    ],
+    "alt_text": "Illustration of hula hoop.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-butterfly-net",
+    "title": "Butterfly net",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "butterfly net",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/butterfly-net.png"
+    ],
+    "alt_text": "Illustration of butterfly net.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-picnic-basket",
+    "title": "Picnic basket",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "picnic basket",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/picnic-basket.png"
+    ],
+    "alt_text": "Illustration of picnic basket.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-tent",
+    "title": "Tent",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "tent",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/tent.png"
+    ],
+    "alt_text": "Illustration of tent.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-sleeping-bag",
+    "title": "Sleeping bag",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "sleeping bag",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/sleeping-bag.png"
+    ],
+    "alt_text": "Illustration of sleeping bag.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-camping-lantern",
+    "title": "Camping lantern",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "camping lantern",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/camping-lantern.png"
+    ],
+    "alt_text": "Illustration of camping lantern.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "shared-everyday-garden-trowel",
+    "title": "Garden trowel",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "recreation",
+    "keywords": [
+      "garden trowel",
+      "outdoor play",
+      "everyday vocabulary"
+    ],
+    "status": "draft",
+    "style": "Rounded outlines with lightly shaded colors",
+    "assets": [
+      "visuals/shared/recreation/everyday-vocabulary/garden-trowel.png"
+    ],
+    "alt_text": "Illustration of garden trowel.",
+    "source": "Original OpenAI illustration. ARASAAC consulted for vocabulary and category research.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Reviewed in the rendered contact sheet."
   }
 ]
