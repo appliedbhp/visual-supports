@@ -27154,5 +27154,626 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15",
     "review_notes": "Draft."
+  },
+  {
+    "id": "0-5-more-everyday-vocabulary-listen",
+    "title": "Listen",
+    "category": "communication",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "listen",
+      "hear",
+      "pay attention",
+      "ear",
+      "sound"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/communication/more-everyday-vocabulary/listen.png"
+    ],
+    "alt_text": "Listen",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age five, simple rounded cartoon, saturated blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-more-everyday-vocabulary-listen",
+    "title": "Listen",
+    "category": "communication",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "listen",
+      "hear",
+      "pay attention",
+      "ear",
+      "sound"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/communication/more-everyday-vocabulary/listen.png"
+    ],
+    "alt_text": "Listen",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age ten, more realistic proportions with simple flat facets and natural colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-more-everyday-vocabulary-listen",
+    "title": "Listen",
+    "category": "communication",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "listen",
+      "hear",
+      "pay attention",
+      "ear",
+      "sound"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/communication/more-everyday-vocabulary/listen.png"
+    ],
+    "alt_text": "Listen",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Teen, mature naturalistic anatomy and object construction, muted real-world colors, crisp solid shading and minimal detail.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-more-everyday-vocabulary-look",
+    "title": "Look",
+    "category": "communication",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "look",
+      "watch",
+      "see",
+      "eye",
+      "look here"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/communication/more-everyday-vocabulary/look.png"
+    ],
+    "alt_text": "Look",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age five, simple rounded cartoon, saturated blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-more-everyday-vocabulary-look",
+    "title": "Look",
+    "category": "communication",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "look",
+      "watch",
+      "see",
+      "eye",
+      "look here"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/communication/more-everyday-vocabulary/look.png"
+    ],
+    "alt_text": "Look",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age ten, more realistic proportions with simple flat facets and natural colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-more-everyday-vocabulary-look",
+    "title": "Look",
+    "category": "communication",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "look",
+      "watch",
+      "see",
+      "eye",
+      "look here"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/communication/more-everyday-vocabulary/look.png"
+    ],
+    "alt_text": "Look",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Teen, mature naturalistic anatomy and object construction, muted real-world colors, crisp solid shading and minimal detail.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-more-everyday-vocabulary-pause",
+    "title": "Pause",
+    "category": "schedules-and-transitions",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "pause",
+      "take a moment",
+      "hold on",
+      "pause button",
+      "stop briefly"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/schedules-and-transitions/more-everyday-vocabulary/pause.png"
+    ],
+    "alt_text": "Pause",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age five, simple rounded cartoon, saturated blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-more-everyday-vocabulary-pause",
+    "title": "Pause",
+    "category": "schedules-and-transitions",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "pause",
+      "take a moment",
+      "hold on",
+      "pause button",
+      "stop briefly"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/schedules-and-transitions/more-everyday-vocabulary/pause.png"
+    ],
+    "alt_text": "Pause",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age ten, more realistic proportions with simple flat facets and natural colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-more-everyday-vocabulary-pause",
+    "title": "Pause",
+    "category": "schedules-and-transitions",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "pause",
+      "take a moment",
+      "hold on",
+      "pause button",
+      "stop briefly"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/schedules-and-transitions/more-everyday-vocabulary/pause.png"
+    ],
+    "alt_text": "Pause",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Teen, mature naturalistic anatomy and object construction, muted real-world colors, crisp solid shading and minimal detail.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-more-everyday-vocabulary-tree",
+    "title": "Tree",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "tree",
+      "outdoors",
+      "deciduous tree",
+      "nature",
+      "leaves"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/more-everyday-vocabulary/tree.png"
+    ],
+    "alt_text": "Tree",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age five, simple rounded cartoon, saturated blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-more-everyday-vocabulary-tree",
+    "title": "Tree",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "tree",
+      "outdoors",
+      "deciduous tree",
+      "nature",
+      "leaves"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/more-everyday-vocabulary/tree.png"
+    ],
+    "alt_text": "Tree",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age ten, more realistic proportions with simple flat facets and natural colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-more-everyday-vocabulary-tree",
+    "title": "Tree",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "tree",
+      "outdoors",
+      "deciduous tree",
+      "nature",
+      "leaves"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/more-everyday-vocabulary/tree.png"
+    ],
+    "alt_text": "Tree",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Teen, mature naturalistic anatomy and object construction, muted real-world colors, crisp solid shading and minimal detail.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-more-everyday-vocabulary-rain",
+    "title": "Rain",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "rain",
+      "rainy weather",
+      "raindrops",
+      "rain cloud",
+      "precipitation"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/more-everyday-vocabulary/rain.png"
+    ],
+    "alt_text": "Rain",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age five, simple rounded cartoon, saturated blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-more-everyday-vocabulary-rain",
+    "title": "Rain",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "rain",
+      "rainy weather",
+      "raindrops",
+      "rain cloud",
+      "precipitation"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/more-everyday-vocabulary/rain.png"
+    ],
+    "alt_text": "Rain",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age ten, more realistic proportions with simple flat facets and natural colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-more-everyday-vocabulary-rain",
+    "title": "Rain",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "rain",
+      "rainy weather",
+      "raindrops",
+      "rain cloud",
+      "precipitation"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/more-everyday-vocabulary/rain.png"
+    ],
+    "alt_text": "Rain",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Teen, mature naturalistic anatomy and object construction, muted real-world colors, crisp solid shading and minimal detail.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-more-everyday-vocabulary-sun",
+    "title": "Sun",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "sun",
+      "sunny weather",
+      "sunshine",
+      "daylight",
+      "sun rays"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/more-everyday-vocabulary/sun.png"
+    ],
+    "alt_text": "Sun",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age five, simple rounded cartoon, saturated blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-more-everyday-vocabulary-sun",
+    "title": "Sun",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "sun",
+      "sunny weather",
+      "sunshine",
+      "daylight",
+      "sun rays"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/more-everyday-vocabulary/sun.png"
+    ],
+    "alt_text": "Sun",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age ten, more realistic proportions with simple flat facets and natural colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-more-everyday-vocabulary-sun",
+    "title": "Sun",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "sun",
+      "sunny weather",
+      "sunshine",
+      "daylight",
+      "sun rays"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/more-everyday-vocabulary/sun.png"
+    ],
+    "alt_text": "Sun",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Teen, mature naturalistic anatomy and object construction, muted real-world colors, crisp solid shading and minimal detail.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-more-everyday-vocabulary-hairbrush",
+    "title": "Hairbrush",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "hairbrush",
+      "brush hair",
+      "hair brush",
+      "grooming",
+      "hair care"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/more-everyday-vocabulary/hairbrush.png"
+    ],
+    "alt_text": "Hairbrush",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age five, simple rounded cartoon, saturated blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-more-everyday-vocabulary-hairbrush",
+    "title": "Hairbrush",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "hairbrush",
+      "brush hair",
+      "hair brush",
+      "grooming",
+      "hair care"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/more-everyday-vocabulary/hairbrush.png"
+    ],
+    "alt_text": "Hairbrush",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age ten, more realistic proportions with simple flat facets and natural colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-more-everyday-vocabulary-hairbrush",
+    "title": "Hairbrush",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "hairbrush",
+      "brush hair",
+      "hair brush",
+      "grooming",
+      "hair care"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/more-everyday-vocabulary/hairbrush.png"
+    ],
+    "alt_text": "Hairbrush",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Teen, mature naturalistic anatomy and object construction, muted real-world colors, crisp solid shading and minimal detail.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-more-everyday-vocabulary-jacket",
+    "title": "Jacket",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "jacket",
+      "zip up",
+      "coat",
+      "outerwear",
+      "clothing"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/more-everyday-vocabulary/jacket.png"
+    ],
+    "alt_text": "Jacket",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age five, simple rounded cartoon, saturated blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-more-everyday-vocabulary-jacket",
+    "title": "Jacket",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "jacket",
+      "zip up",
+      "coat",
+      "outerwear",
+      "clothing"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/more-everyday-vocabulary/jacket.png"
+    ],
+    "alt_text": "Jacket",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age ten, more realistic proportions with simple flat facets and natural colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-more-everyday-vocabulary-jacket",
+    "title": "Jacket",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "jacket",
+      "zip up",
+      "coat",
+      "outerwear",
+      "clothing"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/more-everyday-vocabulary/jacket.png"
+    ],
+    "alt_text": "Jacket",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Teen, mature naturalistic anatomy and object construction, muted real-world colors, crisp solid shading and minimal detail.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "0-5-more-everyday-vocabulary-socks",
+    "title": "Socks",
+    "category": "self-care-and-independence",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "socks",
+      "pair of socks",
+      "footwear",
+      "put on socks",
+      "clothing"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/self-care-and-independence/more-everyday-vocabulary/socks.png"
+    ],
+    "alt_text": "Socks",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age five, simple rounded cartoon, saturated blue and orange accents.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "6-11-more-everyday-vocabulary-socks",
+    "title": "Socks",
+    "category": "self-care-and-independence",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "socks",
+      "pair of socks",
+      "footwear",
+      "put on socks",
+      "clothing"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/self-care-and-independence/more-everyday-vocabulary/socks.png"
+    ],
+    "alt_text": "Socks",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Age ten, more realistic proportions with simple flat facets and natural colors.",
+    "source": "Original generated AAC artwork."
+  },
+  {
+    "id": "12-18-more-everyday-vocabulary-socks",
+    "title": "Socks",
+    "category": "self-care-and-independence",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "socks",
+      "pair of socks",
+      "footwear",
+      "put on socks",
+      "clothing"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/self-care-and-independence/more-everyday-vocabulary/socks.png"
+    ],
+    "alt_text": "Socks",
+    "generation_prompt": "Square 1280x1280 transparent AAC contact sheet, exactly nine separate symbols in a 3x3 evenly spaced grid, each confined to central 70% of cell. No text, no labels or panel borders. Row 1: an ear with two sound arcs (listen), an eye with two rays indicating look, two upright pause bars (pause). Row 2: a deciduous tree, a gray cloud with blue raindrops, a yellow sun with rays. Row 3: a hairbrush, a closed zippered jacket, a single pair of socks side by side. Opaque solid fills, transparent surroundings, bold charcoal contours. Teen, mature naturalistic anatomy and object construction, muted real-world colors, crisp solid shading and minimal detail.",
+    "source": "Original generated AAC artwork."
   }
 ]
