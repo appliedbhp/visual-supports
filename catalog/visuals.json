@@ -22733,5 +22733,180 @@
     "alt_text": "Liquid soap",
     "generation_prompt": "Square 3x3 contact sheet of nine original transparent AAC pictograms, fixed equal grid, each symbol compact within central 72% of own cell, wide clear gutters, no lines between cells, no text. Row 1: green check mark for yes; red X for no; hourglass for wait. Row 2: closed lunchbox with handle; pair of scissors closed; glue stick with cap beside it. Row 3: toilet with closed lid; folded bath towel; pump bottle with a drop next to it for liquid soap. Bold dark outlines, flat opaque fills, transparent background, no scenery or soft shadows. Teen naturalistic mature proportions and material colors with solid flat facets.",
     "source": "Original generated AAC artwork. Vocabulary planning follows ARASAAC category and keyword guidance."
+  },
+  {
+    "id": "0-5-daily-routines-put-on-mittens-male",
+    "title": "Put on mittens — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "put on mittens",
+      "gloves",
+      "winter clothing"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/put-on-mittens-male.png"
+    ],
+    "alt_text": "a 5-year-old boy pulling an orange mitten over one hand",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 5-year-old boy pulling an orange mitten over one hand. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: put on mittens, gloves, winter clothing.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "2553303ae5063d3e97496bd03c8cd218ca450abdff90ae672c7e4dcfef805f02",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-daily-routines-feed-the-fish-female",
+    "title": "Feed the fish — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "feed the fish",
+      "fish food",
+      "aquarium",
+      "pet care"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/feed-the-fish-female.png"
+    ],
+    "alt_text": "a 5-year-old girl sprinkling fish food into a small aquarium",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 5-year-old girl sprinkling fish food into a small aquarium. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: feed the fish, fish food, aquarium, pet care.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "9ce2175fb88371d1186ffaf5d0470c7c31044ef670d2fd15adede5c8ac060b51",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-daily-routines-peel-a-banana-male",
+    "title": "Peel a banana — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "peel a banana",
+      "fruit",
+      "snack preparation"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/daily-routines/peel-a-banana-male.png"
+    ],
+    "alt_text": "a 10-year-old boy peeling a banana",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 10-year-old boy peeling a banana. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: peel a banana, fruit, snack preparation.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "5da8e3be3a829c46c6dc08cd21b61350a0c1866013314a5e1202586ed234674f",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-learning-and-tasks-sharpen-a-pencil-female",
+    "title": "Sharpen a pencil — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "sharpen a pencil",
+      "pencil sharpener",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/sharpen-a-pencil-female.png"
+    ],
+    "alt_text": "a 10-year-old girl turning a pencil inside a handheld sharpener",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a 10-year-old girl turning a pencil inside a handheld sharpener. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: sharpen a pencil, pencil sharpener, school supplies.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "b6aae528bc6463d17fbf7ba94565d012e195e3644ac03e241b7a838ee44c6c28",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-lock-the-door-male",
+    "title": "Lock the door — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "lock the door",
+      "turn the key",
+      "house key"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/lock-the-door-male.png"
+    ],
+    "alt_text": "a teenage boy turning a key in a door lock",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a teenage boy turning a key in a door lock. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: lock the door, turn the key, house key.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "b457765530d9acaa97c7a73b66db4ca26295486069a096bfbe0de5449380d751",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-wrap-a-gift-female",
+    "title": "Wrap a gift — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "wrap a gift",
+      "wrap a present",
+      "wrapping paper"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/wrap-a-gift-female.png"
+    ],
+    "alt_text": "a teenage girl folding orange wrapping paper around a gift box",
+    "generation_prompt": "One square text-free transparent AAC pictogram of a teenage girl folding orange wrapping paper around a gift box. Match the relevant age and hairstyle from the ABHP reference card. Strong rounded #202020 contours, #1769AA shirt, #F28C28 accent, gray trousers and opaque white skin and shoes. Clear hands and objects, full figure centered with margins, minimal props. Solid flat colors, transparent surroundings, no shadows or gradients. Search metadata only, never draw text: wrap a gift, wrap a present, wrapping paper.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "bd8532c9ad67275483889a7c46d48f9cf3121db8efcf748c7b1b9f73be167b93",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
