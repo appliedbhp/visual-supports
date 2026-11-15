@@ -34866,5 +34866,80 @@
       "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
     },
     "image_sha256": "d54f35fdbe7242eab440c8da66ed2e7cd67119dbe2894057e94d06f3485ac2ec"
+  },
+  {
+    "id": "12-18-daily-routines-put-on-shoes-male-urban-anime-v1",
+    "title": "Put on shoes (male)",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "put on shoes",
+      "putting on shoes",
+      "tie shoelaces",
+      "sneakers",
+      "anime",
+      "urban anime",
+      "male"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/put-on-shoes-male.svg"
+    ],
+    "alt_text": "A teen sits on a bench and pulls the laces of a sneaker tight.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-daily-routines-put-on-shoes-female-urban-anime-v1",
+    "title": "Put on shoes (female)",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "put on shoes",
+      "putting on shoes",
+      "tie shoelaces",
+      "sneakers",
+      "anime",
+      "urban anime",
+      "female"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/put-on-shoes-female.svg"
+    ],
+    "alt_text": "A teen sits on a bench and pulls the laces of a sneaker tight.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "12-18-daily-routines-put-on-shoes-nonbinary-urban-anime-v1",
+    "title": "Put on shoes (nonbinary)",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "put on shoes",
+      "putting on shoes",
+      "tie shoelaces",
+      "sneakers",
+      "anime",
+      "urban anime",
+      "nonbinary"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/put-on-shoes-nonbinary.svg"
+    ],
+    "alt_text": "A teen sits on a bench and pulls the laces of a sneaker tight.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
   }
 ]
