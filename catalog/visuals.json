@@ -35696,5 +35696,280 @@
     "source": "Generated with OpenAI image generation using the original urban anime character sheet, then traced into editable SVG paths.",
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-time-timer",
+    "title": "Time Timer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "time timer",
+      "planning and focus",
+      "visual timer",
+      "countdown",
+      "red disk"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/planning-and-focus/time-timer.png"
+    ],
+    "alt_text": "Ink and gouache illustration of time timer.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-journal",
+    "title": "Journal",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "journal",
+      "planning and focus",
+      "diary",
+      "writing",
+      "reflection"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/learning-and-tasks/planning-and-focus/journal.png"
+    ],
+    "alt_text": "Ink and gouache illustration of journal.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-hourglass",
+    "title": "Hourglass",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "hourglass",
+      "planning and focus",
+      "sand timer"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/planning-and-focus/hourglass.png"
+    ],
+    "alt_text": "Ink and gouache illustration of hourglass.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-digital-timer",
+    "title": "Digital timer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "digital timer",
+      "planning and focus",
+      "countdown",
+      "digital clock"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/planning-and-focus/digital-timer.png"
+    ],
+    "alt_text": "Ink and gouache illustration of digital timer.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-weekly-planner",
+    "title": "Weekly planner",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "weekly planner",
+      "planning and focus",
+      "schedule",
+      "calendar"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/schedules-and-transitions/planning-and-focus/weekly-planner.png"
+    ],
+    "alt_text": "Ink and gouache illustration of weekly planner.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-sticky-notes",
+    "title": "Sticky notes",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "sticky notes",
+      "planning and focus",
+      "reminder",
+      "memo"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/learning-and-tasks/planning-and-focus/sticky-notes.png"
+    ],
+    "alt_text": "Ink and gouache illustration of sticky notes.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-index-cards",
+    "title": "Index cards",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "index cards",
+      "planning and focus",
+      "flashcards"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/learning-and-tasks/planning-and-focus/index-cards.png"
+    ],
+    "alt_text": "Ink and gouache illustration of index cards.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-page-flags",
+    "title": "Page flags",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "page flags",
+      "planning and focus",
+      "bookmark",
+      "tabs"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/learning-and-tasks/planning-and-focus/page-flags.png"
+    ],
+    "alt_text": "Ink and gouache illustration of page flags.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-noise-cancelling-headphones",
+    "title": "Noise cancelling headphones",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "noise cancelling headphones",
+      "planning and focus",
+      "headphones",
+      "noise reduction"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/feelings-and-regulation/planning-and-focus/noise-cancelling-headphones.png"
+    ],
+    "alt_text": "Ink and gouache illustration of noise cancelling headphones.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-fidget-cube",
+    "title": "Fidget cube",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "feelings-and-regulation",
+    "keywords": [
+      "fidget cube",
+      "planning and focus",
+      "sensory tool",
+      "fidget"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/feelings-and-regulation/planning-and-focus/fidget-cube.png"
+    ],
+    "alt_text": "Ink and gouache illustration of fidget cube.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-desk-organizer",
+    "title": "Desk organizer",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "desk organizer",
+      "planning and focus",
+      "desk storage"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/learning-and-tasks/planning-and-focus/desk-organizer.png"
+    ],
+    "alt_text": "Ink and gouache illustration of desk organizer.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
+  },
+  {
+    "id": "shared-planning-checklist-pad",
+    "title": "Checklist pad",
+    "age_strand": "shared",
+    "min_age": 0,
+    "max_age": 120,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "checklist pad",
+      "planning and focus",
+      "to-do list",
+      "tasks"
+    ],
+    "status": "draft",
+    "style": "Naturalistic ink and gouache",
+    "assets": [
+      "visuals/shared/learning-and-tasks/planning-and-focus/checklist-pad.png"
+    ],
+    "alt_text": "Ink and gouache illustration of checklist pad.",
+    "source": "Original OpenAI illustration.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15"
   }
 ]
