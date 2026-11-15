@@ -1,0 +1,13 @@
+# Community places, kitchen tools, and art supplies
+
+| Concept | Age 5 | Age 10 | Teen |
+|---|---|---|---|
+| Hospital | ![Hospital](visuals/0-5/safety-and-community/community-kitchen-art/hospital.png) | ![Hospital](visuals/6-11/safety-and-community/community-kitchen-art/hospital.png) | ![Hospital](visuals/12-18/safety-and-community/community-kitchen-art/hospital.png) |
+| Post office | ![Post office](visuals/0-5/safety-and-community/community-kitchen-art/post-office.png) | ![Post office](visuals/6-11/safety-and-community/community-kitchen-art/post-office.png) | ![Post office](visuals/12-18/safety-and-community/community-kitchen-art/post-office.png) |
+| Fire station | ![Fire station](visuals/0-5/safety-and-community/community-kitchen-art/fire-station.png) | ![Fire station](visuals/6-11/safety-and-community/community-kitchen-art/fire-station.png) | ![Fire station](visuals/12-18/safety-and-community/community-kitchen-art/fire-station.png) |
+| Whisk | ![Whisk](visuals/0-5/daily-routines/community-kitchen-art/whisk.png) | ![Whisk](visuals/6-11/daily-routines/community-kitchen-art/whisk.png) | ![Whisk](visuals/12-18/daily-routines/community-kitchen-art/whisk.png) |
+| Measuring jug | ![Measuring jug](visuals/0-5/daily-routines/community-kitchen-art/measuring-jug.png) | ![Measuring jug](visuals/6-11/daily-routines/community-kitchen-art/measuring-jug.png) | ![Measuring jug](visuals/12-18/daily-routines/community-kitchen-art/measuring-jug.png) |
+| Oven mitt | ![Oven mitt](visuals/0-5/daily-routines/community-kitchen-art/oven-mitt.png) | ![Oven mitt](visuals/6-11/daily-routines/community-kitchen-art/oven-mitt.png) | ![Oven mitt](visuals/12-18/daily-routines/community-kitchen-art/oven-mitt.png) |
+| Watercolor palette | ![Watercolor palette](visuals/0-5/recreation/community-kitchen-art/watercolor-palette.png) | ![Watercolor palette](visuals/6-11/recreation/community-kitchen-art/watercolor-palette.png) | ![Watercolor palette](visuals/12-18/recreation/community-kitchen-art/watercolor-palette.png) |
+| Paint pot and brush | ![Paint pot and brush](visuals/0-5/recreation/community-kitchen-art/paint-pot.png) | ![Paint pot and brush](visuals/6-11/recreation/community-kitchen-art/paint-pot.png) | ![Paint pot and brush](visuals/12-18/recreation/community-kitchen-art/paint-pot.png) |
+| Yarn and knitting needles | ![Yarn and knitting needles](visuals/0-5/recreation/community-kitchen-art/yarn-and-needles.png) | ![Yarn and knitting needles](visuals/6-11/recreation/community-kitchen-art/yarn-and-needles.png) | ![Yarn and knitting needles](visuals/12-18/recreation/community-kitchen-art/yarn-and-needles.png) |

@@ -30038,5 +30038,617 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15",
     "review_notes": "Draft."
+  },
+  {
+    "id": "0-5-community-kitchen-art-hospital",
+    "title": "Hospital",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "hospital",
+      "medical center",
+      "health care",
+      "medical cross"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/community-kitchen-art/hospital.png"
+    ],
+    "alt_text": "Hospital",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 5 simple rounded cartoon with blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-kitchen-art-hospital",
+    "title": "Hospital",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "hospital",
+      "medical center",
+      "health care",
+      "medical cross"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/community-kitchen-art/hospital.png"
+    ],
+    "alt_text": "Hospital",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 10 moderate realism and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-kitchen-art-hospital",
+    "title": "Hospital",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "hospital",
+      "medical center",
+      "health care",
+      "medical cross"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/community-kitchen-art/hospital.png"
+    ],
+    "alt_text": "Hospital",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-kitchen-art-post-office",
+    "title": "Post office",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "post office",
+      "mail",
+      "postal service",
+      "send a letter"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/community-kitchen-art/post-office.png"
+    ],
+    "alt_text": "Post office",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 5 simple rounded cartoon with blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-kitchen-art-post-office",
+    "title": "Post office",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "post office",
+      "mail",
+      "postal service",
+      "send a letter"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/community-kitchen-art/post-office.png"
+    ],
+    "alt_text": "Post office",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 10 moderate realism and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-kitchen-art-post-office",
+    "title": "Post office",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "post office",
+      "mail",
+      "postal service",
+      "send a letter"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/community-kitchen-art/post-office.png"
+    ],
+    "alt_text": "Post office",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-kitchen-art-fire-station",
+    "title": "Fire station",
+    "category": "safety-and-community",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "fire station",
+      "firehouse",
+      "fire engine",
+      "fire department"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/safety-and-community/community-kitchen-art/fire-station.png"
+    ],
+    "alt_text": "Fire station",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 5 simple rounded cartoon with blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-kitchen-art-fire-station",
+    "title": "Fire station",
+    "category": "safety-and-community",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "fire station",
+      "firehouse",
+      "fire engine",
+      "fire department"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/safety-and-community/community-kitchen-art/fire-station.png"
+    ],
+    "alt_text": "Fire station",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 10 moderate realism and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-kitchen-art-fire-station",
+    "title": "Fire station",
+    "category": "safety-and-community",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "fire station",
+      "firehouse",
+      "fire engine",
+      "fire department"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/safety-and-community/community-kitchen-art/fire-station.png"
+    ],
+    "alt_text": "Fire station",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-kitchen-art-whisk",
+    "title": "Whisk",
+    "category": "daily-routines",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "whisk",
+      "wire whisk",
+      "mix",
+      "beat eggs",
+      "kitchen utensil"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/community-kitchen-art/whisk.png"
+    ],
+    "alt_text": "Whisk",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 5 simple rounded cartoon with blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-kitchen-art-whisk",
+    "title": "Whisk",
+    "category": "daily-routines",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "whisk",
+      "wire whisk",
+      "mix",
+      "beat eggs",
+      "kitchen utensil"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/community-kitchen-art/whisk.png"
+    ],
+    "alt_text": "Whisk",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 10 moderate realism and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-kitchen-art-whisk",
+    "title": "Whisk",
+    "category": "daily-routines",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "whisk",
+      "wire whisk",
+      "mix",
+      "beat eggs",
+      "kitchen utensil"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/community-kitchen-art/whisk.png"
+    ],
+    "alt_text": "Whisk",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-kitchen-art-measuring-jug",
+    "title": "Measuring jug",
+    "category": "daily-routines",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "measuring jug",
+      "measuring cup",
+      "liquid measure",
+      "pour",
+      "kitchen tool"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/community-kitchen-art/measuring-jug.png"
+    ],
+    "alt_text": "Measuring jug",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 5 simple rounded cartoon with blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-kitchen-art-measuring-jug",
+    "title": "Measuring jug",
+    "category": "daily-routines",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "measuring jug",
+      "measuring cup",
+      "liquid measure",
+      "pour",
+      "kitchen tool"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/community-kitchen-art/measuring-jug.png"
+    ],
+    "alt_text": "Measuring jug",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 10 moderate realism and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-kitchen-art-measuring-jug",
+    "title": "Measuring jug",
+    "category": "daily-routines",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "measuring jug",
+      "measuring cup",
+      "liquid measure",
+      "pour",
+      "kitchen tool"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/community-kitchen-art/measuring-jug.png"
+    ],
+    "alt_text": "Measuring jug",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-kitchen-art-oven-mitt",
+    "title": "Oven mitt",
+    "category": "daily-routines",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "oven mitt",
+      "oven glove",
+      "pot holder",
+      "baking",
+      "heat protection"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/daily-routines/community-kitchen-art/oven-mitt.png"
+    ],
+    "alt_text": "Oven mitt",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 5 simple rounded cartoon with blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-kitchen-art-oven-mitt",
+    "title": "Oven mitt",
+    "category": "daily-routines",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "oven mitt",
+      "oven glove",
+      "pot holder",
+      "baking",
+      "heat protection"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/daily-routines/community-kitchen-art/oven-mitt.png"
+    ],
+    "alt_text": "Oven mitt",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 10 moderate realism and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-kitchen-art-oven-mitt",
+    "title": "Oven mitt",
+    "category": "daily-routines",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "oven mitt",
+      "oven glove",
+      "pot holder",
+      "baking",
+      "heat protection"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/daily-routines/community-kitchen-art/oven-mitt.png"
+    ],
+    "alt_text": "Oven mitt",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-kitchen-art-watercolor-palette",
+    "title": "Watercolor palette",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "watercolor palette",
+      "watercolour",
+      "paint set",
+      "art supplies",
+      "painting"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/community-kitchen-art/watercolor-palette.png"
+    ],
+    "alt_text": "Watercolor palette",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 5 simple rounded cartoon with blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-kitchen-art-watercolor-palette",
+    "title": "Watercolor palette",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "watercolor palette",
+      "watercolour",
+      "paint set",
+      "art supplies",
+      "painting"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/community-kitchen-art/watercolor-palette.png"
+    ],
+    "alt_text": "Watercolor palette",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 10 moderate realism and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-kitchen-art-watercolor-palette",
+    "title": "Watercolor palette",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "watercolor palette",
+      "watercolour",
+      "paint set",
+      "art supplies",
+      "painting"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/community-kitchen-art/watercolor-palette.png"
+    ],
+    "alt_text": "Watercolor palette",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-kitchen-art-paint-pot",
+    "title": "Paint pot and brush",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "paint pot and brush",
+      "paint jar",
+      "paintbrush",
+      "art supplies",
+      "crafts"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/community-kitchen-art/paint-pot.png"
+    ],
+    "alt_text": "Paint pot and brush",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 5 simple rounded cartoon with blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-kitchen-art-paint-pot",
+    "title": "Paint pot and brush",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "paint pot and brush",
+      "paint jar",
+      "paintbrush",
+      "art supplies",
+      "crafts"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/community-kitchen-art/paint-pot.png"
+    ],
+    "alt_text": "Paint pot and brush",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 10 moderate realism and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-kitchen-art-paint-pot",
+    "title": "Paint pot and brush",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "paint pot and brush",
+      "paint jar",
+      "paintbrush",
+      "art supplies",
+      "crafts"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/community-kitchen-art/paint-pot.png"
+    ],
+    "alt_text": "Paint pot and brush",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "0-5-community-kitchen-art-yarn-and-needles",
+    "title": "Yarn and knitting needles",
+    "category": "recreation",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "keywords": [
+      "yarn and knitting needles",
+      "ball of yarn",
+      "knitting",
+      "wool",
+      "needlecraft"
+    ],
+    "status": "draft",
+    "style": "Simplified cartoon",
+    "assets": [
+      "visuals/0-5/recreation/community-kitchen-art/yarn-and-needles.png"
+    ],
+    "alt_text": "Yarn and knitting needles",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 5 simple rounded cartoon with blue and orange accents.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "6-11-community-kitchen-art-yarn-and-needles",
+    "title": "Yarn and knitting needles",
+    "category": "recreation",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "keywords": [
+      "yarn and knitting needles",
+      "ball of yarn",
+      "knitting",
+      "wool",
+      "needlecraft"
+    ],
+    "status": "draft",
+    "style": "Moderately realistic illustration",
+    "assets": [
+      "visuals/6-11/recreation/community-kitchen-art/yarn-and-needles.png"
+    ],
+    "alt_text": "Yarn and knitting needles",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Age 10 moderate realism and natural colors.",
+    "source": "Original generated AAC artwork"
+  },
+  {
+    "id": "12-18-community-kitchen-art-yarn-and-needles",
+    "title": "Yarn and knitting needles",
+    "category": "recreation",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "keywords": [
+      "yarn and knitting needles",
+      "ball of yarn",
+      "knitting",
+      "wool",
+      "needlecraft"
+    ],
+    "status": "draft",
+    "style": "Naturalistic pictogram",
+    "assets": [
+      "visuals/12-18/recreation/community-kitchen-art/yarn-and-needles.png"
+    ],
+    "alt_text": "Yarn and knitting needles",
+    "generation_prompt": "Square 1280x1280 transparent contact sheet of EXACTLY nine independent AAC icons in equal 3x3 cells. Each fits strictly in middle 72 percent of its cell, wide transparent gutters, no grid lines, no text. Rows left to right: 1 hospital building with medical cross, post office building with envelope symbol, fire station building with red fire engine in garage; 2 metal whisk, handled measuring jug without text or numerals, oven mitt; 3 watercolor palette with brush, lidded paint pot with brush, ball of yarn with two knitting needles. Bold charcoal outlines, opaque flat fills, no scenery or cast shadows. Teen naturalistic proportions and material colors, crisp solid facets.",
+    "source": "Original generated AAC artwork"
   }
 ]
