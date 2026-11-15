@@ -24270,5 +24270,180 @@
       "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
     },
     "image_sha256": "01db76a11eccbb33f961e208f87516ef6543739f473499b1a499cab127528aca"
+  },
+  {
+    "id": "12-18-daily-routines-charge-a-phone-urban-anime-v1",
+    "title": "Charge a phone",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "charge a phone",
+      "charger",
+      "low battery",
+      "plug in",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/charge-a-phone.svg"
+    ],
+    "alt_text": "A teen is plugging a charging cable into a phone showing a battery icon.",
+    "generation_prompt": "Use the original urban anime teen character sheet and show the teen plugging a charging cable into a phone showing a battery icon. Use dark ink, cel shadows, cyan accents and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-daily-routines-feed-the-dog-urban-anime-v1",
+    "title": "Feed the dog",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "feed the dog",
+      "pet care",
+      "dog food",
+      "kibble",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/feed-the-dog.svg"
+    ],
+    "alt_text": "A teen is pouring kibble from a scoop into a bowl while a friendly dog waits.",
+    "generation_prompt": "Use the original urban anime teen character sheet and show the teen pouring kibble from a scoop into a bowl while a friendly dog waits. Use dark ink, cel shadows, cyan accents and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-daily-routines-pack-a-backpack-urban-anime-v1",
+    "title": "Pack a backpack",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "pack a backpack",
+      "pack a bag",
+      "school bag",
+      "school supplies",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/pack-a-backpack.svg"
+    ],
+    "alt_text": "A teen is sliding a notebook into an open backpack at home.",
+    "generation_prompt": "Use the original urban anime teen character sheet and show the teen sliding a notebook into an open backpack at home. Use dark ink, cel shadows, cyan accents and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-learning-and-tasks-return-a-library-book-urban-anime-v1",
+    "title": "Return a library book",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "return a library book",
+      "library",
+      "book return",
+      "return books",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/urban-anime/return-a-library-book.svg"
+    ],
+    "alt_text": "A teen is sliding a hardcover book into a library return slot marked with a book icon.",
+    "generation_prompt": "Use the original urban anime teen character sheet and show the teen sliding a hardcover book into a library return slot marked with a book icon. Use dark ink, cel shadows, cyan accents and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-communication-ask-for-help-urban-anime-v1",
+    "title": "Ask for help",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "ask for help",
+      "help",
+      "raise hand",
+      "teacher",
+      "self advocacy",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/communication/urban-anime/ask-for-help.svg"
+    ],
+    "alt_text": "A teen is raising one hand beside a worksheet with a puzzled expression while a teacher turns toward them.",
+    "generation_prompt": "Use the original urban anime teen character sheet and show the teen raising one hand beside a worksheet with a puzzled expression while a teacher turns toward them. Use dark ink, cel shadows, cyan accents and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-learning-and-tasks-organize-a-binder-urban-anime-v1",
+    "title": "Organize a binder",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "organize a binder",
+      "binder",
+      "worksheet",
+      "school organization",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/urban-anime/organize-a-binder.svg"
+    ],
+    "alt_text": "A teen is placing a punched worksheet onto three rings visibly attached to one metal binder spine.",
+    "generation_prompt": "Use the original urban anime teen character sheet and show the teen placing a punched worksheet onto three rings visibly attached to one metal binder spine. Use dark ink, cel shadows, cyan accents and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
   }
 ]
