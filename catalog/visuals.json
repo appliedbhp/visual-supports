@@ -34278,5 +34278,179 @@
       "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
     },
     "image_sha256": "3267b62e3e921501489faba10bd0db2a2a1c668f6b1ede2043b9bde74ae0e305"
+  },
+  {
+    "id": "0-5-daily-routines-put-on-sunglasses-male",
+    "title": "Put on sunglasses — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "put on sunglasses",
+      "eyewear",
+      "sunny day"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/daily-routines/put-on-sunglasses-male.png"
+    ],
+    "alt_text": "a 5-year-old boy lifting orange-framed sunglasses onto his face",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a 5-year-old boy lifting orange-framed sunglasses onto his face. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: put on sunglasses, eyewear, sunny day.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "acf1a430870c0fdec5cd13cf22c4bf5d481daa43c1bd9ac407083abdeb40482d",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "0-5-recreation-roll-play-dough-female",
+    "title": "Roll play dough — age 5",
+    "age_strand": "0-5",
+    "min_age": 0,
+    "max_age": 5,
+    "category": "daily-routines",
+    "keywords": [
+      "roll play dough",
+      "rolling pin",
+      "sensory play"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/0-5/recreation/roll-play-dough-female.png"
+    ],
+    "alt_text": "a 5-year-old girl rolling orange play dough flat with a rolling pin",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a 5-year-old girl rolling orange play dough flat with a rolling pin. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: roll play dough, rolling pin, sensory play.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 5,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "a9139f1c7d3fb5d4558c33cb08f83cb9d3646fb62fb020ca90027347aa273f3f",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-learning-and-tasks-hole-punch-paper-male",
+    "title": "Hole punch paper — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "hole punch paper",
+      "hole puncher",
+      "school supplies"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/hole-punch-paper-male.png"
+    ],
+    "alt_text": "a 10-year-old boy pressing a clearly visible orange desktop hole punch with white paper inserted",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a 10-year-old boy pressing a clearly visible orange desktop hole punch with white paper inserted. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: hole punch paper, hole puncher, school supplies.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "daca067dc34dadede7f82fcba05e9e685bdacfd00f0df0becc9ce4d96bf5123f",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "6-11-learning-and-tasks-tape-paper-together-female",
+    "title": "Tape paper together — age 10",
+    "age_strand": "6-11",
+    "min_age": 6,
+    "max_age": 11,
+    "category": "daily-routines",
+    "keywords": [
+      "tape paper together",
+      "sticky tape",
+      "repair paper"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/6-11/learning-and-tasks/tape-paper-together-female.png"
+    ],
+    "alt_text": "a 10-year-old girl bridging two sheets of paper with a small strip of tape, with an orange tape dispenser nearby",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a 10-year-old girl bridging two sheets of paper with a small strip of tape, with an orange tape dispenser nearby. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: tape paper together, sticky tape, repair paper.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 10,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "342f8de5cb16563c8eed8b0023b691780b4490d73fa45ff97379350f810b1275",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-replace-a-trash-bag-male",
+    "title": "Replace a trash bag — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "replace a trash bag",
+      "line a bin",
+      "trash liner"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/replace-a-trash-bag-male.png"
+    ],
+    "alt_text": "a teenage boy pulling the rim of a fresh gray trash liner over the lip of an open orange bin",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a teenage boy pulling the rim of a fresh gray trash liner over the lip of an open orange bin. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: replace a trash bag, line a bin, trash liner.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "male",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "f962409b64e37022f8d135f7ddf54673dca5d3b134029cd5ad2cf7ddc7e0e308",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
+  },
+  {
+    "id": "12-18-daily-routines-sort-the-mail-female",
+    "title": "Sort the mail — teen",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "sort the mail",
+      "organize letters",
+      "envelopes"
+    ],
+    "status": "draft",
+    "style": "AAC-style flat cartoon with bold contours",
+    "assets": [
+      "visuals/12-18/daily-routines/sort-the-mail-female.png"
+    ],
+    "alt_text": "a teenage girl placing one envelope onto one of two distinct stacks of envelopes on a table",
+    "generation_prompt": "Square text-free transparent AAC pictogram of a teenage girl placing one envelope onto one of two distinct stacks of envelopes on a table. Match the relevant character on the ABHP reference card. Bold rounded #202020 contours, #1769AA shirt, #F28C28 accent, opaque white skin and neutral grays. Clear hand-object contact, minimal props, even margins. Solid opaque fills, no gradients or shadows. Search metadata only, never render as text: sort the mail, organize letters, envelopes.",
+    "source": "Original artwork generated with OpenAI ImageGen using the ABHP AAC Character Reference Card. ARASAAC consulted for vocabulary planning.",
+    "usage_rights": "Visual supports by Ryan Baker-Barrett of Applied Behavioral Health Practice. https://getadhd.care · https://appliedbehavioral.health · https://github.com/appliedbhp/visual-supports. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Third-party reference credit retained: Adventurer by Lisa Wischofsky, via DiceBear, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Character proportions, hair, colors and action adapted using AI.",
+    "gender_variant": "female",
+    "depicted_age": 15,
+    "visual_mode": "character",
+    "face_variant": "expressive",
+    "image_sha256": "010357ee4d9f41d5d73f3638cff8d67b49f523ea1f5e1e4953783e91539c1d23",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft. Verified square PNG and transparent background. Some tonal variation remains in the fills."
   }
 ]
