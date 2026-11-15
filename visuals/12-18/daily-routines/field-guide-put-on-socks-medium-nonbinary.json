@@ -1,0 +1,46 @@
+{
+  "id": "teen-field-guide-put-on-socks-medium-nonbinary",
+  "title": "Put on socks",
+  "age_strand": "12-18",
+  "min_age": 12,
+  "max_age": 18,
+  "category": "daily-routines",
+  "keywords": [
+    "put on socks",
+    "socks",
+    "putting on socks",
+    "get dressed",
+    "footwear",
+    "teen routine",
+    "field guide",
+    "nonbinary",
+    "medium skin tone"
+  ],
+  "description": "A teen in a slate sweatshirt sits and pulls a striped sock onto one foot.",
+  "status": "ready",
+  "style": "illustration",
+  "assets": [
+    "visuals/12-18/daily-routines/field-guide-put-on-socks-medium-nonbinary.png"
+  ],
+  "alt_text": "A teen in a slate sweatshirt sits and pulls a striped sock onto one foot.",
+  "generation_prompt": "Draw the middle-right character from the Field Guide stylesheet. A teen in a slate sweatshirt sits and pulls a striped sock onto one foot. Keep the character's hair, outfit, skin tone, textured ink and earthy palette. Use a transparent background and essential props.",
+  "source": "OpenAI ImageGen using a written description of the ABHP Field Guide characters",
+  "usage_rights": "Original ABHP artwork, adapted from the character stylesheet. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Attribute Ryan Baker-Barrett of Applied Behavioral Health Practice. Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health.",
+  "gender_variant": "nonbinary",
+  "skin_tone": "medium",
+  "visual_mode": "character",
+  "face_variant": "default",
+  "reference_style": "2000s",
+  "grid_position": "middle-right",
+  "background_mode": "transparent",
+  "setting": "",
+  "character_reference": {
+    "id": "abhp-2000s-b307eb6242e7",
+    "style": "2000s",
+    "asset": "catalog/references/field-guide-character-stylesheet.png",
+    "source": "https://raw.githubusercontent.com/appliedbhp/visual-supports/b307eb6242e7b0040cfea6a49f73fe7f40c5492a/catalog/references/field-guide-character-stylesheet.png",
+    "repository_commit": "b307eb6242e7b0040cfea6a49f73fe7f40c5492a",
+    "attribution": "Character stylesheet by Ryan Baker-Barrett of Applied Behavioral Health Practice · CC BY-SA 4.0 · https://getadhd.care · https://appliedbehavioral.health."
+  },
+  "image_sha256": "5eda197c73f71f5abe77e0e55547d6538c2d187575bdcf150e45305c3a56426a"
+}
