@@ -26980,5 +26980,179 @@
     "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
     "created_at": "2026-11-15",
     "review_notes": "Draft. Reviewed in the rendered contact sheet."
+  },
+  {
+    "id": "12-18-daily-routines-set-the-table-urban-anime-v1",
+    "title": "Set the table",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "set the table",
+      "table setting",
+      "mealtime",
+      "plates",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/set-the-table.svg"
+    ],
+    "alt_text": "A teen is placing a plate beside a fork and drinking glass.",
+    "generation_prompt": "Use the original urban anime character sheet and show the teen placing a plate beside a fork and drinking glass. Use dark ink, cel shadows, cyan accents, and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-daily-routines-wipe-up-a-spill-urban-anime-v1",
+    "title": "Wipe up a spill",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "wipe up a spill",
+      "spill",
+      "clean up",
+      "paper towel",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/wipe-up-a-spill.svg"
+    ],
+    "alt_text": "A teen is pressing a paper towel into spilled water beside a tipped drinking glass.",
+    "generation_prompt": "Use the original urban anime character sheet and show the teen pressing a paper towel into spilled water beside a tipped drinking glass. Use dark ink, cel shadows, cyan accents, and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-daily-routines-sort-laundry-urban-anime-v1",
+    "title": "Sort laundry",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "daily-routines",
+    "keywords": [
+      "sort laundry",
+      "laundry",
+      "sort clothes",
+      "hamper",
+      "anime",
+      "urban anime",
+      "teen",
+      "home"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/daily-routines/urban-anime/sort-laundry.svg"
+    ],
+    "alt_text": "A teen is placing a colored shirt into one of two laundry baskets with light and dark clothes.",
+    "generation_prompt": "Use the original urban anime character sheet and show the teen placing a colored shirt into one of two laundry baskets with light and dark clothes. Use dark ink, cel shadows, cyan accents, and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-communication-ask-for-a-break-urban-anime-v1",
+    "title": "Ask for a break",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "communication",
+    "keywords": [
+      "ask for a break",
+      "request a break",
+      "pause",
+      "self advocacy",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/communication/urban-anime/ask-for-a-break.svg"
+    ],
+    "alt_text": "A teen is holding up a small card with a pause icon toward a teacher beside an open workbook.",
+    "generation_prompt": "Use the original urban anime character sheet and show the teen holding up a small card with a pause icon toward a teacher beside an open workbook. Use dark ink, cel shadows, cyan accents, and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-schedules-and-transitions-check-a-school-schedule-urban-anime-v1",
+    "title": "Check a school schedule",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "schedules-and-transitions",
+    "keywords": [
+      "check a school schedule",
+      "class schedule",
+      "classroom",
+      "transition",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/schedules-and-transitions/urban-anime/check-a-school-schedule.svg"
+    ],
+    "alt_text": "A teen is comparing a handheld schedule with a classroom door marked by a matching blue triangle.",
+    "generation_prompt": "Use the original urban anime character sheet and show the teen comparing a handheld schedule with a classroom door marked by a matching blue triangle. Use dark ink, cel shadows, cyan accents, and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
+  },
+  {
+    "id": "12-18-learning-and-tasks-pack-up-after-class-urban-anime-v1",
+    "title": "Pack up after class",
+    "age_strand": "12-18",
+    "min_age": 12,
+    "max_age": 18,
+    "category": "learning-and-tasks",
+    "keywords": [
+      "pack up after class",
+      "pack up",
+      "end of class",
+      "school supplies",
+      "anime",
+      "urban anime",
+      "teen",
+      "school"
+    ],
+    "status": "draft",
+    "style": "Urban anime with cel shading",
+    "assets": [
+      "visuals/12-18/learning-and-tasks/urban-anime/pack-up-after-class.svg"
+    ],
+    "alt_text": "A teen is closing a pencil case and gathering notebooks at a classroom desk, backpack nearby.",
+    "generation_prompt": "Use the original urban anime character sheet and show the teen closing a pencil case and gathering notebooks at a classroom desk, backpack nearby. Use dark ink, cel shadows, cyan accents, and transparent surroundings.",
+    "source": "Generated with OpenAI image_gen using the original urban anime character sheet, then traced into editable vector paths.",
+    "usage_rights": "Ryan Baker-Barrett of Applied Behavioral Health Practice — https://getadhd.care · https://appliedbehavioral.health — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "created_at": "2026-11-15",
+    "review_notes": "Draft."
   }
 ]
